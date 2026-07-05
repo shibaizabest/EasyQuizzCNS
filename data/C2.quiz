@@ -1,0 +1,1399 @@
+# Quiz: Chương 2 - Khai thác dữ liệu và thông tin
+
+Q: Điểm khác biệt đúng nhất giữa dữ liệu, thông tin và tri thức là gì?
+A. Dữ liệu là sự kiện thô; thông tin là dữ liệu có ngữ cảnh; tri thức là hiểu biết có thể dùng để nhận định và hành động
+B. Dữ liệu đã được phân tích sâu hơn tri thức
+C. Thông tin không cần ngữ cảnh, còn dữ liệu luôn có ý nghĩa
+D. Tri thức chỉ là một tập hợp số liệu chưa xử lý
+ANSWER: A
+EXPLAIN: Dữ liệu là đầu vào thô, thông tin hình thành sau xử lý và đặt vào ngữ cảnh, còn tri thức đến từ việc phân tích, tổng hợp và áp dụng thông tin.
+
+---
+
+Q: Chuỗi chuyển hóa nào đúng theo mô hình DIKW?
+A. Wisdom → Knowledge → Information → Data
+B. Data → Information → Knowledge → Wisdom
+C. Information → Data → Wisdom → Knowledge
+D. Knowledge → Data → Information → Wisdom
+ANSWER: B
+EXPLAIN: Dữ liệu được xử lý thành thông tin, thông tin được tiếp thu thành tri thức, rồi tri thức được áp dụng sâu sắc và có đạo đức để đạt sự thông thái.
+
+---
+
+Q: Câu hỏi “Tại sao kết quả học tập giảm và nên thay đổi phương pháp nào?” chủ yếu cần cấp độ nào trong DIKW?
+A. Dữ liệu
+B. Thông tin
+C. Tri thức
+D. Ký hiệu thô
+ANSWER: C
+EXPLAIN: Tri thức giúp giải thích tại sao, dự đoán và quyết định nên làm gì; dữ liệu và thông tin chủ yếu ghi nhận hoặc mô tả sự việc.
+
+---
+
+Q: Ví dụ nào là thông tin thay vì dữ liệu thô hoặc tri thức?
+A. Danh sách rời rạc `8, 7, 9, 5`
+B. Nhận định cần đổi phương pháp học để cải thiện kết quả
+C. Ký hiệu `7.5` không có ngữ cảnh
+D. Điểm bốn môn của sinh viên A là 8, 7, 9, 5 và điểm trung bình là 7,25
+ANSWER: D
+EXPLAIN: Các con số đã được gắn với sinh viên, môn học và xử lý thành điểm trung bình nên trở thành thông tin có ý nghĩa.
+
+---
+
+Q: Đặc điểm nào xác định dữ liệu có cấu trúc?
+A. Được tổ chức rõ ràng theo hàng, cột như bảng tính hoặc cơ sở dữ liệu quan hệ
+B. Không có bất kỳ quy tắc tổ chức nào
+C. Chỉ gồm hình ảnh và video
+D. Luôn dùng thẻ XML nhưng không có bảng
+ANSWER: A
+EXPLAIN: Structured data có lược đồ rõ ràng và thường được sắp xếp theo trường, hàng, cột để dễ truy vấn và xử lý.
+
+---
+
+Q: XML và JSON thường được xếp vào loại dữ liệu nào?
+A. Phi cấu trúc hoàn toàn
+B. Bán cấu trúc vì có thẻ hoặc quy tắc tổ chức nhưng cấu trúc không cố định như bảng quan hệ
+C. Chỉ là dữ liệu số
+D. Dữ liệu có cấu trúc bắt buộc theo hàng và cột
+ANSWER: B
+EXPLAIN: XML và JSON có thành phần đánh dấu và quan hệ nội tại nhưng lược đồ linh hoạt, nên thuộc nhóm bán cấu trúc.
+
+---
+
+Q: Nhóm nào chỉ gồm dữ liệu phi cấu trúc theo tài liệu?
+A. Bảng Excel và cơ sở dữ liệu quan hệ
+B. XML và JSON
+C. Email, ảnh, video và âm thanh
+D. Bảng có hàng, cột và khóa chính
+ANSWER: C
+EXPLAIN: Nội dung như văn bản tự do, email, hình ảnh, video và audio không có lược đồ bảng cố định nên thường là dữ liệu phi cấu trúc.
+
+---
+
+Q: Định dạng nào phù hợp nhất khi cần văn bản thuần túy, không định dạng và mở được trên hầu hết thiết bị?
+A. `.pptx`
+B. `.wav`
+C. `.xlsx`
+D. `.txt`
+ANSWER: D
+EXPLAIN: TXT lưu văn bản thuần, không chứa định dạng phong phú nên nhẹ và tương thích rộng.
+
+---
+
+Q: Khi cần chia sẻ tài liệu giữ nguyên bố cục trên nhiều thiết bị và chủ yếu để đọc/in, nên chọn định dạng nào?
+A. `.pdf`
+B. `.csv`
+C. `.gif`
+D. `.mp3`
+ANSWER: A
+EXPLAIN: PDF giữ bố cục ổn định trên các thiết bị và phù hợp chia sẻ, in ấn, dù khó chỉnh sửa trực tiếp hơn tài liệu Word.
+
+---
+
+Q: Điểm khác biệt chính giữa `.docx` và `.pdf` trong chương là gì?
+A. PDF phù hợp chỉnh sửa hơn Word trong mọi trường hợp
+B. DOCX thuận tiện soạn thảo định dạng phong phú; PDF ưu tiên giữ nguyên trình bày khi chia sẻ
+C. DOCX chỉ chứa số, còn PDF chỉ chứa âm thanh
+D. Hai định dạng chỉ dùng để nén tệp
+ANSWER: B
+EXPLAIN: DOC/DOCX là định dạng soạn thảo của Word, còn PDF nhấn mạnh tính nhất quán khi hiển thị và in.
+
+---
+
+Q: Một nhà phân tích cần trao đổi dữ liệu dạng bảng giữa nhiều phần mềm. Định dạng nào thường thuận tiện nhất?
+A. `.mov`
+B. `.pptx`
+C. `.csv`
+D. `.rar`
+ANSWER: C
+EXPLAIN: CSV lưu các giá trị phân tách bằng dấu phẩy, có cấu trúc đơn giản và được nhiều công cụ phân tích dữ liệu hỗ trợ.
+
+---
+
+Q: Định dạng nào gắn với bảng tính Microsoft Excel để tính toán và tạo biểu đồ?
+A. `.mp4`
+B. `.png`
+C. `.txt`
+D. `.xls` hoặc `.xlsx`
+ANSWER: D
+EXPLAIN: XLS/XLSX là định dạng bảng tính Excel, hỗ trợ dữ liệu, công thức, phân tích và biểu đồ.
+
+---
+
+Q: Định dạng nào được dùng phổ biến cho bài trình chiếu Microsoft PowerPoint?
+A. `.ppt` hoặc `.pptx`
+B. `.jpg` hoặc `.jpeg`
+C. `.zip` hoặc `.rar`
+D. `.mp3` hoặc `.wav`
+ANSWER: A
+EXPLAIN: PPT/PPTX là các định dạng bài trình chiếu của Microsoft PowerPoint.
+
+---
+
+Q: Khi thiết kế logo cần nền trong suốt và nén không mất dữ liệu, định dạng nào phù hợp nhất?
+A. JPEG
+B. PNG
+C. MP3
+D. MOV
+ANSWER: B
+EXPLAIN: PNG hỗ trợ nền trong suốt và nén không mất dữ liệu, nên thích hợp cho logo, biểu tượng và đồ họa giao diện.
+
+---
+
+Q: Vì sao JPEG thường được dùng cho ảnh chụp và web?
+A. Luôn hỗ trợ ảnh động và nền trong suốt tốt nhất
+B. Là định dạng âm thanh không nén
+C. Nén ảnh hiệu quả, giúp tối ưu dung lượng cho nhiếp ảnh và web
+D. Dùng để gói nhiều thư mục thành một tệp
+ANSWER: C
+EXPLAIN: JPG/JPEG cân bằng chất lượng và dung lượng nhờ nén, phù hợp ảnh chụp và truyền tải trên web.
+
+---
+
+Q: Định dạng hình ảnh nào có thể chứa ảnh động nhưng bị giới hạn bảng màu?
+A. PNG
+B. PDF
+C. CSV
+D. GIF
+ANSWER: D
+EXPLAIN: GIF hỗ trợ ảnh tĩnh hoặc ảnh động, nhưng số màu hạn chế so với nhiều định dạng ảnh hiện đại.
+
+---
+
+Q: Khi sản xuất âm nhạc chuyên nghiệp cần âm thanh không nén, chất lượng cao, nên ưu tiên định dạng nào?
+A. WAV
+B. MP3
+C. GIF
+D. TXT
+ANSWER: A
+EXPLAIN: WAV thường lưu âm thanh không nén với chất lượng cao nhưng dung lượng lớn; MP3 ưu tiên nén và tính phổ biến.
+
+---
+
+Q: Cặp mô tả nào đúng về MP3 và WAV?
+A. MP3 không nén, WAV nén mạnh
+B. MP3 nén và phổ biến để nghe nhạc; WAV chất lượng cao nhưng dung lượng lớn
+C. Cả hai là định dạng video
+D. WAV chỉ dùng để nén thư mục
+ANSWER: B
+EXPLAIN: MP3 tiết kiệm dung lượng nhờ nén, còn WAV giữ nhiều dữ liệu âm thanh hơn cho công việc chuyên nghiệp.
+
+---
+
+Q: Định dạng video nào phổ biến nhất cho web và thiết bị di động theo tài liệu?
+A. `.docx`
+B. `.wav`
+C. `.mp4`
+D. `.csv`
+ANSWER: C
+EXPLAIN: MP4 là định dạng video nén có tính tương thích cao trên web và thiết bị di động.
+
+---
+
+Q: Nhận định nào đúng về MOV?
+A. Là định dạng bảng tính mở
+B. Là định dạng văn bản thuần
+C. Là định dạng nén thư mục
+D. Là định dạng video Apple QuickTime, thường hướng tới chất lượng cao
+ANSWER: D
+EXPLAIN: MOV gắn với Apple QuickTime và thường được dùng cho video chất lượng cao.
+
+---
+
+Q: Mục đích chính của `.zip` và `.rar` là gì?
+A. Gộp và nén nhiều tệp/thư mục để giảm dung lượng và dễ gửi
+B. Lưu âm thanh chuyên nghiệp không nén
+C. Tạo bảng tính có công thức
+D. Giữ nền ảnh trong suốt
+ANSWER: A
+EXPLAIN: ZIP và RAR là định dạng lưu trữ nén, giúp đóng gói nhiều đối tượng thành một tệp duy nhất.
+
+---
+
+Q: Định nghĩa nào đúng nhất về Big Data?
+A. Mọi tệp có dung lượng lớn hơn 1 MB
+B. Tập dữ liệu có khối lượng lớn, tốc độ tạo nhanh và đa dạng đến mức công cụ truyền thống khó xử lý
+C. Chỉ là dữ liệu văn bản lưu trong Excel
+D. Một bản sao lưu đặt trên đám mây
+ANSWER: B
+EXPLAIN: Big Data không chỉ nói về kích thước mà còn về tốc độ, độ đa dạng và những thách thức vượt khả năng phương pháp xử lý truyền thống.
+
+---
+
+Q: Trong mô hình 5Vs, dữ liệu giao dịch khổng lồ tính bằng TB hoặc PB minh họa đặc tính nào?
+A. Velocity
+B. Veracity
+C. Volume
+D. Value
+ANSWER: C
+EXPLAIN: Volume mô tả khối lượng dữ liệu rất lớn, thường đo bằng terabyte, petabyte hoặc cao hơn.
+
+---
+
+Q: Dữ liệu cảm biến IoT cần được xử lý gần thời gian thực minh họa đặc tính nào của Big Data?
+A. Variety
+B. Value
+C. Veracity
+D. Velocity
+ANSWER: D
+EXPLAIN: Velocity là tốc độ dữ liệu được sinh ra, truyền đến và cần được xử lý.
+
+---
+
+Q: Dữ liệu gồm bảng quan hệ, XML, email, hình ảnh và video thể hiện đặc tính nào của Big Data?
+A. Variety
+B. Currency
+C. Authority
+D. Volume duy nhất
+ANSWER: A
+EXPLAIN: Variety nói đến sự đa dạng nguồn và định dạng, từ dữ liệu có cấu trúc đến bán cấu trúc và phi cấu trúc.
+
+---
+
+Q: Dữ liệu có nhiễu, sai lệch và không nhất quán đòi hỏi làm sạch liên quan trực tiếp đến chữ V nào?
+A. Volume
+B. Veracity
+C. Velocity
+D. Value
+ANSWER: B
+EXPLAIN: Veracity phản ánh độ tin cậy, chất lượng và tính chính xác không đồng đều của dữ liệu.
+
+---
+
+Q: Vì sao Value được xem là yếu tố quan trọng nhất của Big Data?
+A. Vì mọi dữ liệu lớn đều có chất lượng hoàn hảo
+B. Vì nó chỉ đo số byte lưu trữ
+C. Vì mục tiêu cuối cùng là khai thác insight, quy luật và xu hướng để hỗ trợ quyết định
+D. Vì nó làm dữ liệu tự động có cấu trúc
+ANSWER: C
+EXPLAIN: Dữ liệu chỉ thực sự có giá trị khi phân tích tạo ra hiểu biết hữu ích, hành động tốt hơn hoặc lợi thế cạnh tranh.
+
+---
+
+Q: Ứng dụng Big Data nào thuộc kinh doanh và marketing?
+A. Chỉ lưu hồ sơ giấy trong tủ
+B. Dùng cảm biến để tưới ruộng
+C. Quản lý căn cước dân cư
+D. Phân tích hành vi khách hàng để cá nhân hóa đề xuất và tối ưu quảng cáo
+ANSWER: D
+EXPLAIN: Doanh nghiệp như Amazon hoặc Spotify phân tích hành vi để đề xuất nội dung/sản phẩm và cải thiện chiến dịch marketing.
+
+---
+
+Q: Ứng dụng Big Data nào phù hợp nhất với y tế?
+A. Phân tích bệnh án và dữ liệu thiết bị đeo để dự báo dịch bệnh hoặc cá nhân hóa điều trị
+B. Chỉ tạo bài trình chiếu bán hàng
+C. Nén nhiều tệp thành ZIP
+D. Đổi tên thư mục theo ngày
+ANSWER: A
+EXPLAIN: Big Data trong y tế hỗ trợ nghiên cứu thuốc, dự báo, giám sát và xây dựng phác đồ dựa trên dữ liệu người bệnh.
+
+---
+
+Q: Một hệ thống phân tích dữ liệu học tập để phát hiện sớm sinh viên có nguy cơ học kém là ứng dụng Big Data trong lĩnh vực nào?
+A. Tài chính
+B. Giáo dục
+C. Nông nghiệp
+D. Giao thông
+ANSWER: B
+EXPLAIN: Phân tích dữ liệu học tập giúp cá nhân hóa lộ trình, cảnh báo sớm và cải thiện chất lượng giảng dạy.
+
+---
+
+Q: Cảm biến, máy bay không người lái và vệ tinh có thể giúp nông nghiệp dựa trên dữ liệu bằng cách nào?
+A. Chỉ tạo ảnh động GIF
+B. Quản lý trích dẫn Harvard
+C. Tối ưu tưới tiêu, bón phân, dự báo sâu bệnh và tăng năng suất
+D. Thay thế mọi quyết định của nông dân mà không cần kiểm chứng
+ANSWER: C
+EXPLAIN: Dữ liệu môi trường và ảnh quan sát hỗ trợ canh tác chính xác, dự báo và phân bổ tài nguyên hiệu quả.
+
+---
+
+Q: Ngân hàng dùng Big Data chủ yếu cho tổ hợp nhiệm vụ nào trong tài liệu?
+A. Thiết kế logo và chỉnh video
+B. Tổ chức thư mục môn học
+C. Dịch tài liệu tự động
+D. Phân tích rủi ro tín dụng, phát hiện gian lận và rửa tiền
+ANSWER: D
+EXPLAIN: Dữ liệu giao dịch quy mô lớn giúp tổ chức tài chính đánh giá rủi ro và phát hiện mẫu hành vi bất thường.
+
+---
+
+Q: Cấu trúc thư mục nào khoa học nhất cho tài liệu sinh viên?
+A. Năm học → Học kỳ → Môn học → Loại tài liệu
+B. Mọi tệp đặt chung trong một thư mục không tên
+C. Loại tệp → màu biểu tượng → kích thước màn hình
+D. Tạo một nhánh riêng cho từng ký tự trong tên tệp
+ANSWER: A
+EXPLAIN: Cấu trúc phân cấp nhất quán theo năm, học kỳ, môn và loại tài liệu giúp tìm kiếm và quản lý dễ dàng.
+
+---
+
+Q: Vì sao không nên tạo cấu trúc thư mục sâu quá 4-5 cấp?
+A. Vì hệ điều hành không cho phép thư mục con
+B. Vì cấu trúc quá sâu làm điều hướng và tìm lại tài liệu khó khăn
+C. Vì tệp PDF sẽ tự biến thành DOCX
+D. Vì dung lượng RAM tăng lên
+ANSWER: B
+EXPLAIN: Phân cấp cần đủ rõ nhưng không quá sâu; nhiều tầng làm đường dẫn phức tạp và giảm khả năng tìm nhanh.
+
+---
+
+Q: Tên tệp nào tuân thủ tốt nhất quy ước gợi ý trong chương?
+A. `baitap moi nhat.docx`
+B. `abc-final-final2.docx`
+C. `2025-07-08_VNU1001_BaiTap_Chuong2_NguyenVanA_v1.docx`
+D. `khongten.docx`
+ANSWER: C
+EXPLAIN: Tên này thể hiện ngày, mã môn, loại tài liệu, nội dung/người thực hiện và phiên bản theo một trật tự nhất quán.
+
+---
+
+Q: Lợi ích của định dạng ngày `YYYY-MM-DD` trong tên tệp là gì?
+A. Tự động mã hóa nội dung
+B. Làm tệp nhỏ hơn
+C. Cho phép mở tệp trên mọi hệ điều hành
+D. Giúp tệp sắp xếp theo thứ tự thời gian khi sắp xếp theo tên
+ANSWER: D
+EXPLAIN: Đặt năm trước tháng và ngày giúp thứ tự từ điển của tên tệp trùng với thứ tự thời gian.
+
+---
+
+Q: Vì sao nên dùng dấu gạch dưới hoặc gạch nối thay cho dấu cách trong tên tệp?
+A. Giảm nguy cơ lỗi tương thích trên một số hệ thống và giúp quy ước nhất quán
+B. Tăng độ phân giải của tài liệu
+C. Chuyển mọi tệp thành dữ liệu có cấu trúc
+D. Tạo bản sao lưu tự động
+ANSWER: A
+EXPLAIN: Dấu `_` hoặc `-` thường an toàn hơn trong đường dẫn, URL, lệnh và quy trình xử lý tự động.
+
+---
+
+Q: Công cụ ghi chú nào có cấu trúc trực quan giống sổ tay với mục và trang, đồng thời tích hợp Microsoft 365?
+A. Dropbox
+B. Microsoft OneNote
+C. Google Scholar
+D. SciSpace
+ANSWER: B
+EXPLAIN: OneNote tổ chức nội dung theo sổ, phần/mục và trang, phù hợp ghi chú học tập trong hệ sinh thái Microsoft.
+
+---
+
+Q: Nhu cầu nào phù hợp nhất với Notion?
+A. Chỉ nghe âm thanh MP3
+B. Chỉ tìm số lần trích dẫn học thuật
+C. Ghi chú, quản lý công việc, xây dựng cơ sở dữ liệu cá nhân và cộng tác trong một workspace
+D. Chỉ nén tệp
+ANSWER: C
+EXPLAIN: Notion là không gian làm việc linh hoạt, kết hợp ghi chú, cơ sở dữ liệu, quản lý tiến độ và cộng tác nhóm.
+
+---
+
+Q: Điểm mạnh nổi bật của Evernote được nêu trong chương là gì?
+A. Phân tích rủi ro tín dụng
+B. Tạo biểu đồ Excel
+C. Cung cấp cơ sở dữ liệu IEEE Xplore
+D. Web clipping, lưu/tìm mẩu thông tin và nhận dạng chữ trong hình ảnh
+ANSWER: D
+EXPLAIN: Evernote mạnh ở thu thập nội dung web và tìm kiếm, bao gồm khả năng nhận dạng văn bản trong ảnh.
+
+---
+
+Q: Zotero và Mendeley giúp giảm sai sót học thuật bằng cách nào?
+A. Thu thập metadata/PDF, tổ chức thư viện và tự động tạo trích dẫn cùng danh mục tài liệu
+B. Thay người nghiên cứu viết toàn bộ bài
+C. Chỉ lưu tệp âm thanh
+D. Kiểm soát quyền truy cập Wi-Fi
+ANSWER: A
+EXPLAIN: Các công cụ này hỗ trợ chu trình quản lý tài liệu tham khảo từ thu thập, gắn thẻ đến chèn trích dẫn theo nhiều chuẩn.
+
+---
+
+Q: Lưu trữ đám mây là gì?
+A. Lưu tệp duy nhất trong RAM
+B. Lưu dữ liệu trên máy chủ từ xa qua Internet để truy cập, đồng bộ và chia sẻ
+C. Nén tệp trên ổ cứng cục bộ
+D. In dữ liệu ra giấy để bảo quản
+ANSWER: B
+EXPLAIN: Cloud storage đặt dữ liệu trên hạ tầng từ xa, cho phép nhiều thiết bị truy cập và đồng bộ qua mạng.
+
+---
+
+Q: Dịch vụ nào cung cấp 15 GB miễn phí và tích hợp mạnh với Docs, Sheets, Slides, Meet?
+A. Dropbox
+B. OneDrive
+C. Google Drive
+D. Zotero
+ANSWER: C
+EXPLAIN: Google Drive có 15 GB miễn phí theo tài liệu và liên kết chặt với Google Workspace, đặc biệt mạnh về cộng tác thời gian thực.
+
+---
+
+Q: Mô tả nào đúng về dung lượng OneDrive trong tài liệu?
+A. Mọi tài khoản đều chỉ có 2 GB
+B. Mặc định 15 GB và không tích hợp Windows
+C. Không có gói dành cho sinh viên
+D. Thường có 5 GB miễn phí, còn tài khoản sinh viên do trường cấp có thể lên tới 1 TB
+ANSWER: D
+EXPLAIN: OneDrive bản phổ thông được nêu với 5 GB, nhưng tổ chức giáo dục có thể cấp dung lượng lớn hơn qua Microsoft 365.
+
+---
+
+Q: Đặc điểm nào đúng với Dropbox theo tài liệu?
+A. Giao diện đơn giản, đồng bộ nhanh nhưng gói miễn phí chỉ khoảng 2 GB
+B. Miễn phí 15 GB và tích hợp sâu nhất với Google Docs
+C. Tài khoản miễn phí luôn có 1 TB
+D. Chỉ dùng để quản lý trích dẫn
+ANSWER: A
+EXPLAIN: Dropbox nổi bật về sự đơn giản và tốc độ đồng bộ, nhưng dung lượng miễn phí thấp hơn Drive và OneDrive.
+
+---
+
+Q: Quyền chia sẻ nào nên cấp cho người chỉ cần đọc tài liệu và không được thay đổi nội dung?
+A. Chỉnh sửa
+B. Chỉ xem
+C. Chủ sở hữu
+D. Xóa vĩnh viễn
+ANSWER: B
+EXPLAIN: Quyền chỉ xem tuân theo nguyên tắc cấp quyền tối thiểu, tránh chỉnh sửa ngoài ý muốn.
+
+---
+
+Q: Tự động đồng bộ trên đám mây có nghĩa là gì?
+A. Tệp luôn bị xóa khỏi thiết bị cũ
+B. Mọi người trên Internet tự động có quyền chỉnh sửa
+C. Thay đổi trên một thiết bị được cập nhật sang các thiết bị khác dùng cùng dữ liệu
+D. Dữ liệu không còn cần Internet trong mọi trường hợp
+ANSWER: C
+EXPLAIN: Đồng bộ giữ các bản dữ liệu nhất quán giữa nhiều thiết bị hoặc người dùng có quyền truy cập.
+
+---
+
+Q: Quy tắc sao lưu 3-2-1 yêu cầu điều gì?
+A. Ba mật khẩu, hai tài khoản và một email
+B. Ba thư mục trên cùng một ổ cứng
+C. Hai bản sao trên một USB và một bản trong Recycle Bin
+D. Ít nhất ba bản sao, trên hai loại phương tiện, với một bản đặt ngoài địa điểm chính
+ANSWER: D
+EXPLAIN: 3-2-1 giảm rủi ro từ hỏng thiết bị và thảm họa tại một địa điểm bằng cách đa dạng hóa bản sao và nơi lưu.
+
+---
+
+Q: Tổ hợp nào áp dụng đúng quy tắc 3-2-1 cho luận văn?
+A. Bản gốc trên laptop, một bản trên ổ cứng ngoài và một bản trên Google Drive/OneDrive
+B. Ba shortcut trỏ đến cùng một tệp trên laptop
+C. Ba tên khác nhau cho cùng một tệp trong một thư mục
+D. Chỉ lưu bản nháp trong email chưa gửi
+ANSWER: A
+EXPLAIN: Dữ liệu tồn tại trên máy, thiết bị lưu trữ khác loại và đám mây/off-site nên đáp ứng cả ba thành phần của quy tắc.
+
+---
+
+Q: Vì sao nên thiết lập sao lưu tự động theo lịch hàng ngày hoặc hàng tuần?
+A. Để mọi tệp trở thành công khai
+B. Giảm phụ thuộc vào trí nhớ người dùng và bảo đảm bản sao được cập nhật định kỳ
+C. Để thay thế hoàn toàn mật khẩu
+D. Để xóa lịch sử phiên bản
+ANSWER: B
+EXPLAIN: Lịch sao lưu tự động giúp bản dự phòng không bị quá cũ và giảm nguy cơ quên thực hiện thủ công.
+
+---
+
+Q: Version History trên dịch vụ đám mây hữu ích nhất trong tình huống nào?
+A. Cần tăng dung lượng RAM
+B. Cần đổi PDF thành MP3
+C. Vô tình lưu đè hoặc chỉnh sửa sai và muốn quay lại phiên bản cũ
+D. Muốn mọi người có quyền xóa tệp
+ANSWER: C
+EXPLAIN: Lịch sử phiên bản lưu các trạng thái trước của tệp, hỗ trợ phục hồi sau khi xóa nhầm nội dung hoặc lưu đè.
+
+---
+
+Q: Mật khẩu nào đáp ứng tốt nhất khuyến nghị trong chương?
+A. `12345678`
+B. Dùng cùng một mật khẩu ngắn cho mọi tài khoản
+C. Tên và ngày sinh của người dùng
+D. Mật khẩu trên 12 ký tự, kết hợp hoa, thường, số và ký tự đặc biệt, không tái sử dụng
+ANSWER: D
+EXPLAIN: Độ dài và đa dạng ký tự tăng khả năng chống đoán, còn không tái sử dụng giúp giới hạn thiệt hại nếu một dịch vụ bị lộ.
+
+---
+
+Q: 2FA tăng bảo mật bằng cách nào?
+A. Yêu cầu thêm yếu tố xác minh thứ hai ngoài mật khẩu, chẳng hạn mã gửi đến điện thoại
+B. Lưu mật khẩu công khai trong tên tệp
+C. Tắt mọi bản cập nhật bảo mật
+D. Cho phép đăng nhập không cần xác minh
+ANSWER: A
+EXPLAIN: Kẻ xấu có mật khẩu vẫn khó đăng nhập nếu thiếu yếu tố thứ hai mà người dùng kiểm soát.
+
+---
+
+Q: Vì sao cần cập nhật hệ điều hành, trình duyệt và ứng dụng?
+A. Để vô hiệu hóa phần mềm diệt virus
+B. Để vá các lỗ hổng bảo mật đã được phát hiện
+C. Để làm mật khẩu ngắn hơn
+D. Để tự động chia sẻ mọi dữ liệu
+ANSWER: B
+EXPLAIN: Bản cập nhật thường khắc phục lỗi và điểm yếu có thể bị khai thác.
+
+---
+
+Q: Dấu hiệu nào nên khiến người dùng nghi ngờ một email phishing?
+A. Email từ giảng viên đã xác minh và không có liên kết
+B. Tài liệu được mở từ thư mục cá nhân
+C. Người gửi hoặc URL bất thường, kèm yêu cầu nhấp liên kết và nhập thông tin nhạy cảm
+D. Tệp được sao lưu theo quy tắc 3-2-1
+ANSWER: C
+EXPLAIN: Phishing thường giả mạo danh tính và dẫn người dùng tới URL đáng ngờ để lấy mật khẩu hoặc dữ liệu nhạy cảm.
+
+---
+
+Q: Hành động nào phù hợp nhất khi dùng Wi-Fi công cộng không mã hóa?
+A. Đăng nhập ngân hàng để kiểm tra độ an toàn
+B. Tắt 2FA để kết nối nhanh hơn
+C. Chia sẻ mật khẩu qua mạng
+D. Tránh giao dịch nhạy cảm như ngân hàng hoặc mua sắm
+ANSWER: D
+EXPLAIN: Mạng công cộng không bảo vệ tốt lưu lượng, làm tăng nguy cơ nghe lén hoặc giả mạo kết nối.
+
+---
+
+Q: Bước đầu tiên của một chiến lược tìm kiếm hiệu quả là gì?
+A. Xác định rõ mình cần thông tin tổng quan, chi tiết, dữ liệu, khái niệm hay hướng dẫn
+B. Gõ một từ bất kỳ rồi mở mọi kết quả
+C. Chỉ đọc tiêu đề đầu tiên
+D. Bỏ qua phạm vi và mục tiêu nghiên cứu
+ANSWER: A
+EXPLAIN: Nhu cầu rõ ràng giúp chọn từ khóa, công cụ, độ sâu và loại nguồn phù hợp.
+
+---
+
+Q: Cách lựa chọn từ khóa nào thường cho kết quả tốt hơn?
+A. Dùng câu rất dài nhưng không có từ trọng tâm
+B. Dùng từ cụ thể, thuật ngữ chuyên ngành và thử từ đồng nghĩa khi cần
+C. Chỉ tìm bằng ký tự đặc biệt
+D. Luôn dùng một từ khóa chung cho mọi chủ đề
+ANSWER: B
+EXPLAIN: Từ khóa cụ thể và các biến thể diễn đạt giúp vừa thu hẹp vừa mở rộng tìm kiếm có kiểm soát.
+
+---
+
+Q: Truy vấn nào yêu cầu tìm chính xác một cụm từ?
+A. AI -robot
+B. học bổng OR internship
+C. `"trí tuệ nhân tạo tạo sinh"`
+D. site:vnu.edu.vn
+ANSWER: C
+EXPLAIN: Dấu ngoặc kép buộc máy tìm kiếm giữ nguyên thứ tự và nội dung cụm từ.
+
+---
+
+Q: Toán tử dấu trừ trong truy vấn `AI -robot` có tác dụng gì?
+A. Tìm chính xác cả cụm
+B. Chỉ tìm trên một tên miền
+C. Tìm tệp PDF
+D. Loại các kết quả chứa từ `robot`
+ANSWER: D
+EXPLAIN: Dấu `-` đặt trước từ khóa dùng để loại trừ từ đó khỏi kết quả tìm kiếm.
+
+---
+
+Q: Toán tử OR nên được dùng khi nào?
+A. Muốn kết quả chứa một trong nhiều từ khóa thay thế và phải viết OR bằng chữ hoa
+B. Muốn loại trừ mọi từ khóa
+C. Muốn giới hạn trong một website duy nhất
+D. Muốn tìm đúng định dạng tệp
+ANSWER: A
+EXPLAIN: OR mở rộng truy vấn để chấp nhận một trong các thuật ngữ, ví dụ `học bổng OR internship`.
+
+---
+
+Q: Truy vấn `tuyển sinh site:vnu.edu.vn` làm gì?
+A. Tìm mọi tệp video trên Internet
+B. Chỉ tìm nội dung tuyển sinh trong tên miền vnu.edu.vn
+C. Loại trừ trang VNU
+D. Tìm các trang tương tự VNU
+ANSWER: B
+EXPLAIN: `site:` giới hạn kết quả trong website hoặc miền được chỉ định.
+
+---
+
+Q: Muốn tìm tài liệu PDF về biến đổi khí hậu, truy vấn nào phù hợp nhất?
+A. `related:pdf`
+B. `site:mp3`
+C. `biến đổi khí hậu filetype:pdf`
+D. `biến đổi khí hậu -pdf`
+ANSWER: C
+EXPLAIN: `filetype:pdf` giới hạn kết quả theo phần mở rộng PDF.
+
+---
+
+Q: Toán tử `related:coursera.org` dùng để làm gì?
+A. Tìm chính xác cụm coursera.org
+B. Tìm tệp được Coursera nén
+C. Chỉ tìm các trang con của Coursera
+D. Tìm các website có nội dung tương tự trang đã biết
+ANSWER: D
+EXPLAIN: `related:` giúp khám phá các trang có chủ đề hoặc chức năng tương tự một địa chỉ tham chiếu.
+
+---
+
+Q: Ký tự `*` trong cụm tìm kiếm thường đóng vai trò gì?
+A. Ký tự đại diện thay thế cho một hoặc nhiều từ chưa biết
+B. Loại trừ toàn bộ cụm từ
+C. Chỉ định tên miền chính phủ
+D. Giới hạn ngày xuất bản
+ANSWER: A
+EXPLAIN: Wildcard hữu ích khi người dùng nhớ một phần câu hoặc muốn thử nhiều biến thể của cụm.
+
+---
+
+Q: Truy vấn `thuyền ai AROUND(8) tối nay` yêu cầu điều gì?
+A. Chỉ tìm tám kết quả
+B. Hai cụm từ xuất hiện cách nhau không quá khoảng tám từ
+C. Tìm trong tám website
+D. Loại bỏ các trang có từ “tối nay”
+ANSWER: B
+EXPLAIN: AROUND(n) là toán tử khoảng cách, giới hạn số từ nằm giữa hai thuật ngữ.
+
+---
+
+Q: Bộ lọc thời gian của công cụ tìm kiếm hữu ích nhất khi nào?
+A. Nghiên cứu tác phẩm cổ điển duy nhất không cần bối cảnh mới
+B. Muốn tìm mọi kết quả bất kể ngày
+C. Cần thông tin cập nhật trong tháng hoặc năm gần đây
+D. Muốn đổi định dạng tệp
+ANSWER: C
+EXPLAIN: Lọc thời gian loại bớt nguồn cũ, đặc biệt hữu ích với công nghệ, y tế, luật và chủ đề thay đổi nhanh.
+
+---
+
+Q: Google Scholar khác máy tìm kiếm web thông thường chủ yếu ở điểm nào?
+A. Chỉ tìm hình ảnh giải trí
+B. Không có bộ lọc năm
+C. Chỉ tìm mạng xã hội
+D. Tập trung vào bài báo khoa học, luận văn, sách và báo cáo hội nghị
+ANSWER: D
+EXPLAIN: Scholar lập chỉ mục nội dung học thuật từ nhà xuất bản, trường đại học và tổ chức nghiên cứu.
+
+---
+
+Q: Chỉ số “Cited by” trên Google Scholar giúp người dùng suy luận điều gì?
+A. Mức độ một công trình đã được các tài liệu khác trích dẫn và ảnh hưởng tương đối của nó
+B. Bài báo chắc chắn đúng tuyệt đối
+C. Tác giả đã trả phí bao nhiêu
+D. Tệp có dung lượng bao nhiêu
+ANSWER: A
+EXPLAIN: Số lượt trích dẫn là một tín hiệu về ảnh hưởng, nhưng vẫn phải kết hợp đánh giá chất lượng và bối cảnh.
+
+---
+
+Q: Tính năng nào của Google Scholar giúp khám phá nghiên cứu tương tự một bài đã tìm thấy?
+A. Version History
+B. Related articles
+C. 2FA
+D. Reverse Image Search
+ANSWER: B
+EXPLAIN: Related articles dẫn đến các tài liệu có nội dung hoặc mối liên hệ học thuật gần với bài hiện tại.
+
+---
+
+Q: Nhấp biểu tượng dấu ngoặc kép trong Google Scholar thường cung cấp gì?
+A. Bản dịch tự động toàn bài
+B. Quyền chỉnh sửa bài báo
+C. Trích dẫn nhanh theo các chuẩn như APA, Harvard hoặc MLA
+D. Báo cáo đạo văn hoàn chỉnh
+ANSWER: C
+EXPLAIN: Công cụ citation của Scholar tạo mẫu trích dẫn, nhưng người dùng vẫn nên kiểm tra độ chính xác trước khi sử dụng.
+
+---
+
+Q: “My library” trong Google Scholar phục vụ mục đích nào?
+A. Xóa bài khỏi Internet
+B. Chuyển bài thành dữ liệu có cấu trúc
+C. Cấp quyền truy cập VNU-LIC
+D. Lưu các bài quan trọng để xem lại và tổ chức sau
+ANSWER: D
+EXPLAIN: My Library là không gian cá nhân giúp lưu và quản lý các kết quả học thuật cần dùng lại.
+
+---
+
+Q: Kho `repository.vnu.edu.vn` chủ yếu cung cấp loại tài nguyên nào?
+A. Luận án, luận văn và đề tài nghiên cứu nội sinh của ĐHQGHN
+B. Chỉ video giải trí
+C. Phần mềm diệt virus
+D. Dữ liệu giao dịch ngân hàng
+ANSWER: A
+EXPLAIN: Đây là thư viện số tài liệu nội sinh, lưu công trình của cán bộ và sinh viên ĐHQGHN.
+
+---
+
+Q: `bookworm.lic.vnu.edu.vn` được mô tả là nguồn nào?
+A. Công cụ kiểm chứng tin giả
+B. Kho giáo trình và sách tham khảo điện tử theo chuyên ngành
+C. Công cụ tạo ảnh động
+D. Dịch vụ sao lưu hệ điều hành
+ANSWER: B
+EXPLAIN: Bookworm thuộc hệ thống VNU-LIC và cung cấp sách điện tử phục vụ đào tạo, học tập.
+
+---
+
+Q: Sinh viên ĐHQGHN có thể khai thác ScienceDirect, SpringerLink và IEEE Xplore qua đâu?
+A. Chỉ qua mạng xã hội cá nhân
+B. Chỉ qua Google Images
+C. Cổng VNU-LIC bằng tài khoản sinh viên được cấp
+D. Qua tệp ZIP không cần đăng nhập
+ANSWER: C
+EXPLAIN: VNU-LIC cung cấp quyền truy cập các cơ sở dữ liệu ngoại văn có bản quyền cho người học đủ quyền.
+
+---
+
+Q: Công cụ AI nào nhận câu hỏi nghiên cứu, tìm bài liên quan và tóm tắt kết luận thành bảng so sánh?
+A. Google Drive
+B. OneNote
+C. QuillBot
+D. Elicit
+ANSWER: D
+EXPLAIN: Elicit hỗ trợ lược khảo tài liệu và tổng hợp các phát hiện chính theo cấu trúc, hữu ích khi xác định hướng nghiên cứu.
+
+---
+
+Q: Đặc điểm nổi bật của Semantic Scholar là gì?
+A. Tìm kiếm học thuật có AI, xác định bài có ảnh hưởng và cung cấp tóm tắt TLDR
+B. Chỉ lưu tệp trên đám mây
+C. Chỉ kiểm tra ảnh giả
+D. Tạo bảng tính Excel
+ANSWER: A
+EXPLAIN: Semantic Scholar dùng AI để hỗ trợ khám phá công trình quan trọng và cung cấp bản tóm tắt ngắn.
+
+---
+
+Q: Khi muốn tải một bài PDF lên và đặt câu hỏi trực tiếp về nội dung, công cụ nào phù hợp nhất?
+A. Dropbox
+B. SciSpace
+C. Google Calendar
+D. Snopes
+ANSWER: B
+EXPLAIN: SciSpace hỗ trợ trò chuyện với tài liệu PDF, giải thích thuật ngữ và tóm tắt những phần phức tạp.
+
+---
+
+Q: Các mô hình như ChatGPT, Gemini và Copilot có thể hỗ trợ hợp lý ở giai đoạn đầu nghiên cứu bằng cách nào?
+A. Tự động trở thành tác giả chịu trách nhiệm thay sinh viên
+B. Bảo đảm mọi câu trả lời đều chính xác
+C. Brainstorm từ khóa/góc nhìn, tóm tắt và gợi ý cách diễn giải
+D. Loại bỏ hoàn toàn nhu cầu đọc nguồn gốc
+ANSWER: C
+EXPLAIN: LLM là công cụ hỗ trợ phát triển ý tưởng và xử lý bản nháp, nhưng kết quả phải được kiểm chứng và biên tập.
+
+---
+
+Q: QuillBot được nhắc đến như công cụ mạnh về chức năng nào?
+A. Sao lưu 3-2-1
+B. Tìm kiếm ảnh ngược
+C. Quản lý tài khoản VNU-LIC
+D. Diễn giải lại văn bản (paraphrasing)
+ANSWER: D
+EXPLAIN: QuillBot hỗ trợ diễn đạt lại ý tưởng, nhưng người dùng vẫn phải giữ đúng nghĩa và trích dẫn nguồn khi ý tưởng không phải của mình.
+
+---
+
+Q: Nguyên tắc đúng nhất khi dùng nội dung do AI tạo ra cho bài học thuật là gì?
+A. Kiểm tra lại, chỉnh sửa và ghi nhận phù hợp; coi AI là trợ lý chứ không phải người làm thay
+B. Sao chép nguyên văn vì AI không thể sai
+C. Không cần đọc nguồn mà AI đề cập
+D. Xem mọi nội dung AI là dữ liệu đã bình duyệt
+ANSWER: A
+EXPLAIN: AI có thể tạo thông tin sai hoặc thiếu nguồn, nên trách nhiệm kiểm chứng và liêm chính vẫn thuộc về người sử dụng.
+
+---
+
+Q: CRAAP là viết tắt của bộ tiêu chí nào?
+A. Content, Research, Access, Author, Privacy
+B. Currency, Relevance, Authority, Accuracy, Purpose
+C. Citation, Review, AI, Article, PDF
+D. Cloud, Recovery, Authentication, Antivirus, Phishing
+ANSWER: B
+EXPLAIN: CRAAP đánh giá tính cập nhật, liên quan, thẩm quyền nguồn, chính xác và mục đích của thông tin.
+
+---
+
+Q: Tiêu chí Currency yêu cầu người đọc kiểm tra điều gì?
+A. Tác giả có bán sản phẩm không
+B. Nguồn có đúng đối tượng độc giả không
+C. Thời điểm xuất bản/cập nhật và việc các liên kết còn hoạt động
+D. Tệp có nén hay không
+ANSWER: C
+EXPLAIN: Currency xem thông tin mới đến đâu và còn phù hợp với tốc độ thay đổi của lĩnh vực hay không.
+
+---
+
+Q: Khi đánh giá phương pháp điều trị hiện hành, vì sao bài y khoa năm 2024 thường phù hợp hơn bài năm 2020?
+A. Mọi bài mới đều chính xác tuyệt đối
+B. Bài cũ luôn là tin giả
+C. Tác giả mới luôn uy tín hơn
+D. Y học thay đổi nhanh nên nghiên cứu mới có khả năng phản ánh bằng chứng và hướng dẫn cập nhật hơn
+ANSWER: D
+EXPLAIN: Với lĩnh vực biến đổi nhanh, thời gian ảnh hưởng mạnh đến tính hữu dụng, dù nguồn mới vẫn phải qua các tiêu chí khác.
+
+---
+
+Q: Vì sao tài liệu sử học gốc rất cũ vẫn có thể có giá trị khi nghiên cứu Bạch Đằng năm 938?
+A. Currency phụ thuộc lĩnh vực; nguồn gốc lịch sử có thể vẫn là bằng chứng quan trọng dù không mới
+B. Mọi tài liệu cũ đều là tri thức hoàn chỉnh
+C. Lịch sử không cần kiểm tra nguồn
+D. Nguồn cổ không bao giờ có thiên kiến
+ANSWER: A
+EXPLAIN: Độ mới không phải tiêu chuẩn tuyệt đối; tài liệu gốc có giá trị đặc thù, còn các phân tích hiện đại giúp bổ sung góc nhìn mới.
+
+---
+
+Q: Tiêu chí Relevance đánh giá điều gì?
+A. Số lượng quảng cáo trên trang duy nhất
+B. Mức độ nguồn trả lời đúng câu hỏi, có độ sâu và đối tượng độc giả phù hợp
+C. Tuổi của tác giả
+D. Dung lượng tệp tải xuống
+ANSWER: B
+EXPLAIN: Một nguồn có thể chính xác nhưng không hữu ích nếu lệch chủ đề, quá cơ bản, quá chuyên sâu hoặc hướng tới độc giả khác.
+
+---
+
+Q: Với đề tài “Ảnh hưởng của AI tạo sinh đến giáo dục đại học”, nguồn nào có thể liên quan trực tiếp hơn?
+A. Bài chuyên sâu chỉ về cấu trúc thuật toán LLM nhưng không bàn giáo dục
+B. Hướng dẫn nén tệp ZIP
+C. Báo cáo UNESCO phân tích AI tạo sinh trong giáo dục
+D. Bảng giá thiết bị lưu trữ
+ANSWER: C
+EXPLAIN: Relevance ưu tiên nguồn phục vụ trực tiếp câu hỏi nghiên cứu, dù nguồn khác có thể chính xác về một chủ đề gần kề.
+
+---
+
+Q: Tiêu chí Authority tập trung vào câu hỏi nào?
+A. Bài có được xuất bản hôm nay không
+B. Bài có vừa đúng độ dài không
+C. Tệp có mở được không
+D. Ai là tác giả/tổ chức xuất bản và họ có chuyên môn, uy tín, minh bạch hay không
+ANSWER: D
+EXPLAIN: Authority xem xét năng lực của người tạo thông tin và uy tín của tổ chức bảo trợ hoặc nhà xuất bản.
+
+---
+
+Q: Quy trình peer review góp phần tăng độ tin cậy như thế nào?
+A. Chuyên gia cùng lĩnh vực thẩm định nghiên cứu trước khi xuất bản
+B. Tự động làm mọi kết luận trở thành sự thật vĩnh viễn
+C. Chỉ kiểm tra chính tả, không xem phương pháp
+D. Cho phép bỏ qua bằng chứng
+ANSWER: A
+EXPLAIN: Bình duyệt chuyên môn giúp phát hiện vấn đề về phương pháp và lập luận, dù không bảo đảm nghiên cứu hoàn toàn không có sai sót.
+
+---
+
+Q: Nhận định nào đúng khi dùng tên miền để đánh giá Authority?
+A. `.com` luôn sai và `.org` luôn đúng
+B. `.edu` thường thuộc giáo dục, `.gov` thuộc chính phủ, nhưng tên miền chỉ là một tín hiệu cần kết hợp kiểm tra khác
+C. `.vn` bảo đảm mọi nội dung đáng tin cậy
+D. Không cần xem tác giả nếu có tên miền
+ANSWER: B
+EXPLAIN: Loại tên miền gợi ý bản chất tổ chức nhưng không thay thế việc kiểm tra chuyên môn, minh bạch, bằng chứng và mục đích.
+
+---
+
+Q: Tiêu chí Accuracy được hỗ trợ mạnh nhất bởi dấu hiệu nào?
+A. Tiêu đề gây sốc và nhiều cảm xúc
+B. Không ghi tác giả hoặc nguồn
+C. Có số liệu, trích dẫn rõ, lập luận kiểm chứng được và phù hợp với các nguồn độc lập
+D. Có nhiều quảng cáo sản phẩm
+ANSWER: C
+EXPLAIN: Tính chính xác cần bằng chứng cụ thể, khả năng kiểm chứng chéo và cách trình bày cẩn trọng.
+
+---
+
+Q: Dấu hiệu đỏ nào làm giảm đánh giá Accuracy?
+A. Có dẫn nguồn chính thức
+B. Có dữ liệu và phương pháp rõ
+C. Được nhiều nguồn độc lập xác nhận
+D. Thiếu trích dẫn, nhiều lỗi nghiêm trọng và dùng giọng cảm tính thay cho bằng chứng
+ANSWER: D
+EXPLAIN: Sự cẩu thả và thiếu nguồn làm nội dung khó kiểm chứng, đặc biệt khi khẳng định mạnh nhưng không có dữ liệu.
+
+---
+
+Q: Tiêu chí Purpose giúp phát hiện điều gì?
+A. Mục tiêu cung cấp kiến thức, thuyết phục, bán hàng hay giải trí và các thiên kiến có thể đi kèm
+B. Dung lượng lưu trữ của website
+C. Tốc độ Internet của tác giả
+D. Định dạng tệp nguồn
+ANSWER: A
+EXPLAIN: Hiểu động cơ sản xuất thông tin giúp nhận diện bias, nội dung tài trợ và sự khác biệt giữa fact với opinion.
+
+---
+
+Q: Một nghiên cứu thuốc do chính công ty sản xuất tài trợ nên được đọc như thế nào?
+A. Bác bỏ ngay mà không đọc
+B. Nhận diện xung đột lợi ích tiềm tàng và kiểm tra phương pháp, dữ liệu cùng nguồn độc lập
+C. Chấp nhận hoàn toàn vì có tài trợ
+D. Chỉ kiểm tra ngày xuất bản
+ANSWER: B
+EXPLAIN: Tài trợ không tự động làm nghiên cứu sai, nhưng có thể tạo thiên kiến nên cần đánh giá thận trọng theo toàn bộ CRAAP.
+
+---
+
+Q: Trong tình huống bài “90% việc làm Việt Nam sẽ bị AI thay thế”, đánh giá Currency hợp lý nhất là gì?
+A. Không cập nhật vì đăng tháng 3/2025
+B. Hoàn toàn đạt chỉ vì tiêu đề có năm
+C. Ngày đăng khá mới nhưng vẫn phải kiểm tra dữ liệu và nghiên cứu được viện dẫn có mới hay không
+D. Currency không áp dụng cho AI
+ANSWER: C
+EXPLAIN: Ngày xuất bản mới không bảo đảm dữ liệu nền cập nhật, đặc biệt với dự báo dựa trên chuỗi số liệu dài hạn.
+
+---
+
+Q: Bài viết trên liên quan trực tiếp đến đề tài nhưng chỉ nói chung về toàn cầu. Kết luận Relevance nào đúng?
+A. Hoàn toàn không liên quan
+B. Chắc chắn đủ cho mọi bài nghiên cứu Việt Nam
+C. Chỉ cần tiêu đề trùng chủ đề là đủ
+D. Có liên quan nhưng mức phù hợp giảm nếu thiếu phân tích cụ thể theo bối cảnh Việt Nam
+ANSWER: D
+EXPLAIN: Sự liên quan có mức độ; nguồn phải cung cấp chiều sâu và phạm vi địa lý phù hợp với câu hỏi.
+
+---
+
+Q: Vì sao Authority của TechFuture.vn trong tình huống bị đánh giá thấp?
+A. Tác giả chỉ ghi “chuyên gia công nghệ”, thiếu bằng cấp/công trình; blog mới và không có thông tin biên tập rõ
+B. Tên miền có `.vn`
+C. Bài được viết bằng tiếng Việt
+D. Chủ đề liên quan AI
+ANSWER: A
+EXPLAIN: Thiếu minh bạch về tác giả, tổ chức và thành tích chuyên môn làm người đọc không xác minh được thẩm quyền nguồn.
+
+---
+
+Q: Chi tiết nào làm Accuracy của khẳng định “90% việc làm” thấp?
+A. Bài có tiêu đề ngắn
+B. Không có nghiên cứu cụ thể, trái với dự báo 10-30% từ nguồn uy tín và dùng ngôn ngữ cường điệu
+C. Trang có tên tiếng Anh
+D. Bài đăng trong năm 2025
+ANSWER: B
+EXPLAIN: Khẳng định cực đoan thiếu bằng chứng và mâu thuẫn với ILO/World Bank là vấn đề trực tiếp về tính chính xác.
+
+---
+
+Q: Chi tiết nào cho thấy Purpose của bài có thiên hướng quảng cáo?
+A. Bài có ngày đăng
+B. Bài nhắc đến Việt Nam
+C. Kết bài bán khóa “AI Survival Skills”, dùng ngôn ngữ gây sợ hãi và chỉ nêu mặt tiêu cực
+D. Bài có nhiều đoạn văn
+ANSWER: C
+EXPLAIN: Kích thích lo sợ rồi chào bán giải pháp là dấu hiệu mục đích thương mại và thuyết phục lấn át cung cấp thông tin khách quan.
+
+---
+
+Q: Kết luận tổng hợp đúng nhất về bài TechFuture.vn là gì?
+A. Nên dùng làm nguồn chính vì mới và liên quan
+B. Chỉ cần sửa tiêu đề là nguồn đáng tin
+C. Không cần kiểm tra thêm vì có tên miền Việt Nam
+D. Độ tin cậy thấp: Currency và Relevance phần nào đạt nhưng Authority, Accuracy và Purpose không đạt
+ANSWER: D
+EXPLAIN: CRAAP phải được xem tổng thể; hai tiêu chí tương đối tốt không bù được thiếu uy tín, bằng chứng và động cơ thiên lệch.
+
+---
+
+Q: Hành động nào tốt hơn sau khi loại nguồn TechFuture.vn?
+A. Tìm báo cáo ILO, World Bank, WEF, cơ quan thống kê, trường đại học và đối chiếu nhiều nguồn
+B. Chọn một blog khác có tiêu đề gây sốc hơn
+C. Dùng bài cũ nhưng xóa tên tác giả
+D. Nhờ AI viết số liệu không cần nguồn
+ANSWER: A
+EXPLAIN: Nguồn chính thức, học thuật và phép kiểm chứng chéo tạo cơ sở đa chiều, đáng tin hơn cho bài nghiên cứu.
+
+---
+
+Q: Ứng dụng Big Data nào phù hợp với khu vực chính phủ?
+A. Chỉ chuyển tài liệu sang PDF
+B. Cải thiện dịch vụ công, quản lý đô thị thông minh, chống gian lận và quản lý dữ liệu dân cư
+C. Chỉ tạo danh sách phát nhạc
+D. Thay mọi cơ sở dữ liệu bằng tệp TXT
+ANSWER: B
+EXPLAIN: Chính phủ có thể khai thác dữ liệu quy mô lớn để nâng hiệu quả dịch vụ, an ninh, quản trị đô thị và quản lý dân cư như dữ liệu CCCD gắn chip.
+
+---
+
+Q: Tổ hợp nào mô tả đúng hai lợi ích của lưu trữ đám mây?
+A. Chỉ truy cập được trên một thiết bị và làm tăng nguy cơ mất dữ liệu
+B. Không cho phép chia sẻ hoặc cộng tác
+C. Truy cập từ nhiều nơi có Internet và giảm rủi ro mất dữ liệu khi thiết bị vật lý hỏng hoặc thất lạc
+D. Luôn hoạt động mà không cần tài khoản hay quyền truy cập
+ANSWER: C
+EXPLAIN: Dữ liệu đặt trên máy chủ từ xa không phụ thuộc duy nhất vào laptop/USB và có thể được truy cập từ các thiết bị được phép.
+
+---
+
+Q: Vai trò phù hợp của phần mềm diệt virus trong bảo vệ dữ liệu là gì?
+A. Thay thế hoàn toàn sao lưu và 2FA
+B. Làm mọi liên kết phishing trở nên an toàn
+C. Chỉ dùng để tăng tốc Internet
+D. Phát hiện/ngăn mã độc và cần được cập nhật thường xuyên
+ANSWER: D
+EXPLAIN: Antivirus là một lớp phòng vệ trước phần mềm độc hại, nhưng phải cập nhật và kết hợp với thói quen an toàn, sao lưu và xác thực.
+
+---
+
+Q: Ngoài lọc theo thời gian, người dùng có thể thu hẹp kết quả tìm kiếm theo cách nào?
+A. Chọn loại kết quả như Hình ảnh, Tin tức, Video hoặc Sách
+B. Tăng độ sáng màn hình
+C. Đổi mật khẩu tài khoản
+D. Nén truy vấn thành ZIP
+ANSWER: A
+EXPLAIN: Bộ lọc loại nội dung giúp tập trung vào dạng tài nguyên phù hợp với nhu cầu.
+
+---
+
+Q: Muốn ưu tiên nghiên cứu mới trên Google Scholar, nên dùng chức năng nào?
+A. Chỉ sắp xếp theo dung lượng PDF
+B. Bộ lọc năm xuất bản ở khu vực bên trái
+C. Xóa mọi từ khóa chuyên ngành
+D. Chỉ đọc kết quả có tiêu đề dài nhất
+ANSWER: B
+EXPLAIN: Lọc theo năm giúp giới hạn kết quả vào giai đoạn phù hợp, đặc biệt với chủ đề thay đổi nhanh.
+
+---
+
+Q: Tin giả được mô tả đúng nhất như thế nào?
+A. Mọi thông tin có lỗi chính tả
+B. Mọi bài viết thể hiện ý kiến
+C. Nội dung được tạo ra có chủ ý để gây hiểu lầm hoặc thao túng dư luận và thường lan nhanh trên mạng xã hội
+D. Mọi nguồn không xuất bản trên giấy
+ANSWER: C
+EXPLAIN: Yếu tố cốt lõi của fake news là ý định đánh lừa hoặc thao túng, không chỉ đơn thuần là một lỗi vô ý.
+
+---
+
+Q: Bước kiểm tra nguồn tin nào phù hợp nhất khi gặp một tin gây sốc?
+A. Chia sẻ ngay để hỏi cộng đồng
+B. Chỉ nhìn tên miền rồi kết luận
+C. Tin tài khoản có nhiều người theo dõi
+D. Xác định cơ quan chủ quản, thông tin liên hệ và đối chiếu với báo chí hoặc tổ chức uy tín
+ANSWER: D
+EXPLAIN: Nguồn minh bạch và có trách nhiệm giải trình đáng tin hơn blog, website lạ hoặc tài khoản không rõ danh tính.
+
+---
+
+Q: Vì sao không nên đánh giá một tin chỉ qua tiêu đề?
+A. Tiêu đề giật gân có thể không phản ánh nội dung hoặc bằng chứng trong toàn bài
+B. Nội dung bài luôn ngắn hơn tiêu đề
+C. Tiêu đề không bao giờ chứa thông tin
+D. Mọi tiêu đề gây chú ý đều là tin giả
+ANSWER: A
+EXPLAIN: Tin sai lệch thường dùng headline gây sốc để kích thích chia sẻ, trong khi phần nội dung có thể không hỗ trợ khẳng định đó.
+
+---
+
+Q: Cách kiểm tra tác giả nào hợp lý nhất?
+A. Chỉ xem ảnh đại diện có chuyên nghiệp không
+B. Tìm tên tác giả, chuyên môn, cơ quan công tác và các công trình hoặc hồ sơ xác thực
+C. Tin mọi người tự xưng là chuyên gia
+D. Bỏ qua tác giả nếu bài viết dài
+ANSWER: B
+EXPLAIN: Danh tính thật, chuyên môn liên quan và lịch sử công việc giúp đánh giá Authority của nguồn.
+
+---
+
+Q: Khi bài báo dẫn số liệu quan trọng, người đọc nên làm gì?
+A. Chỉ kiểm tra định dạng phông chữ
+B. Giả định số liệu đúng vì có ký hiệu phần trăm
+C. Mở nguồn dẫn, xác nhận nguồn tồn tại, đúng nội dung và đủ uy tín
+D. Xóa trích dẫn để bài dễ đọc
+ANSWER: C
+EXPLAIN: Một trích dẫn có thể bị dùng sai hoặc dẫn tới nguồn yếu; kiểm tra nguồn gốc là bước thiết yếu của fact-checking.
+
+---
+
+Q: Vì sao cần kiểm tra ngày tháng của tin tức được chia sẻ lại?
+A. Tin cũ luôn sai
+B. Ngày tháng chỉ dùng để sắp xếp tệp
+C. Mọi tin mới đều đúng
+D. Tin cũ có thể bị tách khỏi bối cảnh ban đầu và gây hiểu lầm như một sự kiện hiện tại
+ANSWER: D
+EXPLAIN: Nội dung đúng ở thời điểm cũ vẫn có thể trở thành sai lệch khi được trình bày như thông tin mới.
+
+---
+
+Q: Dấu hiệu nào cho thấy bài viết có thể đang thao túng cảm xúc?
+A. Dùng ngôn ngữ kích động sợ hãi hoặc tức giận và chỉ trình bày một phía
+B. Trình bày dữ liệu, giới hạn và quan điểm đối lập
+C. Dẫn nhiều nguồn độc lập
+D. Phân biệt rõ fact và opinion
+ANSWER: A
+EXPLAIN: Tin giả thường kích hoạt phản ứng cảm xúc mạnh để người đọc chia sẻ trước khi kiểm chứng.
+
+---
+
+Q: Tìm kiếm hình ảnh ngược giúp kiểm tra điều gì?
+A. Mật khẩu của người đăng ảnh
+B. Hình ảnh từng xuất hiện ở đâu và có bị lấy từ bối cảnh khác hay không
+C. Dung lượng RAM của máy ảnh
+D. Tác giả đã dùng phần mềm chỉnh sửa nào trong mọi trường hợp
+ANSWER: B
+EXPLAIN: Reverse image search có thể tìm phiên bản cũ hoặc nguồn gốc ảnh, qua đó phát hiện ảnh thật nhưng bị gắn sai sự kiện.
+
+---
+
+Q: Nhóm nào chỉ gồm các nguồn/công cụ kiểm chứng thông tin được nêu trong chương?
+A. Dropbox, OneDrive và Google Drive
+B. Zotero, Mendeley và EndNote
+C. Snopes, PolitiFact, Google Fact Check và Trung tâm Xử lý tin giả Việt Nam (VAFC)
+D. Elicit, SciSpace và QuillBot
+ANSWER: C
+EXPLAIN: Đây là các dịch vụ hoặc tổ chức chuyên fact-checking, trong đó VAFC là nguồn tham khảo tại Việt Nam.
+
+---
+
+Q: Theo nội dung chương, khi nào tác phẩm khoa học, văn học hoặc nghệ thuật được bảo hộ quyền tác giả?
+A. Chỉ sau khi nộp bài cho trường
+B. Chỉ khi có lợi nhuận
+C. Sau khi đăng ký bắt buộc với mọi cơ quan
+D. Ngay khi được sáng tạo và thể hiện dưới một hình thức vật chất nhất định, không cần đăng ký
+ANSWER: D
+EXPLAIN: Quyền tác giả phát sinh từ việc sáng tạo và định hình tác phẩm; đăng ký không phải điều kiện để quyền tồn tại theo mô tả trong chương.
+
+---
+
+Q: Quyền tác giả có hệ quả thực tế nào đối với người muốn dùng tác phẩm của người khác?
+A. Không được tự do sao chép, sử dụng hoặc phân phối ngoài phạm vi cho phép mà không có sự cho phép/ghi nhận phù hợp
+B. Có thể sao chép mọi tác phẩm trên Internet vì chúng công khai
+C. Chỉ văn bản mới được bảo hộ, hình ảnh thì không
+D. Quyền tác giả hết hiệu lực ngay khi tác phẩm được đăng online
+ANSWER: A
+EXPLAIN: Việc tác phẩm dễ truy cập không đồng nghĩa với quyền sử dụng không giới hạn; người dùng phải tôn trọng quyền của tác giả.
+
+---
+
+Q: Hành vi nào là đạo văn trực tiếp?
+A. Trích nguyên văn trong ngoặc kép và dẫn nguồn đầy đủ
+B. Sao chép nguyên văn nhưng không đặt trong ngoặc kép và không trích dẫn nguồn
+C. Tự trình bày kết quả nghiên cứu của mình
+D. Dẫn nguồn cho hình ảnh của tác giả khác
+ANSWER: B
+EXPLAIN: Sao chép câu chữ mà làm như của mình là hình thức đạo văn rõ ràng nhất.
+
+---
+
+Q: Vì sao diễn giải bằng từ ngữ của mình vẫn có thể là đạo văn?
+A. Vì mọi cách diễn giải đều bị cấm
+B. Vì chỉ được dùng nguyên văn
+C. Ý tưởng vẫn thuộc nguồn gốc; nếu không ghi nhận nguồn thì người viết đang nhận ý tưởng đó là của mình
+D. Vì paraphrase luôn làm sai nghĩa
+ANSWER: C
+EXPLAIN: Trích dẫn không chỉ dành cho câu chữ nguyên văn mà còn dành cho ý tưởng, lý thuyết và lập luận được diễn giải.
+
+---
+
+Q: Hành vi nào vi phạm liêm chính khi sử dụng nội dung trực quan hoặc số liệu?
+A. Dùng biểu đồ tự tạo từ dữ liệu của mình
+B. Dùng ảnh có giấy phép và ghi nguồn đúng yêu cầu
+C. Trình bày số liệu do mình trực tiếp thu thập
+D. Dùng hình ảnh, biểu đồ hoặc số liệu của người khác mà không trích dẫn
+ANSWER: D
+EXPLAIN: Sản phẩm trực quan và dữ liệu cũng là nội dung trí tuệ cần được ghi nhận như văn bản.
+
+---
+
+Q: Việc nộp bài của người khác dưới tên mình được xếp vào hành vi nào?
+A. Đạo văn và gian lận học thuật
+B. Cộng tác hợp lệ
+C. Trích dẫn Harvard
+D. Sao lưu dữ liệu
+ANSWER: A
+EXPLAIN: Người nộp nhận toàn bộ công sức và sản phẩm của người khác là của mình, vi phạm nghiêm trọng liêm chính học thuật.
+
+---
+
+Q: Trích dẫn đúng mang lại lợi ích nào ngoài tránh đạo văn?
+A. Làm người đọc không thể tìm nguồn gốc
+B. Tôn trọng tác giả, tăng độ tin cậy/thuyết phục và giúp người đọc truy lại tài liệu
+C. Cho phép bỏ qua kiểm chứng
+D. Biến mọi nguồn yếu thành nguồn uy tín
+ANSWER: B
+EXPLAIN: Citation minh bạch nguồn của ý tưởng và bằng chứng, tạo khả năng kiểm tra cũng như củng cố lập luận.
+
+---
+
+Q: Khi sử dụng nguyên văn lời của người khác, cần làm gì?
+A. Chỉ đổi phông chữ
+B. Chỉ ghi tên tác giả ở bìa
+C. Đặt phần nguyên văn trong ngoặc kép và trích dẫn nguồn
+D. Dịch sang ngôn ngữ khác để khỏi trích dẫn
+ANSWER: C
+EXPLAIN: Ngoặc kép phân biệt lời trích trực tiếp với lời người viết, còn citation xác định nguồn gốc.
+
+---
+
+Q: Khi diễn giải hoặc tóm tắt lý thuyết, số liệu của người khác, yêu cầu nào đúng?
+A. Không cần trích dẫn vì đã đổi câu chữ
+B. Chỉ cần ghi trong tài liệu tham khảo nhưng không dẫn trong bài
+C. Chỉ trích dẫn nếu đoạn dài hơn một trang
+D. Vẫn phải trích dẫn nguồn vì ý tưởng và dữ liệu không phải của mình
+ANSWER: D
+EXPLAIN: Thay đổi cách diễn đạt không làm thay đổi quyền sở hữu của ý tưởng hay nguồn dữ liệu.
+
+---
+
+Q: Khi dùng hình ảnh, biểu đồ hoặc video không do mình tạo, nên làm gì?
+A. Kiểm tra quyền sử dụng và trích dẫn/ghi nguồn phù hợp
+B. Xóa metadata rồi sử dụng tự do
+C. Chỉ cần đổi màu hình ảnh
+D. Không cần dẫn nguồn vì đó không phải văn bản
+ANSWER: A
+EXPLAIN: Nội dung đa phương tiện cũng được bảo hộ và cần attribution theo giấy phép hoặc quy định áp dụng.
+
+---
+
+Q: Chuẩn Harvard yêu cầu hai thành phần chính nào?
+A. Mục lục và phụ lục
+B. Trích dẫn trong bài và danh mục tài liệu tham khảo ở cuối văn bản
+C. Tiêu đề và số trang
+D. Tóm tắt và từ khóa
+ANSWER: B
+EXPLAIN: In-text citation liên kết phát biểu với nguồn, còn reference list cung cấp thông tin đầy đủ để tìm tài liệu.
+
+---
+
+Q: Hình thức trích dẫn trong bài theo Harvard được mô tả như thế nào?
+A. Chỉ ghi URL ở đầu văn bản
+B. Đánh số nguồn nhưng không ghi tác giả
+C. Ghi `(Họ tác giả, Năm xuất bản)` ngay sau câu trích dẫn hoặc diễn giải
+D. Chỉ ghi tên sách ở chân trang
+ANSWER: C
+EXPLAIN: Harvard sử dụng hệ tác giả-năm, ví dụ `(Hùng và cộng sự, 2022)`.
+
+---
+
+Q: Danh mục tài liệu tham khảo Harvard nên được sắp xếp theo nguyên tắc nào?
+A. Theo dung lượng tệp giảm dần
+B. Theo thứ tự nguồn xuất hiện trên Internet
+C. Ngẫu nhiên để tránh thiên vị
+D. Theo thứ tự ABC của họ tác giả và chỉ gồm các nguồn đã được trích dẫn
+ANSWER: D
+EXPLAIN: Sắp xếp alphabet giúp tìm nguồn từ citation tác giả-năm một cách nhanh chóng.
+
+---
+
+Q: Cấu trúc tham khảo sách theo Harvard nào phù hợp nhất?
+A. Họ tác giả, chữ cái đầu tên. (Năm) Tên sách. Nơi xuất bản: Nhà xuất bản
+B. Chỉ tên sách và URL
+C. Tên tác giả, số điện thoại và dung lượng PDF
+D. Năm, tên tạp chí, số phát hành và trang
+ANSWER: A
+EXPLAIN: Mục sách cần tác giả, năm, nhan đề, nơi xuất bản và nhà xuất bản; tên sách thường được in nghiêng.
+
+---
+
+Q: Tham khảo bài báo khoa học theo Harvard cần nhóm thông tin nào?
+A. Chỉ họ tác giả và năm
+B. Tác giả, năm, tên bài, tên tạp chí, tập/số phát hành và trang
+C. Chỉ URL và ngày truy cập
+D. Nơi xuất bản và nhà xuất bản như sách, không cần tên bài
+ANSWER: B
+EXPLAIN: Thông tin tạp chí, tập/số và trang giúp định vị chính xác bài báo trong ấn phẩm học thuật.
+
+---
+
+Q: Tham khảo một trang web theo Harvard cần thành phần nào?
+A. Chỉ tiêu đề trang
+B. Chỉ ngày truy cập
+C. Tác giả/tổ chức, năm cập nhật, tiêu đề, URL và ngày truy cập
+D. Số phát hành tạp chí và trang bắt buộc
+ANSWER: C
+EXPLAIN: Vì nội dung web có thể thay đổi, mục tham khảo cần địa chỉ và ngày người viết truy cập bên cạnh tác giả, năm và tiêu đề.
+
+---
+
+Q: Ngoài phân loại theo cấu trúc, dữ liệu còn được phân loại theo nội dung thành những nhóm nào trong chương?
+A. Chỉ dữ liệu trực tuyến và ngoại tuyến
+B. Chỉ dữ liệu miễn phí và trả phí
+C. Chỉ dữ liệu cá nhân và công cộng
+D. Văn bản, số, hình ảnh, âm thanh, video, địa lý và các dạng nội dung tương tự
+ANSWER: D
+EXPLAIN: Phân loại theo nội dung xem dữ liệu biểu diễn loại sự vật nào, khác với phân loại có cấu trúc, bán cấu trúc và phi cấu trúc.
+
+---
+
+Q: Nhận định nào đúng về Zotero và Mendeley theo nội dung chương?
+A. Đây là hai công cụ miễn phí, có thể tạo trích dẫn và danh mục theo nhiều chuẩn như APA, Harvard, Chicago
+B. Chỉ dùng để lưu nhạc và video
+C. Bắt buộc trả phí mới lưu được tên tác giả
+D. Không tích hợp với Word hoặc Google Docs
+ANSWER: A
+EXPLAIN: Zotero và Mendeley hỗ trợ miễn phí việc thu thập, tổ chức nguồn và tự động hóa trích dẫn theo hàng trăm chuẩn học thuật.
+
+---
+
+Q: Ghép dịch vụ đám mây với hệ sinh thái tích hợp nào đúng nhất?
+A. Google Drive - Microsoft 365; OneDrive - Google Workspace; Dropbox - VNU-LIC
+B. Google Drive - Google Workspace; OneDrive - Windows/Microsoft 365; Dropbox - đồng bộ đa nền tảng với giao diện đơn giản
+C. Google Drive - chỉ macOS; OneDrive - chỉ Android; Dropbox - chỉ Linux
+D. Cả ba chỉ dùng để lưu cục bộ, không hỗ trợ đồng bộ
+ANSWER: B
+EXPLAIN: Drive gắn chặt với Docs, Sheets, Slides và Meet; OneDrive tích hợp Windows cùng Office; Dropbox nổi bật ở trải nghiệm đồng bộ đơn giản.
+
+---
+
+Q: Ba mức quyền chia sẻ tệp hoặc thư mục đám mây được nêu trong chương là gì?
+A. Tải xuống, nén và in
+B. Công khai, bí mật và đã xóa
+C. Chỉ xem, nhận xét và chỉnh sửa
+D. Chủ sở hữu, quản trị hệ thống và khách ẩn danh
+ANSWER: C
+EXPLAIN: Chủ sở hữu có thể cấp quyền theo nhu cầu: đọc nội dung, để lại nhận xét hoặc trực tiếp thay đổi tài liệu.
+
+---
+
+Q: Ghép loại tên miền với tổ chức thường sử dụng nào đúng?
+A. `.org` - cơ quan chính phủ; `.com` - trường đại học
+B. `.org` - chỉ blog cá nhân; `.com` - tổ chức phi lợi nhuận
+C. `.org` - định dạng tệp nén; `.com` - cơ sở dữ liệu quan hệ
+D. `.org` - tổ chức, thường phi lợi nhuận; `.com` - tổ chức thương mại
+ANSWER: D
+EXPLAIN: Tên miền gợi ý loại tổ chức nhưng không tự bảo đảm độ tin cậy; vẫn phải kiểm tra tác giả, bằng chứng và mục đích.
+
+---
+
+Q: Trong tiêu chí Purpose, dấu hiệu nào cho thấy nội dung có thể phục vụ mục đích thương mại hơn là cung cấp thông tin khách quan?
+A. Nhiều quảng cáo, nhãn “nội dung được tài trợ” và lời kêu gọi mua sản phẩm
+B. Công bố phương pháp và giới hạn nghiên cứu
+C. Trình bày cân bằng nhiều quan điểm
+D. Dẫn nguồn độc lập có thể kiểm chứng
+ANSWER: A
+EXPLAIN: Quảng cáo và sponsored content có thể tạo xung đột lợi ích, nên người đọc cần xem xét thiên kiến và động cơ bán hàng.
+
+---
+
+Q: Quy tắc trình bày nào phù hợp với danh mục tài liệu Harvard được mô tả trong chương?
+A. Tên sách, tên bài báo và tên tạp chí đều viết giống văn bản thường
+B. Tên sách và tên tạp chí thường in nghiêng; tên bài báo đặt trong dấu nháy đơn
+C. Chỉ URL được in nghiêng, còn tên tác giả đặt trong ngoặc kép
+D. Mọi tiêu đề đều phải viết hoa toàn bộ
+ANSWER: B
+EXPLAIN: Ví dụ của chương dùng chữ nghiêng cho nhan đề sách hoặc tạp chí và dấu nháy đơn cho tên bài báo khoa học.
+
+---
+
+Q: Số liệu minh họa nào được nêu về ứng dụng Big Data và AI trong quản lý y tế tại Việt Nam?
+A. Tăng 25-30% chi phí quản lý
+B. Loại bỏ hoàn toàn mọi chi phí quản lý
+C. Dự kiến giảm khoảng 25-30% chi phí quản lý
+D. Chỉ giảm dưới 1% chi phí điều trị
+ANSWER: C
+EXPLAIN: Tài liệu nêu dự kiến giảm 25-30% chi phí quản lý như một ví dụ về tiềm năng ứng dụng Big Data và AI trong y tế Việt Nam.
+
+---
+
+Q: Sự kiện nào được tài liệu dùng để minh họa sự quan tâm và tiềm năng phát triển AI, Big Data tại Việt Nam?
+A. Wi-Fi World Congress 2024 tại Hà Nội
+B. Google Scholar Summit 2023 tại Đà Nẵng
+C. Harvard Citation Week 2025 tại Huế
+D. AI & Big Data Show 2025 tại TP. Hồ Chí Minh
+ANSWER: D
+EXPLAIN: Sự kiện AI & Big Data Show 2025 tại TP.HCM được nhắc như tín hiệu về tiềm năng phát triển và cơ hội nghề nghiệp trong lĩnh vực.

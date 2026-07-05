@@ -5,5 +5,12 @@
 	"description": "MÁY TÍNH VÀ CÁC THIẾT BỊ NGOẠI VI, ÔN TẬP KĨ VÀO NHÉ CÁC TÌNH YÊU.",
 	"file": "C1.quiz",
 	"count": 112
+  },
+  {
+	"id": "C2",
+	"title": "[CNS-AI] CHƯƠNG 2: KHAI THÁC DỮ LIỆU VÀ THÔNG TIN",
+	"description": "KHAI THÁC DỮ LIỆU VÀ THÔNG TIN, ÔN TẬP KĨ VÀO NHÉ CÁC TÌNH YÊU.",
+	"file": "C2.quiz",
+	"count": 140
   }
 ]
