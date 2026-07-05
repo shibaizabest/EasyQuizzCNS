@@ -26,5 +26,12 @@
 	"description": "GIAO TIẾP VÀ HỢP TÁC TRONG MÔI , ÔN TẬP KĨ VÀO NHÉ CÁC TÌNH YÊU.",
 	"file": "C4.quiz",
 	"count": 88
+  },
+    {
+	"id": "C5",
+	"title": "[CNS-AI] CHƯƠNG 5: SÁNG TẠO NỘI DUNG SỐ ",
+	"description": "SÁNG TẠO NỘI DUNG SỐ, ÔN TẬP KĨ VÀO NHÉ CÁC TÌNH YÊU.",
+	"file": "C5.quiz",
+	"count": 109
   }
 ]

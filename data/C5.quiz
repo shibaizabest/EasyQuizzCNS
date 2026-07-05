@@ -1,0 +1,982 @@
+# Quiz: Chương 5 - Sáng tạo nội dung số
+
+Q: Đặc điểm nào là điều kiện cốt lõi để một sản phẩm được xem là nội dung số?
+A. Tồn tại dưới dạng dữ liệu được mã hóa để máy tính có thể đọc
+B. Chỉ được phát hành trên mạng xã hội
+C. Phải kết hợp đồng thời văn bản, hình ảnh và âm thanh
+D. Phải do một phần mềm AI tạo ra
+ANSWER: A
+EXPLAIN: Nội dung số tồn tại dưới dạng dữ liệu số, được mã hóa để thiết bị số có thể tạo, xem, phân phối, sửa đổi và lưu trữ.
+---
+
+Q: Công cụ nào phù hợp nhất để viết luận văn cần định dạng chuẩn, trình bày chuyên nghiệp và nộp dưới dạng DOCX hoặc PDF?
+A. Google Docs
+B. Notion
+C. Grammarly
+D. Microsoft Word
+ANSWER: D
+EXPLAIN: Word mạnh về định dạng và trình bày, phù hợp với báo cáo, luận văn và văn bản chính thức cần nộp dưới dạng tệp.
+---
+
+Q: Một nhóm cần cùng sửa tài liệu theo thời gian thực, xem lịch sử thay đổi và để lại bình luận. Công cụ phù hợp nhất là gì?
+A. Microsoft Designer
+B. Google Docs
+C. Adobe Audition
+D. OpenShot
+ANSWER: B
+EXPLAIN: Google Docs nổi bật ở cộng tác trực tuyến đồng thời, lịch sử thay đổi, bình luận và tự động lưu trên Google Drive.
+---
+
+Q: Notion, Evernote và OneNote phát huy hiệu quả nhất trong tình huống nào?
+A. Dựng kỹ xảo video phức tạp
+B. Tạo ảnh từ nhiễu ngẫu nhiên
+C. Thu thập tài liệu, ghi chú, quản lý thông tin và phác thảo dàn ý
+D. Làm sạch tiếng vang trong bản ghi
+ANSWER: C
+EXPLAIN: Các ứng dụng ghi chú hoạt động như “bộ não số thứ hai”, phù hợp giai đoạn thu thập thông tin và lên ý tưởng.
+---
+
+Q: Vì sao công cụ ghi chú được xem là linh hoạt hơn Word hoặc Google Docs trong giai đoạn chuẩn bị?
+A. Chúng luôn tạo được video tự động
+B. Chỉ chúng mới lưu được văn bản
+C. Chúng kết hợp ghi chú, danh sách việc, liên kết, ảnh và video trong cùng một nơi
+D. Chúng thay thế hoàn toàn việc kiểm chứng nguồn
+ANSWER: C
+EXPLAIN: Notion, Evernote và OneNote cho phép tổ chức nhiều dạng thông tin và công việc trong một không gian linh hoạt.
+---
+
+Q: Trước khi gửi một email quan trọng cho giảng viên, nhóm công cụ nào nên được dùng để rà chính tả, ngữ pháp, dấu câu và văn phong?
+A. Gamma hoặc Tome
+B. Grammarly hoặc Microsoft Editor
+C. Pictory hoặc InVideo AI
+D. GIMP hoặc Photopea
+ANSWER: B
+EXPLAIN: Grammarly và Microsoft Editor là trợ lý ngôn ngữ giúp rà lỗi và cải thiện cách diễn đạt trước khi gửi hoặc nộp văn bản.
+---
+
+Q: Điểm khác biệt chính giữa nhóm soạn thảo cơ bản và nhóm kiểm tra ngữ pháp, văn phong là gì?
+A. Nhóm kiểm tra hỗ trợ rà soát và cải thiện bản nháp sau khi viết
+B. Nhóm kiểm tra chỉ dùng để tạo ảnh
+C. Nhóm soạn thảo không thể lưu tài liệu
+D. Nhóm soạn thảo chỉ hoạt động với âm thanh
+ANSWER: A
+EXPLAIN: Công cụ soạn thảo dùng để tạo và trình bày văn bản, còn Grammarly hoặc Editor chủ yếu rà lỗi và đề xuất cải thiện bản nháp.
+---
+
+Q: ChatGPT, Gemini và Copilot được mô tả phù hợp nhất như thế nào trong quá trình viết?
+A. Công cụ thay người học chịu trách nhiệm về bài nộp
+B. Kho ảnh miễn phí bản quyền
+C. Mô hình ngôn ngữ lớn hỗ trợ thảo luận, lên ý tưởng, lập dàn ý, viết nháp và diễn đạt lại
+D. Phần mềm chuyên dùng để chỉnh màu video
+ANSWER: C
+EXPLAIN: Các LLM là cộng sự hỗ trợ nhiều công việc ngôn ngữ, nhưng không thay thế tư duy và trách nhiệm của người học.
+---
+
+Q: Khi đang bí ý tưởng cho bài luận, yêu cầu nào khai thác LLM đúng mục đích nhất?
+A. “Hãy nộp bài này dưới tên tôi”
+B. “Hãy gợi ý 5 góc nhìn khác nhau về chủ đề này”
+C. “Hãy bảo đảm mọi thông tin không cần kiểm chứng”
+D. “Hãy xóa toàn bộ nguồn tham khảo”
+ANSWER: B
+EXPLAIN: Gợi ý nhiều góc nhìn là cách dùng LLM để brainstorm và hỗ trợ quá trình tư duy.
+---
+
+Q: Hành vi nào vi phạm lưu ý về liêm chính học thuật trong chương?
+A. Dùng AI gợi ý dàn ý rồi tự viết và kiểm chứng
+B. Nhờ AI giải thích một khái niệm khó rồi đối chiếu nguồn
+C. Sao chép nguyên văn nội dung AI tạo ra để nộp như bài của mình
+D. Dùng AI đề xuất cách diễn đạt rồi biên tập bằng giọng văn riêng
+ANSWER: C
+EXPLAIN: AI chỉ dùng để hỗ trợ; sao chép nguyên văn đầu ra để nộp là đạo văn và người học vẫn chịu trách nhiệm cuối cùng.
+---
+
+Q: Công cụ nào phù hợp với sinh viên cần thiết kế nhanh poster hoặc slide đẹp bằng giao diện kéo-thả và kho mẫu lớn?
+A. Microsoft Editor
+B. Canva
+C. Adobe Audition
+D. Freesound
+ANSWER: B
+EXPLAIN: Canva thân thiện với người mới, có giao diện kéo-thả và nhiều mẫu cho slide, poster, CV và bài đăng mạng xã hội.
+---
+
+Q: Microsoft Designer đặc biệt hữu ích khi nào?
+A. Khi cần ghi âm cá nhân không qua biên tập
+B. Khi cần nhiều phương án thiết kế nhanh từ vài dòng mô tả
+C. Khi cần viết luận văn định dạng chuẩn
+D. Khi cần chỉnh một podcast bằng transcript
+ANSWER: B
+EXPLAIN: Microsoft Designer tích hợp AI và DALL-E 3 để tạo phương án thiết kế từ mô tả, hữu ích khi bí ý tưởng hoặc cần tốc độ.
+---
+
+Q: Một nhóm thiết kế giao diện ứng dụng cần nhiều người cùng thao tác thời gian thực trên một tệp phức tạp. Công cụ phù hợp nhất là gì?
+A. Figma
+B. Remove.bg
+C. Grammarly
+D. Adobe Podcast Enhance
+ANSWER: A
+EXPLAIN: Figma chuyên cho UI/UX và hỗ trợ cộng tác thời gian thực trên cùng tệp, phù hợp dự án nhóm phức tạp.
+---
+
+Q: Sinh viên chỉ cần làm poster thông thường nhưng chưa có kỹ năng chuyên sâu. Vì sao Photoshop không phải lựa chọn ưu tiên?
+A. Photoshop khá phức tạp, tốn phí và thường vượt quá nhu cầu thông thường
+B. Photoshop không chỉnh sửa được ảnh
+C. Photoshop chỉ dùng để ghi âm
+D. Photoshop không thể cài trên máy tính
+ANSWER: A
+EXPLAIN: Photoshop rất mạnh nhưng khó học và có phí; chương chỉ khuyến nghị khi muốn đi sâu vào nhiếp ảnh hoặc thiết kế chuyên nghiệp.
+---
+
+Q: GIMP và Photopea phù hợp nhất với nhu cầu nào?
+A. Tạo podcast từ văn bản
+B. Cộng tác viết luận theo thời gian thực
+C. Theo dõi KPI sau xuất bản
+D. Chỉnh sửa ảnh nâng cao như xóa vật thể, ghép ảnh mà không muốn trả phí Photoshop
+ANSWER: D
+EXPLAIN: GIMP và Photopea là các lựa chọn miễn phí mạnh cho chỉnh sửa nâng cao khi Canva không đáp ứng.
+---
+
+Q: Phát biểu nào phân biệt đúng GIMP và Photopea?
+A. GIMP chạy trên trình duyệt, Photopea bắt buộc cài đặt
+B. GIMP là phần mềm mã nguồn mở cần cài; Photopea chạy online với giao diện gần Photoshop
+C. Cả hai chỉ dùng để xóa nền tự động
+D. Cả hai là phần mềm chỉnh sửa âm thanh
+ANSWER: B
+EXPLAIN: GIMP là phần mềm mã nguồn mở cài trên máy, còn Photopea hoạt động trong trình duyệt và có giao diện tương tự Photoshop.
+---
+
+Q: Cần xóa nền một ảnh trong vài giây mà không thực hiện quy trình chỉnh sửa phức tạp. Công cụ được nêu phù hợp nhất là gì?
+A. Photopea
+B. Pixlr
+C. Fotor
+D. Remove.bg
+ANSWER: D
+EXPLAIN: Remove.bg là công cụ online đơn giản, tập trung giải quyết nhanh tác vụ xóa nền ảnh.
+---
+
+Q: Pixlr được chương gợi ý cho nhóm tác vụ nào?
+A. Tạo dàn ý bài luận bằng LLM
+B. Chuyển giọng nói thành transcript
+C. Cắt, xoay và thêm bộ lọc màu nhanh cho ảnh
+D. Lọc tạp âm podcast chuyên sâu
+ANSWER: C
+EXPLAIN: Pixlr là công cụ online nhanh cho các chỉnh sửa cơ bản như cắt, xoay và áp dụng bộ lọc.
+---
+
+Q: Khi không tìm được ảnh minh họa đúng một ý tưởng độc đáo, lựa chọn nào phù hợp nhất?
+A. Dùng Audacity để tạo ảnh
+B. Dùng Microsoft Editor để tạo ảnh
+C. Dùng Microsoft Designer, Bing Image Creator hoặc Canva Text to Image với prompt mô tả
+D. Dùng Google Docs để khuếch tán nhiễu
+ANSWER: C
+EXPLAIN: Các công cụ Text-to-Image tạo ảnh mới theo mô tả, phù hợp khi ảnh có sẵn không đáp ứng ý tưởng.
+---
+
+Q: Midjourney và Stable Diffusion khác nhóm công cụ tạo ảnh thân thiện cho người mới ở điểm nào được nhấn mạnh?
+A. Chỉ hoạt động để chỉnh âm thanh
+B. Chất lượng nghệ thuật cao nhưng phức tạp hơn để sử dụng
+C. Không dùng prompt
+D. Chỉ tạo được văn bản
+ANSWER: B
+EXPLAIN: Hai công cụ này mạnh và có chất lượng nghệ thuật cao, nhưng phù hợp hơn khi người dùng muốn khám phá sâu và chấp nhận độ phức tạp.
+---
+
+Q: Mô tả nào đúng với nguyên lý khuếch tán trong AI tạo ảnh theo chương?
+A. Sao chép nguyên vẹn một ảnh tìm thấy trên mạng
+B. Bắt đầu từ nhiễu ngẫu nhiên rồi dần tinh chỉnh thành ảnh phù hợp prompt
+C. Chuyển video thành tệp âm thanh
+D. Chỉ ghép các từ trong prompt thành hình chữ
+ANSWER: B
+EXPLAIN: Quá trình diffusion bắt đầu từ nhiễu ngẫu nhiên và từng bước tinh chỉnh để tạo ảnh rõ nét mang đặc điểm tương ứng mô tả.
+---
+
+Q: Nền tảng học hỏi của mô hình AI tạo ảnh được mô tả như thế nào?
+A. Chỉ học từ các tệp âm thanh
+B. Không cần dữ liệu huấn luyện
+C. Chỉ dựa vào một ảnh mẫu duy nhất
+D. Học mối liên hệ giữa nhiều cặp văn bản mô tả và hình ảnh
+ANSWER: D
+EXPLAIN: Mô hình học quan hệ giữa hàng tỷ cặp văn bản và hình ảnh để hiểu prompt và tạo đặc điểm hình ảnh tương ứng.
+---
+
+Q: Khi dùng ảnh AI trong một dự án học thuật quan trọng, cách xử lý có trách nhiệm nhất là gì?
+A. Luôn khẳng định đó là ảnh chụp thật
+B. Bỏ qua mọi quy định của công cụ
+C. Ghi chú việc dùng AI nếu được yêu cầu và kiểm tra điều khoản sử dụng thương mại
+D. Xóa dấu hiệu nguồn gốc để tránh phải giải thích
+ANSWER: C
+EXPLAIN: Chương yêu cầu minh bạch khi cần và kiểm tra quy định của công cụ, đặc biệt về sử dụng hình ảnh cho mục đích thương mại.
+---
+
+Q: Ứng dụng ghi âm có sẵn trên điện thoại hoặc máy tính phù hợp nhất trong trường hợp nào?
+A. Kiểm tra đạo văn của luận văn
+B. Dựng kỹ xảo điện ảnh phức tạp
+C. Thiết kế giao diện ứng dụng
+D. Ghi nhanh ý tưởng, phỏng vấn hoặc bài giảng cho mục đích cá nhân
+ANSWER: D
+EXPLAIN: Công cụ ghi âm mặc định đủ dùng cho việc ghi nhanh và nghe lại ở nhu cầu cá nhân.
+---
+
+Q: Một sinh viên làm podcast cần cắt ghép, lọc tạp âm và thêm nhạc nền bằng công cụ miễn phí. Nên chọn gì?
+A. Ứng dụng ghi âm có sẵn
+B. Adobe Podcast Enhance
+C. Audacity
+D. Adobe Audition
+ANSWER: C
+EXPLAIN: Audacity là phần mềm chỉnh sửa âm thanh miễn phí, mạnh cho cắt ghép, lọc ồn và thêm nhạc nền.
+---
+
+Q: Khi nào Adobe Audition là lựa chọn phù hợp hơn ứng dụng ghi âm cơ bản?
+A. Khi chỉ ghi một ý tưởng ngắn cho bản thân
+B. Khi theo đuổi dự án âm thanh chuyên sâu và cần công cụ tiêu chuẩn ngành
+C. Khi cần làm poster từ mẫu
+D. Khi cần cộng tác viết văn bản
+ANSWER: B
+EXPLAIN: Adobe Audition là công cụ trả phí, tiêu chuẩn trong công nghiệp âm thanh, phù hợp dự án chuyên sâu.
+---
+
+Q: Một file phỏng vấn quan trọng bị nhiều tiếng vang và ồn nhưng không cần biên tập nội dung. Công cụ nào giải quyết trực tiếp nhất?
+A. Adobe Podcast Enhance
+B. Audacity
+C. Descript
+D. Adobe Audition
+ANSWER: A
+EXPLAIN: Adobe Podcast Enhance dùng AI để tự động làm sạch bản ghi kém chất lượng và làm giọng nói trong hơn.
+---
+
+Q: Điểm độc đáo của Descript trong chỉnh sửa audio là gì?
+A. Chuyển infographic thành website
+B. Tạo ảnh từ văn bản bằng diffusion
+C. Chỉ tăng âm lượng mà không tạo transcript
+D. Sửa transcript văn bản làm tệp âm thanh thay đổi tương ứng
+ANSWER: D
+EXPLAIN: Descript chuyển lời nói thành transcript và cho phép biên tập audio thông qua thao tác sửa văn bản.
+---
+
+Q: Descript đặc biệt tiết kiệm thời gian cho loại nội dung nào?
+A. Slide cần định dạng học thuật
+B. Ảnh cần xóa nền
+C. File nói dài như phỏng vấn và podcast
+D. Biểu đồ cần nhập dữ liệu
+ANSWER: C
+EXPLAIN: Chỉnh sửa qua transcript giúp xử lý nhanh các bản ghi lời nói dài như phỏng vấn hoặc podcast.
+---
+
+Q: Công cụ nào thân thiện, có trên điện thoại và máy tính, phù hợp video ngắn mạng xã hội và hỗ trợ phụ đề tự động?
+A. OpenShot
+B. Canva Video Editor
+C. DaVinci Resolve
+D. CapCut
+ANSWER: D
+EXPLAIN: CapCut phổ biến cho video ngắn, dễ dùng và có các tính năng AI như phụ đề tự động, xóa nền video.
+---
+
+Q: Canva Video Editor thuận tiện nhất trong tình huống nào?
+A. Muốn lập trình website từ đầu
+B. Muốn xử lý âm thanh theo transcript
+C. Đang làm slide trên Canva và muốn chèn, chỉnh một đoạn video ngắn
+D. Muốn rà ngữ pháp email
+ANSWER: C
+EXPLAIN: Trình chỉnh sửa video của Canva phù hợp khi người dùng đã làm thiết kế hoặc slide trong cùng hệ sinh thái.
+---
+
+Q: Vì sao một người có thể chọn OpenShot hoặc DaVinci Resolve thay cho CapCut?
+A. Cần nhiều quyền kiểm soát hơn đối với màu sắc, hiệu ứng, âm thanh và kỹ xảo
+B. Không muốn mất thời gian học công cụ mới
+C. Chỉ cần ghi chú bài giảng
+D. Muốn kiểm tra chính tả văn bản
+ANSWER: A
+EXPLAIN: OpenShot và DaVinci Resolve mạnh hơn cho kiểm soát hậu kỳ phức tạp, đổi lại cần thời gian học và làm quen.
+---
+
+Q: Nhóm có kịch bản nhưng không có thời gian hoặc nguồn lực tự quay video tóm tắt. Công cụ nào phù hợp nhất?
+A. Gamma hoặc Tome
+B. Pictory.ai hoặc InVideo AI
+C. Canva Video Editor
+D. CapCut
+ANSWER: B
+EXPLAIN: Pictory và InVideo AI biến văn bản thành video bằng stock phù hợp kết hợp giọng đọc AI.
+---
+
+Q: Gamma và Tome tạo ra sản phẩm nào nổi bật so với một video thuyết trình thông thường?
+A. Bài trình bày dạng web tương tác có thể nhúng video và liên kết
+B. File âm thanh đã lọc sạch tạp âm
+C. Ảnh ghép chuyên nghiệp kiểu Photoshop
+D. Văn bản được kiểm tra đạo văn
+ANSWER: A
+EXPLAIN: Gamma và Tome hỗ trợ bài trình bày web tương tác, cho phép nhúng video, liên kết và nhiều yếu tố phong phú.
+---
+
+Q: Khi thêm nhạc và hiệu ứng âm thanh vào video, lựa chọn nào giảm rủi ro pháp lý theo chương?
+A. Cắt bài hát thành đoạn ngắn là mặc nhiên hợp pháp
+B. Lấy bất kỳ bài hát thương mại nào rồi không ghi tên
+C. Dùng nguồn royalty-free như YouTube Audio Library, Pixabay Music hoặc Freesound
+D. Đổi tên tệp nhạc để che nguồn
+ANSWER: C
+EXPLAIN: Chương khuyến nghị tìm âm nhạc và hiệu ứng từ các nguồn royalty-free để tránh vấn đề bản quyền.
+---
+
+Q: Một báo cáo cần trình bày lập luận chi tiết, dễ tìm kiếm và có chi phí sản xuất thấp nên ưu tiên loại nội dung nào?
+A. Văn bản
+B. Âm thanh
+C. Video
+D. Đa phương tiện tương tác
+ANSWER: A
+EXPLAIN: Văn bản phù hợp để truyền tải thông tin chi tiết, phức tạp, dễ được tìm kiếm lập chỉ mục và tương đối dễ tạo.
+---
+
+Q: Hạn chế nổi bật của một tài liệu chỉ có văn bản dài, không có yếu tố trực quan là gì?
+A. Không thể truyền tải thông tin chi tiết
+B. Có thể kém hấp dẫn và khiến khái niệm khó hình dung
+C. Không thể lưu trữ trên thiết bị số
+D. Luôn đòi hỏi chi phí sản xuất cao
+ANSWER: B
+EXPLAIN: Văn bản dài và thiếu yếu tố trực quan dễ trở nên kém hấp dẫn, đồng thời làm người đọc khó hình dung nội dung phức tạp.
+---
+
+Q: Nhóm sinh viên muốn tóm tắt dữ liệu khảo sát sao cho người xem chú ý nhanh và dễ ghi nhớ. Lựa chọn phù hợp nhất là gì?
+A. Bản ghi âm dài
+B. Bài luận thuần văn bản
+C. Infographic
+D. Podcast phỏng vấn
+ANSWER: C
+EXPLAIN: Infographic thuộc nội dung hình ảnh, có thế mạnh truyền tải dữ liệu trực quan, thu hút nhanh và dễ ghi nhớ.
+---
+
+Q: Vì sao hình ảnh không phải lúc nào cũng phù hợp để truyền đạt một ý tưởng trừu tượng, phức tạp?
+A. Hình ảnh không thể phân phối qua Internet
+B. Hình ảnh luôn có chi phí lưu trữ rất lớn
+C. Công cụ tìm kiếm không thể xử lý bất kỳ hình ảnh nào
+D. Hình ảnh có thể khó diễn đạt đầy đủ ý tưởng trừu tượng nếu đứng một mình
+ANSWER: D
+EXPLAIN: Nội dung hình ảnh mạnh về trực quan nhưng có thể khó thể hiện trọn vẹn các ý tưởng trừu tượng, phức tạp.
+---
+
+Q: Một sinh viên muốn ôn bài khi đang đi xe buýt và không tiện nhìn màn hình. Loại nội dung nào tận dụng tốt nhất hoàn cảnh này?
+A. Website tương tác
+B. Infographic
+C. Âm thanh
+D. Văn bản dài
+ANSWER: C
+EXPLAIN: Nội dung âm thanh cho phép tiếp thu linh hoạt trong khi người dùng đang làm việc khác, chẳng hạn nghe podcast khi đi xe buýt.
+---
+
+Q: Nhược điểm nào phân biệt rõ nội dung âm thanh dài với văn bản?
+A. Không thể dùng cho phỏng vấn chuyên gia
+B. Không tạo được cảm giác gần gũi
+C. Khó tìm nhanh một thông tin cụ thể bên trong tệp
+D. Luôn đắt hơn video
+ANSWER: C
+EXPLAIN: Tìm một đoạn thông tin cụ thể trong tệp âm thanh dài thường khó hơn tra cứu trong văn bản.
+---
+
+Q: Định dạng nào phù hợp nhất để minh họa tuần tự thao tác sử dụng một phần mềm nhờ tác động đồng thời đến thị giác và thính giác?
+A. Email thuần văn bản
+B. Ảnh chụp đơn lẻ
+C. Video hướng dẫn
+D. Bản ghi âm không hình
+ANSWER: C
+EXPLAIN: Video kết hợp hình ảnh chuyển động và âm thanh, đặc biệt hiệu quả khi thể hiện quy trình hoặc thao tác.
+---
+
+Q: Thách thức lớn nhất khi chọn video thay cho văn bản hoặc hình ảnh tĩnh là gì?
+A. Quá trình sản xuất thường tốn thời gian, công sức và kỹ năng quay dựng
+B. Video không thể có âm thanh
+C. Video không thể lan truyền
+D. Video chỉ dùng được cho mục đích giải trí
+ANSWER: A
+EXPLAIN: Video hấp dẫn và đa giác quan nhưng thường đòi hỏi nhiều thời gian, công sức cùng kỹ năng quay, dựng và biên tập.
+---
+
+Q: Sản phẩm nào là nội dung đa phương tiện tương tác theo cách phân loại của chương?
+A. Một bài thuyết trình có video nhúng và câu hỏi trắc nghiệm
+B. Một tệp ghi âm bài giảng
+C. Một bài luận lưu dưới dạng DOCX
+D. Một ảnh chụp tư liệu duy nhất
+ANSWER: A
+EXPLAIN: Nội dung đa phương tiện tích hợp nhiều loại hình và yếu tố tương tác; video nhúng cùng câu hỏi trắc nghiệm là ví dụ điển hình.
+---
+
+Q: Đánh đổi chính khi xây dựng một website portfolio tích hợp văn bản, hình ảnh, video và tương tác là gì?
+A. Trải nghiệm phong phú nhưng sản xuất phức tạp, cần nhiều kỹ năng và công cụ
+B. Trải nghiệm nghèo nàn nhưng sản xuất đơn giản
+C. Dễ sản xuất nhưng không thể giữ chân người dùng
+D. Chỉ phù hợp khi không có kết nối mạng
+ANSWER: A
+EXPLAIN: Đa phương tiện tạo trải nghiệm phong phú, tương tác cao nhưng là loại phức tạp nhất để sản xuất.
+---
+
+Q: Cặp loại nội dung và công cụ đề xuất nào khớp với bảng so sánh trong chương?
+A. Văn bản - DaVinci Resolve
+B. Video - Microsoft Word
+C. Âm thanh - Audacity
+D. Đa phương tiện - Remove.bg
+ANSWER: C
+EXPLAIN: Audacity là công cụ được đề xuất cho nội dung âm thanh; các cặp còn lại ghép sai chức năng.
+---
+
+Q: Một nhóm cần làm bài giảng tương tác và muốn dùng công cụ được đề xuất cho nội dung đa phương tiện. Lựa chọn nào phù hợp?
+A. Gamma
+B. Audacity
+C. Microsoft Editor
+D. Adobe Podcast Enhance
+ANSWER: A
+EXPLAIN: Gamma, Tome và Google Sites được đề xuất cho các sản phẩm đa phương tiện như bài giảng tương tác hoặc website.
+---
+
+Q: Trình tự nào phản ánh đúng quy trình sáng tạo nội dung số 6 bước được trình bày trong chương?
+A. Lên ý tưởng và nghiên cứu - lập kế hoạch - sản xuất - biên tập - xuất bản và phân phối - đo lường và tối ưu
+B. Nghiên cứu - sản xuất - đo lường - lập kế hoạch - xuất bản - biên tập
+C. Lập kế hoạch - xuất bản - sản xuất - nghiên cứu - biên tập - đo lường
+D. Sản xuất - nghiên cứu - xuất bản - lập kế hoạch - đo lường - biên tập
+ANSWER: A
+EXPLAIN: Quy trình gồm 6 bước theo thứ tự: ý tưởng/nghiên cứu, lập kế hoạch, sản xuất, biên tập, xuất bản/phân phối, đo lường/tối ưu.
+---
+
+Q: Ở bước lên ý tưởng và nghiên cứu, hành động nào cần được thực hiện trước khi tìm góc nhìn độc đáo?
+A. Tạo phụ đề tự động cho video
+B. Chọn nhạc nền royalty-free
+C. Theo dõi lượt thích sau xuất bản
+D. Xác định mục tiêu, đối tượng cùng kiến thức nền và mối quan tâm của họ
+ANSWER: D
+EXPLAIN: Bước nền tảng yêu cầu làm rõ mục tiêu và đối tượng trước, sau đó nghiên cứu chủ đề và tìm góc nhìn riêng.
+---
+
+Q: Nhóm đã có chủ đề nhưng chưa biết nên làm bài viết, video hay infographic. Quyết định này thuộc bước nào?
+A. Biên tập và tinh chỉnh
+B. Lập kế hoạch
+C. Đo lường và tối ưu
+D. Xuất bản và phân phối
+ANSWER: B
+EXPLAIN: Lựa chọn định dạng dựa trên ý tưởng, đối tượng và đặc điểm từng loại nội dung là một phần của bước lập kế hoạch.
+---
+
+Q: Nội dung nào không thuộc bước lập kế hoạch?
+A. Xây dựng dàn ý hoặc kịch bản
+B. Theo dõi lượt xem, bình luận và chia sẻ sau khi đăng
+C. Xác định thời gian, công cụ và người tham gia
+D. Thiết lập mục tiêu SMART và CTA
+ANSWER: B
+EXPLAIN: Theo dõi các chỉ số sau đăng thuộc bước đo lường và tối ưu, không phải lập kế hoạch.
+---
+
+Q: Mục tiêu nào đáp ứng đầy đủ nhất nguyên tắc SMART theo ví dụ trong chương?
+A. Làm một video thật hay về Zotero khi có thời gian
+B. Tạo video 5 phút hướng dẫn Zotero cho sinh viên năm nhất, đạt 500 lượt xem trong 2 tuần sau đăng
+C. Tìm hiểu Zotero và có thể chia sẻ với bạn bè
+D. Tạo nội dung hữu ích cho mọi người càng sớm càng tốt
+ANSWER: B
+EXPLAIN: Mục tiêu này cụ thể, đo lường được, có tính khả thi, liên quan và có thời hạn rõ ràng.
+---
+
+Q: Trong SMART, yếu tố Measurable được thể hiện rõ nhất qua chi tiết nào?
+A. Hướng dẫn sử dụng Zotero
+B. Đạt 500 lượt xem
+C. Dành cho sinh viên năm nhất
+D. Đăng video lên mạng
+ANSWER: B
+EXPLAIN: Con số 500 lượt xem tạo ra tiêu chí định lượng để đo mức độ hoàn thành mục tiêu.
+---
+
+Q: Câu “Hãy tải về checklist tại đây” đóng vai trò gì trong kế hoạch nội dung?
+A. KPI
+B. Mục tiêu nghiên cứu
+C. Giấy phép CC
+D. CTA
+ANSWER: D
+EXPLAIN: CTA là lời kêu gọi hành động, chỉ rõ điều người xem hoặc người đọc nên làm sau khi tiếp nhận nội dung.
+---
+
+Q: Nhóm đang quay video và ghi âm đúng theo kịch bản đã duyệt. Hoạt động này thuộc bước nào?
+A. Đo lường và tối ưu
+B. Sản xuất
+C. Lên ý tưởng và nghiên cứu
+D. Xuất bản và phân phối
+ANSWER: B
+EXPLAIN: Sản xuất là giai đoạn thực thi kế hoạch bằng việc viết, thiết kế, quay phim hoặc ghi âm theo dàn ý, kịch bản.
+---
+
+Q: Sau khi có bản nháp, nhóm kiểm tra chính tả, logic, chất lượng hình ảnh và nhờ bạn góp ý. Đây là bước nào?
+A. Nghiên cứu chủ đề
+B. Xác định CTA
+C. Biên tập và tinh chỉnh
+D. Phân phối nội dung
+ANSWER: C
+EXPLAIN: Biên tập và tinh chỉnh nhằm sửa lỗi, nâng chất lượng và tiếp nhận góc nhìn khách quan trước khi xuất bản.
+---
+
+Q: Hoạt động nào đặc trưng cho bước xuất bản và phân phối?
+A. Kiểm chứng số liệu do AI đưa ra
+B. Xác định chân dung khán giả lần đầu
+C. Viết bản nháp theo dàn ý
+D. Chọn kênh đăng phù hợp và tối ưu tiêu đề, mô tả, thẻ
+ANSWER: D
+EXPLAIN: Bước xuất bản và phân phối gồm chọn kênh thích hợp và tối ưu thông tin giúp nội dung dễ được tìm thấy.
+---
+
+Q: Sau khi đăng video, nhóm dùng lượt xem, lượt thích, bình luận và chia sẻ để điều chỉnh sản phẩm sau. Các dữ liệu này là gì?
+A. CTA
+B. Giấy phép mở
+C. KPIs
+D. Dàn ý sản xuất
+ANSWER: C
+EXPLAIN: Các chỉ số hiệu quả như lượt xem, thích, bình luận và chia sẻ là KPIs phục vụ đo lường và tối ưu.
+---
+
+Q: Mối quan hệ đúng giữa quyền sở hữu trí tuệ và bản quyền là gì?
+A. Hai khái niệm hoàn toàn đồng nhất
+B. Quyền sở hữu trí tuệ chỉ bao gồm sáng chế
+C. Bản quyền bao gồm nhãn hiệu và kiểu dáng công nghiệp
+D. Bản quyền là một loại trong quyền sở hữu trí tuệ
+ANSWER: D
+EXPLAIN: Quyền sở hữu trí tuệ là khái niệm rộng, bao gồm bản quyền cùng sáng chế, nhãn hiệu và kiểu dáng công nghiệp.
+---
+
+Q: Khi nào bản quyền đối với một bài thơ phát sinh theo nội dung chương?
+A. Chỉ sau khi tác giả đăng ký với cơ quan quản lý
+B. Chỉ khi bài thơ được xuất bản thương mại
+C. Khi tác phẩm đạt đủ số lượt đọc
+D. Khi tác phẩm được định hình dưới dạng vật chất, chẳng hạn được viết và lưu vào máy
+ANSWER: D
+EXPLAIN: Bản quyền phát sinh tự động khi tác phẩm được định hình dưới một dạng vật chất nhất định, không bắt buộc đăng ký.
+---
+
+Q: Quyền được đứng tên trên tác phẩm thuộc nhóm quyền nào của tác giả?
+A. Quyền sử dụng hợp lý
+B. Quyền phân phối của nền tảng
+C. Quyền sáng chế
+D. Quyền nhân thân
+ANSWER: D
+EXPLAIN: Quyền nhân thân bao gồm quyền được đứng tên trên tác phẩm; quyền tài sản liên quan việc cho phép hoặc không cho phép sử dụng.
+---
+
+Q: Tác giả quyết định có cho người khác khai thác tác phẩm của mình hay không đang thực hiện quyền nào?
+A. Quyền nhân thân duy nhất
+B. Quyền tài sản
+C. Quyền trích dẫn tự do
+D. Quyền của người xem
+ANSWER: B
+EXPLAIN: Quyền tài sản cho phép tác giả quyết định việc người khác sử dụng tác phẩm của mình.
+---
+
+Q: Sinh viên diễn đạt lại ý tưởng của một bài báo bằng lời văn riêng nhưng không ghi nguồn. Đánh giá nào đúng?
+A. Không phải đạo văn vì đã thay đổi câu chữ
+B. Chỉ vi phạm nếu bài báo có thu phí
+C. Được phép nếu đoạn viết ngắn
+D. Vẫn là đạo văn vì ý tưởng của người khác phải được trích dẫn
+ANSWER: D
+EXPLAIN: Paraphrase không loại bỏ nghĩa vụ ghi nguồn; trình bày ý tưởng người khác như của mình vẫn vi phạm liêm chính học thuật.
+---
+
+Q: Tình huống nào phù hợp nhất với nguyên tắc sử dụng hợp lý được nêu trong chương?
+A. Trích một phần hợp lý để bình luận trong bài học thuật và ghi rõ nguồn
+B. Dùng trọn bộ phim làm nội dung quảng cáo thương mại
+C. Tải ảnh bất kỳ từ Google rồi xóa tên tác giả
+D. Sao chép toàn bộ sách để bán lại
+ANSWER: A
+EXPLAIN: Sử dụng hợp lý thường áp dụng cho mức trích dẫn hợp lý phục vụ bình luận, giảng dạy hoặc nghiên cứu và vẫn phải ghi nguồn.
+---
+
+Q: Giấy phép CC BY cho phép điều gì?
+A. Được sao chép, phân phối, sửa đổi và dùng cả thương mại nếu ghi công tác giả
+B. Chỉ được xem, không được sao chép
+C. Được dùng nhưng tuyệt đối không được sửa đổi
+D. Chỉ được dùng cho mục đích phi thương mại
+ANSWER: A
+EXPLAIN: CC BY cho phép sử dụng rộng, kể cả sửa đổi và thương mại, với điều kiện ghi công tác giả gốc.
+---
+
+Q: Một tác phẩm phái sinh bắt buộc phải dùng cùng giấy phép với tác phẩm gốc. Thành phần nào tạo ra yêu cầu này?
+A. BY
+B. NC
+C. SA
+D. ND
+ANSWER: C
+EXPLAIN: SA là Share Alike, yêu cầu tác phẩm phái sinh được chia sẻ theo cùng giấy phép.
+---
+
+Q: Một tổ chức muốn dùng tác phẩm trong chiến dịch quảng cáo có doanh thu. Giấy phép nào dưới đây trực tiếp ngăn mục đích đó?
+A. CC BY
+B. CC BY-SA
+C. CC BY-NC
+D. CC BY-ND
+ANSWER: C
+EXPLAIN: NC là NonCommercial, chỉ cho phép sử dụng vào mục đích phi thương mại.
+---
+
+Q: Người dùng muốn chỉnh màu và cắt ghép một ảnh mang giấy phép CC BY-ND. Vì sao kế hoạch này không phù hợp?
+A. ND không cho phép sửa đổi hoặc tạo tác phẩm phái sinh
+B. ND chỉ cấm mục đích thương mại
+C. CC không áp dụng cho hình ảnh
+D. BY cấm ghi công
+ANSWER: A
+EXPLAIN: ND là No Derivatives, chỉ cho phép sao chép và phân phối nguyên gốc, không cho sửa đổi hay tạo tác phẩm phái sinh.
+---
+
+Q: CC BY-NC-SA đồng thời đặt ra những điều kiện nào?
+A. Phi thương mại, không ghi công và cấm phân phối
+B. Không ghi công, thương mại tự do và không phái sinh
+C. Ghi công, thương mại tự do và không cần chia sẻ giấy phép
+D. Ghi công, phi thương mại và chia sẻ tương tự
+ANSWER: D
+EXPLAIN: BY yêu cầu ghi công, NC giới hạn phi thương mại và SA yêu cầu tác phẩm phái sinh dùng cùng giấy phép.
+---
+
+Q: Cách làm nào được chương khuyến nghị để giảm nguy cơ vi phạm bản quyền khi tìm ảnh?
+A. Ưu tiên tài nguyên giấy phép mở từ Unsplash, Pexels hoặc Pixabay
+B. Coi mọi ảnh trên Google là miễn phí
+C. Xóa thông tin tác giả trước khi sử dụng
+D. Chỉ dùng ảnh có độ phân giải thấp
+ANSWER: A
+EXPLAIN: Chương khuyến nghị ưu tiên ảnh từ các nguồn miễn phí, giấy phép mở như Unsplash, Pexels và Pixabay.
+---
+
+Q: Ở giai đoạn khởi đầu, vai trò phù hợp nhất của GenAI là gì?
+A. Tự quyết định mục tiêu cuối cùng thay người sáng tạo
+B. Là “bộ não phụ” giúp khám phá, liên kết và đào sâu chủ đề
+C. Bảo đảm mọi thông tin tạo ra đều chính xác
+D. Loại bỏ nhu cầu nghiên cứu nguồn khác
+ANSWER: B
+EXPLAIN: GenAI hỗ trợ mở rộng khả năng và tổng hợp gợi ý ở giai đoạn đầu, nhưng người dùng vẫn phải tư duy và kiểm chứng.
+---
+
+Q: Prompt nào chủ yếu phục vụ brainstorm ý tưởng?
+A. “Hãy gợi ý 5 chủ đề cụ thể và hấp dẫn cho blog kỹ năng mềm của sinh viên”
+B. “Hãy sửa dấu câu trong đoạn văn đã viết”
+C. “Hãy đo lượt xem của video sau hai tuần”
+D. “Hãy cấp giấy phép CC cho tác phẩm”
+ANSWER: A
+EXPLAIN: Yêu cầu nhiều chủ đề cụ thể giúp mở rộng một ý tưởng sơ khởi thành các hướng triển khai khác nhau.
+---
+
+Q: Cách dùng AI nào phù hợp với nhiệm vụ nghiên cứu chủ đề theo chương?
+A. Yêu cầu AI che giấu nguồn của ý tưởng
+B. Chấp nhận mọi số liệu AI nêu mà không đối chiếu
+C. Dùng AI thay thế toàn bộ nguồn học thuật
+D. Yêu cầu giải thích khái niệm khó hoặc tóm tắt tài liệu được cung cấp
+ANSWER: D
+EXPLAIN: AI có thể tăng tốc nghiên cứu bằng giải thích và tóm tắt, nhưng kết quả vẫn cần được kiểm chứng.
+---
+
+Q: Để AI hỗ trợ xác định đối tượng mục tiêu hiệu quả, người dùng nên cung cấp thông tin nào?
+A. Chỉ tên công cụ chỉnh sửa video
+B. Số trang của tài liệu nguồn
+C. Đặc điểm cụ thể của khán giả và vấn đề muốn tìm hiểu về họ
+D. Một yêu cầu hoàn toàn không có bối cảnh
+ANSWER: C
+EXPLAIN: AI có thể phác họa chân dung đối tượng khi được cung cấp bối cảnh như độ tuổi, ngành học, địa điểm và mối quan tâm cần khám phá.
+---
+
+Q: Sau khi AI nêu một số liệu trong phần nghiên cứu, hành động đúng nhất là gì?
+A. Kiểm chứng chéo bằng nguồn uy tín, đặc biệt với số liệu và sự kiện
+B. Xóa số liệu để không cần nghiên cứu
+C. Đưa ngay vào bài vì AI có dữ liệu huấn luyện rộng
+D. Chỉ hỏi lại đúng AI đó bằng cùng một prompt
+ANSWER: A
+EXPLAIN: AI chỉ là điểm khởi đầu; các số liệu và sự kiện phải được người dùng kiểm chứng với tư duy phản biện.
+---
+
+Q: Nguyên lý tạo văn bản của LLM được chương mô tả như thế nào?
+A. Đo KPI của nội dung đã xuất bản
+B. Chỉ sao chép nguyên văn một tài liệu duy nhất
+C. Dự đoán chuỗi từ tiếp theo dựa trên prompt và ngữ cảnh
+D. Bắt đầu từ nhiễu hình ảnh rồi tạo âm thanh
+ANSWER: C
+EXPLAIN: LLM tạo văn bản mạch lạc bằng cách dự đoán các từ tiếp theo dựa trên yêu cầu và ngữ cảnh được cung cấp.
+---
+
+Q: Khi có một chủ đề lớn nhưng bài trình bày còn rời rạc, AI nên được giao nhiệm vụ nào trước?
+A. Tự công bố bài mà không duyệt
+B. Tạo dàn ý chi tiết và logic
+C. Tạo số liệu không cần nguồn
+D. Xóa mọi dấu ấn cá nhân
+ANSWER: B
+EXPLAIN: Tạo dàn ý giúp cấu trúc chủ đề lớn thành các phần logic trước khi viết bản nháp.
+---
+
+Q: Yêu cầu “Dựa vào dàn ý sau, hãy viết phần mở đầu khoảng 150 từ” thuộc dạng hỗ trợ nào của AI?
+A. Đo lường KPI
+B. Cấp phép Creative Commons
+C. Phân phối nội dung
+D. Viết bản nháp đầu tiên
+ANSWER: D
+EXPLAIN: Cung cấp dàn ý và yêu cầu viết một phần nội dung là cách dùng AI tạo bản nháp thô ban đầu.
+---
+
+Q: Prompt “Hãy viết lại câu này một cách chuyên nghiệp hơn” nhằm thực hiện tác vụ nào?
+A. Paraphrasing
+B. Text-to-Image
+C. Measurement
+D. Publishing
+ANSWER: A
+EXPLAIN: Paraphrasing là diễn đạt lại câu hoặc đoạn theo cách khác, chẳng hạn trang trọng, đơn giản hoặc ngắn gọn hơn.
+---
+
+Q: Từ ý “Tham gia câu lạc bộ giúp phát triển kỹ năng mềm”, người dùng yêu cầu AI viết thành đoạn 100 từ có lập luận. Đây là tác vụ gì?
+A. Chọn kênh phân phối
+B. Kiểm tra thiên kiến hình ảnh
+C. Mở rộng ý
+D. Lọc tạp âm
+ANSWER: C
+EXPLAIN: Mở rộng ý biến một ý tưởng ngắn thành đoạn văn đầy đủ và giàu lập luận hơn.
+---
+
+Q: Vì sao bản nháp AI không nên được xem là thành phẩm?
+A. Vì đó là nguyên liệu thô cần kiểm chứng, biên tập và bổ sung chuyên môn, trải nghiệm, giọng văn riêng
+B. Vì luôn không thể đọc được
+C. Vì AI chỉ tạo được hình ảnh
+D. Vì bản nháp không thể lưu dưới dạng số
+ANSWER: A
+EXPLAIN: Chất lượng và tính nguyên gốc đòi hỏi con người tinh chỉnh đầu ra AI và đưa dấu ấn cá nhân vào sản phẩm.
+---
+
+Q: Cách xử lý nào biến hỗ trợ của AI thành một sản phẩm có dấu ấn cá nhân hơn?
+A. Giữ nguyên toàn bộ bản nháp AI
+B. Không đọc lại trước khi nộp
+C. Xóa mọi luận điểm riêng để đồng nhất với AI
+D. Thêm kiến thức chuyên môn, ví dụ thực tế, trải nghiệm và giọng văn của người viết
+ANSWER: D
+EXPLAIN: Nội dung trở nên độc đáo và có chiều sâu khi người dùng bổ sung chuyên môn, trải nghiệm, ví dụ và phong cách riêng.
+---
+
+Q: Cặp mục tiêu và công cụ AI nào được ghép đúng?
+A. Tạo slide từ dàn ý - Audacity
+B. Tạo video từ văn bản - Microsoft Editor
+C. Tạo nhạc nền - Google Docs
+D. Tạo ảnh minh họa - Microsoft Designer
+ANSWER: D
+EXPLAIN: Microsoft Designer là công cụ Text-to-Image; các cặp còn lại ghép sai chức năng.
+---
+
+Q: Muốn biến kịch bản thành video có clip stock và giọng đọc AI, người dùng nên chọn gì?
+A. Notion hoặc Evernote
+B. Pictory hoặc InVideo AI
+C. Figma hoặc Photopea
+D. Grammarly hoặc Microsoft Editor
+ANSWER: B
+EXPLAIN: Pictory và InVideo AI được nêu cho tác vụ tạo video từ văn bản với hình ảnh hoặc clip stock và giọng đọc AI.
+---
+
+Q: Muốn tạo nhanh slide từ dàn ý và để AI đề xuất bố cục, hình ảnh, lựa chọn nào phù hợp?
+A. Audacity hoặc Adobe Audition
+B. Gamma hoặc Tome
+C. GIMP hoặc Remove.bg
+D. Word hoặc Microsoft Editor
+ANSWER: B
+EXPLAIN: Gamma và Tome có thể tạo slide nhanh từ dàn ý, đồng thời đề xuất bố cục và hình ảnh.
+---
+
+Q: Soundraw và AIVA được nêu như công cụ hỗ trợ tác vụ nào?
+A. Kiểm tra lỗi ngữ pháp
+B. Tạo nhạc nền không bản quyền cho video hoặc podcast
+C. Xóa nền ảnh
+D. Theo dõi lượt chia sẻ
+ANSWER: B
+EXPLAIN: Soundraw và AIVA là các công cụ AI tạo nhạc nền dùng cho sản phẩm video hoặc podcast.
+---
+
+Q: Giai đoạn nào thể hiện rõ nhất tư duy và năng lực của người dùng sau khi nhận đầu ra AI?
+A. Bỏ qua mục tiêu ban đầu
+B. Đánh giá và tinh chỉnh nội dung
+C. Sao chép và nộp ngay
+D. Ẩn việc sử dụng AI trong mọi trường hợp
+ANSWER: B
+EXPLAIN: Chương nhấn mạnh đánh giá và tinh chỉnh là giai đoạn quan trọng nhất để bảo đảm chất lượng và dấu ấn con người.
+---
+
+Q: Câu hỏi “Số liệu này có đúng và có thể kiểm chứng chéo từ nguồn uy tín không?” thuộc tiêu chí nào?
+A. Tính chính xác
+B. Tính độc đáo
+C. Sự phù hợp
+D. Tính mạch lạc
+ANSWER: A
+EXPLAIN: Tính chính xác xem xét độ thật của thông tin, độ tin cậy của nguồn và khả năng kiểm chứng chéo.
+---
+
+Q: Phát hiện AI đưa một trích dẫn nhưng nguồn không tồn tại. Tiêu chí đánh giá nào đã phát hiện vấn đề trực tiếp nhất?
+A. Coherence
+B. Personalization
+C. Relevance
+D. Accuracy
+ANSWER: D
+EXPLAIN: Kiểm tra sự tồn tại và độ đáng tin của nguồn là một phần của đánh giá tính chính xác.
+---
+
+Q: Câu hỏi nào đánh giá tính độc đáo và dấu ấn cá nhân?
+A. “Video đạt bao nhiêu lượt xem?”
+B. “Công cụ có giao diện kéo-thả không?”
+C. “Tệp có được lưu trên đám mây không?”
+D. “Tôi đã thêm giọng văn, ví dụ, phân tích hoặc trải nghiệm riêng chưa?”
+ANSWER: D
+EXPLAIN: Originality & Personalization tập trung vào việc tránh tổng hợp máy móc và bổ sung phong cách, ví dụ, phân tích, trải nghiệm cá nhân.
+---
+
+Q: Một bài do AI viết đúng sự thật nhưng dùng giọng giải trí cho báo cáo học thuật. Tiêu chí nào chưa đạt?
+A. Chia sẻ tương tự
+B. Sự phù hợp
+C. Bản quyền tự động
+D. Đo lường KPI
+ANSWER: B
+EXPLAIN: Sự phù hợp yêu cầu nội dung đáp ứng mục tiêu và dùng ngôn ngữ, phong cách phù hợp với đối tượng, bối cảnh.
+---
+
+Q: Một câu trả lời AI đầy đủ nhưng không giải quyết yêu cầu chính của prompt. Vấn đề thuộc tiêu chí nào?
+A. Relevance
+B. Copyright
+C. Share Alike
+D. Production
+ANSWER: A
+EXPLAIN: Relevance kiểm tra nội dung có trả lời đúng và đầy đủ mục tiêu hoặc yêu cầu ban đầu hay không.
+---
+
+Q: Vì sao phải kiểm tra thiên kiến trong nội dung AI?
+A. AI có thể tái tạo các định kiến xã hội từ dữ liệu Internet dùng để huấn luyện
+B. Mọi nội dung AI đều cố ý phân biệt đối xử
+C. Thiên kiến chỉ liên quan lỗi chính tả
+D. Kiểm tra thiên kiến làm thay đổi giấy phép tác phẩm
+ANSWER: A
+EXPLAIN: Dữ liệu huấn luyện có thể chứa định kiến về giới, chủng tộc, văn hóa hoặc vùng miền và AI có thể vô tình tái tạo chúng.
+---
+
+Q: Khi đánh giá một bộ ảnh AI về cộng đồng sinh viên, câu hỏi nào trực tiếp kiểm tra Bias?
+A. “Hình ảnh có thể hiện sự đa dạng và tránh định kiến tiêu cực không?”
+B. “Ảnh có được lưu dưới dạng PNG không?”
+C. “Ảnh có bao nhiêu pixel?”
+D. “Prompt có bao nhiêu từ?”
+ANSWER: A
+EXPLAIN: Kiểm tra sự đa dạng và định kiến trong cách thể hiện con người là trọng tâm của tiêu chí thiên kiến.
+---
+
+Q: Các luận điểm đúng riêng lẻ nhưng sắp xếp lộn xộn, không dẫn đến kết luận thuyết phục. Tiêu chí nào chưa đạt?
+A. Quyền nhân thân
+B. Tính thương mại
+C. Khả năng ghi âm
+D. Tính mạch lạc và logic
+ANSWER: D
+EXPLAIN: Coherence & Logic đánh giá cách sắp xếp luận điểm và dòng chảy dẫn dắt người đọc đến kết luận.
+---
+
+Q: Trong bài học thuật, cách minh bạch nào phù hợp khi quy định yêu cầu khai báo hỗ trợ AI?
+A. Ghi AI là tác giả duy nhất của mọi ý tưởng cá nhân
+B. Khẳng định không dùng AI dù đã dùng
+C. Xóa lịch sử chỉnh sửa
+D. Ghi rõ phần dàn ý hoặc bản nháp ban đầu được mô hình AI hỗ trợ
+ANSWER: D
+EXPLAIN: Ghi nhận rõ mức độ hỗ trợ của AI thể hiện sự trung thực và trách nhiệm trong môi trường học thuật, chuyên nghiệp.
+---
+
+Q: Ngoài checklist 5 tiêu chí, người dùng cần kiểm tra gì trước khi khai thác sản phẩm AI cho mục đích thương mại?
+A. Màu giao diện mặc định của phần mềm
+B. Chỉ số lượt xem của một nội dung khác
+C. Điều khoản sử dụng của công cụ về bản quyền thương mại
+D. Số trang của chương học
+ANSWER: C
+EXPLAIN: Chương lưu ý phải xem điều khoản của từng công cụ về quyền sử dụng sản phẩm AI cho mục đích thương mại.
+---
+
+Q: Khi nhiều ảnh và video AI được dùng trong cùng dự án, thao tác tinh chỉnh nào được khuyến nghị?
+A. Giữ mọi phong cách ngẫu nhiên để tránh biên tập
+B. Xóa toàn bộ nội dung do con người tạo
+C. Làm cho chúng có phong cách nhất quán với thương hiệu cá nhân hoặc dự án
+D. Không cần xem lại vì đều do cùng loại AI tạo ra
+ANSWER: C
+EXPLAIN: Tinh chỉnh phong cách nhất quán giúp các sản phẩm đa phương tiện phù hợp với thương hiệu hoặc mục tiêu chung của dự án.
+---
+
+Q: Quan niệm nào phản ánh đúng vai trò cuối cùng của AI tạo sinh trong sáng tạo nội dung?
+A. AI thay thế hoàn toàn tư duy phản biện và chuyên môn con người
+B. AI là công cụ hỗ trợ mạnh, còn con người cầm lái và quyết định đích đến
+C. AI chịu toàn bộ trách nhiệm cho sản phẩm được nộp
+D. Dùng AI hiệu quả nghĩa là giữ nguyên mọi đầu ra
+ANSWER: B
+EXPLAIN: AI giúp đi nhanh và xa hơn nhưng không thay thế tư duy phản biện, sáng tạo, chuyên môn và trách nhiệm quyết định của con người.
+---
+
+Q: Mục tiêu “Tạo infographic về an toàn số cho sinh viên năm nhất” đã khá cụ thể nhưng chưa cho biết lúc nào phải hoàn thành. Thành phần SMART nào còn thiếu rõ nhất?
+A. Achievable
+B. Relevant
+C. Measurable
+D. Time-bound
+ANSWER: D
+EXPLAIN: Mục tiêu đã thể hiện Specific (cụ thể), nhưng Time-bound yêu cầu thêm thời hạn hoặc mốc hoàn thành rõ ràng.
+---
+
+Q: Khi đánh giá Achievable và Relevant của một mục tiêu nội dung, cách hiểu nào đúng?
+A. Achievable xem mục tiêu có khả thi với nguồn lực; Relevant xem mục tiêu có liên quan đến nhu cầu và định hướng hay không
+B. Achievable yêu cầu có thời hạn; Relevant yêu cầu có con số đo lường
+C. Achievable xác định đối tượng; Relevant xác định định dạng tệp
+D. Achievable là lời kêu gọi hành động; Relevant là chỉ số sau xuất bản
+ANSWER: A
+EXPLAIN: Trong SMART, Achievable là tính khả thi còn Relevant là mức độ liên quan của mục tiêu.
+---
+
+Q: Nội dung nào mô tả đầy đủ nhất phạm vi quyền hợp pháp của bản quyền được nêu trong chương?
+A. Chỉ quyền đứng tên trên tác phẩm
+B. Quyền dành riêng để sao chép, xuất bản, bán hoặc phân phối nội dung và hình thức của tác phẩm
+C. Chỉ quyền đăng ký nhãn hiệu cho tên tác phẩm
+D. Quyền sử dụng tự do mọi tác phẩm vì mục đích học tập
+ANSWER: B
+EXPLAIN: Bản quyền dành cho chủ thể quyền các quyền hợp pháp liên quan đến sao chép, xuất bản, bán và phân phối tác phẩm.
+---
+
+Q: Sinh viên cần tìm bài báo khoa học từ nguồn được chương khuyến nghị khi ưu tiên tài nguyên mở. Lựa chọn nào phù hợp?
+A. Bản sao không rõ nguồn được chia sẻ kín
+B. Bài viết bị gỡ thông tin tác giả
+C. Tạp chí truy cập mở (Open Access)
+D. Bất kỳ tài liệu nào xuất hiện đầu tiên trên công cụ tìm kiếm
+ANSWER: C
+EXPLAIN: Chương khuyến nghị ưu tiên bài báo trong các tạp chí Open Access bên cạnh các tài nguyên có giấy phép mở.
+---
+
+Q: Phát biểu nào phân biệt đúng Grammarly và Microsoft Editor theo nội dung chương?
+A. Grammarly chỉ kiểm tra lỗi cơ bản, còn Microsoft Editor chuyên kiểm tra đạo văn trả phí
+B. Cả hai chỉ dùng để soạn văn bản mới, không rà bản nháp
+C. Microsoft Editor hoạt động độc lập với Word và trình duyệt Edge
+D. Grammarly có thể gợi ý từ đồng nghĩa và kiểm tra đạo văn; Microsoft Editor tích hợp trong Word và Edge để rà lỗi, gợi ý cải thiện
+ANSWER: D
+EXPLAIN: Grammarly có phạm vi kiểm tra và gợi ý rộng, còn Microsoft Editor được tích hợp trong Word và Edge để hỗ trợ rà soát văn bản.
+---
+
+Q: Chi tiết nào trong chương giúp sinh viên khai thác Canva với nhiều tính năng cao cấp mà không phải học công cụ thiết kế chuyên sâu?
+A. Canva for Education được giới thiệu là gói miễn phí cho sinh viên
+B. Canva bắt buộc mua Photoshop trước khi sử dụng
+C. Canva chỉ cung cấp mẫu cho nhà thiết kế chuyên nghiệp
+D. Canva không hỗ trợ slide, poster hoặc CV
+ANSWER: A
+EXPLAIN: Chương nêu Canva for Education là gói miễn phí cho sinh viên, mở khóa nhiều tính năng cao cấp.
+---
+
+Q: Nhận định nào đúng về nhóm Remove.bg, Fotor và Pixlr?
+A. Đây là các phần mềm dựng video chuyên sâu cần thời gian dài để học
+B. Đây là các công cụ online đơn giản, phù hợp xử lý nhanh một số tác vụ ảnh cụ thể
+C. Đây là các LLM chuyên viết bản nháp học thuật
+D. Đây là các kho nhạc royalty-free
+ANSWER: B
+EXPLAIN: Remove.bg, Fotor và Pixlr được mô tả như các công cụ online “mì ăn liền”, mỗi công cụ giải quyết nhanh một số tác vụ ảnh.
+---
+
+Q: Điểm chung về dữ liệu huấn luyện của các mô hình AI tạo ảnh, video và nhạc được nêu trong chương là gì?
+A. Mọi mô hình chỉ học từ văn bản thuần túy
+B. Mô hình không cần dữ liệu đầu vào hoặc prompt
+C. Mỗi mô hình học từ dữ liệu tương ứng với loại sản phẩm và tạo nội dung mới dựa trên prompt hoặc dữ liệu đầu vào
+D. Mô hình chỉ sao chép nguyên vẹn một sản phẩm có sẵn
+ANSWER: C
+EXPLAIN: Các mô hình tạo ảnh, video và nhạc được huấn luyện trên dữ liệu tương ứng để tạo sản phẩm mới theo prompt hoặc dữ liệu đầu vào.
+---
+
+Q: Ngoài khó tìm một đoạn thông tin cụ thể, nội dung âm thanh còn có hạn chế nào được bảng so sánh nêu rõ?
+A. Không thể tạo cảm giác gần gũi
+B. Luôn có chi phí sản xuất cao hơn video
+C. Không dùng được cho bài giảng hoặc phỏng vấn
+D. Cần thiết bị nghe và có thể khó giữ sự tập trung của người nghe
+ANSWER: D
+EXPLAIN: Bảng 5.1 nêu âm thanh cần thiết bị nghe và có thể khó duy trì sự tập trung, dù tiện lợi và có chi phí tương đối thấp.
+---
+
+Q: Trước khi nghiên cứu sâu một chủ đề, người sáng tạo cần làm rõ mục tiêu nội dung theo nhóm nào được chương gợi ý?
+A. Cung cấp thông tin, thuyết phục hoặc giải trí
+B. Chỉ tăng số lượng tệp được lưu trữ
+C. Chỉ lựa chọn giữa miễn phí và trả phí
+D. Đăng ký bản quyền, nhãn hiệu hoặc sáng chế
+ANSWER: A
+EXPLAIN: Ở bước lên ý tưởng và nghiên cứu, cần xác định nội dung nhằm cung cấp thông tin, thuyết phục hay giải trí trước khi phát triển ý tưởng.
+---

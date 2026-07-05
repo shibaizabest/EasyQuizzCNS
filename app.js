@@ -10,8 +10,10 @@ const state = {
   originalQuestions: [],
   questions: [],
   answers: [],
+  revealedAnswers: [],
   currentQuestion: 0,
   shuffleEnabled: false,
+  instantFeedbackEnabled: false,
   isReviewMode: false,
   lastResult: null,
   homeSearch: "",
@@ -302,10 +304,16 @@ function renderQuizStart() {
       <p>${escapeHtml(state.meta.description || "Sẵn sàng bắt đầu bài ôn tập.")}</p>
     </div>
     <div class="start-details"><strong>${state.originalQuestions.length} câu hỏi</strong> · Đáp án được lưu trong phiên làm bài này.</div>
-    <label class="check-row">
-      <input id="shuffle-questions" type="checkbox" ${state.shuffleEnabled ? "checked" : ""}>
-      <span>Xáo trộn thứ tự câu hỏi</span>
-    </label>
+    <div class="quiz-settings" aria-label="Tùy chọn làm bài">
+      <label class="check-row">
+        <input id="shuffle-questions" type="checkbox" ${state.shuffleEnabled ? "checked" : ""}>
+        <span>Xáo trộn thứ tự câu hỏi</span>
+      </label>
+      <label class="check-row">
+        <input id="instant-feedback" type="checkbox" ${state.instantFeedbackEnabled ? "checked" : ""}>
+        <span>Hiện đáp án ngay sau khi chọn</span>
+      </label>
+    </div>
     <div class="button-row">
       <button class="button" id="start-quiz" type="button">Bắt đầu làm bài</button>
       <a class="button secondary" href="#/">Về trang chủ</a>
@@ -314,10 +322,12 @@ function renderQuizStart() {
 
   document.querySelector("#start-quiz").addEventListener("click", () => {
     state.shuffleEnabled = document.querySelector("#shuffle-questions").checked;
+    state.instantFeedbackEnabled = document.querySelector("#instant-feedback").checked;
     state.questions = state.shuffleEnabled
       ? shuffleArray(state.originalQuestions)
       : [...state.originalQuestions];
     state.answers = new Array(state.questions.length).fill(null);
+    state.revealedAnswers = new Array(state.questions.length).fill(false);
     state.currentQuestion = 0;
     state.questionDirection = 1;
     state.isReviewMode = false;
@@ -329,15 +339,31 @@ function renderQuizStart() {
 function renderQuestion() {
   const question = state.questions[state.currentQuestion];
   const selected = state.answers[state.currentQuestion];
+  const isRevealed = state.revealedAnswers[state.currentQuestion] === true;
   const current = state.currentQuestion + 1;
   const total = state.questions.length;
-  const optionsHtml = Object.entries(question.options).map(([letter, text]) => `
-    <label class="answer-option">
-      <input type="radio" name="answer" value="${letter}" ${selected === letter ? "checked" : ""}>
-      <span><span class="answer-letter">${letter}.</span> ${escapeHtml(text)}</span>
-    </label>`).join("");
+  const optionsHtml = Object.entries(question.options).map(([letter, text]) => {
+    const feedbackClass = isRevealed && letter === question.correctAnswer
+      ? "correct-answer"
+      : isRevealed && letter === selected
+        ? "wrong-answer"
+        : "";
 
-  const directionClass = state.questionDirection < 0 ? "is-previous" : "is-next";
+    return `<label class="answer-option ${feedbackClass}">
+      <input type="radio" name="answer" value="${letter}" ${selected === letter ? "checked" : ""} ${isRevealed ? "disabled" : ""}>
+      <span><span class="answer-letter">${letter}.</span> ${escapeHtml(text)}</span>
+    </label>`;
+  }).join("");
+
+  const instantFeedbackHtml = isRevealed
+    ? renderInstantFeedback(question, selected)
+    : "";
+
+  const directionClass = state.questionDirection < 0
+    ? "is-previous"
+    : state.questionDirection > 0
+      ? "is-next"
+      : "is-stay";
   app.innerHTML = `<section class="question-card ${directionClass}">
     <div class="quiz-topbar">
       <strong>${state.isReviewMode ? "Ôn câu sai" : escapeHtml(state.quizTitle)}</strong>
@@ -348,6 +374,7 @@ function renderQuestion() {
     </div>
     <h2 class="question-text">${escapeHtml(question.text)}</h2>
     <fieldset class="answers" aria-label="Chọn một đáp án">${optionsHtml}</fieldset>
+    ${instantFeedbackHtml}
     <nav class="question-nav" aria-label="Điều hướng câu hỏi">
       <button class="button secondary" id="previous-question" type="button" ${state.currentQuestion === 0 ? "disabled" : ""}>Câu trước</button>
       <div class="right-actions">
@@ -361,12 +388,37 @@ function renderQuestion() {
   document.querySelectorAll('input[name="answer"]').forEach((input) => {
     input.addEventListener("change", (event) => {
       state.answers[state.currentQuestion] = event.target.value;
+      if (state.instantFeedbackEnabled) {
+        state.revealedAnswers[state.currentQuestion] = true;
+        state.questionDirection = 0;
+        renderQuestion();
+      }
     });
   });
   document.querySelector("#previous-question")?.addEventListener("click", () => moveQuestion(-1));
   document.querySelector("#next-question")?.addEventListener("click", () => moveQuestion(1));
   document.querySelector("#submit-quiz").addEventListener("click", submitQuiz);
-  focusApp();
+
+  if (state.questionDirection === 0) {
+    const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    document.querySelector(".instant-feedback")?.scrollIntoView({
+      behavior: reduceMotion ? "auto" : "smooth",
+      block: "nearest"
+    });
+  } else {
+    focusApp();
+  }
+}
+
+function renderInstantFeedback(question, selectedAnswer) {
+  const isCorrect = selectedAnswer === question.correctAnswer;
+  const correctText = `${question.correctAnswer}. ${question.options[question.correctAnswer]}`;
+
+  return `<aside class="instant-feedback ${isCorrect ? "feedback-correct" : "feedback-incorrect"}" aria-live="polite">
+    <strong>${isCorrect ? "Chính xác!" : "Chưa đúng."}</strong>
+    ${isCorrect ? "" : `<p><strong>Đáp án đúng:</strong> ${escapeHtml(correctText)}</p>`}
+    <p><strong>Giải thích:</strong> ${escapeHtml(question.explanation)}</p>
+  </aside>`;
 }
 
 function moveQuestion(offset) {
@@ -458,6 +510,7 @@ function startWrongAnswersReview() {
 
   state.questions = [...wrongQuestions];
   state.answers = new Array(wrongQuestions.length).fill(null);
+  state.revealedAnswers = new Array(wrongQuestions.length).fill(false);
   state.currentQuestion = 0;
   state.questionDirection = 1;
   state.isReviewMode = true;

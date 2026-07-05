@@ -345,8 +345,18 @@ main > .donate-box {
   display: flex;
   align-items: center;
   gap: 11px;
-  margin: 22px 0;
+  margin: 0;
   cursor: pointer;
+}
+
+.quiz-settings {
+  display: grid;
+  gap: 13px;
+  margin: 22px 0;
+  padding: 16px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--surface-soft);
 }
 
 .check-row input {
@@ -487,6 +497,49 @@ main > .donate-box {
   box-shadow: 0 0 0 3px rgb(40 85 217 / 8%);
 }
 
+.answer-option:has(input:disabled) {
+  cursor: default;
+}
+
+.answer-option.correct-answer,
+.answer-option.correct-answer:has(input:checked) {
+  border-color: var(--success);
+  background: var(--success-bg);
+  box-shadow: 0 0 0 3px rgb(24 121 78 / 8%);
+}
+
+.answer-option.wrong-answer,
+.answer-option.wrong-answer:has(input:checked) {
+  border-color: var(--danger);
+  background: var(--danger-bg);
+  box-shadow: 0 0 0 3px rgb(180 35 24 / 7%);
+}
+
+.instant-feedback {
+  margin-top: 18px;
+  padding: 16px 18px;
+  border: 1px solid var(--border);
+  border-left-width: 4px;
+  border-radius: 10px;
+  animation: feedback-enter 0.34s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.instant-feedback p {
+  margin: 7px 0 0;
+}
+
+.instant-feedback.feedback-correct {
+  border-left-color: var(--success);
+  background: var(--success-bg);
+  color: #145c3d;
+}
+
+.instant-feedback.feedback-incorrect {
+  border-left-color: var(--danger);
+  background: var(--danger-bg);
+  color: #8f1d14;
+}
+
 .answer-option input {
   flex: 0 0 auto;
   width: 18px;
@@ -513,6 +566,10 @@ main > .donate-box {
 
 .question-card.is-previous {
   animation: question-previous 0.4s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.question-card.is-stay {
+  animation: feedback-view-enter 0.28s ease-out both;
 }
 
 .question-nav .right-actions {
@@ -774,6 +831,22 @@ main > .donate-box {
     opacity: 1;
     transform: translateY(0);
   }
+}
+
+@keyframes feedback-enter {
+  from {
+    opacity: 0;
+    transform: translateY(-5px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes feedback-view-enter {
+  from { opacity: 0.82; }
+  to { opacity: 1; }
 }
 
 @media (min-width: 680px) {
