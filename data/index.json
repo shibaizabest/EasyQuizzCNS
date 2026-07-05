@@ -12,5 +12,12 @@
     "description": "Ôn tập đỉnh, cạnh, bậc, chu trình, cây và đường đi.",
     "file": "graph.quiz",
     "count": 5
+  },
+  {
+	"id": "C1",
+	"title": "[CNS-AI] Chương 1: MÁY TÍNH VÀ CÁC THIẾT BỊ NGOẠI VI",
+	"description": "MÁY TÍNH VÀ CÁC THIẾT BỊ NGOẠI VI, ÔN TẬP KĨ VÀO NHÉ CÁC TÌNH YÊU.",
+	"file": "C1.quiz",
+	"count": 60
   }
 ]

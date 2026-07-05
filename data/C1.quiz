@@ -1,0 +1,599 @@
+# Quiz: Chương 1 - Máy tính và các thiết bị ngoại vi
+
+Q: Điểm khác biệt cốt lõi giữa dữ liệu và thông tin là gì?
+A. Dữ liệu luôn là số, còn thông tin luôn là văn bản
+B. Dữ liệu là các sự kiện thô; thông tin là dữ liệu đã được xử lý và đặt trong ngữ cảnh có ý nghĩa
+C. Dữ liệu chỉ tồn tại trong RAM, còn thông tin chỉ tồn tại trên ổ cứng
+D. Dữ liệu do máy tính tạo ra, còn thông tin chỉ do con người tạo ra
+ANSWER: B
+EXPLAIN: Dữ liệu là số liệu, ký hiệu hoặc sự kiện chưa được xử lý; khi được tổ chức, xử lý và đặt vào ngữ cảnh để hỗ trợ hiểu biết hoặc ra quyết định, dữ liệu trở thành thông tin.
+
+---
+
+Q: Thứ tự nào mô tả hợp lý nhất chu trình xử lý thông tin cơ bản của máy tính?
+A. Xử lý → Nhập → Lưu trữ → Xuất
+B. Nhập → Xuất → Xử lý → Lưu trữ
+C. Nhập → Xử lý → Xuất, đồng thời có thể lưu trữ dữ liệu và kết quả
+D. Lưu trữ → Xuất → Nhập → Xử lý
+ANSWER: C
+EXPLAIN: Máy tính tiếp nhận dữ liệu, xử lý theo chương trình, xuất thông tin và có thể lưu dữ liệu, chương trình hoặc kết quả để dùng lại.
+
+---
+
+Q: Vì sao một máy tính có thể xử lý văn bản, hình ảnh, âm thanh và video dù chúng rất khác nhau?
+A. Vì thiết bị đầu ra tự quyết định cách xử lý dữ liệu
+B. Vì mỗi loại dữ liệu luôn cần một CPU riêng
+C. Vì tất cả dữ liệu đều được chuyển thành văn bản trước khi xử lý
+D. Vì mọi loại dữ liệu đều được số hóa thành các bit 0 và 1
+ANSWER: D
+EXPLAIN: Khi được số hóa, các loại dữ liệu khác nhau đều được biểu diễn bằng tín hiệu nhị phân, nhờ đó cùng một hệ thống máy tính có thể lưu trữ và xử lý chúng.
+
+---
+
+Q: Thành phần nào sau đây thuộc nhóm “hệ thống và nền tảng” của công nghệ số thay vì “tài nguyên và nội dung số”?
+A. Sách điện tử
+B. Video bài giảng
+C. Cơ sở dữ liệu khoa học
+D. Hệ thống quản lý học tập VNU-LMS
+ANSWER: D
+EXPLAIN: LMS là một hệ thống/nền tảng kết hợp nhiều thành phần công nghệ; sách điện tử, video và dữ liệu khoa học là tài nguyên hoặc nội dung số.
+
+---
+
+Q: Phát biểu nào mô tả đúng nhất mối quan hệ giữa phần cứng và phần mềm?
+A. Phần cứng đưa ra chỉ dẫn, phần mềm thực thi chỉ dẫn
+B. Phần cứng và phần mềm hoạt động hoàn toàn độc lập
+C. Phần mềm chỉ cần thiết khi máy tính kết nối Internet
+D. Phần mềm ra lệnh và phần cứng thực thi, nên một hệ thống hữu ích cần sự phối hợp của cả hai
+ANSWER: D
+EXPLAIN: Phần mềm gồm chương trình và chỉ dẫn, còn phần cứng là các bộ phận vật lý thực hiện hoạt động xử lý theo các chỉ dẫn đó.
+
+---
+
+Q: NPU tích hợp trong CPU hiện đại chủ yếu mang lại lợi ích nào?
+A. Tăng dung lượng lưu trữ lâu dài
+B. Thay thế hoàn toàn RAM và GPU
+C. Tăng tốc tác vụ AI ngay trên thiết bị với hiệu quả năng lượng tốt hơn
+D. Biến mọi cổng USB-C thành Thunderbolt
+ANSWER: C
+EXPLAIN: NPU là bộ xử lý chuyên dụng cho AI, giúp chạy tác vụ AI nhanh và tiết kiệm năng lượng hơn, đồng thời giảm sự phụ thuộc hoàn toàn vào xử lý qua Internet.
+
+---
+
+Q: Một sinh viên đang mở nhiều ứng dụng thì mất điện; dữ liệu chưa lưu trong các ứng dụng biến mất. Đặc tính nào giải thích trực tiếp hiện tượng này?
+A. SSD dùng chip nhớ flash
+B. ROM chỉ cho phép đọc dữ liệu
+C. RAM là bộ nhớ tạm thời và mất dữ liệu khi tắt nguồn
+D. HDD có bộ phận chuyển động
+ANSWER: C
+EXPLAIN: RAM lưu dữ liệu và chương trình đang hoạt động để CPU truy cập nhanh nhưng là bộ nhớ khả biến, nên nội dung của nó mất khi nguồn điện bị ngắt.
+
+---
+
+Q: So với DDR4, RAM DDR5 được chương trình nhấn mạnh ở ưu thế nào?
+A. Lưu dữ liệu vĩnh viễn khi mất điện
+B. Chỉ dùng cho máy chủ, không dùng cho máy tính cá nhân
+C. Có thể thay thế ổ SSD NVMe
+D. Băng thông cao hơn và tiêu thụ ít năng lượng hơn
+ANSWER: D
+EXPLAIN: DDR5 cung cấp tốc độ truyền dữ liệu cao hơn đáng kể và hiệu quả năng lượng tốt hơn DDR4, phù hợp với ứng dụng hiện đại và tác vụ AI.
+
+---
+
+Q: Bộ nhớ nào phù hợp nhất để chứa chương trình khởi động và firmware thiết yếu do nhà sản xuất cài sẵn?
+A. RAM
+B. Bộ nhớ đệm của trình duyệt
+C. ROM
+D. USB Flash Drive
+ANSWER: C
+EXPLAIN: ROM không mất dữ liệu khi tắt nguồn và thường chứa chương trình khởi động cùng firmware thiết yếu mà người dùng thông thường không thay đổi.
+
+---
+
+Q: Một người cần dung lượng lưu trữ lớn với chi phí thấp và không đặt nặng tốc độ. Lựa chọn nào phù hợp nhất theo nội dung chương?
+A. NPU
+B. RAM DDR5
+C. ROM
+D. HDD
+ANSWER: D
+EXPLAIN: HDD có ưu thế dung lượng lớn với giá thành thấp, dù tốc độ chậm hơn SSD và sử dụng đĩa từ quay.
+
+---
+
+Q: Vì sao SSD NVMe thường cho hiệu năng cao hơn SSD dùng chuẩn SATA?
+A. NVMe lưu dữ liệu trong RAM nên không cần ổ đĩa
+B. NVMe chỉ lưu chương trình khởi động
+C. NVMe có đĩa từ quay nhanh hơn HDD
+D. NVMe sử dụng giao tiếp PCIe có băng thông cao hơn SATA
+ANSWER: D
+EXPLAIN: NVMe được thiết kế cho bộ nhớ không bay hơi và truyền dữ liệu qua PCIe, cho tốc độ vượt trội so với giao tiếp SATA cũ.
+
+---
+
+Q: Trong các thiết bị sau, nhóm nào chỉ gồm thiết bị đầu vào?
+A. Bàn phím, chuột, webcam, máy quét
+B. Màn hình, máy in, loa, tai nghe
+C. Bàn phím, màn hình, loa, micro
+D. SSD, RAM, webcam, máy in
+ANSWER: A
+EXPLAIN: Các thiết bị trong phương án A đều đưa dữ liệu hoặc lệnh vào máy tính; màn hình, máy in, loa và tai nghe là thiết bị đầu ra.
+
+---
+
+Q: Bo mạch chủ được ví như “xương sống” của máy tính vì lý do nào?
+A. Nó lưu trữ lâu dài mọi tệp cá nhân
+B. Nó trực tiếp hiển thị hình ảnh cho người dùng trong mọi trường hợp
+C. Nó kết nối CPU, RAM, ổ cứng và các card mở rộng để chúng giao tiếp đồng bộ
+D. Nó chỉ cung cấp nguồn điện cho màn hình
+ANSWER: C
+EXPLAIN: Mainboard là bảng mạch chính liên kết các linh kiện phần cứng, cung cấp đường giao tiếp để toàn hệ thống hoạt động phối hợp.
+
+---
+
+Q: Cặp phân loại nào đúng?
+A. Driver là phần mềm ứng dụng; Microsoft Word là phần mềm hệ thống
+B. Hệ điều hành là phần mềm ứng dụng; Photoshop là phần mềm hệ thống
+C. Trình duyệt là phần mềm hệ thống; tiện ích hệ thống là phần mềm ứng dụng
+D. Driver là phần mềm hệ thống; Microsoft Word là phần mềm ứng dụng
+ANSWER: D
+EXPLAIN: Phần mềm hệ thống gồm hệ điều hành, driver và tiện ích; Word phục vụ trực tiếp một công việc cụ thể của người dùng nên là phần mềm ứng dụng.
+
+---
+
+Q: Một người làm dựng phim nặng tại một vị trí cố định, muốn hiệu năng/giá tốt và dễ nâng cấp. Thiết bị nào phù hợp nhất?
+A. Smartphone
+B. Máy tính để bàn
+C. Máy tính bảng
+D. Máy đọc sách điện tử
+ANSWER: B
+EXPLAIN: Desktop có khả năng tản nhiệt, sửa chữa và nâng cấp tốt, đồng thời thường cho hiệu năng trên giá thành cao nhất, phù hợp tác vụ nặng tại nơi cố định.
+
+---
+
+Q: Đánh đổi điển hình khi chọn laptop thay cho desktop là gì?
+A. Có tính di động và pin, nhưng khả năng nâng cấp và tản nhiệt thường hạn chế hơn
+B. Không thể chạy phần mềm văn phòng nhưng có màn hình lớn hơn
+C. Hiệu năng/giá luôn cao hơn và nâng cấp dễ hơn
+D. Không có bàn phím hoặc thiết bị trỏ tích hợp
+ANSWER: A
+EXPLAIN: Laptop tích hợp màn hình, bàn phím, touchpad và pin để tăng tính di động, đổi lại thường khó nâng cấp, tản nhiệt kém hơn và hiệu năng/giá thấp hơn desktop.
+
+---
+
+Q: Nhu cầu nào phù hợp nhất với máy tính bảng?
+A. Dựng phim chuyên nghiệp liên tục và thay card đồ họa thường xuyên
+B. Vận hành máy chủ và tự động hóa bằng dòng lệnh
+C. Đọc tài liệu, ghi chú nhanh bằng bút cảm ứng và trình chiếu cơ bản
+D. Lưu trữ ngoại tuyến hàng chục terabyte với chi phí thấp
+ANSWER: C
+EXPLAIN: Tablet nổi bật nhờ màn hình cảm ứng, tính di động và pin tốt, phù hợp tiêu thụ nội dung, đọc tài liệu và ghi chú; nó hạn chế với công việc phức tạp.
+
+---
+
+Q: Đặc điểm nào khiến e-Reader thích hợp cho việc đọc sách lâu?
+A. Màn hình E-ink cho trải nghiệm gần giấy thật, ít gây mỏi mắt và pin kéo dài
+B. Có card đồ họa rời để dựng hình 3D
+C. Có khả năng nâng cấp CPU và RAM dễ dàng
+D. Dùng màn hình phát sáng xanh mạnh để tăng độ tương phản
+ANSWER: A
+EXPLAIN: Máy đọc sách dùng mực điện tử E-ink, không phát ánh sáng xanh như màn hình thông thường, tạo cảm giác gần giấy và có thời lượng pin tính bằng tuần.
+
+---
+
+Q: Mô tả nào đầy đủ nhất về vai trò của hệ điều hành?
+A. Chỉ là một ứng dụng dùng để duyệt web
+B. Chỉ quản lý thiết bị lưu trữ ngoài
+C. Là trung gian giữa người dùng và phần cứng, đồng thời quản lý tài nguyên, tệp và tiến trình
+D. Là bộ phận vật lý thực hiện phép tính số học
+ANSWER: C
+EXPLAIN: OS là phần mềm hệ thống làm trung gian tương tác, phân phối CPU/RAM, quản lý thiết bị, tệp và thư mục, đồng thời khởi chạy và điều phối ứng dụng.
+
+---
+
+Q: Khi hệ điều hành quyết định ứng dụng nào được dùng CPU và được cấp bao nhiêu RAM, nó đang thực hiện chức năng nào?
+A. Quản lý tài nguyên phần cứng và tiến trình
+B. Soạn thảo văn bản
+C. Quản lý tài liệu tham khảo
+D. Chuyển đổi cổng USB-C thành HDMI
+ANSWER: A
+EXPLAIN: Phân lịch CPU, cấp phát RAM và cung cấp tài nguyên cho ứng dụng là các nhiệm vụ quản lý tài nguyên và tiến trình của hệ điều hành.
+
+---
+
+Q: Người dùng muốn hệ điều hành miễn phí, mã nguồn mở, tùy biến rất cao và mạnh về công cụ lập trình. Lựa chọn phù hợp nhất là gì?
+A. iOS
+B. Linux
+C. macOS
+D. Windows
+ANSWER: B
+EXPLAIN: Linux là họ hệ điều hành mã nguồn mở, miễn phí và tùy biến cao, đặc biệt phổ biến với lập trình viên và máy chủ, dù có thể khó làm quen hơn.
+
+---
+
+Q: Hạn chế đặc trưng của Android được nêu trong chương là gì?
+A. Chỉ chạy trên một mẫu điện thoại duy nhất
+B. Không có kho ứng dụng
+C. Phân mảnh phiên bản và mức độ bảo mật đôi khi không chặt bằng iOS
+D. Không cho phép tùy biến giao diện
+ANSWER: C
+EXPLAIN: Android mở và đa dạng thiết bị, nhưng chính sự đa dạng này góp phần gây phân mảnh phiên bản; chương cũng lưu ý bảo mật đôi khi kém chặt hơn iOS.
+
+---
+
+Q: Tình huống nào thể hiện ưu thế rõ nhất của CLI so với GUI?
+A. Người mới muốn nhận biết tệp bằng biểu tượng trực quan
+B. Quản trị viên cần tự động hóa hàng loạt tác vụ trên máy chủ với ít tài nguyên
+C. Người dùng muốn kéo-thả một ảnh vào thư mục
+D. Sinh viên muốn xem slide có nhiều hình ảnh
+ANSWER: B
+EXPLAIN: CLI mạnh, hiệu quả, ít tốn tài nguyên và thích hợp cho tự động hóa, quản trị hệ thống và lập trình, dù kém trực quan hơn GUI.
+
+---
+
+Q: Trong tên tệp `Baitaplon.docx`, phần `.docx` có chức năng chính gì?
+A. Cho biết đường dẫn tuyệt đối của tệp
+B. Cho biết dung lượng tệp
+C. Giúp hệ điều hành và người dùng nhận biết loại tệp
+D. Mã hóa nội dung để chống sao chép
+ANSWER: C
+EXPLAIN: Phần mở rộng là phần sau dấu chấm trong tên tệp, dùng để nhận biết định dạng và thường giúp hệ điều hành chọn ứng dụng phù hợp để mở tệp.
+
+---
+
+Q: Chuỗi `D:\HocTap\Nam_1\DaiSo\Baitap.docx` là ví dụ của khái niệm nào?
+A. Giao thức mạng
+B. Tên của hệ điều hành
+C. Phần mở rộng của tệp
+D. Đường dẫn chỉ vị trí tệp trong cấu trúc thư mục
+ANSWER: D
+EXPLAIN: Đường dẫn là địa chỉ đầy đủ mô tả vị trí của tệp hoặc thư mục trong cấu trúc cây của hệ thống tệp.
+
+---
+
+Q: Cách tổ chức nào giúp dữ liệu học tập dễ tìm kiếm nhất theo nguyên tắc quản lý thư mục?
+A. Đặt mọi tệp trên Desktop và giữ tên mặc định
+B. Đổi mọi phần mở rộng thành `.txt`
+C. Tạo cấu trúc cây như `HocTap/Nam_1/MonHoc` và đặt tên tệp có ý nghĩa
+D. Lưu mỗi tệp thành nhiều bản trong cùng một thư mục
+ANSWER: C
+EXPLAIN: Thư mục và thư mục con tạo cấu trúc cây logic để phân loại dữ liệu; tên có ý nghĩa giúp nhận diện và truy xuất tài liệu hiệu quả hơn.
+
+---
+
+Q: Nguồn nào nên được ưu tiên khi cài một ứng dụng để giảm nguy cơ phần mềm độc hại?
+A. Liên kết đính kèm trong email không rõ người gửi
+B. Quảng cáo tải nhanh trên trang web lạ
+C. Bản chia sẻ lại không rõ nguồn gốc
+D. Trang chính thức của nhà phát triển hoặc cửa hàng ứng dụng của hệ điều hành
+ANSWER: D
+EXPLAIN: Trang chính thức và cửa hàng ứng dụng có mức tin cậy cao hơn; ứng dụng trên cửa hàng thường được kiểm duyệt và thuận tiện cho quản lý cập nhật.
+
+---
+
+Q: Ghép nối nào đúng giữa hệ điều hành và định dạng tệp cài đặt thường gặp?
+A. Windows: `.exe` hoặc `.msi`; macOS: `.dmg`
+B. Windows: `.dmg`; macOS: `.exe`
+C. Windows: `.jpg`; macOS: `.mp3`
+D. Windows: `.docx`; macOS: `.xlsx`
+ANSWER: A
+EXPLAIN: Trình cài đặt tải từ web trên Windows thường dùng `.exe` hoặc `.msi`, còn macOS thường phân phối ứng dụng qua ảnh đĩa `.dmg`.
+
+---
+
+Q: Vì sao cần đọc kỹ các tùy chọn khi chạy trình cài đặt phần mềm miễn phí trên Windows?
+A. Để tăng dung lượng RAM vật lý
+B. Để đổi định dạng ổ SSD từ NVMe sang SATA
+C. Vì mọi trình cài đặt đều tự xóa hệ điều hành
+D. Vì phần mềm có thể đề nghị cài kèm quảng cáo hoặc thanh công cụ không mong muốn
+ANSWER: D
+EXPLAIN: Một số phần mềm miễn phí đặt sẵn lựa chọn cài thêm chương trình hoặc thanh công cụ; người dùng nên nhận diện và bỏ chọn các thành phần không cần thiết.
+
+---
+
+Q: Tác dụng quan trọng nhất của việc cập nhật ứng dụng, ngoài nhận tính năng mới, là gì?
+A. Xóa toàn bộ dữ liệu người dùng
+B. Biến phần mềm ứng dụng thành hệ điều hành
+C. Tự động nâng cấp phần cứng
+D. Vá các lỗ hổng bảo mật đã được phát hiện
+ANSWER: D
+EXPLAIN: Bản cập nhật thường khắc phục lỗi và vá lỗ hổng bảo mật, nhờ đó giảm nguy cơ hệ thống bị khai thác.
+
+---
+
+Q: Điều kiện tối thiểu để hình thành một mạng máy tính theo định nghĩa trong chương là gì?
+A. Một máy tính có ít nhất hai ổ cứng
+B. Một máy tính có cả RAM và ROM
+C. Một điện thoại có cài trình duyệt web
+D. Hai hay nhiều máy tính/thiết bị được kết nối để giao tiếp và chia sẻ tài nguyên
+ANSWER: D
+EXPLAIN: Mạng máy tính gồm ít nhất hai máy tính hoặc thiết bị kết nối qua môi trường có dây hay không dây để chia sẻ dữ liệu, phần cứng, phần mềm hoặc giao tiếp.
+
+---
+
+Q: Một trường đại học kết nối các mạng trong nhiều cơ sở ở các tỉnh khác nhau. Xét theo phạm vi, mạng tổng thể phù hợp nhất với loại nào?
+A. LAN
+B. NFC
+C. WAN
+D. Bluetooth PAN duy nhất
+ANSWER: C
+EXPLAIN: WAN bao phủ phạm vi địa lý rộng và thường liên kết nhiều LAN; Internet là ví dụ lớn nhất của mạng WAN.
+
+---
+
+Q: Với một buổi thi trực tuyến cần kết nối ổn định và độ trễ thấp tại bàn cố định, phương án nào thường phù hợp hơn?
+A. Bluetooth
+B. NFC
+C. Ethernet qua cáp RJ45
+D. Chỉ dùng USB Flash Drive
+ANSWER: C
+EXPLAIN: Ethernet có dây thường nhanh, ổn định, ít nhiễu và độ trễ thấp hơn Wi-Fi; điểm đánh đổi là kém linh hoạt và phụ thuộc chiều dài cáp.
+
+---
+
+Q: Yếu tố nào có thể làm kết nối Wi-Fi kém ổn định hơn Ethernet?
+A. Phần mở rộng của tệp quá dài
+B. Vật cản và nhiễu sóng từ thiết bị khác
+C. Dung lượng ROM quá lớn
+D. Máy tính có nhiều thư mục con
+ANSWER: B
+EXPLAIN: Wi-Fi truyền bằng sóng vô tuyến nên bị ảnh hưởng bởi tường, đồ đạc, khoảng cách và nhiễu; Ethernet truyền qua cáp nên thường ổn định hơn.
+
+---
+
+Q: Công nghệ nào được Wi-Fi 7 sử dụng để tăng băng thông và giảm độ trễ theo nội dung chương?
+A. Màn hình E-ink và NFC
+B. Băng thông 320 MHz và vận hành đa liên kết MLO
+C. Cáp RJ45 và SATA
+D. ROM và DDR4
+ANSWER: B
+EXPLAIN: Wi-Fi 7 (IEEE 802.11be) được nêu với băng thông kênh 320 MHz và Multi-Link Operation, góp phần tăng tốc độ và giảm độ trễ.
+
+---
+
+Q: Công nghệ nào phù hợp nhất để kết nối tai nghe không dây với điện thoại trong phạm vi khoảng 10 mét và tiêu thụ ít năng lượng?
+A. WAN
+B. NFC hoạt động độc lập trong vài kilomet
+C. Bluetooth
+D. Ethernet
+ANSWER: C
+EXPLAIN: Bluetooth là công nghệ không dây tầm ngắn, tiết kiệm năng lượng, thường dùng cho tai nghe, loa, chuột và bàn phím.
+
+---
+
+Q: Điểm nào phân biệt NFC rõ nhất với Bluetooth và Wi-Fi?
+A. NFC hoạt động ở khoảng cách cực ngắn, thường chỉ vài centimet
+B. NFC chỉ hoạt động qua cáp đồng
+C. NFC luôn có phạm vi rộng hơn Wi-Fi
+D. NFC dùng để kết nối nhiều LAN thành Internet
+ANSWER: A
+EXPLAIN: NFC là giao tiếp trường gần, dùng cảm ứng từ trường trong phạm vi vài centimet, phù hợp thao tác chạm để thanh toán, xác thực hoặc ghép nối nhanh.
+
+---
+
+Q: Trong giao tiếp NFC giữa điện thoại và thẻ thanh toán, mô tả nào đúng nhất?
+A. Thẻ luôn phải có pin riêng để tạo Internet
+B. Điện thoại chủ động tạo trường điện từ, có thể cấp năng lượng cho thẻ thụ động để trao đổi dữ liệu
+C. Hai thiết bị phải nối bằng cáp RJ45
+D. Thẻ gửi dữ liệu qua vệ tinh
+ANSWER: B
+EXPLAIN: Thiết bị NFC chủ động tạo trường điện từ; thiết bị thụ động ở gần có thể nhận năng lượng từ trường đó rồi trao đổi dữ liệu.
+
+---
+
+Q: Ứng dụng nào KHÔNG phải là ví dụ điển hình của NFC trong chương?
+A. Thanh toán không chạm tại máy POS
+B. Đọc chip CCCD để xác thực
+C. Chạm để ghép nối nhanh tai nghe
+D. Kết nối Internet cho cả tòa nhà trong phạm vi hàng chục mét
+ANSWER: D
+EXPLAIN: Phủ mạng cho tòa nhà là vai trò phù hợp với Wi-Fi/LAN; NFC chỉ hoạt động ở khoảng cách rất ngắn và phục vụ giao tiếp kiểu chạm gần.
+
+---
+
+Q: Sinh viên muốn số hóa ghi chú viết tay thành tệp PDF để lưu trữ và chia sẻ. Thiết bị nào trực tiếp đáp ứng nhu cầu này?
+A. Tai nghe
+B. Loa
+C. Máy in
+D. Máy quét
+ANSWER: D
+EXPLAIN: Scanner là thiết bị nhập giúp chuyển tài liệu giấy, sách hoặc ghi chú viết tay thành ảnh hay tệp PDF trên máy tính.
+
+---
+
+Q: Biện pháp nào bảo vệ bài tập lớn và luận văn tốt nhất khi máy tính chính bị hỏng?
+A. Chỉ tăng độ sáng màn hình
+B. Sao lưu định kỳ sang ổ cứng di động
+C. Đổi trình duyệt mặc định
+D. Tắt phần mở rộng tên tệp
+ANSWER: B
+EXPLAIN: External HDD/SSD phù hợp sao lưu dữ liệu quan trọng, tạo bản dự phòng độc lập để giảm rủi ro mất dữ liệu khi thiết bị chính gặp sự cố.
+
+---
+
+Q: Phát biểu nào về USB-C là chính xác nhất?
+A. Mọi cổng USB-C đều có tốc độ và khả năng xuất hình giống nhau
+B. USB-C là tên kiểu dáng đầu nối; tính năng thực tế phụ thuộc giao thức như USB 3.2, USB4 hoặc Thunderbolt
+C. USB-C chỉ dùng để sạc, không truyền dữ liệu
+D. USB-C luôn đồng nghĩa với Thunderbolt 5
+ANSWER: B
+EXPLAIN: Hình dạng USB-C không bảo đảm bộ tính năng. Hai cổng trông giống nhau có thể hỗ trợ tốc độ truyền, sạc và xuất hình rất khác tùy giao thức.
+
+---
+
+Q: Một cổng USB-C cần truyền tệp video rất lớn, xuất nhiều màn hình độ phân giải cao và sạc laptop. Giao thức nào phù hợp nhất trong các lựa chọn?
+A. NFC
+B. SATA
+C. Thunderbolt 4 hoặc 5
+D. Bluetooth 5.4
+ANSWER: C
+EXPLAIN: Thunderbolt qua đầu nối USB-C hỗ trợ băng thông cao, xuất màn hình độ phân giải cao và cấp nguồn; biểu tượng tia sét thường giúp nhận biết cổng này.
+
+---
+
+Q: Ghép công cụ với nhiệm vụ nào đúng?
+A. Excel/Google Sheets - xử lý số liệu, tính toán và lập biểu đồ
+B. PowerPoint/Google Slides - quản lý driver phần cứng
+C. Word/Google Docs - thiết lập mạng WAN
+D. OneDrive - thay thế CPU để chạy phép tính logic
+ANSWER: A
+EXPLAIN: Excel và Google Sheets là phần mềm bảng tính, hỗ trợ công thức, xử lý, phân tích và trực quan hóa dữ liệu.
+
+---
+
+Q: Nhóm công cụ nào phù hợp nhất để thiết kế bài báo cáo dự án dưới dạng slide có văn bản, hình ảnh và video?
+A. Word và Google Docs
+B. PowerPoint và Google Slides
+C. Excel và Google Sheets
+D. Zotero và Mendeley
+ANSWER: B
+EXPLAIN: PowerPoint và Google Slides là phần mềm trình chiếu, được thiết kế để tạo và trình bày các slide đa phương tiện.
+
+---
+
+Q: Một nhóm sinh viên ưu tiên cộng tác thời gian thực, làm việc chủ yếu trực tuyến và không cần tương thích hoàn hảo với tài liệu MS Office phức tạp. Bộ công cụ nào phù hợp nhất?
+A. Google Workspace
+B. Chỉ dùng ROM
+C. LibreOffice trên một máy không chia sẻ
+D. Trình điều khiển thiết bị
+ANSWER: A
+EXPLAIN: Google Workspace hoạt động trực tuyến và có khả năng cộng tác thời gian thực rất tốt; đổi lại, làm việc offline và định dạng MS Office phức tạp có thể hạn chế hơn.
+
+---
+
+Q: Người dùng cần bộ văn phòng hoàn toàn miễn phí, cài trên máy và làm việc offline tốt. Lựa chọn nào phù hợp nhất?
+A. Microsoft Office bản trả phí
+B. Google Workspace chỉ ở chế độ trực tuyến
+C. LibreOffice
+D. Zoom Meeting
+ANSWER: C
+EXPLAIN: LibreOffice miễn phí, cài đặt trên máy và hỗ trợ làm việc offline; khả năng tương thích định dạng MS Office khá tốt nhưng đôi khi gặp vấn đề với định dạng phức tạp.
+
+---
+
+Q: Dấu trang (bookmark) trong trình duyệt phục vụ mục đích nào?
+A. Tăng dung lượng RAM vật lý
+B. Gỡ bỏ hệ điều hành
+C. Mã hóa toàn bộ ổ cứng
+D. Lưu địa chỉ trang web quan trọng để truy cập lại nhanh
+ANSWER: D
+EXPLAIN: Bookmark là chức năng của trình duyệt để lưu các trang web cần dùng lại, khác với lịch sử là bản ghi các trang đã truy cập.
+
+---
+
+Q: Kỹ thuật cơ bản nào giúp thu hẹp kết quả tìm kiếm trên web?
+A. Dùng từ khóa chính xác và toán tử tìm kiếm phù hợp
+B. Mở càng nhiều tab ngẫu nhiên càng tốt
+C. Xóa phần mở rộng của mọi tệp
+D. Chỉ tìm bằng một ký tự bất kỳ
+ANSWER: A
+EXPLAIN: Từ khóa cụ thể cùng các toán tử tìm kiếm giúp công cụ tìm kiếm hiểu phạm vi yêu cầu và loại bớt kết quả không liên quan.
+
+---
+
+Q: Sinh viên đang viết luận văn và muốn tự động chèn trích dẫn, tạo danh mục tài liệu theo chuẩn APA. Loại phần mềm nào phù hợp nhất?
+A. Phần mềm quản lý tài liệu tham khảo như Zotero hoặc Mendeley
+B. Driver máy in
+C. Phần mềm hội nghị truyền hình
+D. Tiện ích nén tệp
+ANSWER: A
+EXPLAIN: Công cụ quản lý tài liệu tham khảo thu thập, tổ chức nguồn và tự động tạo trích dẫn, danh mục theo chuẩn, giúp tiết kiệm thời gian và hạn chế lỗi học thuật.
+
+---
+
+Q: Công cụ nào phù hợp nhất để tạo một “bộ não số”, liên kết ghi chú và tổ chức ý tưởng lâu dài?
+A. Notion, OneNote, Evernote hoặc Obsidian
+B. BIOS và firmware
+C. Ethernet và RJ45
+D. HDD và ROM
+ANSWER: A
+EXPLAIN: Các ứng dụng ghi chú cho phép lưu nội dung đa dạng, tổ chức và liên kết thông tin, giúp quản lý tri thức cá nhân có hệ thống.
+
+---
+
+Q: Một nhóm cần theo dõi tiến độ bài tập lớn, phân công công việc và quản lý thời hạn. Nhóm công cụ nào phù hợp nhất?
+A. Google Calendar, Trello hoặc Asana
+B. Paint, Calculator hoặc BIOS
+C. Scanner, printer hoặc webcam
+D. NFC, Bluetooth hoặc Wi-Fi
+ANSWER: A
+EXPLAIN: Đây là các công cụ lập kế hoạch và quản lý công việc, hỗ trợ lịch, nhiệm vụ, thời hạn và theo dõi tiến độ dự án nhóm.
+
+---
+
+Q: Vai trò nào thuộc về LMS như VNU-LMS, Moodle hoặc Canvas?
+A. Thay thế ổ SSD để lưu hệ điều hành
+B. Là lớp học ảo để phân phối tài liệu, giao/nộp bài, kiểm tra và theo dõi điểm
+C. Chỉ dùng để gọi video đồng bộ
+D. Chỉ dùng để biên tập ảnh
+ANSWER: B
+EXPLAIN: LMS là nền tảng quản lý toàn bộ hoạt động học tập trực tuyến, gồm nội dung, thông báo, bài tập, bài kiểm tra, nộp bài và điểm số.
+
+---
+
+Q: Điểm khác biệt chính giữa LMS và phần mềm hội nghị truyền hình trong học trực tuyến là gì?
+A. LMS quản lý nội dung và tiến trình học; phần mềm hội nghị phục vụ tương tác trực tiếp theo thời gian thực
+B. LMS chỉ hoạt động bằng Bluetooth; hội nghị chỉ hoạt động bằng NFC
+C. LMS là phần cứng; hội nghị là hệ điều hành
+D. Hai loại hoàn toàn giống nhau về vai trò
+ANSWER: A
+EXPLAIN: LMS tổ chức lớp học, tài liệu, bài tập và điểm; Zoom, Meet hoặc Teams chủ yếu hỗ trợ buổi học đồng bộ qua âm thanh, video và chia sẻ màn hình.
+
+---
+
+Q: Kỹ năng nào cần thiết khi tham gia một lớp học đồng bộ qua Zoom, Google Meet hoặc Microsoft Teams?
+A. Thay CPU trong lúc cuộc họp diễn ra
+B. Bật/tắt micro, camera, chia sẻ màn hình và tham gia phòng thảo luận nhỏ
+C. Chuyển HDD thành RAM
+D. Viết driver cho webcam trước mỗi buổi học
+ANSWER: B
+EXPLAIN: Các thao tác điều khiển âm thanh, hình ảnh, chia sẻ nội dung và breakout room là kỹ năng sử dụng công cụ hội nghị truyền hình thiết yếu.
+
+---
+
+Q: Sinh viên cần đồng thời đọc tài liệu và soạn báo cáo trên laptop trong thời gian dài. Thiết bị ngoại vi nào trực tiếp mở rộng không gian làm việc?
+A. Màn hình ngoài
+B. Máy quét
+C. USB Flash Drive
+D. Microphone
+ANSWER: A
+EXPLAIN: Màn hình ngoài mở rộng vùng hiển thị, cho phép đặt tài liệu và cửa sổ soạn thảo cạnh nhau, cải thiện hiệu quả làm việc đa nhiệm.
+
+---
+
+Q: Khi chọn webcam rời phục vụ học trực tuyến, tiêu chí nào được chương đề xuất?
+A. Chỉ cần vỏ có màu đẹp
+B. Tối thiểu Full HD 1080p và thu sáng tốt trong điều kiện thiếu sáng
+C. Bắt buộc dùng cổng SATA
+D. Dung lượng lưu trữ tối thiểu 1 TB
+ANSWER: B
+EXPLAIN: Độ phân giải ít nhất Full HD và khả năng hoạt động tốt khi ánh sáng yếu giúp hình ảnh cuộc họp rõ nét, chuyên nghiệp hơn webcam tích hợp chất lượng thấp.
+
+---
+
+Q: Vì sao bàn phím công thái học có thể hữu ích với người phải gõ văn bản nhiều giờ?
+A. Nó tự động tạo trích dẫn APA
+B. Nó thay thế hoàn toàn hệ điều hành
+C. Nó làm tăng tốc độ Internet
+D. Nó giúp giảm mỏi và nguy cơ vấn đề ở cổ tay, vai gáy
+ANSWER: D
+EXPLAIN: Thiết kế công thái học hướng tới tư thế nhập liệu tự nhiên và thoải mái hơn, giảm căng thẳng cơ xương khi sử dụng lâu dài.
+
+---
+
+Q: Cấu hình nào tạo thành nền tảng phần cứng mạnh cho tác vụ AI và truy xuất dữ liệu nhanh theo tổng kết chương?
+A. CPU có NPU, RAM DDR5 và SSD NVMe
+B. CPU cũ, RAM DDR4 và ổ đĩa quang
+C. Chỉ một USB Flash Drive và màn hình
+D. NFC, máy in và loa
+ANSWER: A
+EXPLAIN: NPU tăng tốc AI, DDR5 cung cấp băng thông bộ nhớ cao và SSD NVMe truy xuất nhanh qua PCIe; ba thành phần bổ trợ nhau trong hệ thống hiện đại.
+
+---
+
+Q: Một sinh viên cần chọn giải pháp toàn diện cho học tập: máy thường xuyên di chuyển, họp online rõ ràng và bảo vệ dữ liệu luận văn. Tổ hợp nào hợp lý nhất?
+A. Desktop không webcam, loa ngoài và không sao lưu
+B. Laptop, tai nghe có micro và ổ cứng ngoài để sao lưu
+C. e-Reader, máy in và NFC
+D. Smartphone, ROM rời và cáp SATA
+ANSWER: B
+EXPLAIN: Laptop đáp ứng tính di động, tai nghe có micro hỗ trợ lớp học trực tuyến, còn ổ cứng ngoài tạo bản sao lưu cho dữ liệu quan trọng.
