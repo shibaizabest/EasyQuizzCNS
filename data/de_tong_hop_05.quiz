@@ -1,0 +1,399 @@
+# Quiz: Đề tổng hợp 05
+
+Q: Nhóm chọn gửi một thông báo quan trọng bằng văn bản bất đồng bộ. Cách nào giảm nguy cơ hiểu lầm vốn có của phương thức này?
+A. Diễn đạt cẩn thận, rõ ngữ cảnh vì người nhận không có giọng điệu hoặc biểu cảm để hỗ trợ diễn giải
+B. Dùng câu càng ngắn càng tốt dù thiếu chủ ngữ và bối cảnh
+C. Yêu cầu mọi người phản hồi ngay tại cùng một thời điểm
+D. Thay toàn bộ nội dung bằng biểu tượng cảm xúc
+ANSWER: A
+EXPLAIN: Giao tiếp bất đồng bộ thiếu tín hiệu phi ngôn ngữ nên thông điệp phải được diễn đạt cẩn thận để hạn chế hiểu lầm.
+
+---
+
+Q: Định dạng nào gắn với bảng tính Microsoft Excel để tính toán và tạo biểu đồ?
+A. `.mp4`
+B. `.png`
+C. `.txt`
+D. `.xls` hoặc `.xlsx`
+ANSWER: D
+EXPLAIN: XLS/XLSX là định dạng bảng tính Excel, hỗ trợ dữ liệu, công thức, phân tích và biểu đồ.
+
+---
+
+Q: Một sinh viên nhận được video “giảng viên” yêu cầu chuyển tiền gấp qua tin nhắn. Cách phản ứng phù hợp nhất là gì?
+A. Xác minh qua kênh liên lạc thứ hai đáng tin cậy trước khi làm theo
+B. Chuyển tiền ngay vì video có hình ảnh và giọng nói quen thuộc
+C. Chỉ kiểm tra xem video có độ phân giải cao hay không
+D. Đăng video công khai để nhờ mọi người đoán
+ANSWER: A
+EXPLAIN: Deepfake có thể giả mạo âm thanh, video; cần hoài nghi và xác minh yêu cầu bất thường qua kênh khác.
+
+---
+
+Q: Cách nhắn tin nào tôn trọng thời gian người nhận hơn?
+A. Gộp các ý liên quan thành một tin nhắn rõ ràng thay vì gửi nhiều tin nhỏ liên tục
+B. Gửi từng từ thành một tin riêng
+C. Nhắn ngoài giờ cho mọi vấn đề không khẩn cấp
+D. Không nêu mục đích của tin nhắn
+ANSWER: A
+EXPLAIN: Netiquette trong chat yêu cầu ngắn gọn, rõ ràng và hạn chế chuỗi tin nhỏ gây gián đoạn.
+
+---
+
+Q: Một sinh viên muốn phòng tránh đạo văn khi diễn giải. Trình tự nào hợp lý nhất?
+A. Đọc hiểu kỹ, đặt bản gốc sang một bên, viết bằng lời mình, so sánh lại và trích dẫn nguồn
+B. Sao chép đoạn gốc, thay vài từ, xóa tên tác giả và nộp
+C. Dùng AI viết lại, không đọc bản gốc và không ghi nguồn
+D. Chỉ đưa nguồn vào danh mục cuối bài mà không cần trích dẫn trong văn bản
+ANSWER: A
+EXPLAIN: Đây là quy trình diễn giải được nêu trong chương.
+
+---
+
+Q: Quy tắc vàng về micro trong cuộc họp trực tuyến là gì?
+A. Luôn bật micro để thể hiện sự hiện diện
+B. Tắt micro khi không nói để tránh tạp âm
+C. Chỉ người điều phối mới được dùng micro
+D. Tắt micro cả khi đang phát biểu
+ANSWER: B
+EXPLAIN: Tắt micro khi không nói giúp hạn chế tạp âm ảnh hưởng đến toàn cuộc họp.
+
+---
+
+Q: Lợi ích của định dạng ngày `YYYY-MM-DD` trong tên tệp là gì?
+A. Tự động mã hóa nội dung
+B. Làm tệp nhỏ hơn
+C. Cho phép mở tệp trên mọi hệ điều hành
+D. Giúp tệp sắp xếp theo thứ tự thời gian khi sắp xếp theo tên
+ANSWER: D
+EXPLAIN: Đặt năm trước tháng và ngày giúp thứ tự từ điển của tên tệp trùng với thứ tự thời gian.
+
+---
+
+Q: Trong mô hình CLEAR, chữ C đại diện cho gì?
+A. Creativity
+B. Citation
+C. Calculation
+D. Context - cung cấp thông tin nền liên quan
+ANSWER: D
+EXPLAIN: Context giúp AI hiểu tình huống và mục tiêu trước khi thực hiện chỉ dẫn.
+
+---
+
+Q: AI tạo sinh được định nghĩa đúng nhất là gì?
+A. Lĩnh vực AI tạo ra nội dung mới như văn bản, hình ảnh hoặc mã lập trình
+B. Phần mềm chỉ dùng để phân loại dữ liệu có sẵn
+C. Công cụ chuyên chống ransomware trên thiết bị cá nhân
+D. Hệ thống bắt buộc dùng để trích dẫn Harvard
+ANSWER: A
+EXPLAIN: Generative AI tạo nội dung mới hoàn toàn, không chỉ phân tích hay phân loại dữ liệu có sẵn.
+
+---
+
+Q: Vì sao việc nhận thức về dấu chân số bị động đặc biệt quan trọng?
+A. Vì nó cho thấy quyền riêng tư không chỉ phụ thuộc vào những gì ta tự chọn chia sẻ
+B. Vì nó giúp người dùng xóa hoàn toàn mọi dữ liệu đã từng xuất hiện trên Internet
+C. Vì nó đảm bảo mọi dữ liệu bị động đều là dữ liệu công khai hợp pháp
+D. Vì nó chỉ liên quan đến các bài đăng có nhiều lượt tương tác
+ANSWER: A
+EXPLAIN: Dấu chân số bị động làm thay đổi tư duy từ “tôi chia sẻ gì” sang “điều gì đang bị thu thập về tôi”.
+
+---
+
+Q: XML và JSON thường được xếp vào loại dữ liệu nào?
+A. Phi cấu trúc hoàn toàn
+B. Bán cấu trúc vì có thẻ hoặc quy tắc tổ chức nhưng cấu trúc không cố định như bảng quan hệ
+C. Chỉ là dữ liệu số
+D. Dữ liệu có cấu trúc bắt buộc theo hàng và cột
+ANSWER: B
+EXPLAIN: XML và JSON có thành phần đánh dấu và quan hệ nội tại nhưng lược đồ linh hoạt, nên thuộc nhóm bán cấu trúc.
+
+---
+
+Q: Khả năng tăng cường nào của Thunderbolt 5 được tài liệu nêu cho tác vụ video và cấp nguồn?
+A. 40 Gbps và sạc tối đa 15 W
+B. Có thể tăng băng thông lên 120 Gbps cho video và hỗ trợ sạc tới 240 W
+C. Chỉ truyền âm thanh, không truyền điện
+D. Chỉ hoạt động với đầu cắm RJ45
+ANSWER: B
+EXPLAIN: Thunderbolt 5 có thể phân bổ băng thông tới 120 Gbps cho nhu cầu hiển thị/video và hỗ trợ công suất sạc tối đa 240 W theo tài liệu.
+
+---
+
+Q: Một doanh nghiệp muốn tích hợp sâu Word, Excel, PowerPoint với nền tảng giao tiếp nhóm. Lựa chọn phù hợp nhất là gì?
+A. Microsoft 365 cùng Microsoft Teams
+B. Google Translate
+C. Scholarcy
+D. Calendly
+ANSWER: A
+EXPLAIN: Microsoft 365 mạnh về tích hợp các ứng dụng Office với Microsoft Teams trong môi trường doanh nghiệp.
+
+---
+
+Q: Bộ lọc thời gian của công cụ tìm kiếm hữu ích nhất khi nào?
+A. Nghiên cứu tác phẩm cổ điển duy nhất không cần bối cảnh mới
+B. Muốn tìm mọi kết quả bất kể ngày
+C. Cần thông tin cập nhật trong tháng hoặc năm gần đây
+D. Muốn đổi định dạng tệp
+ANSWER: C
+EXPLAIN: Lọc thời gian loại bớt nguồn cũ, đặc biệt hữu ích với công nghệ, y tế, luật và chủ đề thay đổi nhanh.
+
+---
+
+Q: Luật Sở hữu trí tuệ bảo vệ đối tượng nào?
+A. Quyền tác giả đối với bài viết, sách, phần mềm và tác phẩm nghệ thuật
+B. Chỉ mật khẩu cá nhân và mã OTP
+C. Chỉ các thiết bị phần cứng như máy tính và điện thoại
+D. Chỉ các bài đăng không có tác giả trên Internet
+ANSWER: A
+EXPLAIN: Luật Sở hữu trí tuệ bảo vệ quyền tác giả đối với các công trình sáng tạo, kể cả nội dung số.
+
+---
+
+Q: Với văn bản AI có URL chia sẻ được, danh mục tham khảo cần có yếu tố nào?
+A. Tên nhà phát triển AI, năm, tên công cụ, phản hồi cho ai, ngày tháng và URL
+B. Chỉ cần ghi tên môn học và số chương
+C. Chỉ cần ghi “Internet” và ngày truy cập
+D. Chỉ cần ghi tên người dùng đã đặt câu hỏi
+ANSWER: A
+EXPLAIN: Bảng 6.3 yêu cầu cấu trúc tham khảo có tên nhà phát triển, công cụ, người nhận phản hồi, ngày tháng và URL nếu có.
+
+---
+
+Q: Notion, Evernote và OneNote phát huy hiệu quả nhất trong tình huống nào?
+A. Dựng kỹ xảo video phức tạp
+B. Tạo ảnh từ nhiễu ngẫu nhiên
+C. Thu thập tài liệu, ghi chú, quản lý thông tin và phác thảo dàn ý
+D. Làm sạch tiếng vang trong bản ghi
+ANSWER: C
+EXPLAIN: Các ứng dụng ghi chú hoạt động như “bộ não số thứ hai”, phù hợp giai đoạn thu thập thông tin và lên ý tưởng.
+
+---
+
+Q: Ghép công cụ với nhiệm vụ nào đúng?
+A. Excel/Google Sheets - xử lý số liệu, tính toán và lập biểu đồ
+B. PowerPoint/Google Slides - quản lý driver phần cứng
+C. Word/Google Docs - thiết lập mạng WAN
+D. OneDrive - thay thế CPU để chạy phép tính logic
+ANSWER: A
+EXPLAIN: Excel và Google Sheets là phần mềm bảng tính, hỗ trợ công thức, xử lý, phân tích và trực quan hóa dữ liệu.
+
+---
+
+Q: Vai trò cơ bản nào thuộc về CPU thay vì NPU, RAM hoặc ổ lưu trữ?
+A. Lưu vĩnh viễn hệ điều hành và tệp cá nhân
+B. Chỉ tăng tốc các mô hình AI chuyên dụng
+C. Thực hiện lệnh chương trình, phép toán số học, logic và điều khiển hoạt động xử lý
+D. Hiển thị trực tiếp kết quả lên giấy
+ANSWER: C
+EXPLAIN: CPU là bộ xử lý trung tâm thực thi chỉ dẫn, tính toán và điều phối xử lý; NPU chỉ chuyên biệt cho AI, còn RAM và ổ đĩa đảm nhiệm lưu trữ.
+
+---
+
+Q: Tính năng Screen Time trên iOS hoặc Digital Wellbeing trên Android được khuyến nghị dùng để làm gì?
+A. Đặt giới hạn thời gian sử dụng cho các ứng dụng như mạng xã hội
+B. Tự động tạo bài luận hoàn chỉnh thay cho sinh viên
+C. Quét mã QR để xác minh mọi đường dẫn
+D. Chuyển tài liệu tham khảo thành dữ liệu cá nhân
+ANSWER: A
+EXPLAIN: Các tính năng này giúp người dùng thiết lập giới hạn và lấy lại quyền kiểm soát công nghệ.
+
+---
+
+Q: Thứ tự nào mô tả hợp lý nhất chu trình xử lý thông tin cơ bản của máy tính?
+A. Xử lý → Nhập → Lưu trữ → Xuất
+B. Nhập → Xuất → Xử lý → Lưu trữ
+C. Nhập → Xử lý → Xuất, đồng thời có thể lưu trữ dữ liệu và kết quả
+D. Lưu trữ → Xuất → Nhập → Xử lý
+ANSWER: C
+EXPLAIN: Máy tính tiếp nhận dữ liệu, xử lý theo chương trình, xuất thông tin và có thể lưu dữ liệu, chương trình hoặc kết quả để dùng lại.
+
+---
+
+Q: ChatGPT, Gemini và Copilot dựa chủ yếu trên nền tảng nào cho tác vụ văn bản?
+A. Hệ chuyên gia không học
+B. Mô hình Ngôn ngữ Lớn (LLM)
+C. Chỉ cơ sở dữ liệu quan hệ
+D. Máy tìm kiếm ảnh ngược
+ANSWER: B
+EXPLAIN: LLM được huấn luyện trên lượng văn bản lớn để mô hình hóa và tạo ngôn ngữ.
+
+---
+
+Q: Khanmigo được nêu như ví dụ của vai trò nào?
+A. Gia sư ảo cá nhân hóa trên Khan Academy
+B. Công cụ tạo deepfake
+C. Hệ chuyên gia chấm tín dụng
+D. Mạng xã hội thời gian thực
+ANSWER: A
+EXPLAIN: Khanmigo minh họa trợ lý học tập sẵn sàng hỗ trợ người học mọi lúc.
+
+---
+
+Q: Trong nhận dạng khuôn mặt, các lớp DL thường học theo trình tự nào?
+A. Khuôn mặt hoàn chỉnh rồi mới học cạnh
+B. Chỉ học màu sắc
+C. Không tự học đặc trưng
+D. Cạnh/góc → bộ phận như mắt mũi → toàn bộ khuôn mặt
+ANSWER: D
+EXPLAIN: Deep networks xây dựng biểu diễn phân cấp từ đặc trưng đơn giản đến phức tạp.
+
+---
+
+Q: Truy vấn `thuyền ai AROUND(8) tối nay` yêu cầu điều gì?
+A. Chỉ tìm tám kết quả
+B. Hai cụm từ xuất hiện cách nhau không quá khoảng tám từ
+C. Tìm trong tám website
+D. Loại bỏ các trang có từ “tối nay”
+ANSWER: B
+EXPLAIN: AROUND(n) là toán tử khoảng cách, giới hạn số từ nằm giữa hai thuật ngữ.
+
+---
+
+Q: Bước kiểm tra nguồn tin nào phù hợp nhất khi gặp một tin gây sốc?
+A. Chia sẻ ngay để hỏi cộng đồng
+B. Chỉ nhìn tên miền rồi kết luận
+C. Tin tài khoản có nhiều người theo dõi
+D. Xác định cơ quan chủ quản, thông tin liên hệ và đối chiếu với báo chí hoặc tổ chức uy tín
+ANSWER: D
+EXPLAIN: Nguồn minh bạch và có trách nhiệm giải trình đáng tin hơn blog, website lạ hoặc tài khoản không rõ danh tính.
+
+---
+
+Q: CC BY-NC-SA đồng thời đặt ra những điều kiện nào?
+A. Phi thương mại, không ghi công và cấm phân phối
+B. Không ghi công, thương mại tự do và không phái sinh
+C. Ghi công, thương mại tự do và không cần chia sẻ giấy phép
+D. Ghi công, phi thương mại và chia sẻ tương tự
+ANSWER: D
+EXPLAIN: BY yêu cầu ghi công, NC giới hạn phi thương mại và SA yêu cầu tác phẩm phái sinh dùng cùng giấy phép.
+
+---
+
+Q: Hạn chế nổi bật của Meta AI theo bảng là gì?
+A. Lập luận sâu/văn bản dài còn hạn chế so với GPT-4 và thường có thể hallucinate
+B. Không tạo được hình ảnh
+C. Không tích hợp mạng xã hội
+D. Chỉ dùng cho học thuật
+ANSWER: A
+EXPLAIN: Meta AI phù hợp sáng tạo nhanh hơn các nhiệm vụ lập luận dài, phức tạp.
+
+---
+
+Q: Cảm biến, máy bay không người lái và vệ tinh có thể giúp nông nghiệp dựa trên dữ liệu bằng cách nào?
+A. Chỉ tạo ảnh động GIF
+B. Quản lý trích dẫn Harvard
+C. Tối ưu tưới tiêu, bón phân, dự báo sâu bệnh và tăng năng suất
+D. Thay thế mọi quyết định của nông dân mà không cần kiểm chứng
+ANSWER: C
+EXPLAIN: Dữ liệu môi trường và ảnh quan sát hỗ trợ canh tác chính xác, dự báo và phân bổ tài nguyên hiệu quả.
+
+---
+
+Q: Trong giao tiếp NFC giữa điện thoại và thẻ thanh toán, mô tả nào đúng nhất?
+A. Thẻ luôn phải có pin riêng để tạo Internet
+B. Điện thoại chủ động tạo trường điện từ, có thể cấp năng lượng cho thẻ thụ động để trao đổi dữ liệu
+C. Hai thiết bị phải nối bằng cáp RJ45
+D. Thẻ gửi dữ liệu qua vệ tinh
+ANSWER: B
+EXPLAIN: Thiết bị NFC chủ động tạo trường điện từ; thiết bị thụ động ở gần có thể nhận năng lượng từ trường đó rồi trao đổi dữ liệu.
+
+---
+
+Q: Hành vi nào thể hiện nguyên tắc tôn trọng trong hợp tác số?
+A. Yêu cầu mọi người làm việc theo cùng một phong cách cá nhân
+B. Bỏ qua ý kiến trái chiều
+C. Gọi đột xuất bất kể lịch người khác
+D. Tôn trọng thời gian, ý kiến và phong cách làm việc của nhau
+ANSWER: D
+EXPLAIN: Tôn trọng là một trong ba nền tảng văn hóa của hợp tác số hiệu quả.
+
+---
+
+Q: Lựa chọn nào phản ánh đúng nhất ưu điểm và hạn chế của smartphone khi dùng cho học tập?
+A. Luôn mang theo và truy cập thông tin nhanh, nhưng màn hình nhỏ và không phù hợp các tác vụ nặng
+B. Có hiệu năng/giá và khả năng nâng cấp linh kiện tốt nhất
+C. Có màn hình E-ink và pin kéo dài hàng tuần
+D. Không thể kết nối Internet ngoài mạng dây Ethernet
+ANSWER: A
+EXPLAIN: Smartphone rất cơ động, kết nối thuận tiện và có hệ sinh thái ứng dụng lớn, nhưng màn hình nhỏ, pin hữu hạn và hiệu năng hạn chế đối với công việc nặng.
+
+---
+
+Q: Tokenization là quá trình nào?
+A. Chuyển token thành hình ảnh
+B. Tạo trích dẫn nguồn
+C. Kiểm tra độ chính xác
+D. Chia prompt thành các đơn vị như từ, phần từ hoặc dấu câu
+ANSWER: D
+EXPLAIN: LLM xử lý chuỗi dưới dạng token chứ không trực tiếp như văn bản nguyên khối.
+
+---
+
+Q: “Môi trường thực hành an toàn” bằng AI có ích gì?
+A. Giúp gian lận phỏng vấn
+B. Thay thế mọi giao tiếp thật
+C. Không cung cấp phản hồi
+D. Cho phép luyện thuyết trình, tranh biện, phỏng vấn và nhận phản hồi mà không sợ sai trước đám đông
+ANSWER: D
+EXPLAIN: Mô phỏng tạo không gian luyện tập lặp lại và phản hồi về nội dung, diễn đạt hoặc ngôn ngữ cơ thể.
+
+---
+
+Q: Sau khi AI nêu một số liệu trong phần nghiên cứu, hành động đúng nhất là gì?
+A. Kiểm chứng chéo bằng nguồn uy tín, đặc biệt với số liệu và sự kiện
+B. Xóa số liệu để không cần nghiên cứu
+C. Đưa ngay vào bài vì AI có dữ liệu huấn luyện rộng
+D. Chỉ hỏi lại đúng AI đó bằng cùng một prompt
+ANSWER: A
+EXPLAIN: AI chỉ là điểm khởi đầu; các số liệu và sự kiện phải được người dùng kiểm chứng với tư duy phản biện.
+
+---
+
+Q: Phát biểu nào phân biệt đúng Grammarly và Microsoft Editor theo nội dung chương?
+A. Grammarly chỉ kiểm tra lỗi cơ bản, còn Microsoft Editor chuyên kiểm tra đạo văn trả phí
+B. Cả hai chỉ dùng để soạn văn bản mới, không rà bản nháp
+C. Microsoft Editor hoạt động độc lập với Word và trình duyệt Edge
+D. Grammarly có thể gợi ý từ đồng nghĩa và kiểm tra đạo văn; Microsoft Editor tích hợp trong Word và Edge để rà lỗi, gợi ý cải thiện
+ANSWER: D
+EXPLAIN: Grammarly có phạm vi kiểm tra và gợi ý rộng, còn Microsoft Editor được tích hợp trong Word và Edge để hỗ trợ rà soát văn bản.
+
+---
+
+Q: Điểm độc đáo của Descript trong chỉnh sửa audio là gì?
+A. Chuyển infographic thành website
+B. Tạo ảnh từ văn bản bằng diffusion
+C. Chỉ tăng âm lượng mà không tạo transcript
+D. Sửa transcript văn bản làm tệp âm thanh thay đổi tương ứng
+ANSWER: D
+EXPLAIN: Descript chuyển lời nói thành transcript và cho phép biên tập audio thông qua thao tác sửa văn bản.
+
+---
+
+Q: Công cụ nào thân thiện, có trên điện thoại và máy tính, phù hợp video ngắn mạng xã hội và hỗ trợ phụ đề tự động?
+A. OpenShot
+B. Canva Video Editor
+C. DaVinci Resolve
+D. CapCut
+ANSWER: D
+EXPLAIN: CapCut phổ biến cho video ngắn, dễ dùng và có các tính năng AI như phụ đề tự động, xóa nền video.
+
+---
+
+Q: Câu “Hãy tải về checklist tại đây” đóng vai trò gì trong kế hoạch nội dung?
+A. KPI
+B. Mục tiêu nghiên cứu
+C. Giấy phép CC
+D. CTA
+ANSWER: D
+EXPLAIN: CTA là lời kêu gọi hành động, chỉ rõ điều người xem hoặc người đọc nên làm sau khi tiếp nhận nội dung.
+
+---
+
+Q: Điểm nhấn nào phân biệt cộng tác số với giao tiếp số đơn thuần?
+A. Cộng tác số không cần trao đổi thông tin
+B. Cộng tác số chỉ diễn ra đồng bộ
+C. Cộng tác số chỉ dùng trong doanh nghiệp
+D. Cộng tác số hướng đến việc cùng tạo ra một kết quả chung
+ANSWER: D
+EXPLAIN: Cộng tác số bao gồm chia sẻ, đồng tạo sản phẩm, giải quyết vấn đề hoặc ra quyết định để đạt kết quả chung.

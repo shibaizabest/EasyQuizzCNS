@@ -1,0 +1,399 @@
+# Quiz: Đề tổng hợp 07
+
+Q: Khi muốn AI bắt chước một định dạng hoặc phong cách, kỹ thuật nào hữu ích?
+A. Giảm context về 0
+B. One-shot hoặc few-shot với một/vài cặp đầu vào-đầu ra mẫu
+C. Chỉ dùng một từ khóa
+D. Không nêu ví dụ hay yêu cầu
+ANSWER: B
+EXPLAIN: Ví dụ minh họa trực tiếp mẫu logic, giọng văn hoặc cấu trúc cần tuân theo.
+
+---
+
+Q: So sánh nào đúng về phạm vi ngôn ngữ của Google Translate và DeepL?
+A. DeepL hỗ trợ mọi ngôn ngữ nhiều hơn Google Translate
+B. Hai công cụ luôn hỗ trợ đúng cùng một tập ngôn ngữ
+C. Google Translate hỗ trợ rất nhiều ngôn ngữ; DeepL ít hơn nhưng đang mở rộng
+D. Google Translate không hỗ trợ tiếng Việt
+ANSWER: C
+EXPLAIN: Phạm vi hỗ trợ rộng là thế mạnh của Google Translate, còn DeepL hỗ trợ ít ngôn ngữ hơn.
+
+---
+
+Q: Mô hình nơ-ron “học” bằng cách nào?
+A. Thêm luật thủ công sau mỗi câu hỏi
+B. Điều chỉnh trọng số để giảm chênh lệch giữa dự đoán và kết quả thực tế
+C. Tăng kích thước màn hình
+D. Xóa dữ liệu huấn luyện
+ANSWER: B
+EXPLAIN: Tối ưu trọng số là cơ chế trung tâm của huấn luyện mạng nơ-ron.
+
+---
+
+Q: Khi nào người tham gia nên kiểm tra camera, microphone và kết nối Internet?
+A. Ít nhất 5 phút trước giờ họp
+B. Sau khi cuộc họp kết thúc
+C. Chỉ khi được gọi phát biểu
+D. Ngay giữa phần ra quyết định
+ANSWER: A
+EXPLAIN: Chuẩn bị kỹ thuật ít nhất 5 phút trước cuộc họp giúp tránh làm gián đoạn chương trình.
+
+---
+
+Q: Top-P khác Top-K ở điểm nào?
+A. Top-P luôn chọn đúng P token
+B. Top-P không dùng xác suất
+C. Top-P chọn nhóm token có tổng xác suất tích lũy đạt ngưỡng P
+D. Top-P chỉ dùng cho ảnh
+ANSWER: C
+EXPLAIN: Nucleus sampling thích nghi số lượng ứng viên theo phân bố xác suất tại mỗi bước.
+
+---
+
+Q: GenAI có thể hỗ trợ lập trình bằng cách nào?
+A. Chỉ đổi màu trình soạn thảo
+B. Thay thế hoàn toàn kiểm thử
+C. Bảo đảm mã không bao giờ có lỗi
+D. Viết đoạn mã, giải thích thuật toán và hỗ trợ tìm lỗi
+ANSWER: D
+EXPLAIN: AI tăng tốc lập trình nhưng mã sinh ra vẫn cần đọc, kiểm thử và đánh giá bảo mật.
+
+---
+
+Q: Nhóm nào gồm các ứng dụng DL điển hình trong bảng?
+A. Hệ luật chấm tín dụng
+B. Chỉ lọc thư rác đơn giản
+C. Chỉ bảng tính
+D. Xe tự lái xử lý ảnh, NLP/dịch máy và chẩn đoán y khoa qua hình ảnh
+ANSWER: D
+EXPLAIN: DL nổi bật ở thị giác và ngôn ngữ nhờ mạng nhiều lớp học đặc trưng phức tạp.
+
+---
+
+Q: Sinh viên diễn đạt lại ý tưởng của một bài báo bằng lời văn riêng nhưng không ghi nguồn. Đánh giá nào đúng?
+A. Không phải đạo văn vì đã thay đổi câu chữ
+B. Chỉ vi phạm nếu bài báo có thu phí
+C. Được phép nếu đoạn viết ngắn
+D. Vẫn là đạo văn vì ý tưởng của người khác phải được trích dẫn
+ANSWER: D
+EXPLAIN: Paraphrase không loại bỏ nghĩa vụ ghi nguồn; trình bày ý tưởng người khác như của mình vẫn vi phạm liêm chính học thuật.
+
+---
+
+Q: Quản lý danh tính số có ý nghĩa nào sau đây?
+A. Chỉ nhằm che giấu hoàn toàn bản thân trên Internet
+B. Chỉ cần thiết với người nổi tiếng hoặc người làm truyền thông
+C. Vừa bảo vệ quyền riêng tư vừa giúp xây dựng hình ảnh cá nhân tích cực, chuyên nghiệp
+D. Chủ yếu để tăng số lượng tài khoản mạng xã hội đang sử dụng
+ANSWER: C
+EXPLAIN: Quản lý danh tính số giúp bảo vệ quyền riêng tư và xây dựng hình ảnh phục vụ học tập, nghề nghiệp.
+
+---
+
+Q: Một nghiên cứu thuốc do chính công ty sản xuất tài trợ nên được đọc như thế nào?
+A. Bác bỏ ngay mà không đọc
+B. Nhận diện xung đột lợi ích tiềm tàng và kiểm tra phương pháp, dữ liệu cùng nguồn độc lập
+C. Chấp nhận hoàn toàn vì có tài trợ
+D. Chỉ kiểm tra ngày xuất bản
+ANSWER: B
+EXPLAIN: Tài trợ không tự động làm nghiên cứu sai, nhưng có thể tạo thiên kiến nên cần đánh giá thận trọng theo toàn bộ CRAAP.
+
+---
+
+Q: Netiquette yêu cầu điều gì khi giao tiếp trên Internet?
+A. Luôn tôn trọng người khác, kể cả khi không đồng tình với quan điểm của họ
+B. Tranh luận càng gay gắt càng tốt để bảo vệ ý kiến của mình
+C. Chia sẻ mọi thông tin ngay khi thấy thú vị
+D. Dùng danh tính ẩn danh để tránh chịu trách nhiệm
+ANSWER: A
+EXPLAIN: Netiquette là bộ quy tắc ứng xử trên Internet, nhấn mạnh tôn trọng và trách nhiệm.
+
+---
+
+Q: Điểm mạnh chung của Gemini và Copilot là gì?
+A. Tích hợp sâu vào Google Workspace hoặc Microsoft 365 để xử lý nội dung ngay trong quy trình làm việc
+B. Chỉ hoạt động như chatbot độc lập
+C. Không truy cập được tài liệu người dùng được cấp quyền
+D. Chỉ tạo âm nhạc
+ANSWER: A
+EXPLAIN: Tích hợp hệ sinh thái giúp AI làm việc với Docs/Sheets/Gmail hoặc Word/Excel/PowerPoint/Outlook/Teams.
+
+---
+
+Q: Cách xử lý tệp đính kèm nào đầy đủ và chuyên nghiệp nhất?
+A. Đặt tên “filemoi.pdf” và không nhắc đến trong email
+B. Đặt tên có cấu trúc, đề cập tệp trong nội dung và kiểm tra đã đính kèm trước khi gửi
+C. Chỉ ghi tên tệp trong tiêu đề nhưng không đính kèm
+D. Đính kèm nhiều bản khác nhau để người nhận tự chọn
+ANSWER: B
+EXPLAIN: Tệp cần tên rõ ràng, được nhắc trong thân email và phải được kiểm tra lại trước khi gửi.
+
+---
+
+Q: Turnitin có ưu điểm nào nổi bật theo bảng công cụ?
+A. Cơ sở dữ liệu lớn và thường được tích hợp trong hệ thống của nhiều trường
+B. Là công cụ mã nguồn mở, miễn phí và không giới hạn nhóm
+C. Có dung lượng lưu trữ đám mây miễn phí 2 GB
+D. Chỉ dùng để đặt giới hạn thời gian mạng xã hội
+ANSWER: A
+EXPLAIN: Turnitin là công cụ kiểm tra tương đồng có cơ sở dữ liệu lớn và hay tích hợp vào LMS.
+
+---
+
+Q: Nguyên nhân nào liên quan đến đau cổ, vai, gáy khi dùng thiết bị?
+A. Tư thế ngồi không đúng khi sử dụng thiết bị
+B. Sử dụng chuẩn Harvard trong trích dẫn
+C. Bật xác thực hai yếu tố cho tài khoản email
+D. Dùng công cụ quản lý tài liệu tham khảo
+ANSWER: A
+EXPLAIN: Ngồi sai tư thế trước máy tính, điện thoại có thể gây đau cổ, vai, gáy.
+
+---
+
+Q: Khi giảng viên cho phép dùng AI và sinh viên đã dùng AI có trách nhiệm, việc trích dẫn có vai trò gì?
+A. Bắt buộc để đảm bảo tính minh bạch
+B. Không cần thiết vì AI không phải là con người
+C. Chỉ cần thiết nếu AI tạo hình ảnh, không cần cho văn bản
+D. Có thể thay bằng việc xóa lịch sử trò chuyện
+ANSWER: A
+EXPLAIN: Trích dẫn nội dung do AI tạo ra là bắt buộc khi được phép sử dụng để minh bạch nguồn hỗ trợ.
+
+---
+
+Q: Ghép công cụ với nhiệm vụ nào đúng?
+A. Excel/Google Sheets - xử lý số liệu, tính toán và lập biểu đồ
+B. PowerPoint/Google Slides - quản lý driver phần cứng
+C. Word/Google Docs - thiết lập mạng WAN
+D. OneDrive - thay thế CPU để chạy phép tính logic
+ANSWER: A
+EXPLAIN: Excel và Google Sheets là phần mềm bảng tính, hỗ trợ công thức, xử lý, phân tích và trực quan hóa dữ liệu.
+
+---
+
+Q: Khi nào việc nhắn tin ngoài giờ học hoặc làm việc được xem là phù hợp theo chương?
+A. Khi muốn người khác trả lời nhanh hơn
+B. Khi nội dung dài nhưng chưa hoàn chỉnh
+C. Khi muốn kiểm tra người nhận có trực tuyến không
+D. Khi vấn đề thực sự khẩn cấp
+ANSWER: D
+EXPLAIN: Cần hạn chế nhắn ngoài giờ, trừ trường hợp thật sự khẩn cấp.
+
+---
+
+Q: Trình tự nào phản ánh đúng quy trình sáng tạo nội dung số 6 bước được trình bày trong chương?
+A. Lên ý tưởng và nghiên cứu - lập kế hoạch - sản xuất - biên tập - xuất bản và phân phối - đo lường và tối ưu
+B. Nghiên cứu - sản xuất - đo lường - lập kế hoạch - xuất bản - biên tập
+C. Lập kế hoạch - xuất bản - sản xuất - nghiên cứu - biên tập - đo lường
+D. Sản xuất - nghiên cứu - xuất bản - lập kế hoạch - đo lường - biên tập
+ANSWER: A
+EXPLAIN: Quy trình gồm 6 bước theo thứ tự: ý tưởng/nghiên cứu, lập kế hoạch, sản xuất, biên tập, xuất bản/phân phối, đo lường/tối ưu.
+
+---
+
+Q: Ghép trình duyệt với đặc điểm nào đúng theo bảng so sánh?
+A. Chrome tiêu thụ RAM thấp nhất và có quyền riêng tư tốt nhất
+B. Safari có kho tiện ích lớn nhất trên mọi nền tảng
+C. Firefox tiêu thụ RAM mức trung bình và được đánh giá tốt về quyền riêng tư
+D. Edge không hỗ trợ tiện ích mở rộng
+ANSWER: C
+EXPLAIN: Firefox được bảng đánh giá có mức dùng RAM trung bình, nhiều tiện ích và quyền riêng tư tốt; Chrome có mức dùng RAM cao hơn.
+
+---
+
+Q: Một sinh viên bị người lạ nhắn tin kể câu chuyện đáng thương và xin thông tin cá nhân để “xác minh hỗ trợ”. Nguy cơ phù hợp nhất là gì?
+A. Lừa đảo qua mạng xã hội dựa trên thao túng tâm lý
+B. Rối loạn giấc ngủ do ánh sáng xanh
+C. Bịa đặt dữ liệu nghiên cứu
+D. Tóm tắt tài liệu học thuật
+ANSWER: A
+EXPLAIN: Social engineering thường dùng câu chuyện, lời đề nghị hoặc yêu cầu bất thường để khai thác thông tin.
+
+---
+
+Q: Trong tên tệp `Baitaplon.docx`, phần `.docx` có chức năng chính gì?
+A. Cho biết đường dẫn tuyệt đối của tệp
+B. Cho biết dung lượng tệp
+C. Giúp hệ điều hành và người dùng nhận biết loại tệp
+D. Mã hóa nội dung để chống sao chép
+ANSWER: C
+EXPLAIN: Phần mở rộng là phần sau dấu chấm trong tên tệp, dùng để nhận biết định dạng và thường giúp hệ điều hành chọn ứng dụng phù hợp để mở tệp.
+
+---
+
+Q: Khi sản xuất âm nhạc chuyên nghiệp cần âm thanh không nén, chất lượng cao, nên ưu tiên định dạng nào?
+A. WAV
+B. MP3
+C. GIF
+D. TXT
+ANSWER: A
+EXPLAIN: WAV thường lưu âm thanh không nén với chất lượng cao nhưng dung lượng lớn; MP3 ưu tiên nén và tính phổ biến.
+
+---
+
+Q: Cách điều phối nào giúp cuộc họp vừa đúng trọng tâm vừa bao quát các thành viên?
+A. Để thảo luận tự do không giới hạn thời gian
+B. Bám sát agenda, đúng giờ và chủ động mời cả thành viên trầm tính tham gia
+C. Chỉ hỏi ý kiến những người nói nhiều
+D. Kết thúc ngay khi trưởng nhóm đã phát biểu xong
+ANSWER: B
+EXPLAIN: Người điều phối cần quản lý thời gian, giữ thảo luận theo agenda và khuyến khích mọi thành viên đóng góp.
+
+---
+
+Q: Tình huống nào thể hiện ưu thế rõ nhất của CLI so với GUI?
+A. Người mới muốn nhận biết tệp bằng biểu tượng trực quan
+B. Quản trị viên cần tự động hóa hàng loạt tác vụ trên máy chủ với ít tài nguyên
+C. Người dùng muốn kéo-thả một ảnh vào thư mục
+D. Sinh viên muốn xem slide có nhiều hình ảnh
+ANSWER: B
+EXPLAIN: CLI mạnh, hiệu quả, ít tốn tài nguyên và thích hợp cho tự động hóa, quản trị hệ thống và lập trình, dù kém trực quan hơn GUI.
+
+---
+
+Q: Câu hỏi nào đánh giá tính độc đáo và dấu ấn cá nhân?
+A. “Video đạt bao nhiêu lượt xem?”
+B. “Công cụ có giao diện kéo-thả không?”
+C. “Tệp có được lưu trên đám mây không?”
+D. “Tôi đã thêm giọng văn, ví dụ, phân tích hoặc trải nghiệm riêng chưa?”
+ANSWER: D
+EXPLAIN: Originality & Personalization tập trung vào việc tránh tổng hợp máy móc và bổ sung phong cách, ví dụ, phân tích, trải nghiệm cá nhân.
+
+---
+
+Q: Kho `repository.vnu.edu.vn` chủ yếu cung cấp loại tài nguyên nào?
+A. Luận án, luận văn và đề tài nghiên cứu nội sinh của ĐHQGHN
+B. Chỉ video giải trí
+C. Phần mềm diệt virus
+D. Dữ liệu giao dịch ngân hàng
+ANSWER: A
+EXPLAIN: Đây là thư viện số tài liệu nội sinh, lưu công trình của cán bộ và sinh viên ĐHQGHN.
+
+---
+
+Q: Trong bài học thuật, cách minh bạch nào phù hợp khi quy định yêu cầu khai báo hỗ trợ AI?
+A. Ghi AI là tác giả duy nhất của mọi ý tưởng cá nhân
+B. Khẳng định không dùng AI dù đã dùng
+C. Xóa lịch sử chỉnh sửa
+D. Ghi rõ phần dàn ý hoặc bản nháp ban đầu được mô hình AI hỗ trợ
+ANSWER: D
+EXPLAIN: Ghi nhận rõ mức độ hỗ trợ của AI thể hiện sự trung thực và trách nhiệm trong môi trường học thuật, chuyên nghiệp.
+
+---
+
+Q: Phát biểu nào về USB-C là chính xác nhất?
+A. Mọi cổng USB-C đều có tốc độ và khả năng xuất hình giống nhau
+B. USB-C là tên kiểu dáng đầu nối; tính năng thực tế phụ thuộc giao thức như USB 3.2, USB4 hoặc Thunderbolt
+C. USB-C chỉ dùng để sạc, không truyền dữ liệu
+D. USB-C luôn đồng nghĩa với Thunderbolt 5
+ANSWER: B
+EXPLAIN: Hình dạng USB-C không bảo đảm bộ tính năng. Hai cổng trông giống nhau có thể hỗ trợ tốc độ truyền, sạc và xuất hình rất khác tùy giao thức.
+
+---
+
+Q: Dữ liệu có nhiễu, sai lệch và không nhất quán đòi hỏi làm sạch liên quan trực tiếp đến chữ V nào?
+A. Volume
+B. Veracity
+C. Velocity
+D. Value
+ANSWER: B
+EXPLAIN: Veracity phản ánh độ tin cậy, chất lượng và tính chính xác không đồng đều của dữ liệu.
+
+---
+
+Q: Nhóm chỉ số nào gắn trực tiếp với chức năng chuyên biệt của fitness tracker?
+A. Tốc độ CPU, băng thông RAM và dung lượng SSD
+B. Độ phân giải màn hình, số cổng USB và công suất sạc
+C. Số tab trình duyệt, lịch sử web và bookmark
+D. Số bước chân, quãng đường, calo tiêu thụ và chất lượng giấc ngủ
+ANSWER: D
+EXPLAIN: Fitness tracker tập trung theo dõi hoạt động thể chất và sức khỏe như bước chân, quãng đường, năng lượng tiêu thụ và giấc ngủ.
+
+---
+
+Q: Một sinh viên làm podcast cần cắt ghép, lọc tạp âm và thêm nhạc nền bằng công cụ miễn phí. Nên chọn gì?
+A. Ứng dụng ghi âm có sẵn
+B. Adobe Podcast Enhance
+C. Audacity
+D. Adobe Audition
+ANSWER: C
+EXPLAIN: Audacity là phần mềm chỉnh sửa âm thanh miễn phí, mạnh cho cắt ghép, lọc ồn và thêm nhạc nền.
+
+---
+
+Q: Cách làm nào được chương khuyến nghị để giảm nguy cơ vi phạm bản quyền khi tìm ảnh?
+A. Ưu tiên tài nguyên giấy phép mở từ Unsplash, Pexels hoặc Pixabay
+B. Coi mọi ảnh trên Google là miễn phí
+C. Xóa thông tin tác giả trước khi sử dụng
+D. Chỉ dùng ảnh có độ phân giải thấp
+ANSWER: A
+EXPLAIN: Chương khuyến nghị ưu tiên ảnh từ các nguồn miễn phí, giấy phép mở như Unsplash, Pexels và Pixabay.
+
+---
+
+Q: Chuẩn Harvard yêu cầu hai thành phần chính nào?
+A. Mục lục và phụ lục
+B. Trích dẫn trong bài và danh mục tài liệu tham khảo ở cuối văn bản
+C. Tiêu đề và số trang
+D. Tóm tắt và từ khóa
+ANSWER: B
+EXPLAIN: In-text citation liên kết phát biểu với nguồn, còn reference list cung cấp thông tin đầy đủ để tìm tài liệu.
+
+---
+
+Q: Một chương trình nghị sự hiệu quả cần chứa nội dung nào?
+A. Các chủ đề cần thảo luận và thời gian dự kiến cho từng mục
+B. Chỉ tên người tổ chức
+C. Danh sách các ứng dụng họp có thể dùng
+D. Toàn bộ lịch cá nhân của người tham gia
+ANSWER: A
+EXPLAIN: Agenda giúp cuộc họp có cấu trúc bằng cách liệt kê chủ đề và thời lượng dự kiến cho mỗi mục.
+
+---
+
+Q: Temperature cao thường tạo đầu ra thế nào?
+A. Đa dạng và sáng tạo hơn nhưng khó dự đoán, phù hợp brainstorm hoặc viết truyện
+B. Luôn chính xác tuyệt đối
+C. Chỉ lặp một câu
+D. Không tạo được token
+ANSWER: A
+EXPLAIN: Nhiệt độ cao tăng cơ hội chọn token xác suất thấp hơn, đổi tính ổn định lấy sự mới lạ.
+
+---
+
+Q: Sinh viên ĐHQGHN có thể khai thác ScienceDirect, SpringerLink và IEEE Xplore qua đâu?
+A. Chỉ qua mạng xã hội cá nhân
+B. Chỉ qua Google Images
+C. Cổng VNU-LIC bằng tài khoản sinh viên được cấp
+D. Qua tệp ZIP không cần đăng nhập
+ANSWER: C
+EXPLAIN: VNU-LIC cung cấp quyền truy cập các cơ sở dữ liệu ngoại văn có bản quyền cho người học đủ quyền.
+
+---
+
+Q: Một bài làm có nguồn thật, trích dẫn trong văn bản đầy đủ và danh mục tham khảo cuối bài theo alphabet. Yếu tố nào của chuẩn Harvard đang được thể hiện?
+A. Sự kết hợp giữa in-text citation và reference list
+B. Quy tắc sao lưu 3-2-1
+C. Xác thực hai yếu tố
+D. Cai nghiện số
+ANSWER: A
+EXPLAIN: Chuẩn Harvard yêu cầu trích dẫn trong văn bản và danh mục tài liệu tham khảo đầy đủ cuối bài.
+
+---
+
+Q: Muốn tìm tài liệu PDF về biến đổi khí hậu, truy vấn nào phù hợp nhất?
+A. `related:pdf`
+B. `site:mp3`
+C. `biến đổi khí hậu filetype:pdf`
+D. `biến đổi khí hậu -pdf`
+ANSWER: C
+EXPLAIN: `filetype:pdf` giới hạn kết quả theo phần mở rộng PDF.
+
+---
+
+Q: Gamma và Tome tạo ra sản phẩm nào nổi bật so với một video thuyết trình thông thường?
+A. Bài trình bày dạng web tương tác có thể nhúng video và liên kết
+B. File âm thanh đã lọc sạch tạp âm
+C. Ảnh ghép chuyên nghiệp kiểu Photoshop
+D. Văn bản được kiểm tra đạo văn
+ANSWER: A
+EXPLAIN: Gamma và Tome hỗ trợ bài trình bày web tương tác, cho phép nhúng video, liên kết và nhiều yếu tố phong phú.

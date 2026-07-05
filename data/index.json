@@ -40,5 +40,75 @@
 	"description": "AN TOÀN VÀ LIÊM CHÍNH HỌC THUẬT TRONG MÔI TRƯỜNG SỐ , ÔN TẬP KĨ VÀO NHÉ CÁC TÌNH YÊU.",
 	"file": "C6.quiz",
 	"count": 157
-  }
+  },
+  {
+	"id": "de_tong_hop_01",
+	"title": "ĐỀ TỔNG HỢP SỐ 01  ",
+	"description": "ĐỀ TỔNG HỢP SỐ 01 , ÔN TẬP KĨ VÀO NHÉ CÁC TÌNH YÊU.",
+	"file": "de_tong_hop_01.quiz",
+	"count": 40
+  },
+  {
+	"id": "de_tong_hop_02",
+	"title": "ĐỀ TỔNG HỢP SỐ 02  ",
+	"description": "ĐỀ TỔNG HỢP SỐ 02 , ÔN TẬP KĨ VÀO NHÉ CÁC TÌNH YÊU.",
+	"file": "de_tong_hop_02.quiz",
+	"count": 40
+  },
+  {
+	"id": "de_tong_hop_03",
+	"title": "ĐỀ TỔNG HỢP SỐ 03  ",
+	"description": "ĐỀ TỔNG HỢP SỐ 03 , ÔN TẬP KĨ VÀO NHÉ CÁC TÌNH YÊU.",
+	"file": "de_tong_hop_03.quiz",
+	"count": 40
+  },
+  {
+	"id": "de_tong_hop_04",
+	"title": "ĐỀ TỔNG HỢP SỐ 04  ",
+	"description": "ĐỀ TỔNG HỢP SỐ 04 , ÔN TẬP KĨ VÀO NHÉ CÁC TÌNH YÊU.",
+	"file": "de_tong_hop_04.quiz",
+	"count": 40
+  },
+  {
+	"id": "de_tong_hop_05",
+	"title": "ĐỀ TỔNG HỢP SỐ 05  ",
+	"description": "ĐỀ TỔNG HỢP SỐ 05 , ÔN TẬP KĨ VÀO NHÉ CÁC TÌNH YÊU.",
+	"file": "de_tong_hop_05.quiz",
+	"count": 40
+  },
+  {
+	"id": "de_tong_hop_06",
+	"title": "ĐỀ TỔNG HỢP SỐ 06  ",
+	"description": "ĐỀ TỔNG HỢP SỐ 06 , ÔN TẬP KĨ VÀO NHÉ CÁC TÌNH YÊU.",
+	"file": "de_tong_hop_06.quiz",
+	"count": 40
+  },
+  {
+	"id": "de_tong_hop_07",
+	"title": "ĐỀ TỔNG HỢP SỐ 07  ",
+	"description": "ĐỀ TỔNG HỢP SỐ 07 , ÔN TẬP KĨ VÀO NHÉ CÁC TÌNH YÊU.",
+	"file": "de_tong_hop_07.quiz",
+	"count": 40
+  },
+  {
+	"id": "de_tong_hop_08",
+	"title": "ĐỀ TỔNG HỢP SỐ 08  ",
+	"description": "ĐỀ TỔNG HỢP SỐ 08 , ÔN TẬP KĨ VÀO NHÉ CÁC TÌNH YÊU.",
+	"file": "de_tong_hop_08.quiz",
+	"count": 40
+  },
+  {
+	"id": "de_tong_hop_09",
+	"title": "ĐỀ TỔNG HỢP SỐ 09  ",
+	"description": "ĐỀ TỔNG HỢP SỐ 09 , ÔN TẬP KĨ VÀO NHÉ CÁC TÌNH YÊU.",
+	"file": "de_tong_hop_09.quiz",
+	"count": 40
+  },
+  {
+	"id": "de_tong_hop_10",
+	"title": "ĐỀ TỔNG HỢP SỐ 10  ",
+	"description": "ĐỀ TỔNG HỢP SỐ 10 , ÔN TẬP KĨ VÀO NHÉ CÁC TÌNH YÊU.",
+	"file": "de_tong_hop_10.quiz",
+	"count": 40
+  },
 ]

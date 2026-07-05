@@ -1,0 +1,399 @@
+# Quiz: Đề tổng hợp 03
+
+Q: Ghép nền tảng với công cụ bổ trợ cho bảng trắng hoặc bình chọn nào đúng theo tài liệu?
+A. Zoom chỉ có thể dùng Google Forms cho mọi cuộc bình chọn
+B. Teams không có bảng trắng hoặc polls
+C. Webex không hỗ trợ bất kỳ hình thức bảng trắng nào
+D. Google Meet dùng Jamboard cho bảng trắng và Google Forms cho bình chọn
+ANSWER: D
+EXPLAIN: Bảng trong tài liệu liên hệ Meet với Jamboard cho bảng trắng và Google Forms cho polls; đây là mô tả theo hệ sinh thái tại thời điểm biên soạn.
+
+---
+
+Q: Quy tắc trình bày nào phù hợp với danh mục tài liệu Harvard được mô tả trong chương?
+A. Tên sách, tên bài báo và tên tạp chí đều viết giống văn bản thường
+B. Tên sách và tên tạp chí thường in nghiêng; tên bài báo đặt trong dấu nháy đơn
+C. Chỉ URL được in nghiêng, còn tên tác giả đặt trong ngoặc kép
+D. Mọi tiêu đề đều phải viết hoa toàn bộ
+ANSWER: B
+EXPLAIN: Ví dụ của chương dùng chữ nghiêng cho nhan đề sách hoặc tạp chí và dấu nháy đơn cho tên bài báo khoa học.
+
+---
+
+Q: Mô hình nơ-ron “học” bằng cách nào?
+A. Thêm luật thủ công sau mỗi câu hỏi
+B. Điều chỉnh trọng số để giảm chênh lệch giữa dự đoán và kết quả thực tế
+C. Tăng kích thước màn hình
+D. Xóa dữ liệu huấn luyện
+ANSWER: B
+EXPLAIN: Tối ưu trọng số là cơ chế trung tâm của huấn luyện mạng nơ-ron.
+
+---
+
+Q: Kho `repository.vnu.edu.vn` chủ yếu cung cấp loại tài nguyên nào?
+A. Luận án, luận văn và đề tài nghiên cứu nội sinh của ĐHQGHN
+B. Chỉ video giải trí
+C. Phần mềm diệt virus
+D. Dữ liệu giao dịch ngân hàng
+ANSWER: A
+EXPLAIN: Đây là thư viện số tài liệu nội sinh, lưu công trình của cán bộ và sinh viên ĐHQGHN.
+
+---
+
+Q: Ngân hàng dùng Big Data chủ yếu cho tổ hợp nhiệm vụ nào trong tài liệu?
+A. Thiết kế logo và chỉnh video
+B. Tổ chức thư mục môn học
+C. Dịch tài liệu tự động
+D. Phân tích rủi ro tín dụng, phát hiện gian lận và rửa tiền
+ANSWER: D
+EXPLAIN: Dữ liệu giao dịch quy mô lớn giúp tổ chức tài chính đánh giá rủi ro và phát hiện mẫu hành vi bất thường.
+
+---
+
+Q: Một phòng máy có nhiều máy tính cùng dùng một máy in mạng và truy cập cơ sở dữ liệu trên máy chủ. Lợi ích mạng nào đang được thể hiện?
+A. Chia sẻ phần cứng và truy cập tài nguyên tập trung
+B. Tăng dung lượng RAM vật lý của từng máy
+C. Biến mạng LAN thành bộ nhớ ROM
+D. Loại bỏ hoàn toàn nhu cầu bảo mật mạng
+ANSWER: A
+EXPLAIN: Mạng cho phép nhiều máy dùng chung thiết bị như máy in và truy cập ứng dụng hoặc dữ liệu được lưu tập trung trên máy chủ.
+
+---
+
+Q: Sau khi AI nêu một số liệu trong phần nghiên cứu, hành động đúng nhất là gì?
+A. Kiểm chứng chéo bằng nguồn uy tín, đặc biệt với số liệu và sự kiện
+B. Xóa số liệu để không cần nghiên cứu
+C. Đưa ngay vào bài vì AI có dữ liệu huấn luyện rộng
+D. Chỉ hỏi lại đúng AI đó bằng cùng một prompt
+ANSWER: A
+EXPLAIN: AI chỉ là điểm khởi đầu; các số liệu và sự kiện phải được người dùng kiểm chứng với tư duy phản biện.
+
+---
+
+Q: Quyền được đứng tên trên tác phẩm thuộc nhóm quyền nào của tác giả?
+A. Quyền sử dụng hợp lý
+B. Quyền phân phối của nền tảng
+C. Quyền sáng chế
+D. Quyền nhân thân
+ANSWER: D
+EXPLAIN: Quyền nhân thân bao gồm quyền được đứng tên trên tác phẩm; quyền tài sản liên quan việc cho phép hoặc không cho phép sử dụng.
+
+---
+
+Q: Ví dụ nào thuộc nhóm công cụ AI tạo sinh theo chương?
+A. ChatGPT, Gemini, Midjourney, DALL-E
+B. Bitwarden, LastPass, 1Password, VPN
+C. Turnitin, Quetext, Zotero, Mendeley
+D. Screen Time, Digital Wellbeing, Night Shift, Eye Comfort
+ANSWER: A
+EXPLAIN: Chương nêu ChatGPT/Gemini tạo văn bản và Midjourney/DALL-E tạo hình ảnh.
+
+---
+
+Q: Khi diễn giải hoặc tóm tắt lý thuyết, số liệu của người khác, yêu cầu nào đúng?
+A. Không cần trích dẫn vì đã đổi câu chữ
+B. Chỉ cần ghi trong tài liệu tham khảo nhưng không dẫn trong bài
+C. Chỉ trích dẫn nếu đoạn dài hơn một trang
+D. Vẫn phải trích dẫn nguồn vì ý tưởng và dữ liệu không phải của mình
+ANSWER: D
+EXPLAIN: Thay đổi cách diễn đạt không làm thay đổi quyền sở hữu của ý tưởng hay nguồn dữ liệu.
+
+---
+
+Q: Với hình ảnh tạo bởi Midjourney hoặc DALL-E, danh mục tham khảo theo bảng cần mô tả gì?
+A. Mô tả prompt đã sử dụng và ghi là nghệ thuật số
+B. Mật khẩu tài khoản dùng để tạo ảnh
+C. Địa chỉ IP của người tạo ảnh
+D. Tỷ lệ tương đồng của ảnh với văn bản gốc
+ANSWER: A
+EXPLAIN: Bảng 6.3 nêu tham khảo hình ảnh AI gồm nhà phát triển, năm, mô tả prompt và [Nghệ thuật số].
+
+---
+
+Q: Điểm khác biệt chính giữa LMS và phần mềm hội nghị truyền hình trong học trực tuyến là gì?
+A. LMS quản lý nội dung và tiến trình học; phần mềm hội nghị phục vụ tương tác trực tiếp theo thời gian thực
+B. LMS chỉ hoạt động bằng Bluetooth; hội nghị chỉ hoạt động bằng NFC
+C. LMS là phần cứng; hội nghị là hệ điều hành
+D. Hai loại hoàn toàn giống nhau về vai trò
+ANSWER: A
+EXPLAIN: LMS tổ chức lớp học, tài liệu, bài tập và điểm; Zoom, Meet hoặc Teams chủ yếu hỗ trợ buổi học đồng bộ qua âm thanh, video và chia sẻ màn hình.
+
+---
+
+Q: Ứng dụng ghi chú nào tổ chức nội dung theo Trang, Cơ sở dữ liệu và Khối, đồng thời hỗ trợ cộng tác?
+A. Google Keep
+B. Notion
+C. Evernote
+D. Microsoft Paint
+ANSWER: B
+EXPLAIN: Notion dùng cấu trúc pages, databases và blocks, hỗ trợ tổ chức linh hoạt cùng khả năng cộng tác.
+
+---
+
+Q: AI như “đối tác sáng tạo” hỗ trợ tốt nhất trong tình huống nào?
+A. Nộp nguyên văn sản phẩm AI
+B. Giao toàn bộ quyết định cho máy
+C. Brainstorm góc nhìn, xây dàn ý và tạo tư liệu minh họa ban đầu
+D. Tránh mọi chỉnh sửa của con người
+ANSWER: C
+EXPLAIN: AI có thể khơi nguồn và hiện thực hóa ý tưởng, còn con người định hướng và đánh giá sản phẩm.
+
+---
+
+Q: Luật An ninh mạng 2018 và các nghị định hướng dẫn nghiêm cấm hành vi nào trên không gian mạng?
+A. Đăng tải thông tin sai sự thật gây hoang mang, xúc phạm danh dự, lừa đảo chiếm đoạt tài sản
+B. Sử dụng mật khẩu mạnh cho tài khoản cá nhân
+C. Sao lưu dữ liệu theo quy tắc 3-2-1
+D. Trích dẫn nguồn theo chuẩn Harvard
+ANSWER: A
+EXPLAIN: Luật quy định các hành vi bị cấm như thông tin sai sự thật, xúc phạm danh dự, lừa đảo và vi phạm pháp luật khác.
+
+---
+
+Q: Prompt về KOL ảo trong chương minh họa nhiệm vụ nào?
+A. Tạo bản sao lưu
+B. Chẩn đoán y khoa
+C. Phân loại ảnh
+D. Brainstorm 5 đề tài nghiên cứu cho sinh viên Quan hệ công chúng
+ANSWER: D
+EXPLAIN: Prompt cung cấp ngành học, nhiệm vụ, số lượng và bối cảnh Việt Nam để nhận ý tưởng phù hợp.
+
+---
+
+Q: Mục tiêu của Phép thử Turing là gì?
+A. Đo tốc độ tính toán của máy
+B. Xem hành vi thông minh của máy có thể khó phân biệt với con người hay không
+C. Kiểm tra dung lượng dữ liệu huấn luyện
+D. Đánh giá độ phân giải ảnh AI
+ANSWER: B
+EXPLAIN: Turing Test đánh giá khả năng thể hiện hành vi đối thoại thông minh giống con người, không đo phần cứng.
+
+---
+
+Q: Câu hỏi nào đánh giá tính độc đáo và dấu ấn cá nhân?
+A. “Video đạt bao nhiêu lượt xem?”
+B. “Công cụ có giao diện kéo-thả không?”
+C. “Tệp có được lưu trên đám mây không?”
+D. “Tôi đã thêm giọng văn, ví dụ, phân tích hoặc trải nghiệm riêng chưa?”
+ANSWER: D
+EXPLAIN: Originality & Personalization tập trung vào việc tránh tổng hợp máy móc và bổ sung phong cách, ví dụ, phân tích, trải nghiệm cá nhân.
+
+---
+
+Q: Trong bài học thuật, cách minh bạch nào phù hợp khi quy định yêu cầu khai báo hỗ trợ AI?
+A. Ghi AI là tác giả duy nhất của mọi ý tưởng cá nhân
+B. Khẳng định không dùng AI dù đã dùng
+C. Xóa lịch sử chỉnh sửa
+D. Ghi rõ phần dàn ý hoặc bản nháp ban đầu được mô hình AI hỗ trợ
+ANSWER: D
+EXPLAIN: Ghi nhận rõ mức độ hỗ trợ của AI thể hiện sự trung thực và trách nhiệm trong môi trường học thuật, chuyên nghiệp.
+
+---
+
+Q: Quá trình sinh kết thúc khi nào?
+A. Sau đúng một token
+B. Khi người dùng đóng trình duyệt duy nhất
+C. Khi mô hình tìm được nguồn thật
+D. Khi gặp token kết thúc hoặc đạt giới hạn độ dài
+ANSWER: D
+EXPLAIN: Mỗi token mới được nối vào ngữ cảnh và vòng lặp tiếp tục đến điều kiện dừng.
+
+---
+
+Q: Khi nhóm cần xử lý ngay một hiểu lầm phức tạp và muốn tận dụng giọng điệu, nét mặt, ưu thế nào của giao tiếp đồng bộ phù hợp nhất?
+A. Tạo bản ghi văn bản rõ ràng tự động
+B. Phản hồi tức thì và khai thác yếu tố phi ngôn ngữ
+C. Cho mọi người suy nghĩ không giới hạn trước khi đáp
+D. Không cần sắp xếp thời gian chung
+ANSWER: B
+EXPLAIN: Giao tiếp đồng bộ cho phản hồi ngay và truyền tải giọng điệu, biểu cảm, nhờ đó có thể giảm hiểu lầm.
+
+---
+
+Q: Diễn giải và tóm tắt khác nhau chủ yếu ở điểm nào?
+A. Diễn giải trình bày lại một ý tưởng cụ thể thường dài tương đương bản gốc, còn tóm tắt rút gọn ý chính của phần lớn hơn
+B. Diễn giải không cần ghi nguồn, còn tóm tắt luôn cần ngoặc kép
+C. Diễn giải chỉ dùng với hình ảnh, còn tóm tắt chỉ dùng với mật khẩu
+D. Diễn giải là bịa dữ liệu, còn tóm tắt là chép bài trong phòng thi
+ANSWER: A
+EXPLAIN: Paraphrasing tập trung vào một ý cụ thể, còn summarizing nén các ý chính của toàn bài hoặc phần lớn.
+
+---
+
+Q: Nhóm muốn Team Charter quy định rõ việc theo dõi tiến độ. Nội dung nào cần được chốt?
+A. Chỉ màu sắc dùng trên bảng công việc
+B. Cập nhật hằng ngày hay hằng tuần và cập nhật ở kênh nào
+C. Mỗi thành viên tự chọn lúc cập nhật mà không cần thông báo
+D. Chỉ tổng hợp tiến độ sau khi dự án kết thúc
+ANSWER: B
+EXPLAIN: Team Charter cần quy định cả tần suất cập nhật tiến độ và nơi đăng cập nhật.
+
+---
+
+Q: Nhóm chọn gửi một thông báo quan trọng bằng văn bản bất đồng bộ. Cách nào giảm nguy cơ hiểu lầm vốn có của phương thức này?
+A. Diễn đạt cẩn thận, rõ ngữ cảnh vì người nhận không có giọng điệu hoặc biểu cảm để hỗ trợ diễn giải
+B. Dùng câu càng ngắn càng tốt dù thiếu chủ ngữ và bối cảnh
+C. Yêu cầu mọi người phản hồi ngay tại cùng một thời điểm
+D. Thay toàn bộ nội dung bằng biểu tượng cảm xúc
+ANSWER: A
+EXPLAIN: Giao tiếp bất đồng bộ thiếu tín hiệu phi ngôn ngữ nên thông điệp phải được diễn đạt cẩn thận để hạn chế hiểu lầm.
+
+---
+
+Q: Tình huống nào thể hiện đầy đủ tư duy cốt lõi của chương trong việc dùng công nghệ?
+A. Chọn công cụ nhiều tính năng nhất cho mọi nhiệm vụ
+B. Chọn đúng công cụ theo mục đích, duy trì tin tưởng trong nhóm và kiểm tra đầu ra AI có trách nhiệm
+C. Ưu tiên giao tiếp đồng bộ trong mọi trường hợp
+D. Giao mọi quyết định cho nền tảng để tiết kiệm thời gian
+ANSWER: B
+EXPLAIN: Năng lực số không chỉ là thao tác kỹ thuật mà còn là lựa chọn chiến lược, xây dựng quan hệ và chỉ đạo công nghệ có trách nhiệm.
+
+---
+
+Q: Một người cần dung lượng lưu trữ lớn với chi phí thấp và không đặt nặng tốc độ. Lựa chọn nào phù hợp nhất theo nội dung chương?
+A. NPU
+B. RAM DDR5
+C. ROM
+D. HDD
+ANSWER: D
+EXPLAIN: HDD có ưu thế dung lượng lớn với giá thành thấp, dù tốc độ chậm hơn SSD và sử dụng đĩa từ quay.
+
+---
+
+Q: Nhận định nào đầy đủ nhất về Linux theo nội dung chương?
+A. Chỉ có một phiên bản trả phí và không dùng được trên máy chủ
+B. Có nhiều bản phân phối như Ubuntu, Fedora, Linux Mint; miễn phí, tùy biến cao nhưng hỗ trợ một số phần mềm thương mại và game còn hạn chế
+C. Chỉ chạy trên iPhone và iPad
+D. Không hỗ trợ công cụ lập trình hoặc phần mềm mã nguồn mở
+ANSWER: B
+EXPLAIN: Linux là họ hệ điều hành mã nguồn mở gồm nhiều distribution, mạnh về tùy biến, bảo mật và lập trình nhưng có thể khó dùng hơn với người mới và thiếu một số ứng dụng thương mại.
+
+---
+
+Q: Sự trỗi dậy của AI tạo sinh làm thay đổi giá trị kỹ năng của con người theo hướng nào?
+A. Chỉ cần thực hiện tác vụ nhanh hơn, không cần đánh giá
+B. Chuyển từ người thực thi sang người chỉ đạo, đánh giá, tinh chỉnh và định hướng chiến lược
+C. Giao toàn bộ quyết định cho AI
+D. Không còn cần hiểu mục tiêu công việc
+ANSWER: B
+EXPLAIN: Chương nhấn mạnh vai trò con người chuyển sang giám sát và chiến lược gia đối với sản phẩm AI.
+
+---
+
+Q: Chi tiết nào trong chương giúp sinh viên khai thác Canva với nhiều tính năng cao cấp mà không phải học công cụ thiết kế chuyên sâu?
+A. Canva for Education được giới thiệu là gói miễn phí cho sinh viên
+B. Canva bắt buộc mua Photoshop trước khi sử dụng
+C. Canva chỉ cung cấp mẫu cho nhà thiết kế chuyên nghiệp
+D. Canva không hỗ trợ slide, poster hoặc CV
+ANSWER: A
+EXPLAIN: Chương nêu Canva for Education là gói miễn phí cho sinh viên, mở khóa nhiều tính năng cao cấp.
+
+---
+
+Q: Dấu chân số được hiểu đúng nhất là gì?
+A. Toàn bộ dấu vết dữ liệu một cá nhân tạo ra hoặc để lại khi sử dụng Internet
+B. Chỉ những bài đăng công khai trên mạng xã hội của một cá nhân
+C. Tên tài khoản và mật khẩu dùng để đăng nhập các dịch vụ trực tuyến
+D. Các thiết bị số mà một cá nhân sở hữu trong quá trình học tập
+ANSWER: A
+EXPLAIN: Dấu chân số bao gồm mọi dấu vết dữ liệu khi sử dụng Internet, cả truy cập web, email, bài đăng, lượt thích và bình luận.
+
+---
+
+Q: Khi muốn AI bắt chước một định dạng hoặc phong cách, kỹ thuật nào hữu ích?
+A. Giảm context về 0
+B. One-shot hoặc few-shot với một/vài cặp đầu vào-đầu ra mẫu
+C. Chỉ dùng một từ khóa
+D. Không nêu ví dụ hay yêu cầu
+ANSWER: B
+EXPLAIN: Ví dụ minh họa trực tiếp mẫu logic, giọng văn hoặc cấu trúc cần tuân theo.
+
+---
+
+Q: Một sinh viên làm podcast cần cắt ghép, lọc tạp âm và thêm nhạc nền bằng công cụ miễn phí. Nên chọn gì?
+A. Ứng dụng ghi âm có sẵn
+B. Adobe Podcast Enhance
+C. Audacity
+D. Adobe Audition
+ANSWER: C
+EXPLAIN: Audacity là phần mềm chỉnh sửa âm thanh miễn phí, mạnh cho cắt ghép, lọc ồn và thêm nhạc nền.
+
+---
+
+Q: Nhóm sinh viên cần cùng chỉnh sửa Docs, Sheets và Slides theo thời gian thực, đồng thời dùng Drive và Meet. Hệ sinh thái nào nổi bật với nhu cầu này?
+A. Trello
+B. Google Workspace
+C. Asana
+D. Reclaim.ai
+ANSWER: B
+EXPLAIN: Google Workspace phổ biến trong giáo dục và nổi bật về cộng tác thời gian thực, tích hợp Gmail, Drive và Meet.
+
+---
+
+Q: Làm quen công cụ AI từ khi còn học mang lại lợi ích nghề nghiệp nào?
+A. Bảo đảm không cần học thêm
+B. Chỉ hữu ích cho ngành CNTT
+C. Loại bỏ cạnh tranh lao động
+D. Tăng khả năng thích ứng vì AI sẽ hiện diện trong nhiều ngành nghề
+ANSWER: D
+EXPLAIN: Năng lực dùng AI có trách nhiệm trở thành lợi thế trong môi trường làm việc tương lai.
+
+---
+
+Q: Toán tử OR nên được dùng khi nào?
+A. Muốn kết quả chứa một trong nhiều từ khóa thay thế và phải viết OR bằng chữ hoa
+B. Muốn loại trừ mọi từ khóa
+C. Muốn giới hạn trong một website duy nhất
+D. Muốn tìm đúng định dạng tệp
+ANSWER: A
+EXPLAIN: OR mở rộng truy vấn để chấp nhận một trong các thuật ngữ, ví dụ `học bổng OR internship`.
+
+---
+
+Q: Một báo cáo Turnitin có tỷ lệ tương đồng cao ở phần danh mục tài liệu tham khảo và các thuật ngữ chuyên ngành. Kết luận cẩn trọng nhất là gì?
+A. Cần đọc báo cáo để phân biệt trùng khớp hợp lệ với đạo văn thật sự
+B. Chắc chắn bài đó là đạo văn toàn bộ
+C. Chắc chắn bài đó không có vấn đề gì nên không cần xem
+D. Chỉ cần xóa toàn bộ danh mục tham khảo là đúng
+ANSWER: A
+EXPLAIN: Báo cáo tương đồng cần được diễn giải, vì một số trùng khớp là bình thường và hợp lệ.
+
+---
+
+Q: Hành động nào tốt hơn sau khi loại nguồn TechFuture.vn?
+A. Tìm báo cáo ILO, World Bank, WEF, cơ quan thống kê, trường đại học và đối chiếu nhiều nguồn
+B. Chọn một blog khác có tiêu đề gây sốc hơn
+C. Dùng bài cũ nhưng xóa tên tác giả
+D. Nhờ AI viết số liệu không cần nguồn
+ANSWER: A
+EXPLAIN: Nguồn chính thức, học thuật và phép kiểm chứng chéo tạo cơ sở đa chiều, đáng tin hơn cho bài nghiên cứu.
+
+---
+
+Q: Muốn tạo nhanh slide từ dàn ý và để AI đề xuất bố cục, hình ảnh, lựa chọn nào phù hợp?
+A. Audacity hoặc Adobe Audition
+B. Gamma hoặc Tome
+C. GIMP hoặc Remove.bg
+D. Word hoặc Microsoft Editor
+ANSWER: B
+EXPLAIN: Gamma và Tome có thể tạo slide nhanh từ dàn ý, đồng thời đề xuất bố cục và hình ảnh.
+
+---
+
+Q: Ví dụ nào là thông tin thay vì dữ liệu thô hoặc tri thức?
+A. Danh sách rời rạc `8, 7, 9, 5`
+B. Nhận định cần đổi phương pháp học để cải thiện kết quả
+C. Ký hiệu `7.5` không có ngữ cảnh
+D. Điểm bốn môn của sinh viên A là 8, 7, 9, 5 và điểm trung bình là 7,25
+ANSWER: D
+EXPLAIN: Các con số đã được gắn với sinh viên, môn học và xử lý thành điểm trung bình nên trở thành thông tin có ý nghĩa.
+
+---
+
+Q: Cơ chế chính của tấn công DDoS là gì?
+A. Mã hóa dữ liệu người dùng rồi yêu cầu trả tiền
+B. Lừa người dùng nhập mật khẩu vào trang giả
+C. Dùng botnet tạo lượng truy cập khổng lồ làm quá tải máy chủ
+D. Tự động sửa đổi nội dung bài nộp của sinh viên
+ANSWER: C
+EXPLAIN: DDoS sử dụng mạng máy tính bị chiếm quyền để tạo lưu lượng truy cập ảo rất lớn, làm tê liệt hệ thống mục tiêu.

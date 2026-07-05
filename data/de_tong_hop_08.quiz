@@ -1,0 +1,399 @@
+# Quiz: Đề tổng hợp 08
+
+Q: Công nghệ nào được Wi-Fi 7 sử dụng để tăng băng thông và giảm độ trễ theo nội dung chương?
+A. Màn hình E-ink và NFC
+B. Băng thông 320 MHz và vận hành đa liên kết MLO
+C. Cáp RJ45 và SATA
+D. ROM và DDR4
+ANSWER: B
+EXPLAIN: Wi-Fi 7 (IEEE 802.11be) được nêu với băng thông kênh 320 MHz và Multi-Link Operation, góp phần tăng tốc độ và giảm độ trễ.
+
+---
+
+Q: Công cụ nào phù hợp với sinh viên cần thiết kế nhanh poster hoặc slide đẹp bằng giao diện kéo-thả và kho mẫu lớn?
+A. Microsoft Editor
+B. Canva
+C. Adobe Audition
+D. Freesound
+ANSWER: B
+EXPLAIN: Canva thân thiện với người mới, có giao diện kéo-thả và nhiều mẫu cho slide, poster, CV và bài đăng mạng xã hội.
+
+---
+
+Q: Muốn tạo nhanh slide từ dàn ý và để AI đề xuất bố cục, hình ảnh, lựa chọn nào phù hợp?
+A. Audacity hoặc Adobe Audition
+B. Gamma hoặc Tome
+C. GIMP hoặc Remove.bg
+D. Word hoặc Microsoft Editor
+ANSWER: B
+EXPLAIN: Gamma và Tome có thể tạo slide nhanh từ dàn ý, đồng thời đề xuất bố cục và hình ảnh.
+
+---
+
+Q: Diễn giải hiệu quả khác việc thay vài từ trong câu gốc ở điểm nào?
+A. Diễn giải đòi hỏi hiểu ý tưởng, viết lại bằng ngôn ngữ và cấu trúc riêng, rồi vẫn trích dẫn nguồn
+B. Diễn giải chỉ cần đổi từ đồng nghĩa mà không cần ghi nguồn
+C. Diễn giải cho phép giữ nguyên cấu trúc câu gốc nếu thay tên tác giả
+D. Diễn giải là sao chép nguyên văn trong dấu ngoặc kép
+ANSWER: A
+EXPLAIN: Paraphrasing là trình bày lại bằng lời và cấu trúc của mình nhưng vẫn phải ghi nguồn ý tưởng.
+
+---
+
+Q: Muốn ưu tiên nghiên cứu mới trên Google Scholar, nên dùng chức năng nào?
+A. Chỉ sắp xếp theo dung lượng PDF
+B. Bộ lọc năm xuất bản ở khu vực bên trái
+C. Xóa mọi từ khóa chuyên ngành
+D. Chỉ đọc kết quả có tiêu đề dài nhất
+ANSWER: B
+EXPLAIN: Lọc theo năm giúp giới hạn kết quả vào giai đoạn phù hợp, đặc biệt với chủ đề thay đổi nhanh.
+
+---
+
+Q: Vai trò nào thuộc về LMS như VNU-LMS, Moodle hoặc Canvas?
+A. Thay thế ổ SSD để lưu hệ điều hành
+B. Là lớp học ảo để phân phối tài liệu, giao/nộp bài, kiểm tra và theo dõi điểm
+C. Chỉ dùng để gọi video đồng bộ
+D. Chỉ dùng để biên tập ảnh
+ANSWER: B
+EXPLAIN: LMS là nền tảng quản lý toàn bộ hoạt động học tập trực tuyến, gồm nội dung, thông báo, bài tập, bài kiểm tra, nộp bài và điểm số.
+
+---
+
+Q: Chuỗi chuyển hóa nào đúng theo mô hình DIKW?
+A. Wisdom → Knowledge → Information → Data
+B. Data → Information → Knowledge → Wisdom
+C. Information → Data → Wisdom → Knowledge
+D. Knowledge → Data → Information → Wisdom
+ANSWER: B
+EXPLAIN: Dữ liệu được xử lý thành thông tin, thông tin được tiếp thu thành tri thức, rồi tri thức được áp dụng sâu sắc và có đạo đức để đạt sự thông thái.
+
+---
+
+Q: Mục đích chính của `.zip` và `.rar` là gì?
+A. Gộp và nén nhiều tệp/thư mục để giảm dung lượng và dễ gửi
+B. Lưu âm thanh chuyên nghiệp không nén
+C. Tạo bảng tính có công thức
+D. Giữ nền ảnh trong suốt
+ANSWER: A
+EXPLAIN: ZIP và RAR là định dạng lưu trữ nén, giúp đóng gói nhiều đối tượng thành một tệp duy nhất.
+
+---
+
+Q: Một sinh viên nhập dữ liệu cá nhân của người tham gia khảo sát chưa công bố vào chatbot công khai để nhờ phân tích. Nguyên tắc nào bị đe dọa nhất?
+A. Bảo vệ dữ liệu
+B. Quy tắc 20-20-20
+C. Tấn công DDoS
+D. Kéo dài vòng đời thiết bị
+ANSWER: A
+EXPLAIN: Không nên đưa thông tin cá nhân, dữ liệu nhạy cảm hoặc tài liệu chưa công bố vào chatbot công khai.
+
+---
+
+Q: Một sinh viên sao chép đoạn từ Wikipedia, không đặt ngoặc kép và không trích dẫn. Hành vi này thuộc loại nào?
+A. Đạo văn
+B. Bịa đặt
+C. DDoS
+D. An sinh số
+ANSWER: A
+EXPLAIN: Bảng 6.2 nêu ví dụ sao chép từ Wikipedia không có ngoặc kép và trích dẫn là đạo văn.
+
+---
+
+Q: Với một đoạn học thuật quan trọng bằng cặp ngôn ngữ phổ biến, cần câu văn tự nhiên và giữ sắc thái, công cụ nào thường được ưu tiên?
+A. Trello
+B. DeepL
+C. Calendly
+D. Resoomer
+ANSWER: B
+EXPLAIN: DeepL thường được đánh giá cao về ngữ cảnh, độ tự nhiên và sắc thái, đặc biệt với các ngôn ngữ châu Âu.
+
+---
+
+Q: Turnitin có ưu điểm nào nổi bật theo bảng công cụ?
+A. Cơ sở dữ liệu lớn và thường được tích hợp trong hệ thống của nhiều trường
+B. Là công cụ mã nguồn mở, miễn phí và không giới hạn nhóm
+C. Có dung lượng lưu trữ đám mây miễn phí 2 GB
+D. Chỉ dùng để đặt giới hạn thời gian mạng xã hội
+ANSWER: A
+EXPLAIN: Turnitin là công cụ kiểm tra tương đồng có cơ sở dữ liệu lớn và hay tích hợp vào LMS.
+
+---
+
+Q: Tình huống nào thể hiện đầy đủ tư duy cốt lõi của chương trong việc dùng công nghệ?
+A. Chọn công cụ nhiều tính năng nhất cho mọi nhiệm vụ
+B. Chọn đúng công cụ theo mục đích, duy trì tin tưởng trong nhóm và kiểm tra đầu ra AI có trách nhiệm
+C. Ưu tiên giao tiếp đồng bộ trong mọi trường hợp
+D. Giao mọi quyết định cho nền tảng để tiết kiệm thời gian
+ANSWER: B
+EXPLAIN: Năng lực số không chỉ là thao tác kỹ thuật mà còn là lựa chọn chiến lược, xây dựng quan hệ và chỉ đạo công nghệ có trách nhiệm.
+
+---
+
+Q: Giám sát của con người khi dùng AI đòi hỏi điều gì?
+A. Luôn xem xét, đánh giá và chỉnh sửa kỹ kết quả AI, không sao chép dán mù quáng
+B. Tin mọi kết quả AI vì AI luôn khách quan
+C. Chỉ cần kiểm tra lỗi chính tả trong kết quả AI
+D. Không cần hiểu nội dung nếu đã ghi tên công cụ AI
+ANSWER: A
+EXPLAIN: Human Oversight yêu cầu duy trì tư duy phản biện với mọi kết quả từ AI.
+
+---
+
+Q: Tham khảo một trang web theo Harvard cần thành phần nào?
+A. Chỉ tiêu đề trang
+B. Chỉ ngày truy cập
+C. Tác giả/tổ chức, năm cập nhật, tiêu đề, URL và ngày truy cập
+D. Số phát hành tạp chí và trang bắt buộc
+ANSWER: C
+EXPLAIN: Vì nội dung web có thể thay đổi, mục tham khảo cần địa chỉ và ngày người viết truy cập bên cạnh tác giả, năm và tiêu đề.
+
+---
+
+Q: Khi cài ứng dụng tải từ web trên macOS, quy trình thường gặp nào đúng?
+A. Đổi tệp `.dmg` thành `.exe` rồi mở bằng Microsoft Store
+B. Chép tệp cài đặt vào ROM trước khi chạy
+C. Kéo ứng dụng vào Trash để bắt đầu cài đặt
+D. Mở tệp `.dmg`, sau đó kéo biểu tượng ứng dụng vào thư mục Applications
+ANSWER: D
+EXPLAIN: Ảnh đĩa `.dmg` thường mở ra cửa sổ cài đặt, trong đó người dùng kéo ứng dụng vào Applications để hoàn tất.
+
+---
+
+Q: Tiêu chí Accuracy được hỗ trợ mạnh nhất bởi dấu hiệu nào?
+A. Tiêu đề gây sốc và nhiều cảm xúc
+B. Không ghi tác giả hoặc nguồn
+C. Có số liệu, trích dẫn rõ, lập luận kiểm chứng được và phù hợp với các nguồn độc lập
+D. Có nhiều quảng cáo sản phẩm
+ANSWER: C
+EXPLAIN: Tính chính xác cần bằng chứng cụ thể, khả năng kiểm chứng chéo và cách trình bày cẩn trọng.
+
+---
+
+Q: Hệ chuyên gia thập niên 1980 có thể đưa quyết định trong những lĩnh vực hẹp nào được nêu?
+A. Chẩn đoán y khoa và chấm điểm tín dụng
+B. Tạo phim và âm nhạc
+C. Dịch thời gian thực mọi ngôn ngữ
+D. Điều khiển AGI tổng quát
+ANSWER: A
+EXPLAIN: Expert Systems hoạt động tốt khi miền tri thức hẹp và luật được mã hóa rõ, nhưng khó mở rộng sang tình huống mới.
+
+---
+
+Q: Biện pháp nào giúp chủ động xây dựng sự gắn kết trong nhóm từ xa?
+A. Chỉ trao đổi khi có lỗi
+B. Loại bỏ mọi trò chuyện ngoài công việc
+C. Không công khai ghi nhận cá nhân để tránh khác biệt
+D. Tạo kênh ngoài lề, hỏi thăm đầu buổi họp và ghi nhận đóng góp
+ANSWER: D
+EXPLAIN: Gắn kết từ xa cần được chủ động nuôi dưỡng bằng trò chuyện, hỏi thăm và sự công nhận.
+
+---
+
+Q: Microsoft Designer đặc biệt hữu ích khi nào?
+A. Khi cần ghi âm cá nhân không qua biên tập
+B. Khi cần nhiều phương án thiết kế nhanh từ vài dòng mô tả
+C. Khi cần viết luận văn định dạng chuẩn
+D. Khi cần chỉnh một podcast bằng transcript
+ANSWER: B
+EXPLAIN: Microsoft Designer tích hợp AI và DALL-E 3 để tạo phương án thiết kế từ mô tả, hữu ích khi bí ý tưởng hoặc cần tốc độ.
+
+---
+
+Q: Nền tảng và khả năng nổi bật của Microsoft Copilot trong bảng là gì?
+A. LLaMA 3 và mạng xã hội Meta
+B. Grok-2 và dữ liệu X
+C. Chỉ mô hình riêng không tạo ảnh
+D. GPT-4, DALL-E 3, truy cập Internet và tích hợp Microsoft 365
+ANSWER: D
+EXPLAIN: Copilot kết hợp ngôn ngữ, tạo ảnh và các ứng dụng Word, PowerPoint, Teams, Outlook.
+
+---
+
+Q: Ghép nối nào đúng giữa hệ điều hành và định dạng tệp cài đặt thường gặp?
+A. Windows: `.exe` hoặc `.msi`; macOS: `.dmg`
+B. Windows: `.dmg`; macOS: `.exe`
+C. Windows: `.jpg`; macOS: `.mp3`
+D. Windows: `.docx`; macOS: `.xlsx`
+ANSWER: A
+EXPLAIN: Trình cài đặt tải từ web trên Windows thường dùng `.exe` hoặc `.msi`, còn macOS thường phân phối ứng dụng qua ảnh đĩa `.dmg`.
+
+---
+
+Q: Sinh viên diễn đạt lại ý tưởng của một bài báo bằng lời văn riêng nhưng không ghi nguồn. Đánh giá nào đúng?
+A. Không phải đạo văn vì đã thay đổi câu chữ
+B. Chỉ vi phạm nếu bài báo có thu phí
+C. Được phép nếu đoạn viết ngắn
+D. Vẫn là đạo văn vì ý tưởng của người khác phải được trích dẫn
+ANSWER: D
+EXPLAIN: Paraphrase không loại bỏ nghĩa vụ ghi nguồn; trình bày ý tưởng người khác như của mình vẫn vi phạm liêm chính học thuật.
+
+---
+
+Q: Quetext phù hợp nhất với tình huống nào theo bảng?
+A. Sinh viên cần công cụ nhanh, có gói miễn phí để kiểm tra các bài viết ngắn
+B. Nhà trường cần chống DDoS chuyên dụng cho hệ thống LMS
+C. Người dùng cần quản lý nhóm nghiên cứu không giới hạn thành viên
+D. Người dùng muốn thay thế hoàn toàn việc trích dẫn nguồn
+ANSWER: A
+EXPLAIN: Quetext có gói miễn phí nhưng giới hạn số từ/lượt, phù hợp kiểm tra nhanh bài ngắn.
+
+---
+
+Q: GenAI có thể hỗ trợ lập trình bằng cách nào?
+A. Chỉ đổi màu trình soạn thảo
+B. Thay thế hoàn toàn kiểm thử
+C. Bảo đảm mã không bao giờ có lỗi
+D. Viết đoạn mã, giải thích thuật toán và hỗ trợ tìm lỗi
+ANSWER: D
+EXPLAIN: AI tăng tốc lập trình nhưng mã sinh ra vẫn cần đọc, kiểm thử và đánh giá bảo mật.
+
+---
+
+Q: Vì sao công cụ ghi chú được xem là linh hoạt hơn Word hoặc Google Docs trong giai đoạn chuẩn bị?
+A. Chúng luôn tạo được video tự động
+B. Chỉ chúng mới lưu được văn bản
+C. Chúng kết hợp ghi chú, danh sách việc, liên kết, ảnh và video trong cùng một nơi
+D. Chúng thay thế hoàn toàn việc kiểm chứng nguồn
+ANSWER: C
+EXPLAIN: Notion, Evernote và OneNote cho phép tổ chức nhiều dạng thông tin và công việc trong một không gian linh hoạt.
+
+---
+
+Q: GenAI hỗ trợ nghiên cứu khoa học ngoài tìm kiếm/tóm tắt bằng cách nào?
+A. Tự xác nhận mọi giả thuyết
+B. Tổng hợp bài báo và hỗ trợ phân tích dữ liệu định tính
+C. Tự động trở thành tác giả chính
+D. Bỏ qua phương pháp nghiên cứu
+ANSWER: B
+EXPLAIN: AI có thể tăng tốc xử lý tài liệu và dữ liệu văn bản, nhưng nhà nghiên cứu vẫn phải kiểm chứng và diễn giải.
+
+---
+
+Q: Perplexity sử dụng mô hình và mô hình chi phí nào theo bảng?
+A. Chỉ LLaMA 3 và không có bản miễn phí
+B. Mô hình riêng/GPT-4; miễn phí có giới hạn và có gói Pro
+C. Chỉ Grok-2
+D. Chỉ hệ chuyên gia luật
+ANSWER: B
+EXPLAIN: Perplexity cung cấp lớp truy xuất và trả lời có nguồn, với tùy chọn miễn phí lẫn trả phí.
+
+---
+
+Q: Quy tắc sao lưu 3-2-1 yêu cầu điều gì?
+A. Ba mật khẩu, hai tài khoản và một email
+B. Ba thư mục trên cùng một ổ cứng
+C. Hai bản sao trên một USB và một bản trong Recycle Bin
+D. Ít nhất ba bản sao, trên hai loại phương tiện, với một bản đặt ngoài địa điểm chính
+ANSWER: D
+EXPLAIN: 3-2-1 giảm rủi ro từ hỏng thiết bị và thảm họa tại một địa điểm bằng cách đa dạng hóa bản sao và nơi lưu.
+
+---
+
+Q: Gemini trong Google Docs có thể làm gì?
+A. Chỉ tạo tài khoản email
+B. Tóm tắt tài liệu, viết tiếp nội dung và tham chiếu tệp trong Drive
+C. Chỉ phân tích dữ liệu X
+D. Chỉ tạo slide từ Word
+ANSWER: B
+EXPLAIN: Gemini có thể dùng ngữ cảnh tài liệu và tệp Drive như bảng chi phí để hỗ trợ báo cáo.
+
+---
+
+Q: Lựa chọn phương tiện giao tiếp phù hợp được xem là một quyết định chiến lược vì sao?
+A. Mọi phương tiện đều tạo cùng một kỳ vọng về thời gian phản hồi
+B. Phương tiện được chọn thể hiện mức độ cấp bách và sự tôn trọng thời gian của người nhận
+C. Chỉ phương tiện đồng bộ mới được dùng trong học thuật
+D. Phương tiện bất đồng bộ luôn hiệu quả hơn trong mọi hoàn cảnh
+ANSWER: B
+EXPLAIN: Email cho người nhận chủ động xử lý, còn cuộc gọi đột xuất thường hàm ý cấp bách và cần chú ý ngay.
+
+---
+
+Q: Hành động nào phù hợp nhất khi dùng Wi-Fi công cộng không mã hóa?
+A. Đăng nhập ngân hàng để kiểm tra độ an toàn
+B. Tắt 2FA để kết nối nhanh hơn
+C. Chia sẻ mật khẩu qua mạng
+D. Tránh giao dịch nhạy cảm như ngân hàng hoặc mua sắm
+ANSWER: D
+EXPLAIN: Mạng công cộng không bảo vệ tốt lưu lượng, làm tăng nguy cơ nghe lén hoặc giả mạo kết nối.
+
+---
+
+Q: Giấy phép CC BY cho phép điều gì?
+A. Được sao chép, phân phối, sửa đổi và dùng cả thương mại nếu ghi công tác giả
+B. Chỉ được xem, không được sao chép
+C. Được dùng nhưng tuyệt đối không được sửa đổi
+D. Chỉ được dùng cho mục đích phi thương mại
+ANSWER: A
+EXPLAIN: CC BY cho phép sử dụng rộng, kể cả sửa đổi và thương mại, với điều kiện ghi công tác giả gốc.
+
+---
+
+Q: Nguyên lý tạo văn bản của LLM được chương mô tả như thế nào?
+A. Đo KPI của nội dung đã xuất bản
+B. Chỉ sao chép nguyên văn một tài liệu duy nhất
+C. Dự đoán chuỗi từ tiếp theo dựa trên prompt và ngữ cảnh
+D. Bắt đầu từ nhiễu hình ảnh rồi tạo âm thanh
+ANSWER: C
+EXPLAIN: LLM tạo văn bản mạch lạc bằng cách dự đoán các từ tiếp theo dựa trên yêu cầu và ngữ cảnh được cung cấp.
+
+---
+
+Q: Yếu tố nào có thể làm kết nối Wi-Fi kém ổn định hơn Ethernet?
+A. Phần mở rộng của tệp quá dài
+B. Vật cản và nhiễu sóng từ thiết bị khác
+C. Dung lượng ROM quá lớn
+D. Máy tính có nhiều thư mục con
+ANSWER: B
+EXPLAIN: Wi-Fi truyền bằng sóng vô tuyến nên bị ảnh hưởng bởi tường, đồ đạc, khoảng cách và nhiễu; Ethernet truyền qua cáp nên thường ổn định hơn.
+
+---
+
+Q: Cặp dòng CPU tích hợp NPU và thời điểm ra mắt nào được nêu đúng trong tài liệu?
+A. Intel Core Ultra 200-series năm 2024 và AMD Ryzen AI 300 năm 2025
+B. Intel Core Ultra 200-series năm 2025 và AMD Ryzen AI 300 series năm 2024
+C. Intel Pentium năm 2025 và AMD Athlon năm 2024
+D. Apple M1 năm 2025 và Intel Core 2 Duo năm 2024
+ANSWER: B
+EXPLAIN: Tài liệu lấy Intel Core Ultra 200-series ra mắt năm 2025 và AMD Ryzen AI 300 series ra mắt năm 2024 làm ví dụ về CPU hiện đại có NPU.
+
+---
+
+Q: Lợi ích trực tiếp của công cụ lên lịch thông minh đối với sinh viên là gì?
+A. Thay thế việc chuẩn bị nội dung họp
+B. Tự ra quyết định thay cả nhóm
+C. Đảm bảo mọi cuộc họp đều cần thiết
+D. Giảm trao đổi qua lại khi xếp lịch học nhóm, phỏng vấn hoặc gặp giảng viên
+ANSWER: D
+EXPLAIN: Công cụ lịch giúp việc hẹn thời gian chuyên nghiệp, hiệu quả và tiết kiệm vòng trao đổi thủ công.
+
+---
+
+Q: Luật An ninh mạng 2018 và các nghị định hướng dẫn nghiêm cấm hành vi nào trên không gian mạng?
+A. Đăng tải thông tin sai sự thật gây hoang mang, xúc phạm danh dự, lừa đảo chiếm đoạt tài sản
+B. Sử dụng mật khẩu mạnh cho tài khoản cá nhân
+C. Sao lưu dữ liệu theo quy tắc 3-2-1
+D. Trích dẫn nguồn theo chuẩn Harvard
+ANSWER: A
+EXPLAIN: Luật quy định các hành vi bị cấm như thông tin sai sự thật, xúc phạm danh dự, lừa đảo và vi phạm pháp luật khác.
+
+---
+
+Q: Với yêu cầu quá phức tạp như bài luận 3000 từ bao phủ lịch sử, kinh tế, văn hóa, nên làm gì?
+A. Gộp thêm nhiều yêu cầu nữa
+B. Bỏ mọi tiêu chí
+C. Yêu cầu AI tự đoán
+D. Chia nhỏ thành lập dàn ý, viết từng phần và xử lý tài liệu tham khảo
+ANSWER: D
+EXPLAIN: Decomposition giúp kiểm soát chất lượng và kiểm tra từng giai đoạn.
+
+---
+
+Q: Cách nhắn tin nào tôn trọng thời gian người nhận hơn?
+A. Gộp các ý liên quan thành một tin nhắn rõ ràng thay vì gửi nhiều tin nhỏ liên tục
+B. Gửi từng từ thành một tin riêng
+C. Nhắn ngoài giờ cho mọi vấn đề không khẩn cấp
+D. Không nêu mục đích của tin nhắn
+ANSWER: A
+EXPLAIN: Netiquette trong chat yêu cầu ngắn gọn, rõ ràng và hạn chế chuỗi tin nhỏ gây gián đoạn.

@@ -1,0 +1,399 @@
+# Quiz: Đề tổng hợp 06
+
+Q: Cách nhắn tin nào tôn trọng thời gian người nhận hơn?
+A. Gộp các ý liên quan thành một tin nhắn rõ ràng thay vì gửi nhiều tin nhỏ liên tục
+B. Gửi từng từ thành một tin riêng
+C. Nhắn ngoài giờ cho mọi vấn đề không khẩn cấp
+D. Không nêu mục đích của tin nhắn
+ANSWER: A
+EXPLAIN: Netiquette trong chat yêu cầu ngắn gọn, rõ ràng và hạn chế chuỗi tin nhỏ gây gián đoạn.
+
+---
+
+Q: Nhóm quy định cụ thể ai làm việc gì, tiêu chuẩn đầu ra và thời hạn. Điều này củng cố nguyên tắc nào?
+A. Rõ ràng
+B. Giải trí
+C. Tự động hóa
+D. Truyền thông một chiều
+ANSWER: A
+EXPLAIN: Rõ ràng đòi hỏi nhiệm vụ, vai trò và kỳ vọng được truyền đạt minh bạch.
+
+---
+
+Q: Một sinh viên sao chép đoạn từ Wikipedia, không đặt ngoặc kép và không trích dẫn. Hành vi này thuộc loại nào?
+A. Đạo văn
+B. Bịa đặt
+C. DDoS
+D. An sinh số
+ANSWER: A
+EXPLAIN: Bảng 6.2 nêu ví dụ sao chép từ Wikipedia không có ngoặc kép và trích dẫn là đạo văn.
+
+---
+
+Q: Tính năng nào của Google Scholar giúp khám phá nghiên cứu tương tự một bài đã tìm thấy?
+A. Version History
+B. Related articles
+C. 2FA
+D. Reverse Image Search
+ANSWER: B
+EXPLAIN: Related articles dẫn đến các tài liệu có nội dung hoặc mối liên hệ học thuật gần với bài hiện tại.
+
+---
+
+Q: Vì sao không nên đánh giá một tin chỉ qua tiêu đề?
+A. Tiêu đề giật gân có thể không phản ánh nội dung hoặc bằng chứng trong toàn bài
+B. Nội dung bài luôn ngắn hơn tiêu đề
+C. Tiêu đề không bao giờ chứa thông tin
+D. Mọi tiêu đề gây chú ý đều là tin giả
+ANSWER: A
+EXPLAIN: Tin sai lệch thường dùng headline gây sốc để kích thích chia sẻ, trong khi phần nội dung có thể không hỗ trợ khẳng định đó.
+
+---
+
+Q: Nhóm muốn quản lý nhiệm vụ, ghi chú, tài liệu, cơ sở dữ liệu và wiki trong một không gian tùy biến. Nên chọn gì?
+A. Notion
+B. Trello
+C. Zoom
+D. Outlook
+ANSWER: A
+EXPLAIN: Notion là không gian làm việc “tất cả trong một”, kết hợp quản lý công việc và quản lý kiến thức.
+
+---
+
+Q: Vì sao Grok có thể không phù hợp cho văn phong học thuật?
+A. Không tạo văn bản
+B. Không có dữ liệu mới
+C. Chỉ trả lời bằng hình ảnh
+D. Cá tính và thiên kiến từ mạng xã hội có thể làm đầu ra kém trang trọng, cần kiểm chứng
+ANSWER: D
+EXPLAIN: Tính thời sự không đồng nghĩa với độ tin cậy hay phong cách học thuật.
+
+---
+
+Q: Nền tảng học hỏi của mô hình AI tạo ảnh được mô tả như thế nào?
+A. Chỉ học từ các tệp âm thanh
+B. Không cần dữ liệu huấn luyện
+C. Chỉ dựa vào một ảnh mẫu duy nhất
+D. Học mối liên hệ giữa nhiều cặp văn bản mô tả và hình ảnh
+ANSWER: D
+EXPLAIN: Mô hình học quan hệ giữa hàng tỷ cặp văn bản và hình ảnh để hiểu prompt và tạo đặc điểm hình ảnh tương ứng.
+
+---
+
+Q: Sinh viên bị “bí ý” khi bắt đầu email cảm ơn giảng viên. Cách dùng AI nào vừa hữu ích vừa có trách nhiệm?
+A. Để AI tự gửi email ngay sau khi tạo
+B. Dùng prompt để AI tạo bản nháp, rồi tự đọc lại, chỉnh sửa và cá nhân hóa
+C. Sao chép bản nháp AI và xóa mọi chi tiết cá nhân
+D. Yêu cầu AI viết nhưng không cung cấp mục đích email
+ANSWER: B
+EXPLAIN: AI có thể giúp vượt qua writer's block bằng bản nháp, nhưng người dùng vẫn phải kiểm tra và thể hiện giọng văn của chính mình.
+
+---
+
+Q: Cặp mục tiêu và công cụ AI nào được ghép đúng?
+A. Tạo slide từ dàn ý - Audacity
+B. Tạo video từ văn bản - Microsoft Editor
+C. Tạo nhạc nền - Google Docs
+D. Tạo ảnh minh họa - Microsoft Designer
+ANSWER: D
+EXPLAIN: Microsoft Designer là công cụ Text-to-Image; các cặp còn lại ghép sai chức năng.
+
+---
+
+Q: Sinh viên muốn xây dựng hồ sơ nghề nghiệp, theo dõi công ty và tìm cơ hội thực tập. Nền tảng phù hợp nhất là gì?
+A. LinkedIn
+B. Một tài khoản giải trí ẩn danh
+C. Ứng dụng chỉnh ảnh ngoại tuyến
+D. Diễn đàn không liên quan chuyên môn
+ANSWER: A
+EXPLAIN: LinkedIn là mạng xã hội chuyên nghiệp dùng để kết nối chuyên gia, theo dõi công ty và tìm cơ hội nghề nghiệp.
+
+---
+
+Q: Mendeley có ưu điểm nào so với Zotero theo bảng?
+A. Giao diện hiện đại và dung lượng lưu trữ đám mây miễn phí lớn hơn, khoảng 2 GB
+B. Mã nguồn mở và không giới hạn thành viên nhóm
+C. Không cần Internet để phát hiện mọi deepfake
+D. Không cần người dùng ghi chú trên PDF
+ANSWER: A
+EXPLAIN: Mendeley được mô tả có giao diện thân thiện, hiện đại và cloud miễn phí 2 GB.
+
+---
+
+Q: Lưu trữ đám mây là gì?
+A. Lưu tệp duy nhất trong RAM
+B. Lưu dữ liệu trên máy chủ từ xa qua Internet để truy cập, đồng bộ và chia sẻ
+C. Nén tệp trên ổ cứng cục bộ
+D. In dữ liệu ra giấy để bảo quản
+ANSWER: B
+EXPLAIN: Cloud storage đặt dữ liệu trên hạ tầng từ xa, cho phép nhiều thiết bị truy cập và đồng bộ qua mạng.
+
+---
+
+Q: Nhóm đã có chủ đề nhưng chưa biết nên làm bài viết, video hay infographic. Quyết định này thuộc bước nào?
+A. Biên tập và tinh chỉnh
+B. Lập kế hoạch
+C. Đo lường và tối ưu
+D. Xuất bản và phân phối
+ANSWER: B
+EXPLAIN: Lựa chọn định dạng dựa trên ý tưởng, đối tượng và đặc điểm từng loại nội dung là một phần của bước lập kế hoạch.
+
+---
+
+Q: Điểm khác biệt chính giữa nhóm soạn thảo cơ bản và nhóm kiểm tra ngữ pháp, văn phong là gì?
+A. Nhóm kiểm tra hỗ trợ rà soát và cải thiện bản nháp sau khi viết
+B. Nhóm kiểm tra chỉ dùng để tạo ảnh
+C. Nhóm soạn thảo không thể lưu tài liệu
+D. Nhóm soạn thảo chỉ hoạt động với âm thanh
+ANSWER: A
+EXPLAIN: Công cụ soạn thảo dùng để tạo và trình bày văn bản, còn Grammarly hoặc Editor chủ yếu rà lỗi và đề xuất cải thiện bản nháp.
+
+---
+
+Q: Soundraw và AIVA được nêu như công cụ hỗ trợ tác vụ nào?
+A. Kiểm tra lỗi ngữ pháp
+B. Tạo nhạc nền không bản quyền cho video hoặc podcast
+C. Xóa nền ảnh
+D. Theo dõi lượt chia sẻ
+ANSWER: B
+EXPLAIN: Soundraw và AIVA là các công cụ AI tạo nhạc nền dùng cho sản phẩm video hoặc podcast.
+
+---
+
+Q: Phát hiện AI đưa một trích dẫn nhưng nguồn không tồn tại. Tiêu chí đánh giá nào đã phát hiện vấn đề trực tiếp nhất?
+A. Coherence
+B. Personalization
+C. Relevance
+D. Accuracy
+ANSWER: D
+EXPLAIN: Kiểm tra sự tồn tại và độ đáng tin của nguồn là một phần của đánh giá tính chính xác.
+
+---
+
+Q: Vai trò kép của AI trong an toàn số là gì?
+A. Vừa phát hiện phishing/mã độc, vừa có thể tạo deepfake và thông tin giả tinh vi
+B. Chỉ gây nguy hiểm, không có lợi ích
+C. Chỉ bảo vệ, không tạo rủi ro
+D. Không liên quan an toàn dữ liệu
+ANSWER: A
+EXPLAIN: AI vừa là công cụ phòng thủ vừa tạo thách thức mới, đòi hỏi năng lực kiểm chứng cao hơn.
+
+---
+
+Q: Học có giám sát và không giám sát khác nhau cơ bản ở đâu?
+A. Cả hai đều không dùng dữ liệu
+B. Không giám sát luôn cần nhãn tốt hơn
+C. Học có giám sát dùng dữ liệu gán nhãn; không giám sát tìm cấu trúc trong dữ liệu chưa gán nhãn
+D. Chỉ DL mới có thể dùng dữ liệu
+ANSWER: C
+EXPLAIN: Nhãn cung cấp đáp án mục tiêu cho supervised learning, còn unsupervised learning khám phá mẫu không có nhãn đích.
+
+---
+
+Q: Khi dùng hình ảnh, biểu đồ hoặc video không do mình tạo, nên làm gì?
+A. Kiểm tra quyền sử dụng và trích dẫn/ghi nguồn phù hợp
+B. Xóa metadata rồi sử dụng tự do
+C. Chỉ cần đổi màu hình ảnh
+D. Không cần dẫn nguồn vì đó không phải văn bản
+ANSWER: A
+EXPLAIN: Nội dung đa phương tiện cũng được bảo hộ và cần attribution theo giấy phép hoặc quy định áp dụng.
+
+---
+
+Q: Perplexity sử dụng mô hình và mô hình chi phí nào theo bảng?
+A. Chỉ LLaMA 3 và không có bản miễn phí
+B. Mô hình riêng/GPT-4; miễn phí có giới hạn và có gói Pro
+C. Chỉ Grok-2
+D. Chỉ hệ chuyên gia luật
+ANSWER: B
+EXPLAIN: Perplexity cung cấp lớp truy xuất và trả lời có nguồn, với tùy chọn miễn phí lẫn trả phí.
+
+---
+
+Q: Vì sao so sánh bản thân với hình ảnh hoàn hảo trên mạng xã hội có thể gây hại?
+A. Vì nó có thể dẫn đến tự ti, không hài lòng, lo âu hoặc trầm cảm
+B. Vì nó làm cho mật khẩu trở nên dễ đoán hơn
+C. Vì nó khiến dữ liệu tự động được lưu theo chuẩn Harvard
+D. Vì nó làm giảm số lượng bản sao lưu dữ liệu
+ANSWER: A
+EXPLAIN: Môi trường mạng với hình ảnh được chọn lọc kỹ có thể tác động tiêu cực đến sức khỏe tinh thần.
+
+---
+
+Q: Trong tiêu chí Purpose, dấu hiệu nào cho thấy nội dung có thể phục vụ mục đích thương mại hơn là cung cấp thông tin khách quan?
+A. Nhiều quảng cáo, nhãn “nội dung được tài trợ” và lời kêu gọi mua sản phẩm
+B. Công bố phương pháp và giới hạn nghiên cứu
+C. Trình bày cân bằng nhiều quan điểm
+D. Dẫn nguồn độc lập có thể kiểm chứng
+ANSWER: A
+EXPLAIN: Quảng cáo và sponsored content có thể tạo xung đột lợi ích, nên người đọc cần xem xét thiên kiến và động cơ bán hàng.
+
+---
+
+Q: Nhóm công cụ nào phù hợp nhất để thiết kế bài báo cáo dự án dưới dạng slide có văn bản, hình ảnh và video?
+A. Word và Google Docs
+B. PowerPoint và Google Slides
+C. Excel và Google Sheets
+D. Zotero và Mendeley
+ANSWER: B
+EXPLAIN: PowerPoint và Google Slides là phần mềm trình chiếu, được thiết kế để tạo và trình bày các slide đa phương tiện.
+
+---
+
+Q: Ghép chương trình AI sơ khai với năm nào đúng?
+A. ELIZA - 1950
+B. STUDENT - 2012
+C. Chương trình cờ Arthur Samuel - 1966
+D. Arthur Samuel chơi cờ - 1959; STUDENT - 1964; ELIZA - 1966
+ANSWER: D
+EXPLAIN: Ba chương trình tiêu biểu lần lượt minh họa chơi cờ, giải toán và đối thoại đơn giản trong giai đoạn đầu AI.
+
+---
+
+Q: Tổ hợp nào chỉ gồm các chức năng cốt lõi của trình duyệt web?
+A. Phân bổ RAM, điều khiển máy in và quản lý firmware
+B. Hiển thị trang web, quản lý tab/lịch sử/dấu trang và cài tiện ích mở rộng
+C. Tạo phân vùng ổ cứng, thay CPU và cập nhật BIOS
+D. Chỉ tạo bảng tính và biểu đồ thống kê
+ANSWER: B
+EXPLAIN: Trình duyệt truy cập và hiển thị nội dung web, đồng thời quản lý phiên duyệt qua tab, lịch sử, bookmark và extension.
+
+---
+
+Q: Thực hành chánh niệm khi dùng công nghệ có nghĩa là gì?
+A. Lướt web vô thức để cập nhật càng nhiều thông tin càng tốt
+B. Tập trung vào hiện tại và sử dụng công nghệ một cách có chủ đích
+C. Luôn phản hồi ngay mọi thông báo để tránh FOMO
+D. Chỉ giao tiếp trực tuyến và giảm tương tác ngoài đời
+ANSWER: B
+EXPLAIN: Mindfulness giúp tránh dùng công nghệ vô thức và tăng sự chủ động.
+
+---
+
+Q: “Ảo giác” của AI là rủi ro gì?
+A. AI tự tin bịa đặt sự kiện, số liệu hoặc trích dẫn không tồn tại
+B. AI tự động bảo vệ dữ liệu cá nhân khỏi mọi rò rỉ
+C. AI chỉ trả lời khi có dữ liệu thật được kiểm chứng
+D. AI luôn từ chối tạo nội dung học thuật
+ANSWER: A
+EXPLAIN: AI Hallucination là việc AI tạo thông tin sai nhưng trình bày rất hợp lý và thuyết phục.
+
+---
+
+Q: Luật Sở hữu trí tuệ bảo vệ đối tượng nào?
+A. Quyền tác giả đối với bài viết, sách, phần mềm và tác phẩm nghệ thuật
+B. Chỉ mật khẩu cá nhân và mã OTP
+C. Chỉ các thiết bị phần cứng như máy tính và điện thoại
+D. Chỉ các bài đăng không có tác giả trên Internet
+ANSWER: A
+EXPLAIN: Luật Sở hữu trí tuệ bảo vệ quyền tác giả đối với các công trình sáng tạo, kể cả nội dung số.
+
+---
+
+Q: Vai trò nào thuộc về LMS như VNU-LMS, Moodle hoặc Canvas?
+A. Thay thế ổ SSD để lưu hệ điều hành
+B. Là lớp học ảo để phân phối tài liệu, giao/nộp bài, kiểm tra và theo dõi điểm
+C. Chỉ dùng để gọi video đồng bộ
+D. Chỉ dùng để biên tập ảnh
+ANSWER: B
+EXPLAIN: LMS là nền tảng quản lý toàn bộ hoạt động học tập trực tuyến, gồm nội dung, thông báo, bài tập, bài kiểm tra, nộp bài và điểm số.
+
+---
+
+Q: Chuẩn Harvard yêu cầu hai thành phần chính nào?
+A. Mục lục và phụ lục
+B. Trích dẫn trong bài và danh mục tài liệu tham khảo ở cuối văn bản
+C. Tiêu đề và số trang
+D. Tóm tắt và từ khóa
+ANSWER: B
+EXPLAIN: In-text citation liên kết phát biểu với nguồn, còn reference list cung cấp thông tin đầy đủ để tìm tài liệu.
+
+---
+
+Q: Trong SMART, yếu tố Measurable được thể hiện rõ nhất qua chi tiết nào?
+A. Hướng dẫn sử dụng Zotero
+B. Đạt 500 lượt xem
+C. Dành cho sinh viên năm nhất
+D. Đăng video lên mạng
+ANSWER: B
+EXPLAIN: Con số 500 lượt xem tạo ra tiêu chí định lượng để đo mức độ hoàn thành mục tiêu.
+
+---
+
+Q: Mô hình nơ-ron “học” bằng cách nào?
+A. Thêm luật thủ công sau mỗi câu hỏi
+B. Điều chỉnh trọng số để giảm chênh lệch giữa dự đoán và kết quả thực tế
+C. Tăng kích thước màn hình
+D. Xóa dữ liệu huấn luyện
+ANSWER: B
+EXPLAIN: Tối ưu trọng số là cơ chế trung tâm của huấn luyện mạng nơ-ron.
+
+---
+
+Q: Tính năng Screen Time trên iOS hoặc Digital Wellbeing trên Android được khuyến nghị dùng để làm gì?
+A. Đặt giới hạn thời gian sử dụng cho các ứng dụng như mạng xã hội
+B. Tự động tạo bài luận hoàn chỉnh thay cho sinh viên
+C. Quét mã QR để xác minh mọi đường dẫn
+D. Chuyển tài liệu tham khảo thành dữ liệu cá nhân
+ANSWER: A
+EXPLAIN: Các tính năng này giúp người dùng thiết lập giới hạn và lấy lại quyền kiểm soát công nghệ.
+
+---
+
+Q: Một trường đại học kết nối các mạng trong nhiều cơ sở ở các tỉnh khác nhau. Xét theo phạm vi, mạng tổng thể phù hợp nhất với loại nào?
+A. LAN
+B. NFC
+C. WAN
+D. Bluetooth PAN duy nhất
+ANSWER: C
+EXPLAIN: WAN bao phủ phạm vi địa lý rộng và thường liên kết nhiều LAN; Internet là ví dụ lớn nhất của mạng WAN.
+
+---
+
+Q: Version History trên dịch vụ đám mây hữu ích nhất trong tình huống nào?
+A. Cần tăng dung lượng RAM
+B. Cần đổi PDF thành MP3
+C. Vô tình lưu đè hoặc chỉnh sửa sai và muốn quay lại phiên bản cũ
+D. Muốn mọi người có quyền xóa tệp
+ANSWER: C
+EXPLAIN: Lịch sử phiên bản lưu các trạng thái trước của tệp, hỗ trợ phục hồi sau khi xóa nhầm nội dung hoặc lưu đè.
+
+---
+
+Q: Ghép thành phần GUI với chức năng nào đúng?
+A. Taskbar hoặc Dock hiển thị ứng dụng thường dùng và ứng dụng đang chạy
+B. Desktop chỉ là nơi nhập lệnh văn bản trong terminal
+C. Icon là địa chỉ đầy đủ của một tệp trong cấu trúc cây
+D. Launchpad là trình điều khiển phần cứng của macOS
+ANSWER: A
+EXPLAIN: Taskbar trên Windows và Dock trên macOS chứa biểu tượng ứng dụng thường dùng hoặc đang hoạt động; Desktop là vùng làm việc và icon đại diện cho đối tượng.
+
+---
+
+Q: Khi cài ứng dụng tải từ web trên macOS, quy trình thường gặp nào đúng?
+A. Đổi tệp `.dmg` thành `.exe` rồi mở bằng Microsoft Store
+B. Chép tệp cài đặt vào ROM trước khi chạy
+C. Kéo ứng dụng vào Trash để bắt đầu cài đặt
+D. Mở tệp `.dmg`, sau đó kéo biểu tượng ứng dụng vào thư mục Applications
+ANSWER: D
+EXPLAIN: Ảnh đĩa `.dmg` thường mở ra cửa sổ cài đặt, trong đó người dùng kéo ứng dụng vào Applications để hoàn tất.
+
+---
+
+Q: Gemini trong Google Docs có thể làm gì?
+A. Chỉ tạo tài khoản email
+B. Tóm tắt tài liệu, viết tiếp nội dung và tham chiếu tệp trong Drive
+C. Chỉ phân tích dữ liệu X
+D. Chỉ tạo slide từ Word
+ANSWER: B
+EXPLAIN: Gemini có thể dùng ngữ cảnh tài liệu và tệp Drive như bảng chi phí để hỗ trợ báo cáo.
+
+---
+
+Q: Nguyên tắc sử dụng có trách nhiệm đối với nội dung giao tiếp do AI tạo là gì?
+A. Luôn đọc lại, chỉnh sửa và cá nhân hóa theo ngữ cảnh cùng giọng văn của mình
+B. Sao chép nguyên văn vì AI luôn hiểu đúng bối cảnh
+C. Không cần kiểm tra nếu prompt đủ dài
+D. Để AI tự gửi nhằm tránh ảnh hưởng chủ quan
+ANSWER: A
+EXPLAIN: AI là trợ lý, không phải người thay thế; người dùng phải bảo đảm tính chính xác, phù hợp và dấu ấn cá nhân.

@@ -1,0 +1,399 @@
+# Quiz: Đề tổng hợp 02
+
+Q: Một sinh viên muốn làm bài nghiên cứu lớn với nhiều nguồn và cần tự động tạo trích dẫn Harvard. Nhóm công cụ phù hợp nhất là gì?
+A. Zotero hoặc Mendeley
+B. VPN hoặc Antivirus
+C. Screen Time hoặc Digital Wellbeing
+D. Botnet hoặc DDoS
+ANSWER: A
+EXPLAIN: Zotero và Mendeley là công cụ quản lý tài liệu tham khảo, hỗ trợ chèn trích dẫn và tạo danh mục.
+
+---
+
+Q: Muốn biến kịch bản thành video có clip stock và giọng đọc AI, người dùng nên chọn gì?
+A. Notion hoặc Evernote
+B. Pictory hoặc InVideo AI
+C. Figma hoặc Photopea
+D. Grammarly hoặc Microsoft Editor
+ANSWER: B
+EXPLAIN: Pictory và InVideo AI được nêu cho tác vụ tạo video từ văn bản với hình ảnh hoặc clip stock và giọng đọc AI.
+
+---
+
+Q: Tác giả quyết định có cho người khác khai thác tác phẩm của mình hay không đang thực hiện quyền nào?
+A. Quyền nhân thân duy nhất
+B. Quyền tài sản
+C. Quyền trích dẫn tự do
+D. Quyền của người xem
+ANSWER: B
+EXPLAIN: Quyền tài sản cho phép tác giả quyết định việc người khác sử dụng tác phẩm của mình.
+
+---
+
+Q: Nhóm ứng dụng nào điển hình cho ML?
+A. Chỉ soạn thảo văn bản thủ công
+B. Chỉ nén tệp
+C. Chỉ hiển thị website
+D. Gợi ý sản phẩm, lọc thư rác và dự báo thời tiết
+ANSWER: D
+EXPLAIN: Các hệ thống này học quy luật từ dữ liệu lịch sử để phân loại hoặc dự đoán.
+
+---
+
+Q: Biện pháp nào giúp chủ động xây dựng sự gắn kết trong nhóm từ xa?
+A. Chỉ trao đổi khi có lỗi
+B. Loại bỏ mọi trò chuyện ngoài công việc
+C. Không công khai ghi nhận cá nhân để tránh khác biệt
+D. Tạo kênh ngoài lề, hỏi thăm đầu buổi họp và ghi nhận đóng góp
+ANSWER: D
+EXPLAIN: Gắn kết từ xa cần được chủ động nuôi dưỡng bằng trò chuyện, hỏi thăm và sự công nhận.
+
+---
+
+Q: Ý nghĩa của chiến thắng AlphaGo trước Lee Sedol năm 2016 là gì?
+A. Chứng minh hệ chuyên gia không cần dữ liệu
+B. Đánh dấu sự ra đời của Internet
+C. Cho thấy AI có thể xử lý trò chơi cực kỳ phức tạp đòi hỏi chiến lược và trực giác
+D. Là lần đầu thuật ngữ AI được dùng
+ANSWER: C
+EXPLAIN: Cờ vây có không gian trạng thái rất lớn, nên thành tựu của AlphaGo được xem là bước tiến vượt bậc.
+
+---
+
+Q: Các mô hình như ChatGPT, Gemini và Copilot có thể hỗ trợ hợp lý ở giai đoạn đầu nghiên cứu bằng cách nào?
+A. Tự động trở thành tác giả chịu trách nhiệm thay sinh viên
+B. Bảo đảm mọi câu trả lời đều chính xác
+C. Brainstorm từ khóa/góc nhìn, tóm tắt và gợi ý cách diễn giải
+D. Loại bỏ hoàn toàn nhu cầu đọc nguồn gốc
+ANSWER: C
+EXPLAIN: LLM là công cụ hỗ trợ phát triển ý tưởng và xử lý bản nháp, nhưng kết quả phải được kiểm chứng và biên tập.
+
+---
+
+Q: Cấu trúc cốt lõi của Trello theo phương pháp Kanban là gì?
+A. Trang, khối và cơ sở dữ liệu
+B. Tệp, thư mục và lịch
+C. Board, List và Card có thể kéo-thả
+D. Email, cuộc họp và biên bản
+ANSWER: C
+EXPLAIN: Trello trực quan hóa Kanban bằng bảng, danh sách và thẻ có thể kéo-thả.
+
+---
+
+Q: Quyền được đứng tên trên tác phẩm thuộc nhóm quyền nào của tác giả?
+A. Quyền sử dụng hợp lý
+B. Quyền phân phối của nền tảng
+C. Quyền sáng chế
+D. Quyền nhân thân
+ANSWER: D
+EXPLAIN: Quyền nhân thân bao gồm quyền được đứng tên trên tác phẩm; quyền tài sản liên quan việc cho phép hoặc không cho phép sử dụng.
+
+---
+
+Q: Khi sử dụng AI để phân tích vấn đề học thuật, câu hỏi đạo đức cốt lõi mà chương muốn người học tự đặt ra là gì?
+A. Ai là người thực sự đang tư duy?
+B. AI có làm bài nhanh hơn con người không?
+C. Có thể che giấu việc dùng AI bằng cách nào?
+D. Có thể bỏ toàn bộ trích dẫn nếu văn bản nghe tự nhiên không?
+ANSWER: A
+EXPLAIN: Chương nhấn mạnh mối đe dọa mới là thuê ngoài quá trình tư duy, không chỉ sao chép văn bản.
+
+---
+
+Q: Vì sao Deep Learning có chữ “deep”?
+A. Vì mô hình chỉ dùng dữ liệu biển sâu
+B. Vì câu trả lời luôn dài
+C. Vì mạng nơ-ron có nhiều lớp ẩn
+D. Vì chỉ chạy dưới lòng đất
+ANSWER: C
+EXPLAIN: Nhiều hidden layers cho phép học đặc trưng ở các mức trừu tượng tăng dần.
+
+---
+
+Q: Đặc điểm nào khiến e-Reader thích hợp cho việc đọc sách lâu?
+A. Màn hình E-ink cho trải nghiệm gần giấy thật, ít gây mỏi mắt và pin kéo dài
+B. Có card đồ họa rời để dựng hình 3D
+C. Có khả năng nâng cấp CPU và RAM dễ dàng
+D. Dùng màn hình phát sáng xanh mạnh để tăng độ tương phản
+ANSWER: A
+EXPLAIN: Máy đọc sách dùng mực điện tử E-ink, không phát ánh sáng xanh như màn hình thông thường, tạo cảm giác gần giấy và có thời lượng pin tính bằng tuần.
+
+---
+
+Q: Hành vi nào là lừa đảo trực tuyến theo nội dung chương?
+A. Một ngân hàng thật gửi thông báo bảo trì hệ thống qua kênh chính thức
+B. Kẻ xấu giả mạo trường học để yêu cầu sinh viên nhập mật khẩu vào trang web giả
+C. Một giảng viên gửi tài liệu học tập qua hệ thống LMS của trường
+D. Một sinh viên tự thay đổi mật khẩu vì nghi ngờ tài khoản bị lộ
+ANSWER: B
+EXPLAIN: Phishing là việc giả mạo đơn vị uy tín để lừa người dùng tiết lộ thông tin nhạy cảm như mật khẩu hoặc thông tin thẻ.
+
+---
+
+Q: Google Scholar khác máy tìm kiếm web thông thường chủ yếu ở điểm nào?
+A. Chỉ tìm hình ảnh giải trí
+B. Không có bộ lọc năm
+C. Chỉ tìm mạng xã hội
+D. Tập trung vào bài báo khoa học, luận văn, sách và báo cáo hội nghị
+ANSWER: D
+EXPLAIN: Scholar lập chỉ mục nội dung học thuật từ nhà xuất bản, trường đại học và tổ chức nghiên cứu.
+
+---
+
+Q: Sự trỗi dậy của AI tạo sinh làm thay đổi giá trị kỹ năng của con người theo hướng nào?
+A. Chỉ cần thực hiện tác vụ nhanh hơn, không cần đánh giá
+B. Chuyển từ người thực thi sang người chỉ đạo, đánh giá, tinh chỉnh và định hướng chiến lược
+C. Giao toàn bộ quyết định cho AI
+D. Không còn cần hiểu mục tiêu công việc
+ANSWER: B
+EXPLAIN: Chương nhấn mạnh vai trò con người chuyển sang giám sát và chiến lược gia đối với sản phẩm AI.
+
+---
+
+Q: Một báo cáo Turnitin có tỷ lệ tương đồng cao ở phần danh mục tài liệu tham khảo và các thuật ngữ chuyên ngành. Kết luận cẩn trọng nhất là gì?
+A. Cần đọc báo cáo để phân biệt trùng khớp hợp lệ với đạo văn thật sự
+B. Chắc chắn bài đó là đạo văn toàn bộ
+C. Chắc chắn bài đó không có vấn đề gì nên không cần xem
+D. Chỉ cần xóa toàn bộ danh mục tham khảo là đúng
+ANSWER: A
+EXPLAIN: Báo cáo tương đồng cần được diễn giải, vì một số trùng khớp là bình thường và hợp lệ.
+
+---
+
+Q: Chữ L trong CLEAR có ý nghĩa gì?
+A. Role - giao cho AI một vai trò cụ thể
+B. Length - luôn viết thật dài
+C. Link - thêm mọi URL
+D. Logic - chỉ giải toán
+ANSWER: A
+EXPLAIN: Tài liệu dùng L cho Role trong mô hình ghi nhớ CLEAR, dù chữ cái lấy từ vị trí thứ hai của từ CLEAR.
+
+---
+
+Q: Điểm mạnh khác biệt của Perplexity AI là gì?
+A. Answer engine tổng hợp nguồn Internet và luôn kèm trích dẫn
+B. Cá tính nổi loạn từ dữ liệu X
+C. Tạo ảnh trong Instagram
+D. Chỉ viết truyện sáng tạo
+ANSWER: A
+EXPLAIN: Perplexity hướng đến nghiên cứu, tra cứu và kiểm chứng hơn đối thoại sáng tạo mở.
+
+---
+
+Q: Phát biểu nào mô tả đầy đủ nhất khái niệm máy tính trong chương?
+A. Thiết bị điện tử tự động nhận dữ liệu, xử lý theo chương trình, lưu trữ và xuất kết quả dưới dạng thông tin
+B. Thiết bị chỉ dùng để lưu tệp lâu dài mà không thực hiện tính toán
+C. Máy cơ khí chỉ hoạt động khi người dùng điều khiển từng phép tính
+D. Thiết bị đầu ra chuyên hiển thị dữ liệu do mạng Internet tạo ra
+ANSWER: A
+EXPLAIN: Máy tính là thiết bị điện tử có khả năng tiếp nhận đầu vào, xử lý tự động theo chỉ dẫn được lập trình, lưu trữ và cung cấp đầu ra hữu ích.
+
+---
+
+Q: Trong tên tệp `Baitaplon.docx`, phần `.docx` có chức năng chính gì?
+A. Cho biết đường dẫn tuyệt đối của tệp
+B. Cho biết dung lượng tệp
+C. Giúp hệ điều hành và người dùng nhận biết loại tệp
+D. Mã hóa nội dung để chống sao chép
+ANSWER: C
+EXPLAIN: Phần mở rộng là phần sau dấu chấm trong tên tệp, dùng để nhận biết định dạng và thường giúp hệ điều hành chọn ứng dụng phù hợp để mở tệp.
+
+---
+
+Q: Một sinh viên dùng “phao” trong phòng thi. Hành vi này thuộc loại vi phạm nào?
+A. Gian lận
+B. Bịa đặt
+C. Dấu chân số bị động
+D. Trích dẫn nguyên văn
+ANSWER: A
+EXPLAIN: Sử dụng tài liệu không được phép trong thi cử là Fraud.
+
+---
+
+Q: Một sinh viên nhận được video “giảng viên” yêu cầu chuyển tiền gấp qua tin nhắn. Cách phản ứng phù hợp nhất là gì?
+A. Xác minh qua kênh liên lạc thứ hai đáng tin cậy trước khi làm theo
+B. Chuyển tiền ngay vì video có hình ảnh và giọng nói quen thuộc
+C. Chỉ kiểm tra xem video có độ phân giải cao hay không
+D. Đăng video công khai để nhờ mọi người đoán
+ANSWER: A
+EXPLAIN: Deepfake có thể giả mạo âm thanh, video; cần hoài nghi và xác minh yêu cầu bất thường qua kênh khác.
+
+---
+
+Q: Một nhóm nhỏ mới dùng công cụ quản lý dự án, quy trình đơn giản và cần giao diện trực quan. Công cụ phù hợp nhất là gì?
+A. Trello
+B. Asana
+C. DeepL
+D. SciSpace
+ANSWER: A
+EXPLAIN: Trello cực kỳ dễ dùng, phù hợp nhóm nhỏ, dự án đơn giản và quản lý công việc cá nhân.
+
+---
+
+Q: Hình thức trích dẫn trong bài theo Harvard được mô tả như thế nào?
+A. Chỉ ghi URL ở đầu văn bản
+B. Đánh số nguồn nhưng không ghi tác giả
+C. Ghi `(Họ tác giả, Năm xuất bản)` ngay sau câu trích dẫn hoặc diễn giải
+D. Chỉ ghi tên sách ở chân trang
+ANSWER: C
+EXPLAIN: Harvard sử dụng hệ tác giả-năm, ví dụ `(Hùng và cộng sự, 2022)`.
+
+---
+
+Q: Nhóm công cụ nào phù hợp nhất để thiết kế bài báo cáo dự án dưới dạng slide có văn bản, hình ảnh và video?
+A. Word và Google Docs
+B. PowerPoint và Google Slides
+C. Excel và Google Sheets
+D. Zotero và Mendeley
+ANSWER: B
+EXPLAIN: PowerPoint và Google Slides là phần mềm trình chiếu, được thiết kế để tạo và trình bày các slide đa phương tiện.
+
+---
+
+Q: Hành vi nào thể hiện nguyên tắc tôn trọng trong hợp tác số?
+A. Yêu cầu mọi người làm việc theo cùng một phong cách cá nhân
+B. Bỏ qua ý kiến trái chiều
+C. Gọi đột xuất bất kể lịch người khác
+D. Tôn trọng thời gian, ý kiến và phong cách làm việc của nhau
+ANSWER: D
+EXPLAIN: Tôn trọng là một trong ba nền tảng văn hóa của hợp tác số hiệu quả.
+
+---
+
+Q: Công cụ ghi chú nào có cấu trúc trực quan giống sổ tay với mục và trang, đồng thời tích hợp Microsoft 365?
+A. Dropbox
+B. Microsoft OneNote
+C. Google Scholar
+D. SciSpace
+ANSWER: B
+EXPLAIN: OneNote tổ chức nội dung theo sổ, phần/mục và trang, phù hợp ghi chú học tập trong hệ sinh thái Microsoft.
+
+---
+
+Q: `bookworm.lic.vnu.edu.vn` được mô tả là nguồn nào?
+A. Công cụ kiểm chứng tin giả
+B. Kho giáo trình và sách tham khảo điện tử theo chuyên ngành
+C. Công cụ tạo ảnh động
+D. Dịch vụ sao lưu hệ điều hành
+ANSWER: B
+EXPLAIN: Bookworm thuộc hệ thống VNU-LIC và cung cấp sách điện tử phục vụ đào tạo, học tập.
+
+---
+
+Q: Nhận định nào đúng khi dùng tên miền để đánh giá Authority?
+A. `.com` luôn sai và `.org` luôn đúng
+B. `.edu` thường thuộc giáo dục, `.gov` thuộc chính phủ, nhưng tên miền chỉ là một tín hiệu cần kết hợp kiểm tra khác
+C. `.vn` bảo đảm mọi nội dung đáng tin cậy
+D. Không cần xem tác giả nếu có tên miền
+ANSWER: B
+EXPLAIN: Loại tên miền gợi ý bản chất tổ chức nhưng không thay thế việc kiểm tra chuyên môn, minh bạch, bằng chứng và mục đích.
+
+---
+
+Q: Điểm khác biệt cốt lõi giữa dữ liệu và thông tin là gì?
+A. Dữ liệu luôn là số, còn thông tin luôn là văn bản
+B. Dữ liệu là các sự kiện thô; thông tin là dữ liệu đã được xử lý và đặt trong ngữ cảnh có ý nghĩa
+C. Dữ liệu chỉ tồn tại trong RAM, còn thông tin chỉ tồn tại trên ổ cứng
+D. Dữ liệu do máy tính tạo ra, còn thông tin chỉ do con người tạo ra
+ANSWER: B
+EXPLAIN: Dữ liệu là số liệu, ký hiệu hoặc sự kiện chưa được xử lý; khi được tổ chức, xử lý và đặt vào ngữ cảnh để hỗ trợ hiểu biết hoặc ra quyết định, dữ liệu trở thành thông tin.
+
+---
+
+Q: Grok có lợi thế và rủi ro nổi bật nào?
+A. Tích hợp sâu Word nhưng không có dữ liệu mới
+B. Dữ liệu thời gian thực từ X và cá tính riêng, nhưng có thể mang thiên kiến mạng xã hội
+C. Luôn phù hợp văn phong học thuật
+D. Không cần tài khoản X
+ANSWER: B
+EXPLAIN: Grok hữu ích cho xu hướng và dư luận mới, nhưng nguồn xã hội cần được kiểm chứng cẩn thận.
+
+---
+
+Q: Một sinh viên cần chọn giải pháp toàn diện cho học tập: máy thường xuyên di chuyển, họp online rõ ràng và bảo vệ dữ liệu luận văn. Tổ hợp nào hợp lý nhất?
+A. Desktop không webcam, loa ngoài và không sao lưu
+B. Laptop, tai nghe có micro và ổ cứng ngoài để sao lưu
+C. e-Reader, máy in và NFC
+D. Smartphone, ROM rời và cáp SATA
+ANSWER: B
+EXPLAIN: Laptop đáp ứng tính di động, tai nghe có micro hỗ trợ lớp học trực tuyến, còn ổ cứng ngoài tạo bản sao lưu cho dữ liệu quan trọng.
+
+---
+
+Q: Khi sản xuất âm nhạc chuyên nghiệp cần âm thanh không nén, chất lượng cao, nên ưu tiên định dạng nào?
+A. WAV
+B. MP3
+C. GIF
+D. TXT
+ANSWER: A
+EXPLAIN: WAV thường lưu âm thanh không nén với chất lượng cao nhưng dung lượng lớn; MP3 ưu tiên nén và tính phổ biến.
+
+---
+
+Q: Nhận định nào đúng về nhóm Remove.bg, Fotor và Pixlr?
+A. Đây là các phần mềm dựng video chuyên sâu cần thời gian dài để học
+B. Đây là các công cụ online đơn giản, phù hợp xử lý nhanh một số tác vụ ảnh cụ thể
+C. Đây là các LLM chuyên viết bản nháp học thuật
+D. Đây là các kho nhạc royalty-free
+ANSWER: B
+EXPLAIN: Remove.bg, Fotor và Pixlr được mô tả như các công cụ online “mì ăn liền”, mỗi công cụ giải quyết nhanh một số tác vụ ảnh.
+
+---
+
+Q: Công cụ nào thân thiện, có trên điện thoại và máy tính, phù hợp video ngắn mạng xã hội và hỗ trợ phụ đề tự động?
+A. OpenShot
+B. Canva Video Editor
+C. DaVinci Resolve
+D. CapCut
+ANSWER: D
+EXPLAIN: CapCut phổ biến cho video ngắn, dễ dùng và có các tính năng AI như phụ đề tự động, xóa nền video.
+
+---
+
+Q: Trong nội dung chương, bảo vệ thông tin cá nhân bắt đầu từ nhận thức nào?
+A. Thông tin cá nhân là tài sản vô giá và thiết bị số là cánh cổng dẫn đến tài sản đó
+B. Thông tin cá nhân chỉ có giá trị khi được công khai trên mạng xã hội
+C. Thiết bị số không liên quan đến an toàn dữ liệu
+D. Chỉ cần giấu tên thật là mọi dữ liệu đều an toàn
+ANSWER: A
+EXPLAIN: Mục 6.1 nhấn mạnh thông tin cá nhân là tài sản quý và thiết bị số là cánh cổng cần bảo vệ.
+
+---
+
+Q: “Answer engine” như Perplexity tác động đến năng lực thông tin ra sao?
+A. Chỉ trả liên kết ngẫu nhiên
+B. Không dùng nguồn Internet
+C. Tổng hợp câu trả lời từ nhiều nguồn và kèm trích dẫn để hỗ trợ kiểm chứng
+D. Thay thế hoàn toàn tư duy phản biện
+ANSWER: C
+EXPLAIN: Công cụ giúp tiếp cận nhanh, nhưng người học vẫn phải xem nguồn và đánh giá độ tin cậy.
+
+---
+
+Q: Vì sao phải kiểm tra thiên kiến trong nội dung AI?
+A. AI có thể tái tạo các định kiến xã hội từ dữ liệu Internet dùng để huấn luyện
+B. Mọi nội dung AI đều cố ý phân biệt đối xử
+C. Thiên kiến chỉ liên quan lỗi chính tả
+D. Kiểm tra thiên kiến làm thay đổi giấy phép tác phẩm
+ANSWER: A
+EXPLAIN: Dữ liệu huấn luyện có thể chứa định kiến về giới, chủng tộc, văn hóa hoặc vùng miền và AI có thể vô tình tái tạo chúng.
+
+---
+
+Q: Cách xử lý nào biến hỗ trợ của AI thành một sản phẩm có dấu ấn cá nhân hơn?
+A. Giữ nguyên toàn bộ bản nháp AI
+B. Không đọc lại trước khi nộp
+C. Xóa mọi luận điểm riêng để đồng nhất với AI
+D. Thêm kiến thức chuyên môn, ví dụ thực tế, trải nghiệm và giọng văn của người viết
+ANSWER: D
+EXPLAIN: Nội dung trở nên độc đáo và có chiều sâu khi người dùng bổ sung chuyên môn, trải nghiệm, ví dụ và phong cách riêng.
+
+---
+
+Q: Phát biểu nào mô tả đúng nhất giao tiếp số?
+A. Quá trình trao đổi thông tin giữa cá nhân hoặc tổ chức thông qua nền tảng và công nghệ kỹ thuật số
+B. Quá trình chỉ lưu trữ dữ liệu mà không có người nhận
+C. Hoạt động trao đổi bắt buộc phải dùng video theo thời gian thực
+D. Hình thức giao tiếp chỉ diễn ra giữa các tổ chức
+ANSWER: A
+EXPLAIN: Giao tiếp số là việc trao đổi thông tin giữa cá nhân, tổ chức qua các nền tảng và công nghệ như email, mạng xã hội và nền tảng trực tuyến.

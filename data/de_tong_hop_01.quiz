@@ -1,0 +1,399 @@
+# Quiz: Đề tổng hợp 01
+
+Q: Phát biểu nào mô tả đầy đủ nhất khái niệm máy tính trong chương?
+A. Thiết bị điện tử tự động nhận dữ liệu, xử lý theo chương trình, lưu trữ và xuất kết quả dưới dạng thông tin
+B. Thiết bị chỉ dùng để lưu tệp lâu dài mà không thực hiện tính toán
+C. Máy cơ khí chỉ hoạt động khi người dùng điều khiển từng phép tính
+D. Thiết bị đầu ra chuyên hiển thị dữ liệu do mạng Internet tạo ra
+ANSWER: A
+EXPLAIN: Máy tính là thiết bị điện tử có khả năng tiếp nhận đầu vào, xử lý tự động theo chỉ dẫn được lập trình, lưu trữ và cung cấp đầu ra hữu ích.
+
+---
+
+Q: Nội dung nào thể hiện tính đa dạng hình thức truyền tải của giao tiếp số?
+A. Chỉ kết hợp văn bản với bảng tính
+B. Có thể dùng văn bản, âm thanh, hình ảnh, video và các định dạng đa phương tiện khác
+C. Chỉ dùng âm thanh khi các bên ở cùng địa điểm
+D. Chỉ dùng hình ảnh trong giao tiếp bất đồng bộ
+ANSWER: B
+EXPLAIN: Giao tiếp số hỗ trợ nhiều dạng dữ liệu như văn bản, âm thanh, hình ảnh, video và đa phương tiện.
+
+---
+
+Q: Ứng dụng Big Data nào thuộc kinh doanh và marketing?
+A. Chỉ lưu hồ sơ giấy trong tủ
+B. Dùng cảm biến để tưới ruộng
+C. Quản lý căn cước dân cư
+D. Phân tích hành vi khách hàng để cá nhân hóa đề xuất và tối ưu quảng cáo
+ANSWER: D
+EXPLAIN: Doanh nghiệp như Amazon hoặc Spotify phân tích hành vi để đề xuất nội dung/sản phẩm và cải thiện chiến dịch marketing.
+
+---
+
+Q: AI tăng năng suất và sáng tạo cho sinh viên chủ yếu bằng cách nào?
+A. Buộc mọi người học kỹ thuật chuyên sâu trước
+B. Thay thế hoàn toàn ý tưởng con người
+C. Chỉ làm sản phẩm đơn giản
+D. Giúp nhanh chóng tạo bài viết, báo cáo, ảnh/video để tập trung hơn vào tư duy và sáng tạo
+ANSWER: D
+EXPLAIN: AI giảm rào cản thực thi, còn định hướng, phán đoán và chất lượng cuối vẫn do con người chịu trách nhiệm.
+
+---
+
+Q: Khanmigo được nêu như ví dụ của vai trò nào?
+A. Gia sư ảo cá nhân hóa trên Khan Academy
+B. Công cụ tạo deepfake
+C. Hệ chuyên gia chấm tín dụng
+D. Mạng xã hội thời gian thực
+ANSWER: A
+EXPLAIN: Khanmigo minh họa trợ lý học tập sẵn sàng hỗ trợ người học mọi lúc.
+
+---
+
+Q: Prompt nào chủ yếu phục vụ brainstorm ý tưởng?
+A. “Hãy gợi ý 5 chủ đề cụ thể và hấp dẫn cho blog kỹ năng mềm của sinh viên”
+B. “Hãy sửa dấu câu trong đoạn văn đã viết”
+C. “Hãy đo lượt xem của video sau hai tuần”
+D. “Hãy cấp giấy phép CC cho tác phẩm”
+ANSWER: A
+EXPLAIN: Yêu cầu nhiều chủ đề cụ thể giúp mở rộng một ý tưởng sơ khởi thành các hướng triển khai khác nhau.
+
+---
+
+Q: Hành động nào tốt hơn sau khi loại nguồn TechFuture.vn?
+A. Tìm báo cáo ILO, World Bank, WEF, cơ quan thống kê, trường đại học và đối chiếu nhiều nguồn
+B. Chọn một blog khác có tiêu đề gây sốc hơn
+C. Dùng bài cũ nhưng xóa tên tác giả
+D. Nhờ AI viết số liệu không cần nguồn
+ANSWER: A
+EXPLAIN: Nguồn chính thức, học thuật và phép kiểm chứng chéo tạo cơ sở đa chiều, đáng tin hơn cho bài nghiên cứu.
+
+---
+
+Q: Quá trình sinh kết thúc khi nào?
+A. Sau đúng một token
+B. Khi người dùng đóng trình duyệt duy nhất
+C. Khi mô hình tìm được nguồn thật
+D. Khi gặp token kết thúc hoặc đạt giới hạn độ dài
+ANSWER: D
+EXPLAIN: Mỗi token mới được nối vào ngữ cảnh và vòng lặp tiếp tục đến điều kiện dừng.
+
+---
+
+Q: Trước khi nghiên cứu sâu một chủ đề, người sáng tạo cần làm rõ mục tiêu nội dung theo nhóm nào được chương gợi ý?
+A. Cung cấp thông tin, thuyết phục hoặc giải trí
+B. Chỉ tăng số lượng tệp được lưu trữ
+C. Chỉ lựa chọn giữa miễn phí và trả phí
+D. Đăng ký bản quyền, nhãn hiệu hoặc sáng chế
+ANSWER: A
+EXPLAIN: Ở bước lên ý tưởng và nghiên cứu, cần xác định nội dung nhằm cung cấp thông tin, thuyết phục hay giải trí trước khi phát triển ý tưởng.
+
+---
+
+Q: Một cuộc tấn công DDoS vào hệ thống LMS của trường thường gây hậu quả trực tiếp nào với sinh viên?
+A. Sinh viên bị buộc đổi toàn bộ mật khẩu cá nhân
+B. Sinh viên không thể truy cập tài liệu, nộp bài hoặc xem điểm
+C. Sinh viên bị mất quyền sở hữu trí tuệ với bài làm đã nộp
+D. Sinh viên tự động bị ghi nhận vi phạm liêm chính học thuật
+ANSWER: B
+EXPLAIN: DDoS làm quá tải máy chủ, khiến dịch vụ như LMS hoặc cổng thông tin bị tê liệt.
+
+---
+
+Q: Phát biểu nào phân biệt đúng Grammarly và Microsoft Editor theo nội dung chương?
+A. Grammarly chỉ kiểm tra lỗi cơ bản, còn Microsoft Editor chuyên kiểm tra đạo văn trả phí
+B. Cả hai chỉ dùng để soạn văn bản mới, không rà bản nháp
+C. Microsoft Editor hoạt động độc lập với Word và trình duyệt Edge
+D. Grammarly có thể gợi ý từ đồng nghĩa và kiểm tra đạo văn; Microsoft Editor tích hợp trong Word và Edge để rà lỗi, gợi ý cải thiện
+ANSWER: D
+EXPLAIN: Grammarly có phạm vi kiểm tra và gợi ý rộng, còn Microsoft Editor được tích hợp trong Word và Edge để hỗ trợ rà soát văn bản.
+
+---
+
+Q: Vì sao ngành giáo dục là mục tiêu hấp dẫn của ransomware theo chương?
+A. Vì các cơ sở giáo dục không dùng hệ thống trực tuyến
+B. Vì tấn công có thể gây gián đoạn học tập và quản lý trong thời gian dài
+C. Vì dữ liệu giáo dục luôn được mã hóa sẵn nên dễ mở khóa
+D. Vì sinh viên không bao giờ sao lưu dữ liệu học tập
+ANSWER: B
+EXPLAIN: Ransomware nhắm vào giáo dục có thể làm gián đoạn hoạt động học tập và quản lý, gây hậu quả lớn.
+
+---
+
+Q: Hạn chế nào được bảng 3.4 gắn với ChatGPT bản miễn phí?
+A. Không thể tạo văn bản
+B. Không có đối thoại nhiều lượt
+C. Không hỗ trợ brainstorm
+D. Kiến thức có thể bị giới hạn bởi ngày cắt dữ liệu và mô hình có thể hallucinate
+ANSWER: D
+EXPLAIN: Kiến thức không cập nhật tự động và hiện tượng ảo giác khiến người dùng phải kiểm chứng thông tin.
+
+---
+
+Q: Calendly giải quyết việc đặt lịch theo cơ chế nào?
+A. Tự viết email nhắc việc hằng ngày
+B. Tự động thay đổi mọi thói quen cá nhân
+C. Kết nối lịch, hiển thị khung giờ sẵn sàng qua liên kết và tự thêm cuộc hẹn đã chọn vào lịch hai bên
+D. Yêu cầu người đặt lịch xem toàn bộ chi tiết lịch riêng tư
+ANSWER: C
+EXPLAIN: Scheduling link cho phép người khác chọn trong các khung giờ trống đã thiết lập và tự động tạo cuộc hẹn.
+
+---
+
+Q: Vì sao cách soạn email chuyên nghiệp có ý nghĩa vượt ra ngoài việc truyền đạt đúng yêu cầu?
+A. Vì email chuyên nghiệp làm cho mọi yêu cầu chắc chắn được chấp nhận
+B. Vì hình thức email có thể thay thế hoàn toàn chất lượng nội dung
+C. Vì email trang trọng chỉ nhằm giúp hệ thống lọc thư tự động
+D. Vì nó còn thể hiện sự tôn trọng người nhận và góp phần xây dựng hình ảnh cá nhân tích cực
+ANSWER: D
+EXPLAIN: Trong môi trường học thuật và công việc, email chuyên nghiệp vừa truyền tải thông tin hiệu quả vừa thể hiện sự tôn trọng và hình ảnh của người gửi.
+
+---
+
+Q: Ngoài kết nối tai nghe, ứng dụng nào phù hợp với Bluetooth theo chương?
+A. Liên kết nhiều mạng LAN ở các châu lục
+B. Thanh toán không chạm ở khoảng cách vài centimet mà không ghép nối
+C. Kết nối chuột/bàn phím/loa không dây và truyền các tệp nhỏ giữa thiết bị
+D. Xuất hai màn hình 4K qua cáp
+ANSWER: C
+EXPLAIN: Bluetooth thích hợp cho phụ kiện không dây tầm ngắn và trao đổi tệp dung lượng nhỏ nhờ mức tiêu thụ năng lượng thấp.
+
+---
+
+Q: Định nghĩa nào đúng nhất về Big Data?
+A. Mọi tệp có dung lượng lớn hơn 1 MB
+B. Tập dữ liệu có khối lượng lớn, tốc độ tạo nhanh và đa dạng đến mức công cụ truyền thống khó xử lý
+C. Chỉ là dữ liệu văn bản lưu trong Excel
+D. Một bản sao lưu đặt trên đám mây
+ANSWER: B
+EXPLAIN: Big Data không chỉ nói về kích thước mà còn về tốc độ, độ đa dạng và những thách thức vượt khả năng phương pháp xử lý truyền thống.
+
+---
+
+Q: Ứng dụng nào KHÔNG phải là ví dụ điển hình của NFC trong chương?
+A. Thanh toán không chạm tại máy POS
+B. Đọc chip CCCD để xác thực
+C. Chạm để ghép nối nhanh tai nghe
+D. Kết nối Internet cho cả tòa nhà trong phạm vi hàng chục mét
+ANSWER: D
+EXPLAIN: Phủ mạng cho tòa nhà là vai trò phù hợp với Wi-Fi/LAN; NFC chỉ hoạt động ở khoảng cách rất ngắn và phục vụ giao tiếp kiểu chạm gần.
+
+---
+
+Q: AI hỗ trợ thành phần “Vận hành thiết bị và phần mềm” như thế nào?
+A. Chỉ tạo deepfake
+B. Trợ lý giọng nói và tính năng AI tích hợp trong hệ điều hành, Microsoft 365, Google Workspace
+C. Chỉ dùng trong phòng thí nghiệm
+D. Loại bỏ mọi giao diện người dùng
+ANSWER: B
+EXPLAIN: Siri, Google Assistant, Copilot và Gemini đưa AI vào thao tác phần mềm hằng ngày.
+
+---
+
+Q: Khi có một chủ đề lớn nhưng bài trình bày còn rời rạc, AI nên được giao nhiệm vụ nào trước?
+A. Tự công bố bài mà không duyệt
+B. Tạo dàn ý chi tiết và logic
+C. Tạo số liệu không cần nguồn
+D. Xóa mọi dấu ấn cá nhân
+ANSWER: B
+EXPLAIN: Tạo dàn ý giúp cấu trúc chủ đề lớn thành các phần logic trước khi viết bản nháp.
+
+---
+
+Q: Điểm chung giữa bảo vệ thiết bị, an sinh số, liêm chính học thuật và sử dụng AI có trách nhiệm là gì?
+A. Đều hướng tới năng lực sống, học tập và hành xử có trách nhiệm trong môi trường số
+B. Đều chỉ là kỹ thuật dành riêng cho chuyên gia công nghệ thông tin
+C. Đều có thể giải quyết hoàn toàn bằng một ứng dụng duy nhất
+D. Đều không liên quan đến hành vi cá nhân của sinh viên
+ANSWER: A
+EXPLAIN: Tóm tắt chương liên kết các nội dung này như hành trang để trở thành công dân số an toàn, tự tin và có trách nhiệm.
+
+---
+
+Q: NPU tích hợp trong CPU hiện đại chủ yếu mang lại lợi ích nào?
+A. Tăng dung lượng lưu trữ lâu dài
+B. Thay thế hoàn toàn RAM và GPU
+C. Tăng tốc tác vụ AI ngay trên thiết bị với hiệu quả năng lượng tốt hơn
+D. Biến mọi cổng USB-C thành Thunderbolt
+ANSWER: C
+EXPLAIN: NPU là bộ xử lý chuyên dụng cho AI, giúp chạy tác vụ AI nhanh và tiết kiệm năng lượng hơn, đồng thời giảm sự phụ thuộc hoàn toàn vào xử lý qua Internet.
+
+---
+
+Q: Một sinh viên nhập dữ liệu cá nhân của người tham gia khảo sát chưa công bố vào chatbot công khai để nhờ phân tích. Nguyên tắc nào bị đe dọa nhất?
+A. Bảo vệ dữ liệu
+B. Quy tắc 20-20-20
+C. Tấn công DDoS
+D. Kéo dài vòng đời thiết bị
+ANSWER: A
+EXPLAIN: Không nên đưa thông tin cá nhân, dữ liệu nhạy cảm hoặc tài liệu chưa công bố vào chatbot công khai.
+
+---
+
+Q: Từ ý “Tham gia câu lạc bộ giúp phát triển kỹ năng mềm”, người dùng yêu cầu AI viết thành đoạn 100 từ có lập luận. Đây là tác vụ gì?
+A. Chọn kênh phân phối
+B. Kiểm tra thiên kiến hình ảnh
+C. Mở rộng ý
+D. Lọc tạp âm
+ANSWER: C
+EXPLAIN: Mở rộng ý biến một ý tưởng ngắn thành đoạn văn đầy đủ và giàu lập luận hơn.
+
+---
+
+Q: Một nhóm nhỏ mới dùng công cụ quản lý dự án, quy trình đơn giản và cần giao diện trực quan. Công cụ phù hợp nhất là gì?
+A. Trello
+B. Asana
+C. DeepL
+D. SciSpace
+ANSWER: A
+EXPLAIN: Trello cực kỳ dễ dùng, phù hợp nhóm nhỏ, dự án đơn giản và quản lý công việc cá nhân.
+
+---
+
+Q: Khi một công cụ AI đưa ra câu trả lời nghe rất hợp lý nhưng không có nguồn kiểm chứng, thái độ phù hợp là gì?
+A. Duy trì tư duy phản biện và kiểm tra lại trước khi dùng
+B. Tin ngay vì văn phong tự tin chứng minh nội dung đúng
+C. Chỉ thay đổi vài từ rồi đưa vào bài
+D. Xem đó là nguồn học thuật đáng tin cậy mặc định
+ANSWER: A
+EXPLAIN: AI có thể ảo giác; người dùng cần giám sát và chịu trách nhiệm về nội dung.
+
+---
+
+Q: Vì sao sinh viên cần quản lý sự hiện diện trên mạng xã hội một cách có chủ đích?
+A. Vì nhà tuyển dụng không bao giờ xem hồ sơ mạng xã hội
+B. Vì nội dung trực tuyến chỉ ảnh hưởng đến hoạt động giải trí
+C. Vì mạng xã hội là một phần của danh tính nghề nghiệp và có thể hỗ trợ xây dựng thương hiệu cá nhân
+D. Vì mọi tài khoản cá nhân đều phải chuyển thành tài khoản doanh nghiệp
+ANSWER: C
+EXPLAIN: Nhà tuyển dụng, đối tác, đồng nghiệp tương lai có thể xem hồ sơ; quản lý tốt vừa bảo vệ riêng tư vừa xây dựng thương hiệu cá nhân.
+
+---
+
+Q: Theo nội dung về Luật An ninh mạng, người dùng phải chịu trách nhiệm về điều gì?
+A. Nội dung mình đăng tải và hoạt động của tài khoản số của mình
+B. Mọi cuộc tấn công DDoS xảy ra trên Internet toàn cầu
+C. Dung lượng lưu trữ miễn phí của Zotero
+D. Thuật toán huấn luyện của tất cả mô hình AI
+ANSWER: A
+EXPLAIN: Chương nêu người dùng phải chịu trách nhiệm về nội dung đăng tải và hoạt động của tài khoản số.
+
+---
+
+Q: Muốn tạo nhanh slide từ dàn ý và để AI đề xuất bố cục, hình ảnh, lựa chọn nào phù hợp?
+A. Audacity hoặc Adobe Audition
+B. Gamma hoặc Tome
+C. GIMP hoặc Remove.bg
+D. Word hoặc Microsoft Editor
+ANSWER: B
+EXPLAIN: Gamma và Tome có thể tạo slide nhanh từ dàn ý, đồng thời đề xuất bố cục và hình ảnh.
+
+---
+
+Q: Vì sao việc nhận thức về dấu chân số bị động đặc biệt quan trọng?
+A. Vì nó cho thấy quyền riêng tư không chỉ phụ thuộc vào những gì ta tự chọn chia sẻ
+B. Vì nó giúp người dùng xóa hoàn toàn mọi dữ liệu đã từng xuất hiện trên Internet
+C. Vì nó đảm bảo mọi dữ liệu bị động đều là dữ liệu công khai hợp pháp
+D. Vì nó chỉ liên quan đến các bài đăng có nhiều lượt tương tác
+ANSWER: A
+EXPLAIN: Dấu chân số bị động làm thay đổi tư duy từ “tôi chia sẻ gì” sang “điều gì đang bị thu thập về tôi”.
+
+---
+
+Q: Khi muốn tải một bài PDF lên và đặt câu hỏi trực tiếp về nội dung, công cụ nào phù hợp nhất?
+A. Dropbox
+B. SciSpace
+C. Google Calendar
+D. Snopes
+ANSWER: B
+EXPLAIN: SciSpace hỗ trợ trò chuyện với tài liệu PDF, giải thích thuật ngữ và tóm tắt những phần phức tạp.
+
+---
+
+Q: Khi sản xuất âm nhạc chuyên nghiệp cần âm thanh không nén, chất lượng cao, nên ưu tiên định dạng nào?
+A. WAV
+B. MP3
+C. GIF
+D. TXT
+ANSWER: A
+EXPLAIN: WAV thường lưu âm thanh không nén với chất lượng cao nhưng dung lượng lớn; MP3 ưu tiên nén và tính phổ biến.
+
+---
+
+Q: Ý nghĩa của chiến thắng AlphaGo trước Lee Sedol năm 2016 là gì?
+A. Chứng minh hệ chuyên gia không cần dữ liệu
+B. Đánh dấu sự ra đời của Internet
+C. Cho thấy AI có thể xử lý trò chơi cực kỳ phức tạp đòi hỏi chiến lược và trực giác
+D. Là lần đầu thuật ngữ AI được dùng
+ANSWER: C
+EXPLAIN: Cờ vây có không gian trạng thái rất lớn, nên thành tựu của AlphaGo được xem là bước tiến vượt bậc.
+
+---
+
+Q: CRAAP là viết tắt của bộ tiêu chí nào?
+A. Content, Research, Access, Author, Privacy
+B. Currency, Relevance, Authority, Accuracy, Purpose
+C. Citation, Review, AI, Article, PDF
+D. Cloud, Recovery, Authentication, Antivirus, Phishing
+ANSWER: B
+EXPLAIN: CRAAP đánh giá tính cập nhật, liên quan, thẩm quyền nguồn, chính xác và mục đích của thông tin.
+
+---
+
+Q: Một phòng máy có nhiều máy tính cùng dùng một máy in mạng và truy cập cơ sở dữ liệu trên máy chủ. Lợi ích mạng nào đang được thể hiện?
+A. Chia sẻ phần cứng và truy cập tài nguyên tập trung
+B. Tăng dung lượng RAM vật lý của từng máy
+C. Biến mạng LAN thành bộ nhớ ROM
+D. Loại bỏ hoàn toàn nhu cầu bảo mật mạng
+ANSWER: A
+EXPLAIN: Mạng cho phép nhiều máy dùng chung thiết bị như máy in và truy cập ứng dụng hoặc dữ liệu được lưu tập trung trên máy chủ.
+
+---
+
+Q: Sinh viên cần đồng thời đọc tài liệu và soạn báo cáo trên laptop trong thời gian dài. Thiết bị ngoại vi nào trực tiếp mở rộng không gian làm việc?
+A. Màn hình ngoài
+B. Máy quét
+C. USB Flash Drive
+D. Microphone
+ANSWER: A
+EXPLAIN: Màn hình ngoài mở rộng vùng hiển thị, cho phép đặt tài liệu và cửa sổ soạn thảo cạnh nhau, cải thiện hiệu quả làm việc đa nhiệm.
+
+---
+
+Q: Ngoài khó tìm một đoạn thông tin cụ thể, nội dung âm thanh còn có hạn chế nào được bảng so sánh nêu rõ?
+A. Không thể tạo cảm giác gần gũi
+B. Luôn có chi phí sản xuất cao hơn video
+C. Không dùng được cho bài giảng hoặc phỏng vấn
+D. Cần thiết bị nghe và có thể khó giữ sự tập trung của người nghe
+ANSWER: D
+EXPLAIN: Bảng 5.1 nêu âm thanh cần thiết bị nghe và có thể khó duy trì sự tập trung, dù tiện lợi và có chi phí tương đối thấp.
+
+---
+
+Q: Prompt soạn email cho giáo sư đã xác định những yêu cầu nào?
+A. Chỉ tên người nhận
+B. Chỉ tiêu đề email
+C. Giọng trang trọng, mục đích xin hẹn 15 phút và đề xuất 2-3 khung giờ
+D. Không nêu mục đích
+ANSWER: C
+EXPLAIN: Các ràng buộc giúp AI tạo email chuyên nghiệp, cụ thể và có hành động tiếp theo.
+
+---
+
+Q: Scholarcy hoặc SciSpace giúp sinh viên sàng lọc một tập bài báo khoa học như thế nào?
+A. Tự động quyết định bài báo nào chắc chắn đúng
+B. Chuyển mọi bài báo thành bản dịch hoàn chỉnh
+C. Trích xuất các phần chính để nhanh chóng đánh giá bài nào phù hợp với hướng nghiên cứu
+D. Thay thế việc đọc và kiểm tra bài báo được chọn
+ANSWER: C
+EXPLAIN: Việc tóm tắt giả thuyết, phương pháp, kết quả và kết luận giúp người học nhanh chóng đánh giá mức độ phù hợp của bài báo.
+
+---
+
+Q: Dấu hiệu nào nên khiến người dùng nghi ngờ một email phishing?
+A. Email từ giảng viên đã xác minh và không có liên kết
+B. Tài liệu được mở từ thư mục cá nhân
+C. Người gửi hoặc URL bất thường, kèm yêu cầu nhấp liên kết và nhập thông tin nhạy cảm
+D. Tệp được sao lưu theo quy tắc 3-2-1
+ANSWER: C
+EXPLAIN: Phishing thường giả mạo danh tính và dẫn người dùng tới URL đáng ngờ để lấy mật khẩu hoặc dữ liệu nhạy cảm.

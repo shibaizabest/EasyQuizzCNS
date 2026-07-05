@@ -1,0 +1,399 @@
+# Quiz: Đề tổng hợp 09
+
+Q: Ứng dụng nào KHÔNG phải là ví dụ điển hình của NFC trong chương?
+A. Thanh toán không chạm tại máy POS
+B. Đọc chip CCCD để xác thực
+C. Chạm để ghép nối nhanh tai nghe
+D. Kết nối Internet cho cả tòa nhà trong phạm vi hàng chục mét
+ANSWER: D
+EXPLAIN: Phủ mạng cho tòa nhà là vai trò phù hợp với Wi-Fi/LAN; NFC chỉ hoạt động ở khoảng cách rất ngắn và phục vụ giao tiếp kiểu chạm gần.
+
+---
+
+Q: Hình thức trích dẫn trong bài theo Harvard được mô tả như thế nào?
+A. Chỉ ghi URL ở đầu văn bản
+B. Đánh số nguồn nhưng không ghi tác giả
+C. Ghi `(Họ tác giả, Năm xuất bản)` ngay sau câu trích dẫn hoặc diễn giải
+D. Chỉ ghi tên sách ở chân trang
+ANSWER: C
+EXPLAIN: Harvard sử dụng hệ tác giả-năm, ví dụ `(Hùng và cộng sự, 2022)`.
+
+---
+
+Q: Quy tắc 20-20-20 được áp dụng như thế nào?
+A. Sau mỗi 20 phút nhìn màn hình, nhìn xa 20 feet trong 20 giây
+B. Sau mỗi 20 giờ học, nghỉ 20 phút và tắt mạng 20 giây
+C. Dùng 20 ký tự cho mật khẩu, đổi sau 20 ngày và lưu 20 bản
+D. Đọc 20 nguồn, trích dẫn 20 câu và tóm tắt 20 dòng
+ANSWER: A
+EXPLAIN: Quy tắc 20-20-20 giúp giảm mỏi mắt khi làm việc với màn hình.
+
+---
+
+Q: Nhóm muốn Team Charter quy định rõ việc theo dõi tiến độ. Nội dung nào cần được chốt?
+A. Chỉ màu sắc dùng trên bảng công việc
+B. Cập nhật hằng ngày hay hằng tuần và cập nhật ở kênh nào
+C. Mỗi thành viên tự chọn lúc cập nhật mà không cần thông báo
+D. Chỉ tổng hợp tiến độ sau khi dự án kết thúc
+ANSWER: B
+EXPLAIN: Team Charter cần quy định cả tần suất cập nhật tiến độ và nơi đăng cập nhật.
+
+---
+
+Q: Hệ chuyên gia thập niên 1980 có thể đưa quyết định trong những lĩnh vực hẹp nào được nêu?
+A. Chẩn đoán y khoa và chấm điểm tín dụng
+B. Tạo phim và âm nhạc
+C. Dịch thời gian thực mọi ngôn ngữ
+D. Điều khiển AGI tổng quát
+ANSWER: A
+EXPLAIN: Expert Systems hoạt động tốt khi miền tri thức hẹp và luật được mã hóa rõ, nhưng khó mở rộng sang tình huống mới.
+
+---
+
+Q: Dịch vụ nào cung cấp 15 GB miễn phí và tích hợp mạnh với Docs, Sheets, Slides, Meet?
+A. Dropbox
+B. OneDrive
+C. Google Drive
+D. Zotero
+ANSWER: C
+EXPLAIN: Google Drive có 15 GB miễn phí theo tài liệu và liên kết chặt với Google Workspace, đặc biệt mạnh về cộng tác thời gian thực.
+
+---
+
+Q: Nhóm cần phân công nhiệm vụ, chia sẻ màn hình và thảo luận sâu để đạt đồng thuận. Nên dùng phương thức nào?
+A. Gửi nhiều tin nhắn rời rạc
+B. Chuyển file Word qua chat
+C. Họp video
+D. Chỉ gửi một email thông báo
+ANSWER: C
+EXPLAIN: Họp video hỗ trợ tương tác trực tiếp, chia sẻ màn hình, thảo luận sâu và quan sát biểu cảm.
+
+---
+
+Q: Năng lực số được hiểu đầy đủ nhất là gì?
+A. Tập hợp kiến thức, kỹ năng và thái độ để sống, học, làm việc tự tin, hiệu quả, có trách nhiệm trong môi trường số
+B. Chỉ biết bật máy tính
+C. Chỉ biết dùng mạng xã hội
+D. Chỉ có kỹ năng lập trình
+ANSWER: A
+EXPLAIN: Năng lực số bao gồm vận hành, thông tin, giao tiếp, an toàn, sáng tạo và trách nhiệm.
+
+---
+
+Q: Nhóm muốn trao đổi nhanh các ý tưởng ngắn cho bài tập. Lựa chọn nào hợp lý nhất?
+A. Chat nhóm
+B. Email chính thức cho từng thành viên
+C. Gửi biên bản cuộc họp
+D. Viết báo cáo chung hoàn chỉnh rồi mới trao đổi
+ANSWER: A
+EXPLAIN: Chat nhóm nhanh, không quá trang trọng và thuận tiện cho việc trao đổi qua lại các ý tưởng ngắn.
+
+---
+
+Q: Các mô hình như ChatGPT, Gemini và Copilot có thể hỗ trợ hợp lý ở giai đoạn đầu nghiên cứu bằng cách nào?
+A. Tự động trở thành tác giả chịu trách nhiệm thay sinh viên
+B. Bảo đảm mọi câu trả lời đều chính xác
+C. Brainstorm từ khóa/góc nhìn, tóm tắt và gợi ý cách diễn giải
+D. Loại bỏ hoàn toàn nhu cầu đọc nguồn gốc
+ANSWER: C
+EXPLAIN: LLM là công cụ hỗ trợ phát triển ý tưởng và xử lý bản nháp, nhưng kết quả phải được kiểm chứng và biên tập.
+
+---
+
+Q: Bộ lọc thời gian của công cụ tìm kiếm hữu ích nhất khi nào?
+A. Nghiên cứu tác phẩm cổ điển duy nhất không cần bối cảnh mới
+B. Muốn tìm mọi kết quả bất kể ngày
+C. Cần thông tin cập nhật trong tháng hoặc năm gần đây
+D. Muốn đổi định dạng tệp
+ANSWER: C
+EXPLAIN: Lọc thời gian loại bớt nguồn cũ, đặc biệt hữu ích với công nghệ, y tế, luật và chủ đề thay đổi nhanh.
+
+---
+
+Q: Ghép nền tảng với công cụ bổ trợ cho bảng trắng hoặc bình chọn nào đúng theo tài liệu?
+A. Zoom chỉ có thể dùng Google Forms cho mọi cuộc bình chọn
+B. Teams không có bảng trắng hoặc polls
+C. Webex không hỗ trợ bất kỳ hình thức bảng trắng nào
+D. Google Meet dùng Jamboard cho bảng trắng và Google Forms cho bình chọn
+ANSWER: D
+EXPLAIN: Bảng trong tài liệu liên hệ Meet với Jamboard cho bảng trắng và Google Forms cho polls; đây là mô tả theo hệ sinh thái tại thời điểm biên soạn.
+
+---
+
+Q: Cách sử dụng công nghệ phù hợp với an sinh số là gì?
+A. Dùng công nghệ có chủ đích để duy trì cân bằng và khỏe mạnh
+B. Bật thông báo mọi ứng dụng để không bỏ lỡ gì
+C. Lướt mạng xã hội liên tục để cập nhật trạng thái người khác
+D. Thay mọi tương tác ngoài đời bằng tương tác trực tuyến
+ANSWER: A
+EXPLAIN: Chương nhấn mạnh sử dụng công nghệ một cách có chủ đích là chìa khóa cho cân bằng.
+
+---
+
+Q: Vì sao việc nhận thức về dấu chân số bị động đặc biệt quan trọng?
+A. Vì nó cho thấy quyền riêng tư không chỉ phụ thuộc vào những gì ta tự chọn chia sẻ
+B. Vì nó giúp người dùng xóa hoàn toàn mọi dữ liệu đã từng xuất hiện trên Internet
+C. Vì nó đảm bảo mọi dữ liệu bị động đều là dữ liệu công khai hợp pháp
+D. Vì nó chỉ liên quan đến các bài đăng có nhiều lượt tương tác
+ANSWER: A
+EXPLAIN: Dấu chân số bị động làm thay đổi tư duy từ “tôi chia sẻ gì” sang “điều gì đang bị thu thập về tôi”.
+
+---
+
+Q: Công cụ nào phù hợp nhất để viết luận văn cần định dạng chuẩn, trình bày chuyên nghiệp và nộp dưới dạng DOCX hoặc PDF?
+A. Google Docs
+B. Notion
+C. Grammarly
+D. Microsoft Word
+ANSWER: D
+EXPLAIN: Word mạnh về định dạng và trình bày, phù hợp với báo cáo, luận văn và văn bản chính thức cần nộp dưới dạng tệp.
+
+---
+
+Q: Hạn chế nào được bảng 3.4 gắn với ChatGPT bản miễn phí?
+A. Không thể tạo văn bản
+B. Không có đối thoại nhiều lượt
+C. Không hỗ trợ brainstorm
+D. Kiến thức có thể bị giới hạn bởi ngày cắt dữ liệu và mô hình có thể hallucinate
+ANSWER: D
+EXPLAIN: Kiến thức không cập nhật tự động và hiện tượng ảo giác khiến người dùng phải kiểm chứng thông tin.
+
+---
+
+Q: Prompt tóm tắt bài báo khoa học trong bảng yêu cầu đầu ra nào?
+A. Một câu không trọng tâm
+B. Năm gạch đầu dòng tập trung phương pháp và kết quả cho người có kiến thức cơ bản
+C. Toàn bộ bài viết lại nguyên văn
+D. Chỉ danh sách tác giả
+ANSWER: B
+EXPLAIN: Định dạng, trọng tâm và audience giúp bản tóm tắt phục vụ đúng nhu cầu.
+
+---
+
+Q: Nhóm chỉ số nào gắn trực tiếp với chức năng chuyên biệt của fitness tracker?
+A. Tốc độ CPU, băng thông RAM và dung lượng SSD
+B. Độ phân giải màn hình, số cổng USB và công suất sạc
+C. Số tab trình duyệt, lịch sử web và bookmark
+D. Số bước chân, quãng đường, calo tiêu thụ và chất lượng giấc ngủ
+ANSWER: D
+EXPLAIN: Fitness tracker tập trung theo dõi hoạt động thể chất và sức khỏe như bước chân, quãng đường, năng lượng tiêu thụ và giấc ngủ.
+
+---
+
+Q: Đặc điểm nào giúp Asana phù hợp hơn Trello cho dự án có nhiều bước và quan hệ phụ thuộc?
+A. Có nhiều chế độ xem như danh sách, bảng, lịch hoặc timeline và theo dõi sự phụ thuộc tốt
+B. Chỉ sử dụng Card kéo-thả và không có cách xem khác
+C. Tập trung vào dịch thuật tài liệu chuyên ngành
+D. Không yêu cầu xác định deadline cho nhiệm vụ
+ANSWER: A
+EXPLAIN: Asana cung cấp nhiều chế độ xem và khả năng theo dõi tiến độ, nhiệm vụ phụ, sự phụ thuộc tốt hơn cho dự án phức tạp.
+
+---
+
+Q: Vì sao bàn phím công thái học có thể hữu ích với người phải gõ văn bản nhiều giờ?
+A. Nó tự động tạo trích dẫn APA
+B. Nó thay thế hoàn toàn hệ điều hành
+C. Nó làm tăng tốc độ Internet
+D. Nó giúp giảm mỏi và nguy cơ vấn đề ở cổ tay, vai gáy
+ANSWER: D
+EXPLAIN: Thiết kế công thái học hướng tới tư thế nhập liệu tự nhiên và thoải mái hơn, giảm căng thẳng cơ xương khi sử dụng lâu dài.
+
+---
+
+Q: Sinh viên cần tìm bài báo khoa học từ nguồn được chương khuyến nghị khi ưu tiên tài nguyên mở. Lựa chọn nào phù hợp?
+A. Bản sao không rõ nguồn được chia sẻ kín
+B. Bài viết bị gỡ thông tin tác giả
+C. Tạp chí truy cập mở (Open Access)
+D. Bất kỳ tài liệu nào xuất hiện đầu tiên trên công cụ tìm kiếm
+ANSWER: C
+EXPLAIN: Chương khuyến nghị ưu tiên bài báo trong các tạp chí Open Access bên cạnh các tài nguyên có giấy phép mở.
+
+---
+
+Q: Cơ chế Attention trong Transformer giúp gì?
+A. Tăng dung lượng ổ cứng
+B. Xác định token nào trong ngữ cảnh quan trọng nhất cho dự đoán hiện tại
+C. Kiểm chứng mọi sự thật
+D. Xóa thiên vị tự động
+ANSWER: B
+EXPLAIN: Attention cho phép mô hình “nhìn lại” toàn chuỗi và gán trọng số quan hệ giữa các token.
+
+---
+
+Q: Hạn chế/chi phí của Copilot được mô tả thế nào?
+A. Phụ thuộc hệ sinh thái Microsoft; nhiều tính năng mạnh yêu cầu bản quyền M365 dù bản web có thể miễn phí
+B. Hoàn toàn miễn phí mọi tính năng
+C. Không hoạt động trong Word
+D. Chỉ yêu cầu tài khoản X
+ANSWER: A
+EXPLAIN: Mức tích hợp sâu thường gắn với giấy phép Microsoft 365 trả phí.
+
+---
+
+Q: Quy trình peer review góp phần tăng độ tin cậy như thế nào?
+A. Chuyên gia cùng lĩnh vực thẩm định nghiên cứu trước khi xuất bản
+B. Tự động làm mọi kết luận trở thành sự thật vĩnh viễn
+C. Chỉ kiểm tra chính tả, không xem phương pháp
+D. Cho phép bỏ qua bằng chứng
+ANSWER: A
+EXPLAIN: Bình duyệt chuyên môn giúp phát hiện vấn đề về phương pháp và lập luận, dù không bảo đảm nghiên cứu hoàn toàn không có sai sót.
+
+---
+
+Q: Vì sao so sánh bản thân với hình ảnh hoàn hảo trên mạng xã hội có thể gây hại?
+A. Vì nó có thể dẫn đến tự ti, không hài lòng, lo âu hoặc trầm cảm
+B. Vì nó làm cho mật khẩu trở nên dễ đoán hơn
+C. Vì nó khiến dữ liệu tự động được lưu theo chuẩn Harvard
+D. Vì nó làm giảm số lượng bản sao lưu dữ liệu
+ANSWER: A
+EXPLAIN: Môi trường mạng với hình ảnh được chọn lọc kỹ có thể tác động tiêu cực đến sức khỏe tinh thần.
+
+---
+
+Q: Nhóm đang quay video và ghi âm đúng theo kịch bản đã duyệt. Hoạt động này thuộc bước nào?
+A. Đo lường và tối ưu
+B. Sản xuất
+C. Lên ý tưởng và nghiên cứu
+D. Xuất bản và phân phối
+ANSWER: B
+EXPLAIN: Sản xuất là giai đoạn thực thi kế hoạch bằng việc viết, thiết kế, quay phim hoặc ghi âm theo dàn ý, kịch bản.
+
+---
+
+Q: Vì sao không nên đánh giá một tin chỉ qua tiêu đề?
+A. Tiêu đề giật gân có thể không phản ánh nội dung hoặc bằng chứng trong toàn bài
+B. Nội dung bài luôn ngắn hơn tiêu đề
+C. Tiêu đề không bao giờ chứa thông tin
+D. Mọi tiêu đề gây chú ý đều là tin giả
+ANSWER: A
+EXPLAIN: Tin sai lệch thường dùng headline gây sốc để kích thích chia sẻ, trong khi phần nội dung có thể không hỗ trợ khẳng định đó.
+
+---
+
+Q: Ransomware khác malware nói chung ở điểm nào?
+A. Ransomware chỉ gây chậm máy nhưng không ảnh hưởng dữ liệu
+B. Ransomware mã hóa dữ liệu của nạn nhân và đòi tiền chuộc để giải mã
+C. Ransomware chỉ xuất hiện trên điện thoại, còn malware chỉ có trên máy tính
+D. Ransomware là phần mềm dùng để sao lưu dữ liệu theo quy tắc 3-2-1
+ANSWER: B
+EXPLAIN: Ransomware là một dạng malware đặc biệt nguy hiểm vì mã hóa dữ liệu và yêu cầu tiền chuộc.
+
+---
+
+Q: Khi bất đồng trong một cuộc tranh luận trực tuyến, cách ứng xử nào đúng?
+A. Tập trung vào lập luận và tôn trọng sự khác biệt
+B. Công kích người viết để bác bỏ quan điểm
+C. Công khai thông tin cá nhân của đối phương
+D. Chuyển sang chế giễu để kết thúc tranh luận
+ANSWER: A
+EXPLAIN: Tranh luận văn minh phải hướng vào lập luận, không công kích cá nhân.
+
+---
+
+Q: Perplexity sử dụng mô hình và mô hình chi phí nào theo bảng?
+A. Chỉ LLaMA 3 và không có bản miễn phí
+B. Mô hình riêng/GPT-4; miễn phí có giới hạn và có gói Pro
+C. Chỉ Grok-2
+D. Chỉ hệ chuyên gia luật
+ANSWER: B
+EXPLAIN: Perplexity cung cấp lớp truy xuất và trả lời có nguồn, với tùy chọn miễn phí lẫn trả phí.
+
+---
+
+Q: Quan niệm nào phản ánh đúng vai trò cuối cùng của AI tạo sinh trong sáng tạo nội dung?
+A. AI thay thế hoàn toàn tư duy phản biện và chuyên môn con người
+B. AI là công cụ hỗ trợ mạnh, còn con người cầm lái và quyết định đích đến
+C. AI chịu toàn bộ trách nhiệm cho sản phẩm được nộp
+D. Dùng AI hiệu quả nghĩa là giữ nguyên mọi đầu ra
+ANSWER: B
+EXPLAIN: AI giúp đi nhanh và xa hơn nhưng không thay thế tư duy phản biện, sáng tạo, chuyên môn và trách nhiệm quyết định của con người.
+
+---
+
+Q: Đặc điểm nào khiến e-Reader thích hợp cho việc đọc sách lâu?
+A. Màn hình E-ink cho trải nghiệm gần giấy thật, ít gây mỏi mắt và pin kéo dài
+B. Có card đồ họa rời để dựng hình 3D
+C. Có khả năng nâng cấp CPU và RAM dễ dàng
+D. Dùng màn hình phát sáng xanh mạnh để tăng độ tương phản
+ANSWER: A
+EXPLAIN: Máy đọc sách dùng mực điện tử E-ink, không phát ánh sáng xanh như màn hình thông thường, tạo cảm giác gần giấy và có thời lượng pin tính bằng tuần.
+
+---
+
+Q: Một nhóm cần cùng sửa tài liệu theo thời gian thực, xem lịch sử thay đổi và để lại bình luận. Công cụ phù hợp nhất là gì?
+A. Microsoft Designer
+B. Google Docs
+C. Adobe Audition
+D. OpenShot
+ANSWER: B
+EXPLAIN: Google Docs nổi bật ở cộng tác trực tuyến đồng thời, lịch sử thay đổi, bình luận và tự động lưu trên Google Drive.
+
+---
+
+Q: Thứ tự nào mô tả hợp lý nhất chu trình xử lý thông tin cơ bản của máy tính?
+A. Xử lý → Nhập → Lưu trữ → Xuất
+B. Nhập → Xuất → Xử lý → Lưu trữ
+C. Nhập → Xử lý → Xuất, đồng thời có thể lưu trữ dữ liệu và kết quả
+D. Lưu trữ → Xuất → Nhập → Xử lý
+ANSWER: C
+EXPLAIN: Máy tính tiếp nhận dữ liệu, xử lý theo chương trình, xuất thông tin và có thể lưu dữ liệu, chương trình hoặc kết quả để dùng lại.
+
+---
+
+Q: Sinh viên chỉ cần lướt nhanh tài liệu ở một ngôn ngữ ít phổ biến để nắm ý chính. Công cụ nào thường là lựa chọn mặc định phù hợp hơn?
+A. Reclaim.ai
+B. Scholarcy
+C. Notion
+D. Google Translate
+ANSWER: D
+EXPLAIN: Google Translate hỗ trợ số lượng ngôn ngữ rất lớn và phù hợp nhu cầu dịch nhanh để nắm ý chính.
+
+---
+
+Q: Hành vi nào vi phạm liêm chính khi sử dụng nội dung trực quan hoặc số liệu?
+A. Dùng biểu đồ tự tạo từ dữ liệu của mình
+B. Dùng ảnh có giấy phép và ghi nguồn đúng yêu cầu
+C. Trình bày số liệu do mình trực tiếp thu thập
+D. Dùng hình ảnh, biểu đồ hoặc số liệu của người khác mà không trích dẫn
+ANSWER: D
+EXPLAIN: Sản phẩm trực quan và dữ liệu cũng là nội dung trí tuệ cần được ghi nhận như văn bản.
+
+---
+
+Q: Vì sao một tỷ lệ tương đồng nhất định có thể là bình thường?
+A. Vì thuật ngữ chuyên ngành, tên riêng hoặc trích dẫn hợp lệ có thể trùng khớp
+B. Vì mọi đoạn trùng khớp đều được phép dùng mà không cần nguồn
+C. Vì công cụ kiểm tra đạo văn chỉ kiểm tra hình ảnh
+D. Vì tỷ lệ tương đồng càng cao luôn càng tốt
+ANSWER: A
+EXPLAIN: Không phải mọi trùng khớp đều là đạo văn; cần đọc hiểu báo cáo.
+
+---
+
+Q: Vì sao ngành giáo dục là mục tiêu hấp dẫn của ransomware theo chương?
+A. Vì các cơ sở giáo dục không dùng hệ thống trực tuyến
+B. Vì tấn công có thể gây gián đoạn học tập và quản lý trong thời gian dài
+C. Vì dữ liệu giáo dục luôn được mã hóa sẵn nên dễ mở khóa
+D. Vì sinh viên không bao giờ sao lưu dữ liệu học tập
+ANSWER: B
+EXPLAIN: Ransomware nhắm vào giáo dục có thể làm gián đoạn hoạt động học tập và quản lý, gây hậu quả lớn.
+
+---
+
+Q: Một sinh viên muốn ôn bài khi đang đi xe buýt và không tiện nhìn màn hình. Loại nội dung nào tận dụng tốt nhất hoàn cảnh này?
+A. Website tương tác
+B. Infographic
+C. Âm thanh
+D. Văn bản dài
+ANSWER: C
+EXPLAIN: Nội dung âm thanh cho phép tiếp thu linh hoạt trong khi người dùng đang làm việc khác, chẳng hạn nghe podcast khi đi xe buýt.
+
+---
+
+Q: Cách làm nào được chương khuyến nghị để giảm nguy cơ vi phạm bản quyền khi tìm ảnh?
+A. Ưu tiên tài nguyên giấy phép mở từ Unsplash, Pexels hoặc Pixabay
+B. Coi mọi ảnh trên Google là miễn phí
+C. Xóa thông tin tác giả trước khi sử dụng
+D. Chỉ dùng ảnh có độ phân giải thấp
+ANSWER: A
+EXPLAIN: Chương khuyến nghị ưu tiên ảnh từ các nguồn miễn phí, giấy phép mở như Unsplash, Pexels và Pixabay.
