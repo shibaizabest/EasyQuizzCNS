@@ -16,7 +16,8 @@ const state = {
   lastResult: null,
   homeSearch: "",
   homePage: 1,
-  homePageSize: 20
+  homePageSize: 20,
+  questionDirection: 1
 };
 
 document.addEventListener("DOMContentLoaded", init);
@@ -178,7 +179,6 @@ async function handleRoute() {
 function renderHome() {
   app.innerHTML = `<section class="page-heading">
       <h1>Chọn bài để ôn tập</h1>
-      <p>Làm quiz, xem giải thích và gom riêng những câu sai để luyện lại.</p>
     </section>
     <section class="home-tools" aria-label="Tìm kiếm quiz">
       <label for="quiz-search">Tìm quiz theo tên</label>
@@ -319,6 +319,7 @@ function renderQuizStart() {
       : [...state.originalQuestions];
     state.answers = new Array(state.questions.length).fill(null);
     state.currentQuestion = 0;
+    state.questionDirection = 1;
     state.isReviewMode = false;
     renderQuestion();
   });
@@ -336,7 +337,8 @@ function renderQuestion() {
       <span><span class="answer-letter">${letter}.</span> ${escapeHtml(text)}</span>
     </label>`).join("");
 
-  app.innerHTML = `<section class="question-card">
+  const directionClass = state.questionDirection < 0 ? "is-previous" : "is-next";
+  app.innerHTML = `<section class="question-card ${directionClass}">
     <div class="quiz-topbar">
       <strong>${state.isReviewMode ? "Ôn câu sai" : escapeHtml(state.quizTitle)}</strong>
       <span class="muted">Câu ${current}/${total}</span>
@@ -370,6 +372,7 @@ function renderQuestion() {
 function moveQuestion(offset) {
   const next = state.currentQuestion + offset;
   if (next >= 0 && next < state.questions.length) {
+    state.questionDirection = offset;
     state.currentQuestion = next;
     renderQuestion();
   }
@@ -456,6 +459,7 @@ function startWrongAnswersReview() {
   state.questions = [...wrongQuestions];
   state.answers = new Array(wrongQuestions.length).fill(null);
   state.currentQuestion = 0;
+  state.questionDirection = 1;
   state.isReviewMode = true;
   state.lastResult = null;
   renderQuestion();

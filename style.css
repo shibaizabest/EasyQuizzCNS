@@ -105,7 +105,6 @@ a {
   text-decoration: none;
 }
 
-.tagline,
 .muted {
   color: var(--muted);
 }
@@ -120,6 +119,15 @@ main.container {
 main > section,
 main > .donate-box {
   animation: view-enter 0.42s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+main > section:nth-child(2) {
+  animation-delay: 45ms;
+}
+
+main > section:nth-child(3),
+main > .donate-box {
+  animation-delay: 90ms;
 }
 
 .page-heading {
@@ -437,6 +445,7 @@ main > .donate-box {
 .question-text {
   margin-bottom: 20px;
   font-size: clamp(1.08rem, 3vw, 1.3rem);
+  animation: question-copy-enter 0.38s 45ms cubic-bezier(0.22, 1, 0.36, 1) both;
 }
 
 .answers {
@@ -457,8 +466,14 @@ main > .donate-box {
   border-radius: 10px;
   background: var(--surface);
   cursor: pointer;
+  animation: answer-enter 0.36s cubic-bezier(0.22, 1, 0.36, 1) both;
   transition: border-color 0.16s ease, background 0.16s ease, transform 0.16s ease, box-shadow 0.16s ease;
 }
+
+.answer-option:nth-child(1) { animation-delay: 80ms; }
+.answer-option:nth-child(2) { animation-delay: 125ms; }
+.answer-option:nth-child(3) { animation-delay: 170ms; }
+.answer-option:nth-child(4) { animation-delay: 215ms; }
 
 .answer-option:hover {
   border-color: #9aabe5;
@@ -489,6 +504,15 @@ main > .donate-box {
   justify-content: space-between;
   gap: 10px;
   margin-top: 26px;
+  animation: nav-enter 0.38s 220ms cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.question-card.is-next {
+  animation: question-next 0.4s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.question-card.is-previous {
+  animation: question-previous 0.4s cubic-bezier(0.22, 1, 0.36, 1) both;
 }
 
 .question-nav .right-actions {
@@ -529,6 +553,12 @@ main > .donate-box {
   border-left-width: 5px;
   border-radius: 11px;
   animation: result-enter 0.4s cubic-bezier(0.22, 1, 0.36, 1) both;
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.result-item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgb(23 32 51 / 7%);
 }
 
 .result-item:nth-child(2) { animation-delay: 50ms; }
@@ -691,6 +721,61 @@ main > .donate-box {
   50% { background-position: 100% 50%; }
 }
 
+@keyframes question-next {
+  from {
+    opacity: 0;
+    transform: translateX(18px) scale(0.995);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0) scale(1);
+  }
+}
+
+@keyframes question-previous {
+  from {
+    opacity: 0;
+    transform: translateX(-18px) scale(0.995);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0) scale(1);
+  }
+}
+
+@keyframes question-copy-enter {
+  from {
+    opacity: 0;
+    transform: translateY(5px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes answer-enter {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes nav-enter {
+  from {
+    opacity: 0;
+    transform: translateY(7px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
 @media (min-width: 680px) {
   .quiz-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -700,10 +785,6 @@ main > .donate-box {
 @media (max-width: 560px) {
   .container {
     width: min(100% - 24px, 920px);
-  }
-
-  .tagline {
-    display: none;
   }
 
   main.container {
@@ -730,6 +811,10 @@ main > .donate-box {
   }
 
   .answer-option:hover {
+    transform: none;
+  }
+
+  .result-item:hover {
     transform: none;
   }
 
