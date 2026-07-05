@@ -19,5 +19,12 @@
 	"description": "TỔNG QUAN VỀ TRÍ TUỆ NHÂN TẠO , ÔN TẬP KĨ VÀO NHÉ CÁC TÌNH YÊU.",
 	"file": "C3.quiz",
 	"count": 148
+  },
+  {
+	"id": "C4",
+	"title": "[CNS-AI] CHƯƠNG 4: GIAO TIẾP VÀ HỢP TÁC TRONG MÔI ",
+	"description": "GIAO TIẾP VÀ HỢP TÁC TRONG MÔI , ÔN TẬP KĨ VÀO NHÉ CÁC TÌNH YÊU.",
+	"file": "C4.quiz",
+	"count": 88
   }
 ]

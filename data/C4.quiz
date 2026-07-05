@@ -1,0 +1,881 @@
+# Quiz: Chương 4 - Giao tiếp và hợp tác trong môi trường số
+
+Q: Đặc điểm nào phân biệt rõ giao tiếp số với giao tiếp truyền thống theo nội dung chương?
+A. Chỉ truyền tải được văn bản ngắn
+B. Luôn yêu cầu các bên có mặt đồng thời
+C. Có thể vượt giới hạn không gian, thời gian và lưu lại trao đổi để truy vết
+D. Không thể sử dụng yếu tố hình ảnh hoặc âm thanh
+ANSWER: C
+EXPLAIN: Giao tiếp số cho phép kết nối mọi lúc, mọi nơi; nội dung trao đổi còn có thể được lưu, tìm kiếm và xem lại.
+
+---
+
+Q: Nội dung nào thể hiện tính đa dạng hình thức truyền tải của giao tiếp số?
+A. Chỉ kết hợp văn bản với bảng tính
+B. Có thể dùng văn bản, âm thanh, hình ảnh, video và các định dạng đa phương tiện khác
+C. Chỉ dùng âm thanh khi các bên ở cùng địa điểm
+D. Chỉ dùng hình ảnh trong giao tiếp bất đồng bộ
+ANSWER: B
+EXPLAIN: Giao tiếp số hỗ trợ nhiều dạng dữ liệu như văn bản, âm thanh, hình ảnh, video và đa phương tiện.
+
+---
+
+Q: Một phiên Google Meet mà mọi thành viên cùng thảo luận tại thời điểm đã hẹn thuộc loại giao tiếp nào?
+A. Đồng bộ
+B. Bất đồng bộ
+C. Lưu trữ ngoại tuyến
+D. Giao tiếp một chiều
+ANSWER: A
+EXPLAIN: Giao tiếp đồng bộ diễn ra theo thời gian thực và đòi hỏi các bên tham gia cùng lúc.
+
+---
+
+Q: Hoạt động nào là giao tiếp bất đồng bộ?
+A. Gọi thoại trực tiếp
+B. Họp video trên Zoom
+C. Chat trực tiếp trong một phiên hỗ trợ
+D. Bình luận góp ý trên Google Docs để thành viên đọc và phản hồi khi thuận tiện
+ANSWER: D
+EXPLAIN: Bình luận trên tài liệu trực tuyến không đòi hỏi mọi người có mặt đồng thời nên là giao tiếp bất đồng bộ.
+
+---
+
+Q: Khi nhóm cần xử lý ngay một hiểu lầm phức tạp và muốn tận dụng giọng điệu, nét mặt, ưu thế nào của giao tiếp đồng bộ phù hợp nhất?
+A. Tạo bản ghi văn bản rõ ràng tự động
+B. Phản hồi tức thì và khai thác yếu tố phi ngôn ngữ
+C. Cho mọi người suy nghĩ không giới hạn trước khi đáp
+D. Không cần sắp xếp thời gian chung
+ANSWER: B
+EXPLAIN: Giao tiếp đồng bộ cho phản hồi ngay và truyền tải giọng điệu, biểu cảm, nhờ đó có thể giảm hiểu lầm.
+
+---
+
+Q: Nhược điểm quan trọng của giao tiếp đồng bộ là gì?
+A. Không thể trao đổi nhanh
+B. Không dùng được âm thanh hoặc video
+C. Phải sắp xếp để mọi người có mặt cùng lúc và có thể gây gián đoạn nếu gọi đột xuất
+D. Không thể làm rõ ý định người nói
+ANSWER: C
+EXPLAIN: Hình thức đồng bộ phụ thuộc vào lịch chung; một cuộc gọi không báo trước còn có thể làm gián đoạn công việc.
+
+---
+
+Q: Vì sao email phù hợp khi người nhận cần thời gian cân nhắc kỹ trước khi trả lời?
+A. Vì email là bất đồng bộ, linh hoạt và cho phép xử lý vào thời điểm thuận tiện
+B. Vì email luôn tạo ra phản hồi tức thì
+C. Vì email truyền đạt đầy đủ nét mặt và giọng điệu
+D. Vì email không lưu lại nội dung trao đổi
+ANSWER: A
+EXPLAIN: Giao tiếp bất đồng bộ cho người nhận chủ động thời gian và suy nghĩ kỹ trước khi phản hồi.
+
+---
+
+Q: Tình huống nào ít phù hợp nhất với giao tiếp bất đồng bộ?
+A. Góp ý chi tiết cho bản nháp báo cáo
+B. Gửi thông báo chính thức cần lưu bằng chứng
+C. Thảo luận trên diễn đàn khi các thành viên khác múi giờ
+D. Xử lý một vấn đề khẩn cấp cần quyết định ngay
+ANSWER: D
+EXPLAIN: Giao tiếp bất đồng bộ có độ trễ nên không phù hợp với vấn đề cần giải quyết khẩn cấp.
+
+---
+
+Q: Sinh viên cần xin nghỉ học và muốn thể hiện sự trang trọng, đồng thời lưu lại bằng chứng. Phương thức phù hợp nhất là gì?
+A. Nhắn riêng qua mạng xã hội
+B. Email
+C. Gọi điện đột xuất
+D. Bình luận trong tài liệu nhóm
+ANSWER: B
+EXPLAIN: Email là kênh bất đồng bộ, trang trọng, có thể lưu lại và cho giảng viên xử lý khi thuận tiện.
+
+---
+
+Q: Nhóm muốn trao đổi nhanh các ý tưởng ngắn cho bài tập. Lựa chọn nào hợp lý nhất?
+A. Chat nhóm
+B. Email chính thức cho từng thành viên
+C. Gửi biên bản cuộc họp
+D. Viết báo cáo chung hoàn chỉnh rồi mới trao đổi
+ANSWER: A
+EXPLAIN: Chat nhóm nhanh, không quá trang trọng và thuận tiện cho việc trao đổi qua lại các ý tưởng ngắn.
+
+---
+
+Q: Nhóm cần phân công nhiệm vụ, chia sẻ màn hình và thảo luận sâu để đạt đồng thuận. Nên dùng phương thức nào?
+A. Gửi nhiều tin nhắn rời rạc
+B. Chuyển file Word qua chat
+C. Họp video
+D. Chỉ gửi một email thông báo
+ANSWER: C
+EXPLAIN: Họp video hỗ trợ tương tác trực tiếp, chia sẻ màn hình, thảo luận sâu và quan sát biểu cảm.
+
+---
+
+Q: Cách nào tốt nhất để nhiều thành viên góp ý chi tiết cho cùng một bản nháp mà không tạo nhiều phiên bản file?
+A. Mỗi người sửa một file Word riêng
+B. Gửi bản nháp lần lượt qua ứng dụng chat
+C. Chụp ảnh từng trang và nhắn góp ý
+D. Dùng Google Docs ở chế độ bình luận
+ANSWER: D
+EXPLAIN: Bình luận trên Google Docs gắn góp ý trực tiếp vào văn bản, không đổi bản gốc và lưu lịch sử chỉnh sửa, thảo luận.
+
+---
+
+Q: Lựa chọn phương tiện giao tiếp phù hợp được xem là một quyết định chiến lược vì sao?
+A. Mọi phương tiện đều tạo cùng một kỳ vọng về thời gian phản hồi
+B. Phương tiện được chọn thể hiện mức độ cấp bách và sự tôn trọng thời gian của người nhận
+C. Chỉ phương tiện đồng bộ mới được dùng trong học thuật
+D. Phương tiện bất đồng bộ luôn hiệu quả hơn trong mọi hoàn cảnh
+ANSWER: B
+EXPLAIN: Email cho người nhận chủ động xử lý, còn cuộc gọi đột xuất thường hàm ý cấp bách và cần chú ý ngay.
+
+---
+
+Q: Địa chỉ email nào phù hợp nhất để liên hệ học thuật?
+A. Địa chỉ do trường cấp
+B. Địa chỉ chứa biệt danh vui nhộn
+C. Địa chỉ không thể hiện tên người gửi
+D. Địa chỉ dùng chung của cả nhóm bạn
+ANSWER: A
+EXPLAIN: Nên ưu tiên email do trường cấp; nếu dùng email cá nhân thì địa chỉ cần có dạng họ tên nghiêm túc.
+
+---
+
+Q: Dòng tiêu đề email nào phù hợp nhất khi hỏi giảng viên về bài tập?
+A. Thầy ơi
+B. Có việc gấp!!!
+C. [VNU1001] - Thắc mắc về Bài tập cuối chương 4 - Nguyễn Văn A - 2501xxxx
+D. Bài tập
+ANSWER: C
+EXPLAIN: Tiêu đề chuyên nghiệp cần ngắn gọn, rõ nội dung và có cấu trúc mã môn, nội dung chính, họ tên, mã sinh viên.
+
+---
+
+Q: Cách mở đầu nào phù hợp khi gửi email cho giảng viên?
+A. Chào bạn
+B. Kính gửi Thầy/Cô
+C. Ê thầy/cô
+D. Không cần lời chào nếu tiêu đề đã rõ
+ANSWER: B
+EXPLAIN: Với giảng viên, cần dùng lời chào phù hợp mức độ trang trọng như “Kính gửi Thầy/Cô”.
+
+---
+
+Q: Phần thân của một email học thuật nên được tổ chức như thế nào?
+A. Kể đầy đủ bối cảnh cá nhân rồi mới nêu mục đích ở cuối
+B. Viết toàn bộ trong một đoạn để tiết kiệm chỗ
+C. Dùng nhiều từ viết tắt như trong tin nhắn
+D. Giới thiệu ngắn gọn bản thân, nêu ngay mục đích và chia đoạn theo từng ý chính
+ANSWER: D
+EXPLAIN: Nội dung cần rõ ràng, đi thẳng vào vấn đề và chia đoạn hợp lý để người nhận dễ theo dõi.
+
+---
+
+Q: Việc nào cần thực hiện ngay trước khi nhấn gửi email?
+A. Đọc lại để kiểm tra chính tả và ngữ pháp
+B. Chuyển mọi câu sang từ viết tắt
+C. Xóa lời chào để email ngắn hơn
+D. Thay tiêu đề bằng một từ chung chung
+ANSWER: A
+EXPLAIN: Email chuyên nghiệp cần được đọc lại và kiểm tra kỹ lỗi chính tả, ngữ pháp trước khi gửi.
+
+---
+
+Q: Chữ ký email chuyên nghiệp của sinh viên nên có nhóm thông tin nào?
+A. Biệt danh, sở thích và tài khoản giải trí
+B. Chỉ số điện thoại cá nhân
+C. Họ tên đầy đủ, mã sinh viên, lớp và khoa/trường
+D. Mật khẩu tài khoản học tập
+ANSWER: C
+EXPLAIN: Chữ ký nên gồm họ tên, mã sinh viên, lớp, khoa/trường; số điện thoại là thông tin tùy chọn.
+
+---
+
+Q: Cách xử lý tệp đính kèm nào đầy đủ và chuyên nghiệp nhất?
+A. Đặt tên “filemoi.pdf” và không nhắc đến trong email
+B. Đặt tên có cấu trúc, đề cập tệp trong nội dung và kiểm tra đã đính kèm trước khi gửi
+C. Chỉ ghi tên tệp trong tiêu đề nhưng không đính kèm
+D. Đính kèm nhiều bản khác nhau để người nhận tự chọn
+ANSWER: B
+EXPLAIN: Tệp cần tên rõ ràng, được nhắc trong thân email và phải được kiểm tra lại trước khi gửi.
+
+---
+
+Q: Trước khi quyết định tổ chức họp trực tuyến, người điều phối nên làm gì đầu tiên?
+A. Mời càng nhiều người càng tốt
+B. Chọn nền ảo cho tất cả thành viên
+C. Yêu cầu mọi người bật micro liên tục
+D. Xác định mục tiêu và cân nhắc liệu vấn đề có thể giải quyết qua email không
+ANSWER: D
+EXPLAIN: Người tổ chức cần làm rõ cuộc họp nhằm thông báo, thảo luận hay ra quyết định và kiểm tra sự cần thiết của cuộc họp.
+
+---
+
+Q: Một chương trình nghị sự hiệu quả cần chứa nội dung nào?
+A. Các chủ đề cần thảo luận và thời gian dự kiến cho từng mục
+B. Chỉ tên người tổ chức
+C. Danh sách các ứng dụng họp có thể dùng
+D. Toàn bộ lịch cá nhân của người tham gia
+ANSWER: A
+EXPLAIN: Agenda giúp cuộc họp có cấu trúc bằng cách liệt kê chủ đề và thời lượng dự kiến cho mỗi mục.
+
+---
+
+Q: Lời mời họp trực tuyến nên được gửi kèm theo gì để người tham gia chuẩn bị?
+A. Chỉ đường link họp
+B. Chỉ danh sách người tham gia
+C. Đường link họp, agenda và tài liệu cần đọc trước
+D. Biên bản của cuộc họp chưa diễn ra
+ANSWER: C
+EXPLAIN: Người tổ chức cần gửi đủ link, agenda và tài liệu chuẩn bị trong lời mời họp.
+
+---
+
+Q: Trách nhiệm chuẩn bị tối thiểu của người tham gia trước cuộc họp là gì?
+A. Soạn biên bản kết luận trước
+B. Đọc trước agenda và tài liệu
+C. Tự thay đổi mục tiêu cuộc họp
+D. Mời thêm người ngoài nhóm
+ANSWER: B
+EXPLAIN: Đọc trước agenda và tài liệu là yêu cầu tối thiểu để tham gia cuộc họp hiệu quả.
+
+---
+
+Q: Khi nào người tham gia nên kiểm tra camera, microphone và kết nối Internet?
+A. Ít nhất 5 phút trước giờ họp
+B. Sau khi cuộc họp kết thúc
+C. Chỉ khi được gọi phát biểu
+D. Ngay giữa phần ra quyết định
+ANSWER: A
+EXPLAIN: Chuẩn bị kỹ thuật ít nhất 5 phút trước cuộc họp giúp tránh làm gián đoạn chương trình.
+
+---
+
+Q: Sự chuẩn bị nào phù hợp cho không gian họp trực tuyến?
+A. Ngồi nơi đông người để tạo không khí
+B. Ưu tiên hậu cảnh nhiều chuyển động
+C. Tắt toàn bộ ánh sáng để màn hình rõ hơn
+D. Chọn nơi yên tĩnh, đủ sáng, trang phục phù hợp và hậu cảnh gọn gàng hoặc nền ảo chuyên nghiệp
+ANSWER: D
+EXPLAIN: Không gian yên tĩnh, đủ sáng cùng hình ảnh và hậu cảnh phù hợp giúp cuộc họp chuyên nghiệp.
+
+---
+
+Q: Quy tắc vàng về micro trong cuộc họp trực tuyến là gì?
+A. Luôn bật micro để thể hiện sự hiện diện
+B. Tắt micro khi không nói để tránh tạp âm
+C. Chỉ người điều phối mới được dùng micro
+D. Tắt micro cả khi đang phát biểu
+ANSWER: B
+EXPLAIN: Tắt micro khi không nói giúp hạn chế tạp âm ảnh hưởng đến toàn cuộc họp.
+
+---
+
+Q: Khi phát biểu trong cuộc họp video, nhìn vào camera có tác dụng gì?
+A. Tạo cảm giác giao tiếp bằng mắt và tăng kết nối
+B. Thay thế hoàn toàn việc lắng nghe
+C. Giúp ghi tự động biên bản
+D. Cho phép bỏ qua agenda
+ANSWER: A
+EXPLAIN: Nhìn vào camera khi nói tạo cảm giác giao tiếp bằng mắt với những người tham gia khác.
+
+---
+
+Q: Thành viên muốn phát biểu nhưng người khác đang nói. Cách ứng xử phù hợp nhất là gì?
+A. Bật micro và nói chen
+B. Gửi nhiều tin nhắn yêu cầu dừng lại
+C. Dùng tính năng Giơ tay
+D. Rời cuộc họp rồi vào lại
+ANSWER: C
+EXPLAIN: Tính năng Giơ tay báo hiệu mong muốn phát biểu mà không ngắt lời người đang nói.
+
+---
+
+Q: Hành vi nào thể hiện lắng nghe tích cực trong cuộc họp?
+A. Tranh thủ xử lý việc riêng khi chưa đến lượt nói
+B. Chỉ chú ý khi có người gọi tên mình
+C. Soạn tin nhắn không liên quan trong suốt cuộc họp
+D. Tập trung vào nội dung người khác trình bày
+ANSWER: D
+EXPLAIN: Lắng nghe tích cực đòi hỏi tập trung vào người nói và tránh làm việc riêng.
+
+---
+
+Q: Cách điều phối nào giúp cuộc họp vừa đúng trọng tâm vừa bao quát các thành viên?
+A. Để thảo luận tự do không giới hạn thời gian
+B. Bám sát agenda, đúng giờ và chủ động mời cả thành viên trầm tính tham gia
+C. Chỉ hỏi ý kiến những người nói nhiều
+D. Kết thúc ngay khi trưởng nhóm đã phát biểu xong
+ANSWER: B
+EXPLAIN: Người điều phối cần quản lý thời gian, giữ thảo luận theo agenda và khuyến khích mọi thành viên đóng góp.
+
+---
+
+Q: Trước khi kết thúc cuộc họp, người điều phối nên làm gì?
+A. Tóm tắt các quyết định quan trọng và đầu việc tiếp theo
+B. Xóa agenda để tránh nhầm lẫn
+C. Chỉ thông báo thời gian họp kế tiếp
+D. Yêu cầu mọi người tự nhớ phần việc của mình
+ANSWER: A
+EXPLAIN: Việc tóm tắt quyết định và công việc tiếp theo giúp cả nhóm có cùng cách hiểu sau cuộc họp.
+
+---
+
+Q: Biên bản tóm tắt sau họp cần có nội dung nào để các đầu việc có thể được theo dõi?
+A. Chỉ ghi lại toàn bộ lời nói theo thứ tự
+B. Chỉ ghi tên người vắng mặt
+C. Các quyết định, action items, người phụ trách và hạn chót
+D. Chỉ nêu cảm nhận của người tổ chức
+ANSWER: C
+EXPLAIN: Meeting minutes cần chốt quyết định và gắn mỗi công việc tiếp theo với người phụ trách, hạn hoàn thành.
+
+---
+
+Q: Mạng xã hội được định nghĩa phù hợp nhất như thế nào?
+A. Phần mềm chỉ dùng để gửi email
+B. Kho lưu trữ không cho phép tương tác
+C. Công cụ chỉ dành cho giải trí cá nhân
+D. Nền tảng trực tuyến cho phép tạo hồ sơ, kết nối, chia sẻ thông tin và tương tác qua nhiều dạng nội dung
+ANSWER: D
+EXPLAIN: Mạng xã hội hỗ trợ hồ sơ cá nhân, kết nối, chia sẻ và tương tác bằng văn bản, hình ảnh, video.
+
+---
+
+Q: Sinh viên muốn xây dựng hồ sơ nghề nghiệp, theo dõi công ty và tìm cơ hội thực tập. Nền tảng phù hợp nhất là gì?
+A. LinkedIn
+B. Một tài khoản giải trí ẩn danh
+C. Ứng dụng chỉnh ảnh ngoại tuyến
+D. Diễn đàn không liên quan chuyên môn
+ANSWER: A
+EXPLAIN: LinkedIn là mạng xã hội chuyên nghiệp dùng để kết nối chuyên gia, theo dõi công ty và tìm cơ hội nghề nghiệp.
+
+---
+
+Q: Facebook Groups hoặc Zalo Groups chuyên ngành hữu ích nhất cho mục đích nào?
+A. Thay thế mọi hình thức họp chính thức
+B. Học hỏi, trao đổi tài liệu và cập nhật thông tin lĩnh vực
+C. Công khai mọi dữ liệu cá nhân
+D. Tự động đánh giá kết quả học tập
+ANSWER: B
+EXPLAIN: Các nhóm chuyên ngành là nơi hỗ trợ học hỏi, chia sẻ tài liệu và cập nhật thông tin chuyên môn.
+
+---
+
+Q: Vì sao sinh viên cần quản lý sự hiện diện trên mạng xã hội một cách có chủ đích?
+A. Vì nhà tuyển dụng không bao giờ xem hồ sơ mạng xã hội
+B. Vì nội dung trực tuyến chỉ ảnh hưởng đến hoạt động giải trí
+C. Vì mạng xã hội là một phần của danh tính nghề nghiệp và có thể hỗ trợ xây dựng thương hiệu cá nhân
+D. Vì mọi tài khoản cá nhân đều phải chuyển thành tài khoản doanh nghiệp
+ANSWER: C
+EXPLAIN: Nhà tuyển dụng, đối tác, đồng nghiệp tương lai có thể xem hồ sơ; quản lý tốt vừa bảo vệ riêng tư vừa xây dựng thương hiệu cá nhân.
+
+---
+
+Q: Cách nhắn tin nào tôn trọng thời gian người nhận hơn?
+A. Gộp các ý liên quan thành một tin nhắn rõ ràng thay vì gửi nhiều tin nhỏ liên tục
+B. Gửi từng từ thành một tin riêng
+C. Nhắn ngoài giờ cho mọi vấn đề không khẩn cấp
+D. Không nêu mục đích của tin nhắn
+ANSWER: A
+EXPLAIN: Netiquette trong chat yêu cầu ngắn gọn, rõ ràng và hạn chế chuỗi tin nhỏ gây gián đoạn.
+
+---
+
+Q: Khi nào việc nhắn tin ngoài giờ học hoặc làm việc được xem là phù hợp theo chương?
+A. Khi muốn người khác trả lời nhanh hơn
+B. Khi nội dung dài nhưng chưa hoàn chỉnh
+C. Khi muốn kiểm tra người nhận có trực tuyến không
+D. Khi vấn đề thực sự khẩn cấp
+ANSWER: D
+EXPLAIN: Cần hạn chế nhắn ngoài giờ, trừ trường hợp thật sự khẩn cấp.
+
+---
+
+Q: “Quy tắc vàng” trước khi đăng nội dung lên mạng xã hội là gì?
+A. Chỉ cần bài đăng nhận được nhiều tương tác
+B. Không đăng điều bạn không muốn ông bà hoặc nhà tuyển dụng tương lai nhìn thấy
+C. Xóa bài ngay sau khi đăng thì không còn rủi ro
+D. Chỉ cần dùng tài khoản cá nhân là có thể đăng mọi thứ
+ANSWER: B
+EXPLAIN: Cần suy nghĩ kỹ về dấu vết và đối tượng có thể nhìn thấy nội dung trước khi đăng.
+
+---
+
+Q: Một bài viết gây sốc chưa có nguồn kiểm chứng đang lan truyền. Hành động phù hợp nhất là gì?
+A. Chia sẻ ngay nhưng thêm dấu hỏi
+B. Chuyển cho nhóm kín để tránh trách nhiệm
+C. Kiểm chứng thông tin trước và không lan truyền tin giả hoặc nội dung chưa xác minh
+D. Chỉ đọc tiêu đề rồi viết lại theo ý mình
+ANSWER: C
+EXPLAIN: Netiquette trên mạng xã hội yêu cầu kiểm chứng và không chia sẻ tin giả hay thông tin chưa được xác minh.
+
+---
+
+Q: Khi bất đồng trong một cuộc tranh luận trực tuyến, cách ứng xử nào đúng?
+A. Tập trung vào lập luận và tôn trọng sự khác biệt
+B. Công kích người viết để bác bỏ quan điểm
+C. Công khai thông tin cá nhân của đối phương
+D. Chuyển sang chế giễu để kết thúc tranh luận
+ANSWER: A
+EXPLAIN: Tranh luận văn minh phải hướng vào lập luận, không công kích cá nhân.
+
+---
+
+Q: Điểm nhấn nào phân biệt cộng tác số với giao tiếp số đơn thuần?
+A. Cộng tác số không cần trao đổi thông tin
+B. Cộng tác số chỉ diễn ra đồng bộ
+C. Cộng tác số chỉ dùng trong doanh nghiệp
+D. Cộng tác số hướng đến việc cùng tạo ra một kết quả chung
+ANSWER: D
+EXPLAIN: Cộng tác số bao gồm chia sẻ, đồng tạo sản phẩm, giải quyết vấn đề hoặc ra quyết định để đạt kết quả chung.
+
+---
+
+Q: Nhóm sinh viên cần cùng chỉnh sửa Docs, Sheets và Slides theo thời gian thực, đồng thời dùng Drive và Meet. Hệ sinh thái nào nổi bật với nhu cầu này?
+A. Trello
+B. Google Workspace
+C. Asana
+D. Reclaim.ai
+ANSWER: B
+EXPLAIN: Google Workspace phổ biến trong giáo dục và nổi bật về cộng tác thời gian thực, tích hợp Gmail, Drive và Meet.
+
+---
+
+Q: Một doanh nghiệp muốn tích hợp sâu Word, Excel, PowerPoint với nền tảng giao tiếp nhóm. Lựa chọn phù hợp nhất là gì?
+A. Microsoft 365 cùng Microsoft Teams
+B. Google Translate
+C. Scholarcy
+D. Calendly
+ANSWER: A
+EXPLAIN: Microsoft 365 mạnh về tích hợp các ứng dụng Office với Microsoft Teams trong môi trường doanh nghiệp.
+
+---
+
+Q: Yếu tố văn hóa nào được thể hiện khi thành viên tin rằng đồng đội sẽ hoàn thành đúng hạn và đạt chất lượng?
+A. Tôn trọng
+B. Linh hoạt
+C. Tin tưởng
+D. Đồng bộ
+ANSWER: C
+EXPLAIN: Tin tưởng là niềm tin rằng các thành viên sẽ hoàn thành phần việc đúng hạn và có chất lượng.
+
+---
+
+Q: Nhóm quy định cụ thể ai làm việc gì, tiêu chuẩn đầu ra và thời hạn. Điều này củng cố nguyên tắc nào?
+A. Rõ ràng
+B. Giải trí
+C. Tự động hóa
+D. Truyền thông một chiều
+ANSWER: A
+EXPLAIN: Rõ ràng đòi hỏi nhiệm vụ, vai trò và kỳ vọng được truyền đạt minh bạch.
+
+---
+
+Q: Hành vi nào thể hiện nguyên tắc tôn trọng trong hợp tác số?
+A. Yêu cầu mọi người làm việc theo cùng một phong cách cá nhân
+B. Bỏ qua ý kiến trái chiều
+C. Gọi đột xuất bất kể lịch người khác
+D. Tôn trọng thời gian, ý kiến và phong cách làm việc của nhau
+ANSWER: D
+EXPLAIN: Tôn trọng là một trong ba nền tảng văn hóa của hợp tác số hiệu quả.
+
+---
+
+Q: Nội dung nào nên được thống nhất trong Team Charter trước khi bắt đầu dự án?
+A. Chỉ tên dự án và màu biểu tượng nhóm
+B. Kênh giao tiếp, lịch họp, cách cập nhật tiến độ và cách ra quyết định
+C. Chỉ công cụ thiết kế sản phẩm cuối
+D. Toàn bộ nội dung báo cáo chưa nghiên cứu
+ANSWER: B
+EXPLAIN: Quy tắc nhóm cần xác định kênh dùng cho từng loại trao đổi, lịch họp, cập nhật tiến độ và cơ chế quyết định.
+
+---
+
+Q: Nhóm dùng Zalo cho thông báo chính thức và bình luận Trello cho trao đổi chi tiết công việc. Việc phân định này giải quyết nội dung nào của Team Charter?
+A. Cách ra quyết định
+B. Tần suất họp
+C. Kênh giao tiếp chính và nơi trao đổi công việc
+D. Cách ghi nhận đóng góp
+ANSWER: C
+EXPLAIN: Team Charter cần quy định loại thông tin nào được trao đổi ở từng kênh để tránh phân tán và nhầm lẫn.
+
+---
+
+Q: Thành viên nhận thấy có nguy cơ trễ hạn do một vướng mắc kỹ thuật. Cách xử lý đúng trong môi trường làm việc từ xa là gì?
+A. Chủ động báo sớm, nêu rõ vướng mắc và nguy cơ trễ
+B. Im lặng đến sát hạn để tránh làm nhóm lo lắng
+C. Tự ý xóa nhiệm vụ khỏi bảng công việc
+D. Chờ người khác phát hiện rồi mới giải thích
+ANSWER: A
+EXPLAIN: Giao tiếp chủ động và minh bạch yêu cầu thông báo sớm khó khăn vì trong môi trường ảo người khác không tự thấy vấn đề.
+
+---
+
+Q: Biện pháp nào giúp chủ động xây dựng sự gắn kết trong nhóm từ xa?
+A. Chỉ trao đổi khi có lỗi
+B. Loại bỏ mọi trò chuyện ngoài công việc
+C. Không công khai ghi nhận cá nhân để tránh khác biệt
+D. Tạo kênh ngoài lề, hỏi thăm đầu buổi họp và ghi nhận đóng góp
+ANSWER: D
+EXPLAIN: Gắn kết từ xa cần được chủ động nuôi dưỡng bằng trò chuyện, hỏi thăm và sự công nhận.
+
+---
+
+Q: Hai thành viên hiểu sai ý nhau và tranh luận căng thẳng qua tin nhắn. Cách xử lý phù hợp nhất là gì?
+A. Tiếp tục nhắn nhanh hơn để giành phần đúng
+B. Đề nghị một cuộc gọi video ngắn và tập trung vào vấn đề
+C. Công khai phê bình tính cách của người kia
+D. Bỏ qua xung đột đến cuối dự án
+ANSWER: B
+EXPLAIN: Video bổ sung giọng điệu, nét mặt để làm rõ ý định; nguyên tắc là xử lý vấn đề, không công kích cá nhân.
+
+---
+
+Q: Cấu trúc cốt lõi của Trello theo phương pháp Kanban là gì?
+A. Trang, khối và cơ sở dữ liệu
+B. Tệp, thư mục và lịch
+C. Board, List và Card có thể kéo-thả
+D. Email, cuộc họp và biên bản
+ANSWER: C
+EXPLAIN: Trello trực quan hóa Kanban bằng bảng, danh sách và thẻ có thể kéo-thả.
+
+---
+
+Q: Một nhóm nhỏ mới dùng công cụ quản lý dự án, quy trình đơn giản và cần giao diện trực quan. Công cụ phù hợp nhất là gì?
+A. Trello
+B. Asana
+C. DeepL
+D. SciSpace
+ANSWER: A
+EXPLAIN: Trello cực kỳ dễ dùng, phù hợp nhóm nhỏ, dự án đơn giản và quản lý công việc cá nhân.
+
+---
+
+Q: Khi nào hạn chế của Trello dễ bộc lộ nhất?
+A. Khi cần kéo-thả thẻ đơn giản
+B. Khi quản lý một danh sách việc cá nhân
+C. Khi nhóm mới bắt đầu với Kanban
+D. Khi dự án cần báo cáo sâu, nhiều chế độ xem và quản lý công việc phức tạp
+ANSWER: D
+EXPLAIN: Trello có ít chế độ xem hơn và còn hạn chế về báo cáo, quản lý công việc phức tạp.
+
+---
+
+Q: Dự án có nhiều bước, nhiệm vụ phụ, deadline cụ thể và quan hệ phụ thuộc. Công cụ nào phù hợp nhất?
+A. Calendly
+B. Asana
+C. Google Translate
+D. Messenger
+ANSWER: B
+EXPLAIN: Asana mạnh về quản lý chi tiết, nhiều chế độ xem, tiến độ, nhiệm vụ phụ và sự phụ thuộc.
+
+---
+
+Q: Nhược điểm chính của Asana đối với người mới bắt đầu là gì?
+A. Không theo dõi được deadline
+B. Không có chế độ xem danh sách
+C. Giao diện có thể phức tạp và gây choáng ngợp hơn Trello
+D. Chỉ dùng được cho công việc cá nhân
+ANSWER: C
+EXPLAIN: Sự phong phú tính năng của Asana khiến giao diện có thể khó tiếp cận hơn với người mới.
+
+---
+
+Q: Nhóm muốn quản lý nhiệm vụ, ghi chú, tài liệu, cơ sở dữ liệu và wiki trong một không gian tùy biến. Nên chọn gì?
+A. Notion
+B. Trello
+C. Zoom
+D. Outlook
+ANSWER: A
+EXPLAIN: Notion là không gian làm việc “tất cả trong một”, kết hợp quản lý công việc và quản lý kiến thức.
+
+---
+
+Q: Đánh đổi quan trọng khi chọn Notion là gì?
+A. Không thể lưu tài liệu dự án
+B. Chỉ có một cấu trúc cố định
+C. Không hỗ trợ quản lý kiến thức
+D. Cần thời gian học và tự xây cấu trúc; tính năng quản lý dự án chuyên sâu không sẵn như Asana
+ANSWER: D
+EXPLAIN: Tính linh hoạt cao của Notion đi kèm công sức thiết kế cấu trúc và hạn chế về tính năng quản lý chuyên sâu có sẵn.
+
+---
+
+Q: Sự trỗi dậy của AI tạo sinh làm thay đổi giá trị kỹ năng của con người theo hướng nào?
+A. Chỉ cần thực hiện tác vụ nhanh hơn, không cần đánh giá
+B. Chuyển từ người thực thi sang người chỉ đạo, đánh giá, tinh chỉnh và định hướng chiến lược
+C. Giao toàn bộ quyết định cho AI
+D. Không còn cần hiểu mục tiêu công việc
+ANSWER: B
+EXPLAIN: Chương nhấn mạnh vai trò con người chuyển sang giám sát và chiến lược gia đối với sản phẩm AI.
+
+---
+
+Q: Calendly giải quyết việc đặt lịch theo cơ chế nào?
+A. Tự viết email nhắc việc hằng ngày
+B. Tự động thay đổi mọi thói quen cá nhân
+C. Kết nối lịch, hiển thị khung giờ sẵn sàng qua liên kết và tự thêm cuộc hẹn đã chọn vào lịch hai bên
+D. Yêu cầu người đặt lịch xem toàn bộ chi tiết lịch riêng tư
+ANSWER: C
+EXPLAIN: Scheduling link cho phép người khác chọn trong các khung giờ trống đã thiết lập và tự động tạo cuộc hẹn.
+
+---
+
+Q: Khả năng nào khiến Reclaim.ai nâng cao hơn một công cụ liên kết đặt lịch thông thường?
+A. Tự xếp và bảo vệ thời gian cho Habits, Tasks, đồng thời linh hoạt dời chúng khi có cuộc họp ưu tiên hơn
+B. Chỉ gửi một liên kết giờ trống cố định
+C. Chỉ dịch nội dung lịch sang ngôn ngữ khác
+D. Chỉ ghi biên bản sau cuộc họp
+ANSWER: A
+EXPLAIN: Reclaim.ai tìm khoảng trống để xếp thói quen và công việc, có thể điều chỉnh linh hoạt khi lịch thay đổi.
+
+---
+
+Q: Lợi ích trực tiếp của công cụ lên lịch thông minh đối với sinh viên là gì?
+A. Thay thế việc chuẩn bị nội dung họp
+B. Tự ra quyết định thay cả nhóm
+C. Đảm bảo mọi cuộc họp đều cần thiết
+D. Giảm trao đổi qua lại khi xếp lịch học nhóm, phỏng vấn hoặc gặp giảng viên
+ANSWER: D
+EXPLAIN: Công cụ lịch giúp việc hẹn thời gian chuyên nghiệp, hiệu quả và tiết kiệm vòng trao đổi thủ công.
+
+---
+
+Q: Microsoft Copilot trong Outlook và Google Gemini trong Gmail có thể hỗ trợ nhóm việc nào?
+A. Chỉ kiểm tra kết nối Internet
+B. Soạn email từ prompt, tóm tắt chuỗi email và điều chỉnh giọng văn
+C. Tự xác nhận mọi thông tin là chính xác
+D. Thay người gửi chịu trách nhiệm về nội dung
+ANSWER: B
+EXPLAIN: Các trợ lý này hỗ trợ tạo bản nháp, tóm tắt chuỗi trao đổi và thay đổi tone như trang trọng, ngắn gọn hoặc thân thiện.
+
+---
+
+Q: Sinh viên đã viết email nhưng thấy văn phong quá suồng sã. Yêu cầu AI nào phù hợp nhất?
+A. “Xóa toàn bộ ngữ cảnh”
+B. “Tạo thêm nhiều từ viết tắt”
+C. “Làm cho email trang trọng hơn”
+D. “Gửi email mà không cần tôi đọc lại”
+ANSWER: C
+EXPLAIN: Điều chỉnh giọng văn theo hướng Formalize là một ứng dụng trực tiếp của trợ lý viết AI.
+
+---
+
+Q: Nguyên tắc sử dụng có trách nhiệm đối với nội dung giao tiếp do AI tạo là gì?
+A. Luôn đọc lại, chỉnh sửa và cá nhân hóa theo ngữ cảnh cùng giọng văn của mình
+B. Sao chép nguyên văn vì AI luôn hiểu đúng bối cảnh
+C. Không cần kiểm tra nếu prompt đủ dài
+D. Để AI tự gửi nhằm tránh ảnh hưởng chủ quan
+ANSWER: A
+EXPLAIN: AI là trợ lý, không phải người thay thế; người dùng phải bảo đảm tính chính xác, phù hợp và dấu ấn cá nhân.
+
+---
+
+Q: Sinh viên chỉ cần lướt nhanh tài liệu ở một ngôn ngữ ít phổ biến để nắm ý chính. Công cụ nào thường là lựa chọn mặc định phù hợp hơn?
+A. Reclaim.ai
+B. Scholarcy
+C. Notion
+D. Google Translate
+ANSWER: D
+EXPLAIN: Google Translate hỗ trợ số lượng ngôn ngữ rất lớn và phù hợp nhu cầu dịch nhanh để nắm ý chính.
+
+---
+
+Q: Với một đoạn học thuật quan trọng bằng cặp ngôn ngữ phổ biến, cần câu văn tự nhiên và giữ sắc thái, công cụ nào thường được ưu tiên?
+A. Trello
+B. DeepL
+C. Calendly
+D. Resoomer
+ANSWER: B
+EXPLAIN: DeepL thường được đánh giá cao về ngữ cảnh, độ tự nhiên và sắc thái, đặc biệt với các ngôn ngữ châu Âu.
+
+---
+
+Q: So sánh nào đúng về phạm vi ngôn ngữ của Google Translate và DeepL?
+A. DeepL hỗ trợ mọi ngôn ngữ nhiều hơn Google Translate
+B. Hai công cụ luôn hỗ trợ đúng cùng một tập ngôn ngữ
+C. Google Translate hỗ trợ rất nhiều ngôn ngữ; DeepL ít hơn nhưng đang mở rộng
+D. Google Translate không hỗ trợ tiếng Việt
+ANSWER: C
+EXPLAIN: Phạm vi hỗ trợ rộng là thế mạnh của Google Translate, còn DeepL hỗ trợ ít ngôn ngữ hơn.
+
+---
+
+Q: “Quy tắc vàng” khi dùng dịch máy cho bài học thuật là gì?
+A. Không sao chép bản dịch mà chưa kiểm tra; cần đối chiếu thuật ngữ chuyên ngành với nguồn đáng tin cậy
+B. Chỉ cần kiểm tra lỗi chính tả của bản dịch
+C. Luôn chọn bản dịch dài hơn
+D. Dùng một công cụ là đủ để bảo đảm thuật ngữ đúng
+ANSWER: A
+EXPLAIN: Dịch máy có thể sai thuật ngữ hoặc ngữ cảnh nên người học phải kiểm tra và đối chiếu nguồn chuyên môn.
+
+---
+
+Q: Công cụ nào được thiết kế chuyên cho việc đọc bài báo khoa học PDF và trích xuất giả thuyết, phương pháp, kết quả, kết luận?
+A. QuillBot và Resoomer
+B. Calendly và Reclaim.ai
+C. Trello và Asana
+D. Scholarcy và SciSpace
+ANSWER: D
+EXPLAIN: Scholarcy và SciSpace hỗ trợ đọc, tóm tắt và trích các phần quan trọng của tài liệu khoa học.
+
+---
+
+Q: QuillBot và Resoomer phù hợp nhất với nhu cầu nào?
+A. Tổ chức họp video
+B. Dán văn bản hoặc đường link để tạo bản tóm tắt có thể điều chỉnh độ dài
+C. Quản lý quan hệ phụ thuộc giữa nhiệm vụ
+D. Xây dựng hồ sơ nghề nghiệp
+ANSWER: B
+EXPLAIN: Đây là các công cụ tóm tắt đa năng, thường cho phép người dùng điều chỉnh độ dài đầu ra.
+
+---
+
+Q: Cách yêu cầu chatbot AI nào giúp kết quả tóm tắt bám sát nhu cầu hơn?
+A. Chỉ viết “làm đi” mà không cung cấp nội dung
+B. Yêu cầu AI tự chọn mọi mục tiêu nghiên cứu
+C. Đưa tài liệu và nêu đầu ra cụ thể như “tóm tắt thành 5 gạch đầu dòng chính”
+D. Yêu cầu sao chép lại toàn bộ tài liệu
+ANSWER: C
+EXPLAIN: ChatGPT, Gemini hoặc Perplexity có thể tóm tắt tốt hơn khi nhận tài liệu cùng prompt cụ thể về cấu trúc đầu ra.
+
+---
+
+Q: Sinh viên dùng AI tóm tắt bài báo, sau đó nộp nguyên bản tóm tắt đó như sản phẩm của mình. Đánh giá nào đúng?
+A. Đây là đạo văn và vi phạm nghiêm trọng liêm chính học thuật
+B. Đây là cách dùng AI được khuyến nghị nếu bản tóm tắt ngắn
+C. Việc này hợp lệ nếu không đọc bài báo gốc
+D. Việc này chỉ sai khi dùng công cụ dịch
+ANSWER: A
+EXPLAIN: Tóm tắt AI chỉ nhằm hỗ trợ đọc hiểu và nghiên cứu cá nhân, không được nộp như sản phẩm do chính mình tạo ra.
+
+---
+
+Q: Cách sử dụng AI tóm tắt nào phù hợp với mục đích học tập?
+A. Dùng bản tóm tắt thay hoàn toàn việc đánh giá tài liệu
+B. Nộp bản tóm tắt AI mà không ghi nhận quá trình sử dụng
+C. Xem AI là nguồn duy nhất để xác định kết luận khoa học
+D. Dùng để nhanh chóng nhận diện ý cốt lõi rồi tiếp tục đọc, kiểm tra và nghiên cứu tài liệu
+ANSWER: D
+EXPLAIN: AI tóm tắt là công cụ hỗ trợ quá trình đọc hiểu, không thay thế trách nhiệm nghiên cứu và đánh giá của sinh viên.
+
+---
+
+Q: Tình huống nào thể hiện đầy đủ tư duy cốt lõi của chương trong việc dùng công nghệ?
+A. Chọn công cụ nhiều tính năng nhất cho mọi nhiệm vụ
+B. Chọn đúng công cụ theo mục đích, duy trì tin tưởng trong nhóm và kiểm tra đầu ra AI có trách nhiệm
+C. Ưu tiên giao tiếp đồng bộ trong mọi trường hợp
+D. Giao mọi quyết định cho nền tảng để tiết kiệm thời gian
+ANSWER: B
+EXPLAIN: Năng lực số không chỉ là thao tác kỹ thuật mà còn là lựa chọn chiến lược, xây dựng quan hệ và chỉ đạo công nghệ có trách nhiệm.
+
+---
+
+Q: Phát biểu nào mô tả đúng nhất giao tiếp số?
+A. Quá trình trao đổi thông tin giữa cá nhân hoặc tổ chức thông qua nền tảng và công nghệ kỹ thuật số
+B. Quá trình chỉ lưu trữ dữ liệu mà không có người nhận
+C. Hoạt động trao đổi bắt buộc phải dùng video theo thời gian thực
+D. Hình thức giao tiếp chỉ diễn ra giữa các tổ chức
+ANSWER: A
+EXPLAIN: Giao tiếp số là việc trao đổi thông tin giữa cá nhân, tổ chức qua các nền tảng và công nghệ như email, mạng xã hội và nền tảng trực tuyến.
+
+---
+
+Q: Sau khi trình bày xong nội dung email học thuật, cách hoàn thiện nào đúng cấu trúc chuyên nghiệp?
+A. Đặt chữ ký trước rồi thêm lời chào mở đầu ở cuối
+B. Dùng lời kết lịch sự như “Trân trọng”, sau đó đặt chữ ký chứa thông tin nhận diện cần thiết
+C. Bỏ lời kết và chữ ký nếu địa chỉ email do trường cấp
+D. Chỉ thêm số điện thoại, không cần họ tên hoặc thông tin học tập
+ANSWER: B
+EXPLAIN: Email chuyên nghiệp kết thúc bằng lời kết lịch sự, tiếp theo là chữ ký gồm họ tên và các thông tin học tập cần thiết.
+
+---
+
+Q: Khi dùng Facebook, Instagram hoặc TikTok chủ yếu cho cá nhân và giải trí, sinh viên cần lưu ý điều gì nhất?
+A. Công khai càng nhiều thông tin cá nhân càng dễ kết nối
+B. Nội dung giải trí không ảnh hưởng đến danh tính nghề nghiệp
+C. Chỉ hình ảnh mới cần được cân nhắc, còn thông tin cá nhân thì không
+D. Cẩn trọng với thông tin cá nhân và hình ảnh được chia sẻ
+ANSWER: D
+EXPLAIN: Dù phục vụ kết nối và giải trí, các nền tảng này vẫn đòi hỏi người dùng thận trọng về quyền riêng tư và dấu vết trực tuyến.
+
+---
+
+Q: Nhóm chọn gửi một thông báo quan trọng bằng văn bản bất đồng bộ. Cách nào giảm nguy cơ hiểu lầm vốn có của phương thức này?
+A. Diễn đạt cẩn thận, rõ ngữ cảnh vì người nhận không có giọng điệu hoặc biểu cảm để hỗ trợ diễn giải
+B. Dùng câu càng ngắn càng tốt dù thiếu chủ ngữ và bối cảnh
+C. Yêu cầu mọi người phản hồi ngay tại cùng một thời điểm
+D. Thay toàn bộ nội dung bằng biểu tượng cảm xúc
+ANSWER: A
+EXPLAIN: Giao tiếp bất đồng bộ thiếu tín hiệu phi ngôn ngữ nên thông điệp phải được diễn đạt cẩn thận để hạn chế hiểu lầm.
+
+---
+
+Q: Khi gửi email trang trọng cho một đối tác hoặc người lớn tuổi, lời chào nào phù hợp theo chương?
+A. Chào đồng chí
+B. Hi bạn
+C. Kính gửi Anh/Chị
+D. Không cần lời chào nếu đã từng gặp
+ANSWER: C
+EXPLAIN: Với đối tác hoặc người lớn tuổi, chương gợi ý lời chào trang trọng “Kính gửi Anh/Chị”.
+
+---
+
+Q: Nhóm muốn Team Charter quy định rõ việc theo dõi tiến độ. Nội dung nào cần được chốt?
+A. Chỉ màu sắc dùng trên bảng công việc
+B. Cập nhật hằng ngày hay hằng tuần và cập nhật ở kênh nào
+C. Mỗi thành viên tự chọn lúc cập nhật mà không cần thông báo
+D. Chỉ tổng hợp tiến độ sau khi dự án kết thúc
+ANSWER: B
+EXPLAIN: Team Charter cần quy định cả tần suất cập nhật tiến độ và nơi đăng cập nhật.
+
+---
+
+Q: Nội dung nào là một quyết định cần thống nhất trong Team Charter?
+A. Mọi quyết định đều do người gửi tin nhắn đầu tiên đưa ra
+B. Chỉ quyết định khi tất cả thành viên đang ở cùng địa điểm
+C. Trì hoãn mọi quyết định đến cuộc họp cuối dự án
+D. Nhóm sẽ bỏ phiếu hay thảo luận để đạt đồng thuận
+ANSWER: D
+EXPLAIN: Cách ra quyết định, chẳng hạn bỏ phiếu hoặc thảo luận đến đồng thuận, phải được nhóm thống nhất từ đầu.
+
+---
+
+Q: Đặc điểm nào giúp Asana phù hợp hơn Trello cho dự án có nhiều bước và quan hệ phụ thuộc?
+A. Có nhiều chế độ xem như danh sách, bảng, lịch hoặc timeline và theo dõi sự phụ thuộc tốt
+B. Chỉ sử dụng Card kéo-thả và không có cách xem khác
+C. Tập trung vào dịch thuật tài liệu chuyên ngành
+D. Không yêu cầu xác định deadline cho nhiệm vụ
+ANSWER: A
+EXPLAIN: Asana cung cấp nhiều chế độ xem và khả năng theo dõi tiến độ, nhiệm vụ phụ, sự phụ thuộc tốt hơn cho dự án phức tạp.
+
+---
+
+Q: Sinh viên bị “bí ý” khi bắt đầu email cảm ơn giảng viên. Cách dùng AI nào vừa hữu ích vừa có trách nhiệm?
+A. Để AI tự gửi email ngay sau khi tạo
+B. Dùng prompt để AI tạo bản nháp, rồi tự đọc lại, chỉnh sửa và cá nhân hóa
+C. Sao chép bản nháp AI và xóa mọi chi tiết cá nhân
+D. Yêu cầu AI viết nhưng không cung cấp mục đích email
+ANSWER: B
+EXPLAIN: AI có thể giúp vượt qua writer's block bằng bản nháp, nhưng người dùng vẫn phải kiểm tra và thể hiện giọng văn của chính mình.
+
+---
+
+Q: Scholarcy hoặc SciSpace giúp sinh viên sàng lọc một tập bài báo khoa học như thế nào?
+A. Tự động quyết định bài báo nào chắc chắn đúng
+B. Chuyển mọi bài báo thành bản dịch hoàn chỉnh
+C. Trích xuất các phần chính để nhanh chóng đánh giá bài nào phù hợp với hướng nghiên cứu
+D. Thay thế việc đọc và kiểm tra bài báo được chọn
+ANSWER: C
+EXPLAIN: Việc tóm tắt giả thuyết, phương pháp, kết quả và kết luận giúp người học nhanh chóng đánh giá mức độ phù hợp của bài báo.
+
+---
+
+Q: Vì sao cách soạn email chuyên nghiệp có ý nghĩa vượt ra ngoài việc truyền đạt đúng yêu cầu?
+A. Vì email chuyên nghiệp làm cho mọi yêu cầu chắc chắn được chấp nhận
+B. Vì hình thức email có thể thay thế hoàn toàn chất lượng nội dung
+C. Vì email trang trọng chỉ nhằm giúp hệ thống lọc thư tự động
+D. Vì nó còn thể hiện sự tôn trọng người nhận và góp phần xây dựng hình ảnh cá nhân tích cực
+ANSWER: D
+EXPLAIN: Trong môi trường học thuật và công việc, email chuyên nghiệp vừa truyền tải thông tin hiệu quả vừa thể hiện sự tôn trọng và hình ảnh của người gửi.
+
+---
