@@ -1,0 +1,1411 @@
+# Quiz: CHƯƠNG 6: AN TOÀN VÀ LIÊM CHÍNH HỌC THUẬT TRONG MÔI TRƯỜNG SỐ
+
+Q: Dấu chân số được hiểu đúng nhất là gì?
+A. Toàn bộ dấu vết dữ liệu một cá nhân tạo ra hoặc để lại khi sử dụng Internet
+B. Chỉ những bài đăng công khai trên mạng xã hội của một cá nhân
+C. Tên tài khoản và mật khẩu dùng để đăng nhập các dịch vụ trực tuyến
+D. Các thiết bị số mà một cá nhân sở hữu trong quá trình học tập
+ANSWER: A
+EXPLAIN: Dấu chân số bao gồm mọi dấu vết dữ liệu khi sử dụng Internet, cả truy cập web, email, bài đăng, lượt thích và bình luận.
+
+---
+
+Q: Trường hợp nào sau đây là dấu chân số chủ động?
+A. Trang web ghi nhận địa chỉ IP của người dùng khi truy cập
+B. Ứng dụng điện thoại tự động truy cập vị trí của người dùng
+C. Sinh viên đăng ảnh lên Instagram kèm chú thích
+D. Công cụ tìm kiếm lưu lại lịch sử tìm kiếm của người dùng
+ANSWER: C
+EXPLAIN: Dấu chân số chủ động là dữ liệu người dùng cố ý chia sẻ, như đăng ảnh, cập nhật trạng thái, bình luận hoặc gửi email.
+
+---
+
+Q: Trường hợp nào sau đây là dấu chân số bị động?
+A. Viết bình luận trên một blog học thuật
+B. Gửi email cho giảng viên
+C. Cập nhật trạng thái trên Facebook
+D. Website thu thập tần suất truy cập của người dùng
+ANSWER: D
+EXPLAIN: Dấu chân số bị động là dữ liệu được thu thập mà người dùng không trực tiếp hay chủ động cung cấp.
+
+---
+
+Q: Vì sao việc nhận thức về dấu chân số bị động đặc biệt quan trọng?
+A. Vì nó cho thấy quyền riêng tư không chỉ phụ thuộc vào những gì ta tự chọn chia sẻ
+B. Vì nó giúp người dùng xóa hoàn toàn mọi dữ liệu đã từng xuất hiện trên Internet
+C. Vì nó đảm bảo mọi dữ liệu bị động đều là dữ liệu công khai hợp pháp
+D. Vì nó chỉ liên quan đến các bài đăng có nhiều lượt tương tác
+ANSWER: A
+EXPLAIN: Dấu chân số bị động làm thay đổi tư duy từ “tôi chia sẻ gì” sang “điều gì đang bị thu thập về tôi”.
+
+---
+
+Q: Danh tính số được hình thành chủ yếu từ yếu tố nào?
+A. Chỉ từ tên thật và số điện thoại của người dùng
+B. Các dấu chân số, gồm thông tin, hình ảnh, quan hệ, sở thích, kỹ năng và hoạt động trực tuyến
+C. Chỉ từ tài khoản email do nhà trường cấp
+D. Phần mềm bảo mật được cài trên thiết bị cá nhân
+ANSWER: B
+EXPLAIN: Danh tính số là tập hợp đặc điểm và thông tin trong không gian số giúp định danh một người, được hình thành từ dấu chân số.
+
+---
+
+Q: Quản lý danh tính số có ý nghĩa nào sau đây?
+A. Chỉ nhằm che giấu hoàn toàn bản thân trên Internet
+B. Chỉ cần thiết với người nổi tiếng hoặc người làm truyền thông
+C. Vừa bảo vệ quyền riêng tư vừa giúp xây dựng hình ảnh cá nhân tích cực, chuyên nghiệp
+D. Chủ yếu để tăng số lượng tài khoản mạng xã hội đang sử dụng
+ANSWER: C
+EXPLAIN: Quản lý danh tính số giúp bảo vệ quyền riêng tư và xây dựng hình ảnh phục vụ học tập, nghề nghiệp.
+
+---
+
+Q: Hành vi nào là lừa đảo trực tuyến theo nội dung chương?
+A. Một ngân hàng thật gửi thông báo bảo trì hệ thống qua kênh chính thức
+B. Kẻ xấu giả mạo trường học để yêu cầu sinh viên nhập mật khẩu vào trang web giả
+C. Một giảng viên gửi tài liệu học tập qua hệ thống LMS của trường
+D. Một sinh viên tự thay đổi mật khẩu vì nghi ngờ tài khoản bị lộ
+ANSWER: B
+EXPLAIN: Phishing là việc giả mạo đơn vị uy tín để lừa người dùng tiết lộ thông tin nhạy cảm như mật khẩu hoặc thông tin thẻ.
+
+---
+
+Q: Điểm nào làm lừa đảo qua mã QR trong khuôn viên trường trở nên nguy hiểm?
+A. Mã QR luôn yêu cầu cài đặt phần mềm diệt virus trước khi quét
+B. Mã QR độc hại có thể được dán lên áp phích hoặc thông báo để dẫn tới trang web lừa đảo
+C. Mã QR chỉ hoạt động khi người dùng đã bật xác thực hai yếu tố
+D. Mã QR không thể liên kết đến trang web nên người dùng khó kiểm tra
+ANSWER: B
+EXPLAIN: QR Code Phishing có thể dùng mã QR độc hại đặt trong môi trường quen thuộc như trường học để lừa sinh viên truy cập trang giả mạo.
+
+---
+
+Q: Ransomware khác malware nói chung ở điểm nào?
+A. Ransomware chỉ gây chậm máy nhưng không ảnh hưởng dữ liệu
+B. Ransomware mã hóa dữ liệu của nạn nhân và đòi tiền chuộc để giải mã
+C. Ransomware chỉ xuất hiện trên điện thoại, còn malware chỉ có trên máy tính
+D. Ransomware là phần mềm dùng để sao lưu dữ liệu theo quy tắc 3-2-1
+ANSWER: B
+EXPLAIN: Ransomware là một dạng malware đặc biệt nguy hiểm vì mã hóa dữ liệu và yêu cầu tiền chuộc.
+
+---
+
+Q: Vì sao ngành giáo dục là mục tiêu hấp dẫn của ransomware theo chương?
+A. Vì các cơ sở giáo dục không dùng hệ thống trực tuyến
+B. Vì tấn công có thể gây gián đoạn học tập và quản lý trong thời gian dài
+C. Vì dữ liệu giáo dục luôn được mã hóa sẵn nên dễ mở khóa
+D. Vì sinh viên không bao giờ sao lưu dữ liệu học tập
+ANSWER: B
+EXPLAIN: Ransomware nhắm vào giáo dục có thể làm gián đoạn hoạt động học tập và quản lý, gây hậu quả lớn.
+
+---
+
+Q: Một cuộc tấn công DDoS vào hệ thống LMS của trường thường gây hậu quả trực tiếp nào với sinh viên?
+A. Sinh viên bị buộc đổi toàn bộ mật khẩu cá nhân
+B. Sinh viên không thể truy cập tài liệu, nộp bài hoặc xem điểm
+C. Sinh viên bị mất quyền sở hữu trí tuệ với bài làm đã nộp
+D. Sinh viên tự động bị ghi nhận vi phạm liêm chính học thuật
+ANSWER: B
+EXPLAIN: DDoS làm quá tải máy chủ, khiến dịch vụ như LMS hoặc cổng thông tin bị tê liệt.
+
+---
+
+Q: Cơ chế chính của tấn công DDoS là gì?
+A. Mã hóa dữ liệu người dùng rồi yêu cầu trả tiền
+B. Lừa người dùng nhập mật khẩu vào trang giả
+C. Dùng botnet tạo lượng truy cập khổng lồ làm quá tải máy chủ
+D. Tự động sửa đổi nội dung bài nộp của sinh viên
+ANSWER: C
+EXPLAIN: DDoS sử dụng mạng máy tính bị chiếm quyền để tạo lưu lượng truy cập ảo rất lớn, làm tê liệt hệ thống mục tiêu.
+
+---
+
+Q: Trong bối cảnh AI hỗ trợ tấn công mạng, vì sao lời khuyên “nhìn lỗi chính tả trong email” không còn đủ hiệu quả?
+A. Vì AI có thể tạo email lừa đảo với ngôn ngữ tự nhiên, hoàn hảo và đúng ngữ cảnh
+B. Vì email lừa đảo hiện nay không còn chứa liên kết độc hại
+C. Vì mọi email có lỗi chính tả đều chắc chắn là email hợp lệ
+D. Vì các hệ thống email đã loại bỏ hoàn toàn thư rác
+ANSWER: A
+EXPLAIN: AI có thể tạo email phishing rất thuyết phục, ít lỗi ngữ pháp và khó phát hiện hơn kiểu truyền thống.
+
+---
+
+Q: Deepfake trong tấn công mạng được mô tả như thế nào?
+A. Dữ liệu sao lưu được lưu ở một địa điểm khác
+B. Âm thanh hoặc video giả mạo để mạo danh giảng viên, cán bộ hoặc bạn bè
+C. Phần mềm dùng để chặn truy cập vào mạng xã hội
+D. Công cụ giúp tạo danh mục tài liệu tham khảo theo Harvard
+ANSWER: B
+EXPLAIN: Deepfake có thể giả giọng nói hoặc hình ảnh của người quen để thực hiện lừa đảo.
+
+---
+
+Q: Tư duy phù hợp nhất trước một yêu cầu bất ngờ, khẩn cấp trên mạng là gì?
+A. Làm ngay để tránh bỏ lỡ cơ hội
+B. Chỉ kiểm tra xem câu chữ có lỗi ngữ pháp không
+C. Xác minh qua một kênh liên lạc riêng biệt và đáng tin cậy
+D. Chuyển tiếp yêu cầu đó cho càng nhiều người càng tốt
+ANSWER: C
+EXPLAIN: Chương nhấn mạnh tư duy hoài nghi có phương pháp và xác minh các yêu cầu bất thường qua kênh thứ hai đáng tin cậy.
+
+---
+
+Q: Mật khẩu mạnh theo chương cần đáp ứng yêu cầu nào?
+A. Có ít nhất 12 ký tự, gồm chữ hoa, chữ thường, số và ký tự đặc biệt
+B. Là ngày sinh để dễ nhớ và ít bị quên
+C. Dùng cùng một mật khẩu cho nhiều tài khoản để quản lý dễ hơn
+D. Chỉ cần có chữ thường và không cần độ dài tối thiểu
+ANSWER: A
+EXPLAIN: Mật khẩu mạnh cần dài tối thiểu 12 ký tự và kết hợp nhiều loại ký tự.
+
+---
+
+Q: Vì sao không nên sử dụng lại một mật khẩu cho nhiều tài khoản?
+A. Vì trình duyệt sẽ không cho đăng nhập nếu mật khẩu trùng nhau
+B. Vì khi một tài khoản bị lộ, các tài khoản khác dùng cùng mật khẩu cũng có nguy cơ bị chiếm
+C. Vì mật khẩu giống nhau làm giảm tốc độ kết nối Internet
+D. Vì 2FA chỉ hoạt động khi mọi tài khoản dùng mật khẩu khác loại ký tự
+ANSWER: B
+EXPLAIN: Không dùng lại mật khẩu giúp tránh hiệu ứng dây chuyền khi một dịch vụ bị lộ thông tin đăng nhập.
+
+---
+
+Q: Vai trò chính của trình quản lý mật khẩu là gì?
+A. Tự động xóa mọi dấu chân số bị động của người dùng
+B. Tạo và lưu trữ an toàn nhiều mật khẩu mạnh, người dùng chỉ cần nhớ mật khẩu chủ
+C. Thay thế hoàn toàn xác thực hai yếu tố trong mọi trường hợp
+D. Ngăn chặn mọi cuộc tấn công DDoS vào hệ thống nhà trường
+ANSWER: B
+EXPLAIN: Công cụ như Bitwarden, LastPass hoặc 1Password giúp tạo và lưu mật khẩu an toàn.
+
+---
+
+Q: Xác thực hai yếu tố có tác dụng gì?
+A. Cho phép đăng nhập không cần mật khẩu
+B. Bổ sung lớp bảo vệ để kẻ xấu có mật khẩu vẫn cần yếu tố thứ hai mới đăng nhập được
+C. Tự động phát hiện mọi văn bản do AI tạo ra
+D. Sao lưu dữ liệu lên hai loại phương tiện khác nhau
+ANSWER: B
+EXPLAIN: 2FA yêu cầu thêm yếu tố thứ hai như mã trên điện thoại hoặc ứng dụng xác thực.
+
+---
+
+Q: Vì sao cần cập nhật hệ điều hành và ứng dụng thường xuyên?
+A. Vì các bản cập nhật thường chứa bản vá cho lỗ hổng bảo mật mới phát hiện
+B. Vì cập nhật giúp loại bỏ nhu cầu sao lưu dữ liệu
+C. Vì cập nhật sẽ tự động tạo trích dẫn Harvard
+D. Vì phần mềm cũ luôn chạy nhanh hơn và an toàn hơn
+ANSWER: A
+EXPLAIN: Trì hoãn cập nhật đồng nghĩa để ngỏ các lỗ hổng bảo mật cho kẻ tấn công.
+
+---
+
+Q: Khi dùng Wi-Fi công cộng, VPN giúp bảo vệ người dùng chủ yếu bằng cách nào?
+A. Tạo đường hầm mã hóa để bảo vệ quyền riêng tư và hoạt động trực tuyến
+B. Tự động xác minh mọi tin nhắn từ người lạ
+C. Ngăn người dùng truy cập tất cả website học tập
+D. Tạo thêm dung lượng lưu trữ đám mây miễn phí
+ANSWER: A
+EXPLAIN: VPN mã hóa kết nối, đặc biệt hữu ích khi dùng mạng công cộng như quán cà phê hoặc sân bay.
+
+---
+
+Q: Quy tắc sao lưu 3-2-1 có nội dung nào đúng?
+A. Một bản sao dữ liệu, lưu trên hai tài khoản mạng xã hội và một email
+B. Ba bản sao dữ liệu, trên hai loại phương tiện lưu trữ khác nhau, có một bản off-site
+C. Ba mật khẩu cho hai tài khoản và một mã OTP
+D. Ba lần cập nhật phần mềm, hai lần quét virus và một lần đổi thiết bị
+ANSWER: B
+EXPLAIN: Quy tắc 3-2-1 yêu cầu 3 bản sao, 2 loại phương tiện lưu trữ khác nhau và ít nhất 1 bản ở địa điểm khác.
+
+---
+
+Q: Dấu hiệu nào phù hợp nhất với ransomware?
+A. Email yêu cầu nhập OTP vào liên kết lạ
+B. Tệp không mở được, có đuôi lạ và xuất hiện thông báo đòi tiền chuộc
+C. Website trường truy cập chậm do quá nhiều người học cùng lúc
+D. Một bài viết có tỷ lệ tương đồng cao vì nhiều thuật ngữ chuyên ngành
+ANSWER: B
+EXPLAIN: Ransomware thường làm tệp bị mã hóa, đổi đuôi và hiển thị yêu cầu trả tiền chuộc.
+
+---
+
+Q: Với tấn công DDoS, người dùng cá nhân nên hiểu điều gì theo bảng so sánh?
+A. Cá nhân có thể chặn hoàn toàn DDoS bằng cách đổi mật khẩu
+B. Biện pháp trực tiếp chủ yếu thuộc về nhà trường và nhà cung cấp dịch vụ với hệ thống chuyên dụng
+C. DDoS chỉ xảy ra nếu sinh viên không dùng VPN
+D. DDoS luôn bắt đầu từ việc quét mã QR độc hại
+ANSWER: B
+EXPLAIN: Bảng nêu người dùng cá nhân ít có biện pháp trực tiếp, còn tổ chức cần hệ thống phòng chống DDoS chuyên dụng.
+
+---
+
+Q: Mục tiêu chính của phishing/smishing trong bảng so sánh là gì?
+A. Gây đau cổ, vai, gáy khi dùng thiết bị
+B. Lấy mật khẩu, thông tin ngân hàng hoặc mã OTP
+C. Tăng dung lượng lưu trữ đám mây của nạn nhân
+D. Tạo danh mục tài liệu tham khảo sai chuẩn
+ANSWER: B
+EXPLAIN: Phishing/smishing nhằm lừa lấy thông tin nhạy cảm như mật khẩu, tài khoản ngân hàng và OTP.
+
+---
+
+Q: Lừa đảo qua mạng xã hội theo bảng so sánh dựa nhiều nhất vào yếu tố nào?
+A. Thao túng tâm lý để khai thác thông tin hoặc khiến nạn nhân hành động có hại
+B. Mã hóa toàn bộ dữ liệu trên thiết bị cá nhân
+C. Làm quá tải máy chủ bằng botnet
+D. Bắt buộc người dùng bật chế độ Night Shift
+ANSWER: A
+EXPLAIN: Social engineering thao túng tâm lý qua yêu cầu, lời đề nghị hoặc câu chuyện bất thường để lừa gạt.
+
+---
+
+Q: Dấu hiệu nào phù hợp với tấn công do AI hỗ trợ?
+A. Email lừa đảo không có lỗi ngữ pháp và video giả mạo người quen yêu cầu chuyển tiền
+B. Tệp đính kèm không mở được do thiếu phần mềm đọc PDF
+C. Mật khẩu dài hơn 12 ký tự và có ký tự đặc biệt
+D. Danh mục tài liệu tham khảo được xếp alphabet theo tên tác giả
+ANSWER: A
+EXPLAIN: AI có thể tạo email tinh vi và deepfake âm thanh, video để mạo danh người quen.
+
+---
+
+Q: An sinh số được hiểu đúng nhất là gì?
+A. Trạng thái cân bằng thể chất và tinh thần khi tương tác với thế giới kỹ thuật số
+B. Việc sử dụng thiết bị số càng nhiều càng tốt để tăng kỹ năng
+C. Khả năng ẩn danh hoàn toàn trên mọi nền tảng trực tuyến
+D. Tập hợp toàn bộ mật khẩu và tài khoản số của một cá nhân
+ANSWER: A
+EXPLAIN: Digital Well-being là trạng thái công nghệ phục vụ cuộc sống thay vì kiểm soát người dùng.
+
+---
+
+Q: Cách sử dụng công nghệ phù hợp với an sinh số là gì?
+A. Dùng công nghệ có chủ đích để duy trì cân bằng và khỏe mạnh
+B. Bật thông báo mọi ứng dụng để không bỏ lỡ gì
+C. Lướt mạng xã hội liên tục để cập nhật trạng thái người khác
+D. Thay mọi tương tác ngoài đời bằng tương tác trực tuyến
+ANSWER: A
+EXPLAIN: Chương nhấn mạnh sử dụng công nghệ một cách có chủ đích là chìa khóa cho cân bằng.
+
+---
+
+Q: Mỏi mắt kỹ thuật số có thể gây ra biểu hiện nào?
+A. Khô mắt, mờ mắt và đau đầu
+B. Tăng khả năng ghi nhớ mật khẩu
+C. Tự động giảm dấu chân số bị động
+D. Tăng tốc độ xử lý của thiết bị
+ANSWER: A
+EXPLAIN: Digital Eye Strain được mô tả với các triệu chứng khô mắt, mờ mắt và đau đầu.
+
+---
+
+Q: Nguyên nhân nào liên quan đến đau cổ, vai, gáy khi dùng thiết bị?
+A. Tư thế ngồi không đúng khi sử dụng thiết bị
+B. Sử dụng chuẩn Harvard trong trích dẫn
+C. Bật xác thực hai yếu tố cho tài khoản email
+D. Dùng công cụ quản lý tài liệu tham khảo
+ANSWER: A
+EXPLAIN: Ngồi sai tư thế trước máy tính, điện thoại có thể gây đau cổ, vai, gáy.
+
+---
+
+Q: Ánh sáng xanh từ màn hình ảnh hưởng đến giấc ngủ chủ yếu vì lý do nào?
+A. Nó làm tăng dung lượng bộ nhớ của thiết bị
+B. Nó có thể ức chế sản xuất melatonin, hormone điều hòa giấc ngủ
+C. Nó làm giảm nhu cầu nghỉ mắt theo quy tắc 20-20-20
+D. Nó tự động kích hoạt chế độ sao lưu 3-2-1
+ANSWER: B
+EXPLAIN: Ánh sáng xanh có thể ức chế melatonin, từ đó gây rối loạn giấc ngủ.
+
+---
+
+Q: Quy tắc 20-20-20 được áp dụng như thế nào?
+A. Sau mỗi 20 phút nhìn màn hình, nhìn xa 20 feet trong 20 giây
+B. Sau mỗi 20 giờ học, nghỉ 20 phút và tắt mạng 20 giây
+C. Dùng 20 ký tự cho mật khẩu, đổi sau 20 ngày và lưu 20 bản
+D. Đọc 20 nguồn, trích dẫn 20 câu và tóm tắt 20 dòng
+ANSWER: A
+EXPLAIN: Quy tắc 20-20-20 giúp giảm mỏi mắt khi làm việc với màn hình.
+
+---
+
+Q: Bật chế độ Night Shift hoặc Eye Comfort vào buổi tối nhằm mục đích chính nào?
+A. Hỗ trợ giảm tác động của ánh sáng màn hình đến mắt và giấc ngủ
+B. Kiểm tra xem bài viết có đạo văn hay không
+C. Tự động xác minh các yêu cầu chuyển tiền bất thường
+D. Tạo bản sao dữ liệu ở địa điểm khác
+ANSWER: A
+EXPLAIN: Chế độ này là khuyến nghị thực hành để bảo vệ sức khỏe khi dùng thiết bị vào buổi tối.
+
+---
+
+Q: Hành vi nào phù hợp với biểu hiện nghiện Internet hoặc mạng xã hội?
+A. Cảm giác thôi thúc phải kiểm tra thông báo và lướt mạng liên tục
+B. Tắt thông báo để tập trung học tập
+C. Dành một buổi tối không dùng thiết bị số
+D. Kiểm chứng thông tin trước khi chia sẻ
+ANSWER: A
+EXPLAIN: Nghiện Internet/mạng xã hội được mô tả là thôi thúc kiểm tra thông báo, lướt mạng xã hội liên tục.
+
+---
+
+Q: Vì sao so sánh bản thân với hình ảnh hoàn hảo trên mạng xã hội có thể gây hại?
+A. Vì nó có thể dẫn đến tự ti, không hài lòng, lo âu hoặc trầm cảm
+B. Vì nó làm cho mật khẩu trở nên dễ đoán hơn
+C. Vì nó khiến dữ liệu tự động được lưu theo chuẩn Harvard
+D. Vì nó làm giảm số lượng bản sao lưu dữ liệu
+ANSWER: A
+EXPLAIN: Môi trường mạng với hình ảnh được chọn lọc kỹ có thể tác động tiêu cực đến sức khỏe tinh thần.
+
+---
+
+Q: FOMO là gì?
+A. Nỗi lo lắng rằng mình sẽ bỏ lỡ những trải nghiệm thú vị mà người khác đang có
+B. Công cụ kiểm tra tương đồng văn bản trên hệ thống LMS
+C. Quy trình đọc, viết lại và trích dẫn nguồn khi diễn giải
+D. Luật bảo vệ quyền tác giả đối với nội dung số
+ANSWER: A
+EXPLAIN: FOMO là Fear Of Missing Out, hội chứng sợ bỏ lỡ.
+
+---
+
+Q: Cyberbullying được hiểu là gì?
+A. Hành vi chế giễu, đe dọa hoặc phát tán thông tin sai lệch trên mạng gây tổn thương tâm lý
+B. Việc sao lưu dữ liệu trên hai phương tiện khác nhau
+C. Việc sử dụng AI để tóm tắt tài liệu phức tạp
+D. Việc sắp xếp danh mục tham khảo theo tên tác giả
+ANSWER: A
+EXPLAIN: Bắt nạt trực tuyến có thể gây tổn thương tâm lý nghiêm trọng.
+
+---
+
+Q: “Cai nghiện số” trong chương được hiểu đúng nhất là gì?
+A. Xóa vĩnh viễn mọi tài khoản trực tuyến và không dùng Internet nữa
+B. Dành khoảng thời gian nhất định hoàn toàn không dùng thiết bị số để tâm trí nghỉ ngơi
+C. Chỉ dùng thiết bị vào ban đêm để tránh bị làm phiền
+D. Cài thêm nhiều ứng dụng mạng xã hội để phân tán thời gian dùng
+ANSWER: B
+EXPLAIN: Digital Detox là tạm ngừng dùng thiết bị số trong một khoảng thời gian như một buổi tối hoặc cuối tuần.
+
+---
+
+Q: Tính năng Screen Time trên iOS hoặc Digital Wellbeing trên Android được khuyến nghị dùng để làm gì?
+A. Đặt giới hạn thời gian sử dụng cho các ứng dụng như mạng xã hội
+B. Tự động tạo bài luận hoàn chỉnh thay cho sinh viên
+C. Quét mã QR để xác minh mọi đường dẫn
+D. Chuyển tài liệu tham khảo thành dữ liệu cá nhân
+ANSWER: A
+EXPLAIN: Các tính năng này giúp người dùng thiết lập giới hạn và lấy lại quyền kiểm soát công nghệ.
+
+---
+
+Q: Thực hành chánh niệm khi dùng công nghệ có nghĩa là gì?
+A. Lướt web vô thức để cập nhật càng nhiều thông tin càng tốt
+B. Tập trung vào hiện tại và sử dụng công nghệ một cách có chủ đích
+C. Luôn phản hồi ngay mọi thông báo để tránh FOMO
+D. Chỉ giao tiếp trực tuyến và giảm tương tác ngoài đời
+ANSWER: B
+EXPLAIN: Mindfulness giúp tránh dùng công nghệ vô thức và tăng sự chủ động.
+
+---
+
+Q: Vì sao ưu tiên tương tác thực tế là một chiến lược duy trì cân bằng số?
+A. Vì nó thay thế hoàn toàn việc học trực tuyến
+B. Vì nó giúp dành thời gian chất lượng cho gia đình, bạn bè và hoạt động ngoài đời
+C. Vì nó làm cho mọi dữ liệu cá nhân không còn bị xử lý
+D. Vì nó tự động loại bỏ nguy cơ ransomware
+ANSWER: B
+EXPLAIN: Chương khuyến nghị ưu tiên tương tác thực tế để cân bằng giữa đời sống thật và môi trường số.
+
+---
+
+Q: Netiquette yêu cầu điều gì khi giao tiếp trên Internet?
+A. Luôn tôn trọng người khác, kể cả khi không đồng tình với quan điểm của họ
+B. Tranh luận càng gay gắt càng tốt để bảo vệ ý kiến của mình
+C. Chia sẻ mọi thông tin ngay khi thấy thú vị
+D. Dùng danh tính ẩn danh để tránh chịu trách nhiệm
+ANSWER: A
+EXPLAIN: Netiquette là bộ quy tắc ứng xử trên Internet, nhấn mạnh tôn trọng và trách nhiệm.
+
+---
+
+Q: Trước khi chia sẻ một thông tin gây chú ý trên mạng, hành động phù hợp với trách nhiệm công dân số là gì?
+A. Kiểm chứng thông tin để tránh vô tình lan truyền tin giả
+B. Chia sẻ ngay để nhiều người biết sớm
+C. Sửa tiêu đề cho giật gân hơn
+D. Gửi cho các nhóm chat mà không cần đọc nội dung
+ANSWER: A
+EXPLAIN: Công dân số cần kiểm chứng thông tin trước khi chia sẻ.
+
+---
+
+Q: Hành vi nào thể hiện trách nhiệm với môi trường trong sử dụng công nghệ?
+A. Sửa chữa thiết bị khi có thể thay vì vội vàng mua mới
+B. Vứt thiết bị điện tử hỏng vào thùng rác thông thường
+C. Thay điện thoại thường xuyên dù vẫn dùng tốt
+D. Tăng số thiết bị hoạt động cùng lúc để tiện sử dụng
+ANSWER: A
+EXPLAIN: Kéo dài vòng đời thiết bị giúp giảm tác động môi trường của công nghệ số.
+
+---
+
+Q: Rác thải điện tử nên được xử lý như thế nào theo chương?
+A. Thải bỏ tại điểm thu gom quy định để được tái chế an toàn
+B. Vứt chung với rác sinh hoạt thông thường
+C. Giữ trong tài khoản lưu trữ đám mây
+D. Gửi qua email cho nhà cung cấp dịch vụ
+ANSWER: A
+EXPLAIN: E-waste là loại rác thải độc hại, cần được xử lý đúng cách tại điểm thu gom.
+
+---
+
+Q: Liêm chính học thuật theo ICAI gắn với bộ giá trị nào?
+A. Trung thực, Tin cậy, Công bằng, Tôn trọng, Trách nhiệm và Dũng cảm
+B. Tốc độ, Tiện lợi, Bí mật, Cạnh tranh, Tự động và Linh hoạt
+C. Bảo mật, Mã hóa, Sao lưu, Tường lửa, VPN và Antivirus
+D. Sáng tạo, Quảng bá, Tối ưu, Chia sẻ, Ẩn danh và Thương mại
+ANSWER: A
+EXPLAIN: ICAI định nghĩa liêm chính học thuật là cam kết với sáu giá trị cốt lõi này.
+
+---
+
+Q: Tầm quan trọng của liêm chính học thuật không chỉ nằm ở việc tránh kỷ luật vì lý do nào?
+A. Nó đảm bảo học tập thực chất, bảo vệ giá trị bằng cấp và xây dựng uy tín cá nhân
+B. Nó giúp sinh viên không cần tham gia kiểm tra đánh giá
+C. Nó cho phép dùng mọi nguồn mà không cần trích dẫn
+D. Nó thay thế hoàn toàn các quy định pháp luật về sở hữu trí tuệ
+ANSWER: A
+EXPLAIN: Liêm chính học thuật là nền tảng cho năng lực thật, giá trị bằng cấp và uy tín nghề nghiệp.
+
+---
+
+Q: Gian lận trong học tập gây hại trực tiếp cho chính sinh viên như thế nào?
+A. Tước đi cơ hội phát triển tư duy phản biện và kỹ năng
+B. Làm tăng khả năng bảo vệ tài khoản cá nhân
+C. Giúp tiết kiệm thời gian nên luôn được khuyến khích
+D. Chỉ ảnh hưởng đến giảng viên chứ không ảnh hưởng người học
+ANSWER: A
+EXPLAIN: Bài tập và kiểm tra được thiết kế để người học phát triển năng lực; gian lận làm mất cơ hội đó.
+
+---
+
+Q: Một tấm bằng có giá trị khi nào theo nội dung chương?
+A. Khi phản ánh đúng năng lực và kiến thức của người sở hữu
+B. Khi sinh viên dùng nhiều công cụ AI nhất có thể
+C. Khi bài làm có tỷ lệ tương đồng bằng 0 tuyệt đối
+D. Khi không cần minh bạch về nguồn thông tin
+ANSWER: A
+EXPLAIN: Bằng cấp chỉ có giá trị khi nó phản ánh đúng năng lực và kiến thức thật.
+
+---
+
+Q: Đạo văn được hiểu đúng nhất là gì?
+A. Sử dụng ý tưởng, từ ngữ, dữ liệu hoặc công trình của người khác mà không ghi nhận nguồn hợp lệ
+B. Dùng phần mềm quản lý tài liệu tham khảo để tạo danh mục nguồn
+C. Tự viết lại ý tưởng của mình bằng ngôn ngữ khác
+D. Trích dẫn nguyên văn có ngoặc kép và ghi nguồn đầy đủ
+ANSWER: A
+EXPLAIN: Plagiarism là dùng sản phẩm trí tuệ của người khác mà không ghi nhận nguồn đúng cách.
+
+---
+
+Q: Trường hợp nào là đạo văn dù không sao chép nguyên văn?
+A. Diễn giải ý tưởng của người khác nhưng không trích dẫn nguồn
+B. Trích dẫn nguyên văn trong ngoặc kép và ghi nguồn Harvard
+C. Tóm tắt tài liệu bằng lời của mình và ghi nguồn
+D. Dùng Zotero để tạo danh mục tài liệu tham khảo
+ANSWER: A
+EXPLAIN: Diễn giải vẫn sử dụng ý tưởng của người khác nên vẫn phải trích dẫn nguồn.
+
+---
+
+Q: Patchwork plagiarism là gì?
+A. Chắp vá nhiều nguồn lại với nhau thành sản phẩm của mình mà không ghi nhận nguồn hợp lệ
+B. Tự tạo dữ liệu khảo sát không có thật
+C. Nhờ người khác thi hộ trong phòng thi
+D. Dùng AI để kiểm tra lỗi ngữ pháp rồi tự sửa bài
+ANSWER: A
+EXPLAIN: Patchwork plagiarism là một hình thức đạo văn bằng cách ghép nhiều nguồn thành bài của mình.
+
+---
+
+Q: Bịa đặt trong liêm chính học thuật là hành vi nào?
+A. Tự tạo ra dữ liệu, thông tin hoặc nguồn trích dẫn không có thật
+B. Trích dẫn nguyên văn một câu đặc biệt súc tích của tác giả
+C. Dùng dữ liệu đã thu thập thật và phân tích bằng lời của mình
+D. Kiểm tra tương đồng văn bản trước khi nộp bài
+ANSWER: A
+EXPLAIN: Fabrication là tạo dữ liệu, thông tin hoặc nguồn không tồn tại và đưa vào bài.
+
+---
+
+Q: Ví dụ nào phù hợp nhất với bịa đặt?
+A. Ghi đã phỏng vấn 20 người trong khi thực tế chỉ phỏng vấn 5 người và tự bịa 15 câu trả lời
+B. Quên bật chế độ Eye Comfort khi học buổi tối
+C. Dùng mật khẩu quá ngắn cho tài khoản email
+D. Trích dẫn một bài báo thật theo chuẩn Harvard
+ANSWER: A
+EXPLAIN: Tự bịa dữ liệu khảo sát là ví dụ điển hình của Fabrication.
+
+---
+
+Q: Gian lận trong học tập và thi cử bao gồm hành vi nào?
+A. Chép bài của bạn, dùng tài liệu không được phép hoặc nhờ người khác thi hộ
+B. Tóm tắt một bài viết dài và ghi nguồn đầy đủ
+C. Đọc kỹ đoạn gốc rồi diễn giải bằng lời của mình
+D. Dùng phần mềm diệt virus uy tín trên máy tính cá nhân
+ANSWER: A
+EXPLAIN: Fraud là các hành vi không trung thực trong quá trình học tập và thi cử.
+
+---
+
+Q: Gian lận hợp đồng được hiểu là gì?
+A. Trả tiền hoặc nhờ bên thứ ba hoàn thành bài tập, đồ án rồi nộp như của mình
+B. Thỏa thuận nhóm về cách trích dẫn tài liệu trong bài chung
+C. Sử dụng trình quản lý mật khẩu để bảo vệ tài khoản học tập
+D. Chia sẻ đường link tài liệu học tập công khai do giảng viên cung cấp
+ANSWER: A
+EXPLAIN: Contract cheating là thuê hoặc nhờ người/dịch vụ khác làm thay sản phẩm học thuật.
+
+---
+
+Q: Vì sao nộp bài làm được tạo hoàn toàn bởi AI mà không được giảng viên cho phép có thể bị xem là gian lận hợp đồng?
+A. Vì bản chất là “thuê ngoài” quá trình tư duy và sáng tạo
+B. Vì AI luôn tạo ra văn bản có lỗi chính tả rõ ràng
+C. Vì AI chỉ tạo được hình ảnh, không tạo được văn bản
+D. Vì mọi nội dung do AI tạo đều tự động có trích dẫn Harvard
+ANSWER: A
+EXPLAIN: Chương nêu việc nộp bài do AI tạo hoàn toàn có thể là “thuê ngoài” lao động trí tuệ.
+
+---
+
+Q: Sự xuất hiện của gian lận hợp đồng và AI làm thay đổi trọng tâm thảo luận về liêm chính học thuật như thế nào?
+A. Từ chỉ hỏi “có sao chép không” sang hỏi “ai thực sự đang tư duy”
+B. Từ học thuật sang chỉ còn vấn đề tốc độ gõ văn bản
+C. Từ trách nhiệm cá nhân sang hoàn toàn trách nhiệm của phần mềm
+D. Từ trích dẫn nguồn sang không cần trích dẫn nữa
+ANSWER: A
+EXPLAIN: Mối đe dọa mới không chỉ là sao chép mà là thuê ngoài toàn bộ quá trình lao động trí tuệ.
+
+---
+
+Q: Diễn giải hiệu quả khác việc thay vài từ trong câu gốc ở điểm nào?
+A. Diễn giải đòi hỏi hiểu ý tưởng, viết lại bằng ngôn ngữ và cấu trúc riêng, rồi vẫn trích dẫn nguồn
+B. Diễn giải chỉ cần đổi từ đồng nghĩa mà không cần ghi nguồn
+C. Diễn giải cho phép giữ nguyên cấu trúc câu gốc nếu thay tên tác giả
+D. Diễn giải là sao chép nguyên văn trong dấu ngoặc kép
+ANSWER: A
+EXPLAIN: Paraphrasing là trình bày lại bằng lời và cấu trúc của mình nhưng vẫn phải ghi nguồn ý tưởng.
+
+---
+
+Q: Bước đầu tiên trong quy trình diễn giải tốt là gì?
+A. Đọc kỹ đoạn văn gốc nhiều lần để nắm chắc ý nghĩa
+B. Sao chép nguyên văn rồi thay vài từ bằng từ đồng nghĩa
+C. Xóa nguồn gốc để câu văn trông tự nhiên hơn
+D. Tạo danh mục tham khảo trước khi hiểu nội dung
+ANSWER: A
+EXPLAIN: Muốn diễn giải đúng cần hiểu sâu ý nghĩa đoạn gốc trước.
+
+---
+
+Q: Sau khi viết lại ý chính bằng lời của mình, người học cần làm gì tiếp theo?
+A. So sánh với bản gốc để tránh sao chép cấu trúc hoặc cụm từ đặc trưng và giữ đúng nghĩa
+B. Xóa bản gốc để không cần trích dẫn
+C. Tăng độ dài câu bằng cách thêm thông tin ngoài nguồn
+D. Nộp ngay vì đã không còn giống từng từ
+ANSWER: A
+EXPLAIN: Kiểm tra lại giúp bảo đảm không sao chép cấu trúc, không mất nghĩa và không đạo văn.
+
+---
+
+Q: Trích dẫn nguyên văn được dùng khi nào là phù hợp nhất?
+A. Khi lời diễn đạt của tác giả độc đáo, súc tích và mạnh mẽ
+B. Khi người học chưa hiểu nội dung nên muốn sao chép cho an toàn
+C. Khi muốn tránh hoàn toàn việc ghi nguồn
+D. Khi cần biến một nguồn dài thành một đoạn ngắn bằng lời của mình
+ANSWER: A
+EXPLAIN: Quoting dùng chính xác từng từ trong ngoặc kép và chỉ nên dùng khi cách diễn đạt của tác giả thật sự cần giữ.
+
+---
+
+Q: Diễn giải và tóm tắt khác nhau chủ yếu ở điểm nào?
+A. Diễn giải trình bày lại một ý tưởng cụ thể thường dài tương đương bản gốc, còn tóm tắt rút gọn ý chính của phần lớn hơn
+B. Diễn giải không cần ghi nguồn, còn tóm tắt luôn cần ngoặc kép
+C. Diễn giải chỉ dùng với hình ảnh, còn tóm tắt chỉ dùng với mật khẩu
+D. Diễn giải là bịa dữ liệu, còn tóm tắt là chép bài trong phòng thi
+ANSWER: A
+EXPLAIN: Paraphrasing tập trung vào một ý cụ thể, còn summarizing nén các ý chính của toàn bài hoặc phần lớn.
+
+---
+
+Q: Chuẩn Harvard yêu cầu hai thành phần cơ bản nào?
+A. Trích dẫn trong văn bản và danh mục tài liệu tham khảo ở cuối bài
+B. Mật khẩu chủ và mã OTP
+C. Bản sao local và bản sao off-site
+D. Phần mềm diệt virus và VPN
+ANSWER: A
+EXPLAIN: Harvard gồm in-text citation ngay sau thông tin được dùng và reference list đầy đủ cuối bài.
+
+---
+
+Q: Danh mục tài liệu tham khảo theo chuẩn Harvard được sắp xếp như thế nào?
+A. Theo thứ tự alphabet của tên tác giả
+B. Theo thứ tự trang xuất hiện trong PDF nguồn
+C. Theo số lượt truy cập của từng website
+D. Theo độ dài của tiêu đề tài liệu
+ANSWER: A
+EXPLAIN: Chương nêu reference list Harvard được sắp xếp theo thứ tự alphabet của tên tác giả.
+
+---
+
+Q: Báo cáo tương đồng từ công cụ kiểm tra đạo văn nên được hiểu như thế nào?
+A. Chỉ cho thấy sự trùng khớp văn bản, không tự động là báo cáo đạo văn
+B. Luôn kết luận chính xác sinh viên có đạo văn hay không
+C. Chỉ dùng để kiểm tra mật khẩu đã bị lộ chưa
+D. Chỉ có giá trị khi tỷ lệ tương đồng bằng 0 tuyệt đối
+ANSWER: A
+EXPLAIN: Similarity report cho biết đoạn trùng khớp, người học phải tự đánh giá ngữ cảnh và tính hợp lệ của trích dẫn.
+
+---
+
+Q: Vì sao một tỷ lệ tương đồng nhất định có thể là bình thường?
+A. Vì thuật ngữ chuyên ngành, tên riêng hoặc trích dẫn hợp lệ có thể trùng khớp
+B. Vì mọi đoạn trùng khớp đều được phép dùng mà không cần nguồn
+C. Vì công cụ kiểm tra đạo văn chỉ kiểm tra hình ảnh
+D. Vì tỷ lệ tương đồng càng cao luôn càng tốt
+ANSWER: A
+EXPLAIN: Không phải mọi trùng khớp đều là đạo văn; cần đọc hiểu báo cáo.
+
+---
+
+Q: Turnitin có ưu điểm nào nổi bật theo bảng công cụ?
+A. Cơ sở dữ liệu lớn và thường được tích hợp trong hệ thống của nhiều trường
+B. Là công cụ mã nguồn mở, miễn phí và không giới hạn nhóm
+C. Có dung lượng lưu trữ đám mây miễn phí 2 GB
+D. Chỉ dùng để đặt giới hạn thời gian mạng xã hội
+ANSWER: A
+EXPLAIN: Turnitin là công cụ kiểm tra tương đồng có cơ sở dữ liệu lớn và hay tích hợp vào LMS.
+
+---
+
+Q: Hạn chế nào của Turnitin được nêu trong bảng?
+A. Không có bản miễn phí cho cá nhân và tỷ lệ tương đồng cần được diễn giải cẩn thận
+B. Không thể kiểm tra tương đồng văn bản
+C. Không thể dùng trong hệ thống trường học
+D. Chỉ hoạt động với hình ảnh do AI tạo ra
+ANSWER: A
+EXPLAIN: Bảng cũng lưu ý về độ chính xác, dương tính giả của phát hiện văn bản AI và cần diễn giải kết quả cẩn thận.
+
+---
+
+Q: Quetext phù hợp nhất với tình huống nào theo bảng?
+A. Sinh viên cần công cụ nhanh, có gói miễn phí để kiểm tra các bài viết ngắn
+B. Nhà trường cần chống DDoS chuyên dụng cho hệ thống LMS
+C. Người dùng cần quản lý nhóm nghiên cứu không giới hạn thành viên
+D. Người dùng muốn thay thế hoàn toàn việc trích dẫn nguồn
+ANSWER: A
+EXPLAIN: Quetext có gói miễn phí nhưng giới hạn số từ/lượt, phù hợp kiểm tra nhanh bài ngắn.
+
+---
+
+Q: Tính năng nào gắn với Quetext trong bảng?
+A. DeepSearch, tạo trích dẫn và ColorGrade feedback
+B. Mã hóa đường hầm VPN trên Wi-Fi công cộng
+C. Tạo botnet để kiểm tra tải máy chủ
+D. Tự động bật Night Shift vào buổi tối
+ANSWER: A
+EXPLAIN: Quetext được mô tả là công cụ kiểm tra tương đồng, DeepSearch, tạo trích dẫn và phản hồi ColorGrade.
+
+---
+
+Q: Zotero được mô tả phù hợp nhất với nhóm người dùng nào?
+A. Sinh viên và nhà nghiên cứu cần công cụ mạnh mẽ, miễn phí và có tính cộng tác cao
+B. Người cần công cụ chỉ để giới hạn thời gian dùng mạng xã hội
+C. Người muốn chống deepfake bằng cuộc gọi trực tiếp
+D. Người không cần quản lý tài liệu tham khảo
+ANSWER: A
+EXPLAIN: Zotero là công cụ quản lý tài liệu tham khảo mã nguồn mở, miễn phí, linh hoạt và có tính cộng tác.
+
+---
+
+Q: Nhược điểm nào của Zotero được nêu trong bảng?
+A. Giao diện có thể hơi cũ và dung lượng lưu trữ đám mây miễn phí thấp, khoảng 300 MB
+B. Không thể tạo trích dẫn và danh mục tài liệu tham khảo
+C. Không cho phép lưu trữ tài liệu
+D. Chỉ hoạt động khi có mã OTP
+ANSWER: A
+EXPLAIN: Bảng nêu Zotero mạnh và miễn phí nhưng giao diện có thể cũ, cloud miễn phí thấp.
+
+---
+
+Q: Mendeley có ưu điểm nào so với Zotero theo bảng?
+A. Giao diện hiện đại và dung lượng lưu trữ đám mây miễn phí lớn hơn, khoảng 2 GB
+B. Mã nguồn mở và không giới hạn thành viên nhóm
+C. Không cần Internet để phát hiện mọi deepfake
+D. Không cần người dùng ghi chú trên PDF
+ANSWER: A
+EXPLAIN: Mendeley được mô tả có giao diện thân thiện, hiện đại và cloud miễn phí 2 GB.
+
+---
+
+Q: Nhược điểm nào của Mendeley được nêu trong bảng?
+A. Ít tùy biến hơn Zotero và giới hạn số lượng nhóm, thành viên ở bản miễn phí
+B. Không thể đọc hoặc ghi chú trên PDF
+C. Không thể dùng cho sinh viên mới bắt đầu
+D. Không có giao diện hiện đại
+ANSWER: A
+EXPLAIN: Bảng so sánh nêu Mendeley thân thiện nhưng kém tùy biến hơn và có giới hạn ở bản miễn phí.
+
+---
+
+Q: Công cụ quản lý tài liệu tham khảo giúp giảm lỗi trích dẫn thủ công bằng cách nào?
+A. Tự động chèn trích dẫn và tạo danh mục tài liệu tham khảo theo chuẩn yêu cầu
+B. Tự động viết toàn bộ lập luận cốt lõi của bài luận
+C. Xóa mọi dấu chân số bị động của người dùng
+D. Thay thế việc kiểm tra tính chính xác của nguồn
+ANSWER: A
+EXPLAIN: Zotero và Mendeley hỗ trợ lưu trữ, sắp xếp, ghi chú, chèn trích dẫn và tạo reference list.
+
+---
+
+Q: AI tạo sinh được định nghĩa đúng nhất là gì?
+A. Lĩnh vực AI tạo ra nội dung mới như văn bản, hình ảnh hoặc mã lập trình
+B. Phần mềm chỉ dùng để phân loại dữ liệu có sẵn
+C. Công cụ chuyên chống ransomware trên thiết bị cá nhân
+D. Hệ thống bắt buộc dùng để trích dẫn Harvard
+ANSWER: A
+EXPLAIN: Generative AI tạo nội dung mới hoàn toàn, không chỉ phân tích hay phân loại dữ liệu có sẵn.
+
+---
+
+Q: Ví dụ nào thuộc nhóm công cụ AI tạo sinh theo chương?
+A. ChatGPT, Gemini, Midjourney, DALL-E
+B. Bitwarden, LastPass, 1Password, VPN
+C. Turnitin, Quetext, Zotero, Mendeley
+D. Screen Time, Digital Wellbeing, Night Shift, Eye Comfort
+ANSWER: A
+EXPLAIN: Chương nêu ChatGPT/Gemini tạo văn bản và Midjourney/DALL-E tạo hình ảnh.
+
+---
+
+Q: Đạo văn do AI hỗ trợ khác sao chép trực tiếp ở điểm nào?
+A. Nó có thể là lạm dụng AI để diễn giải hoặc tạo nội dung từ nguồn có sẵn mà người dùng không thực sự hiểu hay đóng góp tư duy đáng kể
+B. Nó luôn là việc chép nguyên văn từng chữ từ Wikipedia
+C. Nó chỉ xảy ra khi người dùng quên bật VPN
+D. Nó chỉ liên quan đến hình ảnh, không liên quan văn bản
+ANSWER: A
+EXPLAIN: AI-assisted plagiarism làm mờ ranh giới giữa công cụ hỗ trợ và gian lận khi người dùng không thực sự tư duy.
+
+---
+
+Q: “Ảo giác” của AI là rủi ro gì?
+A. AI tự tin bịa đặt sự kiện, số liệu hoặc trích dẫn không tồn tại
+B. AI tự động bảo vệ dữ liệu cá nhân khỏi mọi rò rỉ
+C. AI chỉ trả lời khi có dữ liệu thật được kiểm chứng
+D. AI luôn từ chối tạo nội dung học thuật
+ANSWER: A
+EXPLAIN: AI Hallucination là việc AI tạo thông tin sai nhưng trình bày rất hợp lý và thuyết phục.
+
+---
+
+Q: Vì sao dùng thông tin do AI tạo mà không kiểm chứng có thể gây lỗi nghiêm trọng trong bài làm?
+A. Vì AI có thể tạo thông tin và nguồn trích dẫn hoàn toàn không có thật
+B. Vì AI không bao giờ tạo văn bản dài
+C. Vì AI chỉ dùng được cho chỉnh sửa chính tả
+D. Vì mọi kết quả AI đều được giảng viên tự động chấp nhận
+ANSWER: A
+EXPLAIN: Nếu dùng hallucination mà không kiểm tra, bài làm có thể chứa sự kiện, số liệu hoặc bài báo giả.
+
+---
+
+Q: Thiên kiến trong AI xuất phát chủ yếu từ đâu?
+A. Dữ liệu huấn luyện trên Internet có thể chứa định kiến về giới tính, chủng tộc hoặc văn hóa
+B. Việc người dùng đặt mật khẩu dài hơn 12 ký tự
+C. Quy tắc 20-20-20 khi làm việc với màn hình
+D. Danh mục tham khảo được sắp xếp alphabet
+ANSWER: A
+EXPLAIN: AI học từ dữ liệu lớn; nếu dữ liệu có thiên vị thì kết quả có thể tái tạo thiên vị đó.
+
+---
+
+Q: Hậu quả có thể có của thiên kiến trong AI là gì?
+A. Câu trả lời phiến diện, không công bằng hoặc thiếu nhạy cảm văn hóa
+B. Tự động tăng độ chính xác của mọi trích dẫn
+C. Xóa bỏ hoàn toàn khả năng đạo văn
+D. Giúp người dùng không cần giám sát kết quả
+ANSWER: A
+EXPLAIN: AI Bias có thể tạo ra kết quả thiên lệch và thiếu công bằng.
+
+---
+
+Q: Nguyên tắc minh bạch khi sử dụng AI trong học tập yêu cầu điều gì?
+A. Công khai rõ đã dùng công cụ AI nào và dùng vào mục đích gì
+B. Che giấu việc sử dụng AI nếu kết quả có vẻ tốt
+C. Chỉ ghi “có dùng công nghệ” mà không cần nói rõ công cụ
+D. Nộp kết quả AI như sản phẩm hoàn toàn của mình
+ANSWER: A
+EXPLAIN: Transparency yêu cầu không che giấu việc sử dụng AI.
+
+---
+
+Q: Nguyên tắc trách nhiệm khi sử dụng AI nhấn mạnh điều gì?
+A. Người học, không phải AI, chịu trách nhiệm cuối cùng cho nội dung bài làm
+B. AI chịu trách nhiệm pháp lý thay cho người dùng
+C. Giảng viên chịu trách nhiệm kiểm tra toàn bộ thông tin do AI tạo
+D. Nhà phát triển AI tự động xác nhận mọi trích dẫn
+ANSWER: A
+EXPLAIN: Accountability nghĩa là người dùng phải kiểm tra tính chính xác, logic và phù hợp của nội dung AI tạo ra.
+
+---
+
+Q: Theo nguyên tắc trung thực và nguyên bản, AI nên được sử dụng như thế nào?
+A. Như công cụ hỗ trợ tư duy, không thay thế tư duy
+B. Như người viết toàn bộ bài luận thay sinh viên
+C. Như công cụ tạo lập luận cốt lõi mà không cần kiểm tra
+D. Như nguồn dữ liệu cá nhân để nhập mọi thông tin nhạy cảm
+ANSWER: A
+EXPLAIN: AI có thể hỗ trợ động não, tóm tắt, kiểm tra ngữ pháp nhưng không thay lao động trí tuệ của người học.
+
+---
+
+Q: Cách dùng AI nào được xem là phù hợp theo chương?
+A. Dùng AI để động não ý tưởng ban đầu rồi tự nghiên cứu và phát triển lập luận
+B. Dùng AI viết gần như toàn bộ bài luận rồi chỉnh vài từ
+C. Dùng AI bịa dữ liệu khảo sát để bài có vẻ đầy đủ
+D. Dùng AI tạo nguồn tham khảo không cần kiểm chứng
+ANSWER: A
+EXPLAIN: Ví dụ được phép là dùng ChatGPT tạo danh sách ý tưởng ban đầu, sau đó tự nghiên cứu bằng nguồn học thuật đáng tin cậy.
+
+---
+
+Q: Cách dùng AI nào bị nêu là không được phép?
+A. Nộp bài luận gần như hoàn toàn do ChatGPT viết, chỉ chỉnh sửa nhỏ về câu từ
+B. Dùng AI kiểm tra ngữ pháp của đoạn văn do mình tự viết
+C. Dùng AI để tóm tắt tài liệu phức tạp rồi tự kiểm chứng
+D. Dùng AI để gợi ý hướng động não ban đầu
+ANSWER: A
+EXPLAIN: Chương nêu không được nộp bài luận gần như hoàn toàn do AI tạo.
+
+---
+
+Q: Giám sát của con người khi dùng AI đòi hỏi điều gì?
+A. Luôn xem xét, đánh giá và chỉnh sửa kỹ kết quả AI, không sao chép dán mù quáng
+B. Tin mọi kết quả AI vì AI luôn khách quan
+C. Chỉ cần kiểm tra lỗi chính tả trong kết quả AI
+D. Không cần hiểu nội dung nếu đã ghi tên công cụ AI
+ANSWER: A
+EXPLAIN: Human Oversight yêu cầu duy trì tư duy phản biện với mọi kết quả từ AI.
+
+---
+
+Q: Nguyên tắc bảo vệ dữ liệu khi dùng AI yêu cầu tránh điều gì?
+A. Nhập thông tin cá nhân, dữ liệu nhạy cảm hoặc tài liệu chưa công bố vào chatbot công khai
+B. Dùng AI để kiểm tra ngữ pháp của đoạn văn không chứa dữ liệu nhạy cảm
+C. Hỏi AI gợi ý danh sách ý tưởng ban đầu
+D. Ghi rõ công cụ AI đã sử dụng trong bài làm
+ANSWER: A
+EXPLAIN: Dữ liệu nhập vào chatbot công khai có thể được sử dụng để huấn luyện mô hình trong tương lai.
+
+---
+
+Q: Khi giảng viên cho phép dùng AI và sinh viên đã dùng AI có trách nhiệm, việc trích dẫn có vai trò gì?
+A. Bắt buộc để đảm bảo tính minh bạch
+B. Không cần thiết vì AI không phải là con người
+C. Chỉ cần thiết nếu AI tạo hình ảnh, không cần cho văn bản
+D. Có thể thay bằng việc xóa lịch sử trò chuyện
+ANSWER: A
+EXPLAIN: Trích dẫn nội dung do AI tạo ra là bắt buộc khi được phép sử dụng để minh bạch nguồn hỗ trợ.
+
+---
+
+Q: Với văn bản từ ChatGPT hoặc Gemini có URL chia sẻ được, trích dẫn trong bài theo Harvard có dạng nào?
+A. (Tên nhà phát triển AI, Năm)
+B. (Tên sinh viên, Số trang PDF)
+C. (Mật khẩu chủ, Mã OTP)
+D. (Tên thiết bị, Phiên bản hệ điều hành)
+ANSWER: A
+EXPLAIN: Bảng 6.3 nêu trích dẫn trong bài cho văn bản AI là (Tên nhà phát triển AI, Năm).
+
+---
+
+Q: Với văn bản AI có URL chia sẻ được, danh mục tham khảo cần có yếu tố nào?
+A. Tên nhà phát triển AI, năm, tên công cụ, phản hồi cho ai, ngày tháng và URL
+B. Chỉ cần ghi tên môn học và số chương
+C. Chỉ cần ghi “Internet” và ngày truy cập
+D. Chỉ cần ghi tên người dùng đã đặt câu hỏi
+ANSWER: A
+EXPLAIN: Bảng 6.3 yêu cầu cấu trúc tham khảo có tên nhà phát triển, công cụ, người nhận phản hồi, ngày tháng và URL nếu có.
+
+---
+
+Q: Với văn bản AI không có URL chia sẻ được, danh mục tham khảo khác trường hợp có URL ở điểm nào?
+A. Không có phần “Có sẵn tại: URL”
+B. Không cần ghi tên nhà phát triển AI
+C. Không cần ghi năm
+D. Không cần ghi tên công cụ AI
+ANSWER: A
+EXPLAIN: Khi không có URL, cấu trúc tham khảo vẫn ghi nhà phát triển, năm, công cụ, phản hồi cho ai và ngày tháng, nhưng không có URL.
+
+---
+
+Q: Với hình ảnh tạo bởi Midjourney hoặc DALL-E, danh mục tham khảo theo bảng cần mô tả gì?
+A. Mô tả prompt đã sử dụng và ghi là nghệ thuật số
+B. Mật khẩu tài khoản dùng để tạo ảnh
+C. Địa chỉ IP của người tạo ảnh
+D. Tỷ lệ tương đồng của ảnh với văn bản gốc
+ANSWER: A
+EXPLAIN: Bảng 6.3 nêu tham khảo hình ảnh AI gồm nhà phát triển, năm, mô tả prompt và [Nghệ thuật số].
+
+---
+
+Q: Lưu ý quan trọng về trích dẫn AI trong chương là gì?
+A. Luôn kiểm tra quy định cụ thể của giảng viên hoặc khoa vì hướng dẫn vẫn đang tiếp tục hoàn thiện
+B. Không cần hỏi quy định vì mọi trường đều cho dùng AI giống nhau
+C. Chỉ cần trích dẫn AI nếu tỷ lệ tương đồng cao
+D. Có thể bỏ qua trích dẫn nếu AI không tạo lỗi ngữ pháp
+ANSWER: A
+EXPLAIN: Chương nhắc phải kiểm tra quy định cụ thể của giảng viên hoặc khoa.
+
+---
+
+Q: Luật An ninh mạng 2018 và các nghị định hướng dẫn nghiêm cấm hành vi nào trên không gian mạng?
+A. Đăng tải thông tin sai sự thật gây hoang mang, xúc phạm danh dự, lừa đảo chiếm đoạt tài sản
+B. Sử dụng mật khẩu mạnh cho tài khoản cá nhân
+C. Sao lưu dữ liệu theo quy tắc 3-2-1
+D. Trích dẫn nguồn theo chuẩn Harvard
+ANSWER: A
+EXPLAIN: Luật quy định các hành vi bị cấm như thông tin sai sự thật, xúc phạm danh dự, lừa đảo và vi phạm pháp luật khác.
+
+---
+
+Q: Theo nội dung về Luật An ninh mạng, người dùng phải chịu trách nhiệm về điều gì?
+A. Nội dung mình đăng tải và hoạt động của tài khoản số của mình
+B. Mọi cuộc tấn công DDoS xảy ra trên Internet toàn cầu
+C. Dung lượng lưu trữ miễn phí của Zotero
+D. Thuật toán huấn luyện của tất cả mô hình AI
+ANSWER: A
+EXPLAIN: Chương nêu người dùng phải chịu trách nhiệm về nội dung đăng tải và hoạt động của tài khoản số.
+
+---
+
+Q: Nghị định 13/2023/NĐ-CP yêu cầu tổ chức thu thập, xử lý dữ liệu cá nhân phải có điều gì?
+A. Sự đồng ý rõ ràng của cá nhân
+B. Mật khẩu của mọi tài khoản mạng xã hội
+C. Quyền tự do công khai mọi dữ liệu sinh viên
+D. Báo cáo tương đồng từ Turnitin
+ANSWER: A
+EXPLAIN: Nghị định 13/2023/NĐ-CP cụ thể hóa bảo vệ dữ liệu cá nhân và yêu cầu sự đồng ý rõ ràng.
+
+---
+
+Q: Quyền nào của cá nhân được nêu trong nội dung về bảo vệ dữ liệu cá nhân?
+A. Quyền được biết, truy cập, chỉnh sửa và xóa dữ liệu của mình
+B. Quyền yêu cầu người khác làm bài hộ
+C. Quyền bỏ qua mọi quy định trích dẫn khi dùng AI
+D. Quyền truy cập trái phép hệ thống LMS
+ANSWER: A
+EXPLAIN: Cá nhân có các quyền cơ bản liên quan đến việc dữ liệu của mình bị xử lý.
+
+---
+
+Q: Luật Sở hữu trí tuệ bảo vệ đối tượng nào?
+A. Quyền tác giả đối với bài viết, sách, phần mềm và tác phẩm nghệ thuật
+B. Chỉ mật khẩu cá nhân và mã OTP
+C. Chỉ các thiết bị phần cứng như máy tính và điện thoại
+D. Chỉ các bài đăng không có tác giả trên Internet
+ANSWER: A
+EXPLAIN: Luật Sở hữu trí tuệ bảo vệ quyền tác giả đối với các công trình sáng tạo, kể cả nội dung số.
+
+---
+
+Q: Việc sao chép, sử dụng tác phẩm trên Internet mà không được phép tác giả được chương nhìn nhận thế nào?
+A. Là vi phạm pháp luật về sở hữu trí tuệ
+B. Luôn được phép vì nội dung đã xuất hiện công khai
+C. Chỉ là vi phạm nếu tác phẩm ở dạng giấy
+D. Chỉ cần đổi phông chữ là hợp lệ
+ANSWER: A
+EXPLAIN: Nguyên tắc bảo vệ quyền tác giả cũng áp dụng cho nội dung số trên Internet.
+
+---
+
+Q: Luật Bảo vệ dữ liệu cá nhân 2025 theo chương có hiệu lực từ thời điểm nào?
+A. 01/01/2026
+B. 01/07/2023
+C. 20/10/2024
+D. 31/12/2025
+ANSWER: A
+EXPLAIN: Chương ghi Luật Bảo vệ dữ liệu cá nhân 2025 có hiệu lực từ 01/01/2026.
+
+---
+
+Q: Luật Bảo vệ dữ liệu cá nhân 2025 thiết lập khuôn khổ pháp lý nhằm mục tiêu nào?
+A. Đảm bảo an toàn thông tin và quyền riêng tư cho cá nhân
+B. Cho phép mọi tổ chức dùng dữ liệu cá nhân mà không cần thông báo
+C. Thay thế hoàn toàn các quy tắc liêm chính học thuật
+D. Bắt buộc sinh viên dùng AI tạo sinh trong mọi bài tập
+ANSWER: A
+EXPLAIN: Chương nêu luật này quy định về dữ liệu cá nhân, quyền, nghĩa vụ và trách nhiệm của các bên liên quan.
+
+---
+
+Q: Chủ đề “an toàn và liêm chính số” trong phần tóm tắt chương được nhìn nhận như thế nào?
+A. Hai mặt của việc trở thành người học và công dân có năng lực, bản lĩnh và đạo đức trong kỷ nguyên số
+B. Hai nội dung hoàn toàn tách biệt, không ảnh hưởng đến nhau
+C. Chỉ là kỹ năng kỹ thuật cho chuyên gia an ninh mạng
+D. Chỉ liên quan đến việc tránh bị điểm thấp trong một môn học
+ANSWER: A
+EXPLAIN: Tóm tắt chương nhấn mạnh an toàn và liêm chính số cùng hướng đến năng lực, bản lĩnh và đạo đức số.
+
+---
+
+Q: Chuỗi phòng vệ nào phù hợp nhất để bảo vệ dữ liệu học tập trước ransomware?
+A. Cập nhật phần mềm, cẩn thận với tệp đính kèm và sao lưu theo quy tắc 3-2-1
+B. Chỉ dùng một mật khẩu dễ nhớ cho mọi tài khoản
+C. Tắt mọi bản cập nhật để tránh thay đổi hệ thống
+D. Chỉ dựa vào việc phát hiện lỗi ngữ pháp trong email
+ANSWER: A
+EXPLAIN: Bảng và mục bảo vệ dữ liệu đều nhấn mạnh cập nhật, cảnh giác tệp đính kèm và sao lưu 3-2-1.
+
+---
+
+Q: Một sinh viên nhận được video “giảng viên” yêu cầu chuyển tiền gấp qua tin nhắn. Cách phản ứng phù hợp nhất là gì?
+A. Xác minh qua kênh liên lạc thứ hai đáng tin cậy trước khi làm theo
+B. Chuyển tiền ngay vì video có hình ảnh và giọng nói quen thuộc
+C. Chỉ kiểm tra xem video có độ phân giải cao hay không
+D. Đăng video công khai để nhờ mọi người đoán
+ANSWER: A
+EXPLAIN: Deepfake có thể giả mạo âm thanh, video; cần hoài nghi và xác minh yêu cầu bất thường qua kênh khác.
+
+---
+
+Q: Một sinh viên tự viết bài, dùng ChatGPT để gợi ý dàn ý ban đầu, sau đó nghiên cứu nguồn học thuật và ghi rõ việc dùng AI. Đánh giá nào phù hợp nhất?
+A. Đây là cách dùng AI có trách nhiệm nếu tuân thủ yêu cầu của giảng viên
+B. Đây chắc chắn là gian lận hợp đồng
+C. Đây là bịa đặt vì mọi ý tưởng ban đầu đều là dữ liệu giả
+D. Đây là DDoS vì dùng công cụ trực tuyến
+ANSWER: A
+EXPLAIN: Chương cho phép dùng AI để động não ban đầu nếu người học tự phát triển lập luận, minh bạch và tuân thủ quy định.
+
+---
+
+Q: Một sinh viên dùng AI tạo danh sách tài liệu tham khảo có vẻ thuyết phục rồi đưa vào bài mà không kiểm tra. Rủi ro chính là gì?
+A. AI có thể tạo trích dẫn đến bài báo không tồn tại
+B. Danh mục tham khảo chắc chắn sẽ đúng chuẩn Harvard
+C. Tỷ lệ tương đồng chắc chắn bằng 0 nên không cần lo
+D. Việc này chỉ gây mỏi mắt kỹ thuật số
+ANSWER: A
+EXPLAIN: Ảo giác AI có thể bịa cả nguồn trích dẫn, nên phải kiểm chứng.
+
+---
+
+Q: Một sinh viên sao chép đoạn từ Wikipedia, không đặt ngoặc kép và không trích dẫn. Hành vi này thuộc loại nào?
+A. Đạo văn
+B. Bịa đặt
+C. DDoS
+D. An sinh số
+ANSWER: A
+EXPLAIN: Bảng 6.2 nêu ví dụ sao chép từ Wikipedia không có ngoặc kép và trích dẫn là đạo văn.
+
+---
+
+Q: Một sinh viên dùng “phao” trong phòng thi. Hành vi này thuộc loại vi phạm nào?
+A. Gian lận
+B. Bịa đặt
+C. Dấu chân số bị động
+D. Trích dẫn nguyên văn
+ANSWER: A
+EXPLAIN: Sử dụng tài liệu không được phép trong thi cử là Fraud.
+
+---
+
+Q: Một sinh viên trả tiền cho dịch vụ viết bài luận cuối kỳ rồi nộp như của mình. Hành vi này thuộc loại nào?
+A. Gian lận hợp đồng
+B. Tóm tắt hợp lệ
+C. Quản lý tài liệu tham khảo
+D. Cai nghiện số
+ANSWER: A
+EXPLAIN: Thuê bên thứ ba hoàn thành bài tập và nộp như của mình là contract cheating.
+
+---
+
+Q: Một báo cáo Turnitin có tỷ lệ tương đồng cao ở phần danh mục tài liệu tham khảo và các thuật ngữ chuyên ngành. Kết luận cẩn trọng nhất là gì?
+A. Cần đọc báo cáo để phân biệt trùng khớp hợp lệ với đạo văn thật sự
+B. Chắc chắn bài đó là đạo văn toàn bộ
+C. Chắc chắn bài đó không có vấn đề gì nên không cần xem
+D. Chỉ cần xóa toàn bộ danh mục tham khảo là đúng
+ANSWER: A
+EXPLAIN: Báo cáo tương đồng cần được diễn giải, vì một số trùng khớp là bình thường và hợp lệ.
+
+---
+
+Q: Một sinh viên muốn làm bài nghiên cứu lớn với nhiều nguồn và cần tự động tạo trích dẫn Harvard. Nhóm công cụ phù hợp nhất là gì?
+A. Zotero hoặc Mendeley
+B. VPN hoặc Antivirus
+C. Screen Time hoặc Digital Wellbeing
+D. Botnet hoặc DDoS
+ANSWER: A
+EXPLAIN: Zotero và Mendeley là công cụ quản lý tài liệu tham khảo, hỗ trợ chèn trích dẫn và tạo danh mục.
+
+---
+
+Q: Một sinh viên bị người lạ nhắn tin kể câu chuyện đáng thương và xin thông tin cá nhân để “xác minh hỗ trợ”. Nguy cơ phù hợp nhất là gì?
+A. Lừa đảo qua mạng xã hội dựa trên thao túng tâm lý
+B. Rối loạn giấc ngủ do ánh sáng xanh
+C. Bịa đặt dữ liệu nghiên cứu
+D. Tóm tắt tài liệu học thuật
+ANSWER: A
+EXPLAIN: Social engineering thường dùng câu chuyện, lời đề nghị hoặc yêu cầu bất thường để khai thác thông tin.
+
+---
+
+Q: Một sinh viên chỉ nghĩ “tôi không đăng gì nhạy cảm nên không có vấn đề riêng tư”. Điểm thiếu trong suy nghĩ này là gì?
+A. Dữ liệu vẫn có thể bị thu thập thụ động như IP, lịch sử tìm kiếm hoặc vị trí ứng dụng
+B. Dấu chân số chỉ tồn tại khi người dùng trả phí dịch vụ
+C. Danh tính số không liên quan đến hoạt động trực tuyến
+D. Mọi dữ liệu bị động đều tự động biến mất sau 24 giờ
+ANSWER: A
+EXPLAIN: Quyền riêng tư cần tính đến cả dấu chân số bị động, không chỉ nội dung tự đăng.
+
+---
+
+Q: Một sinh viên diễn giải một đoạn rất sát cấu trúc câu gốc, chỉ thay vài từ và có ghi nguồn. Vấn đề chính còn lại là gì?
+A. Diễn giải chưa hiệu quả vì còn sao chép cấu trúc hoặc cụm từ đặc trưng của bản gốc
+B. Đây là bịa đặt vì có nguồn thật
+C. Đây là DDoS vì làm quá tải văn bản
+D. Đây là cách diễn giải chuẩn vì chỉ cần có nguồn
+ANSWER: A
+EXPLAIN: Diễn giải tốt cần dùng ngôn ngữ và cấu trúc riêng, không chỉ thay vài từ.
+
+---
+
+Q: Một sinh viên thấy bài viết kích động trên mạng và muốn chia sẻ ngay vì “nhiều người đang nói”. Theo netiquette và trách nhiệm công dân số, điều cần làm trước là gì?
+A. Kiểm chứng thông tin để tránh lan truyền tin giả
+B. Thêm lời lẽ gay gắt để tăng sự chú ý
+C. Chia sẻ vào nhiều nhóm để hỏi ý kiến sau
+D. Dùng tài khoản ẩn danh để tránh trách nhiệm
+ANSWER: A
+EXPLAIN: Công dân số có trách nhiệm kiểm chứng thông tin và tránh lan truyền tin giả.
+
+---
+
+Q: Một sinh viên sắp vứt laptop hỏng vào thùng rác thường. Cách xử lý phù hợp hơn theo chương là gì?
+A. Đưa đến điểm thu gom rác thải điện tử để tái chế an toàn
+B. Đập nhỏ thiết bị rồi trộn với rác sinh hoạt
+C. Giữ lại nhưng không cần làm gì vì e-waste vô hại
+D. Bán tài khoản cá nhân đi kèm thiết bị
+ANSWER: A
+EXPLAIN: Rác thải điện tử độc hại và cần được thải bỏ đúng cách tại điểm thu gom quy định.
+
+---
+
+Q: Khi sử dụng AI để phân tích vấn đề học thuật, câu hỏi đạo đức cốt lõi mà chương muốn người học tự đặt ra là gì?
+A. Ai là người thực sự đang tư duy?
+B. AI có làm bài nhanh hơn con người không?
+C. Có thể che giấu việc dùng AI bằng cách nào?
+D. Có thể bỏ toàn bộ trích dẫn nếu văn bản nghe tự nhiên không?
+ANSWER: A
+EXPLAIN: Chương nhấn mạnh mối đe dọa mới là thuê ngoài quá trình tư duy, không chỉ sao chép văn bản.
+
+---
+
+Q: Một sinh viên nhập dữ liệu cá nhân của người tham gia khảo sát chưa công bố vào chatbot công khai để nhờ phân tích. Nguyên tắc nào bị đe dọa nhất?
+A. Bảo vệ dữ liệu
+B. Quy tắc 20-20-20
+C. Tấn công DDoS
+D. Kéo dài vòng đời thiết bị
+ANSWER: A
+EXPLAIN: Không nên đưa thông tin cá nhân, dữ liệu nhạy cảm hoặc tài liệu chưa công bố vào chatbot công khai.
+
+---
+
+Q: Một sinh viên muốn bảo vệ tài khoản email, mạng xã hội và ngân hàng. Biện pháp nào nên được bật cho tất cả tài khoản quan trọng?
+A. Xác thực hai yếu tố
+B. Tắt cập nhật phần mềm
+C. Dùng cùng mật khẩu cho dễ nhớ
+D. Gỡ bỏ trình quản lý mật khẩu
+ANSWER: A
+EXPLAIN: Chương khuyến nghị bật 2FA cho email, mạng xã hội và tài khoản ngân hàng.
+
+---
+
+Q: Một email yêu cầu cập nhật tài khoản gấp qua liên kết lạ và nhập mật khẩu. Cách xử lý phù hợp nhất là gì?
+A. Không nhấp liên kết lạ và xác minh qua kênh chính thức
+B. Nhập nhanh để tránh tài khoản bị khóa
+C. Chuyển tiếp cho bạn bè để cùng kiểm tra bằng cách đăng nhập
+D. Chỉ cần xem email có logo đẹp hay không
+ANSWER: A
+EXPLAIN: Dấu hiệu phishing gồm yêu cầu khẩn cấp, liên kết lạ và đòi thông tin nhạy cảm; cần xác minh chính thức.
+
+---
+
+Q: Một sinh viên muốn dùng AI để kiểm tra ngữ pháp bài đã tự viết. Điều kiện nào làm cách dùng này phù hợp hơn với liêm chính học thuật?
+A. Người học vẫn tự chịu trách nhiệm, kiểm tra kết quả và minh bạch nếu quy định yêu cầu
+B. Để AI tự thêm nguồn và không kiểm tra lại
+C. Xóa mọi dấu vết sử dụng AI để tránh phải giải thích
+D. Cho AI viết lại toàn bộ lập luận cốt lõi và nộp ngay
+ANSWER: A
+EXPLAIN: AI có thể hỗ trợ kiểm tra ngữ pháp nhưng người học vẫn phải giám sát, chịu trách nhiệm và tuân thủ quy định.
+
+---
+
+Q: Trong môi trường số, trách nhiệm cá nhân và pháp luật gặp nhau rõ nhất ở điểm nào?
+A. Người dùng phải chịu trách nhiệm về nội dung đăng tải, dữ liệu xử lý và việc tôn trọng quyền tác giả
+B. Người dùng không chịu trách nhiệm nếu dùng tài khoản cá nhân
+C. Nội dung trên Internet luôn tự do sao chép nếu phục vụ học tập
+D. Pháp luật chỉ điều chỉnh thiết bị phần cứng, không điều chỉnh hành vi trực tuyến
+ANSWER: A
+EXPLAIN: Chương nêu trách nhiệm theo Luật An ninh mạng, bảo vệ dữ liệu cá nhân và sở hữu trí tuệ trong môi trường số.
+
+---
+
+Q: Một sinh viên muốn xây dựng hình ảnh chuyên nghiệp trên mạng cho cơ hội nghề nghiệp. Khái niệm nào liên quan trực tiếp nhất?
+A. Quản lý danh tính số
+B. Tấn công DDoS
+C. Mã độc tống tiền
+D. Ảo giác AI
+ANSWER: A
+EXPLAIN: Danh tính số có thể được quản lý để xây dựng hình ảnh cá nhân tích cực, chuyên nghiệp.
+
+---
+
+Q: Trong các biện pháp bảo vệ thiết bị và dữ liệu, cách tiếp cận được chương nhấn mạnh là gì?
+A. Phòng vệ đa lớp bằng mật khẩu mạnh, 2FA, cập nhật, antivirus/VPN và sao lưu
+B. Chỉ cần một phần mềm diệt virus là đủ cho mọi rủi ro
+C. Chỉ cần tránh đăng bài công khai là an toàn tuyệt đối
+D. Chỉ cần tin vào cảm giác quen thuộc của email nhận được
+ANSWER: A
+EXPLAIN: Chương khuyến nghị áp dụng nhiều lớp bảo vệ để đối phó các nguy cơ khác nhau.
+
+---
+
+Q: Khi một công cụ AI đưa ra câu trả lời nghe rất hợp lý nhưng không có nguồn kiểm chứng, thái độ phù hợp là gì?
+A. Duy trì tư duy phản biện và kiểm tra lại trước khi dùng
+B. Tin ngay vì văn phong tự tin chứng minh nội dung đúng
+C. Chỉ thay đổi vài từ rồi đưa vào bài
+D. Xem đó là nguồn học thuật đáng tin cậy mặc định
+ANSWER: A
+EXPLAIN: AI có thể ảo giác; người dùng cần giám sát và chịu trách nhiệm về nội dung.
+
+---
+
+Q: Trong học thuật, công cụ công nghệ được xem là đồng minh khi nào?
+A. Khi được dùng đúng cách để hỗ trợ liêm chính, như kiểm tra tương đồng và quản lý trích dẫn
+B. Khi thay thế toàn bộ quá trình tư duy của sinh viên
+C. Khi giúp che giấu nguồn gốc ý tưởng
+D. Khi tạo dữ liệu nghiên cứu chưa từng thu thập
+ANSWER: A
+EXPLAIN: Chương nêu công nghệ có thể hỗ trợ duy trì liêm chính học thuật nếu được sử dụng đúng cách.
+
+---
+
+Q: Một bài viết dùng ý tưởng của người khác nhưng đã được tóm tắt ngắn gọn bằng lời của sinh viên. Điều kiện nào vẫn bắt buộc?
+A. Phải trích dẫn nguồn gốc của ý tưởng
+B. Không cần ghi nguồn vì đã ngắn hơn bản gốc
+C. Chỉ cần đổi thứ tự các câu là đủ
+D. Chỉ cần đưa vào cuối bài mà không có trích dẫn trong văn bản
+ANSWER: A
+EXPLAIN: Tóm tắt hay diễn giải đều dùng ý tưởng của nguồn khác nên cần trích dẫn.
+
+---
+
+Q: Một sinh viên muốn giảm ảnh hưởng của công nghệ lên giấc ngủ. Biện pháp nào phù hợp nhất với nội dung chương?
+A. Bật Night Shift hoặc Eye Comfort vào buổi tối và quản lý thời gian dùng thiết bị
+B. Tăng thời gian dùng màn hình ngay trước khi ngủ
+C. Bật mọi thông báo mạng xã hội vào ban đêm
+D. Dùng AI tạo bài luận để có thêm thời gian lướt mạng
+ANSWER: A
+EXPLAIN: Chương khuyến nghị giảm tác động ánh sáng xanh và thiết lập giới hạn sử dụng thiết bị.
+
+---
+
+Q: Một sinh viên nhận tin nhắn từ người lạ với lời đề nghị hấp dẫn bất thường và yêu cầu cung cấp quyền truy cập tài khoản. Biện pháp phòng tránh phù hợp là gì?
+A. Cảnh giác với yêu cầu từ người lạ và hạn chế chia sẻ thông tin cá nhân công khai
+B. Cung cấp quyền truy cập nếu lời đề nghị có vẻ có lợi
+C. Chỉ kiểm tra xem người lạ có ảnh đại diện đẹp hay không
+D. Đăng công khai mật khẩu phụ để chứng minh không có gì phải giấu
+ANSWER: A
+EXPLAIN: Bảng 6.1 khuyến nghị cảnh giác với yêu cầu từ người lạ và hạn chế chia sẻ thông tin cá nhân.
+
+---
+
+Q: Một sinh viên muốn dùng AI tạo hình ảnh cho bài thuyết trình và giảng viên cho phép. Việc nào giúp đảm bảo minh bạch học thuật?
+A. Trích dẫn nhà phát triển AI, năm, mô tả prompt và ghi loại nội dung là nghệ thuật số theo hướng dẫn
+B. Không cần ghi gì vì hình ảnh không phải văn bản
+C. Ghi tên chính mình là tác giả duy nhất của hình ảnh
+D. Chỉ đổi màu ảnh để khỏi phải trích dẫn
+ANSWER: A
+EXPLAIN: Bảng 6.3 có hướng dẫn trích dẫn hình ảnh do Midjourney/DALL-E tạo.
+
+---
+
+Q: Điều nào phân biệt rõ “công cụ hỗ trợ” với “gian lận” khi dùng AI trong bài học?
+A. Người học vẫn hiểu, kiểm chứng, phát triển lập luận của mình và minh bạch về việc dùng AI
+B. AI viết càng nhiều phần cốt lõi thì càng chứng tỏ dùng công cụ tốt
+C. Chỉ cần kết quả không bị phát hiện là hợp lệ
+D. Chỉ cần văn bản không giống nguồn nào là chắc chắn liêm chính
+ANSWER: A
+EXPLAIN: Sử dụng AI có trách nhiệm đòi hỏi trung thực, nguyên bản, trách nhiệm và giám sát của con người.
+
+---
+
+Q: Một sinh viên muốn phòng tránh đạo văn khi diễn giải. Trình tự nào hợp lý nhất?
+A. Đọc hiểu kỹ, đặt bản gốc sang một bên, viết bằng lời mình, so sánh lại và trích dẫn nguồn
+B. Sao chép đoạn gốc, thay vài từ, xóa tên tác giả và nộp
+C. Dùng AI viết lại, không đọc bản gốc và không ghi nguồn
+D. Chỉ đưa nguồn vào danh mục cuối bài mà không cần trích dẫn trong văn bản
+ANSWER: A
+EXPLAIN: Đây là quy trình diễn giải được nêu trong chương.
+
+---
+
+Q: Trong nội dung chương, bảo vệ thông tin cá nhân bắt đầu từ nhận thức nào?
+A. Thông tin cá nhân là tài sản vô giá và thiết bị số là cánh cổng dẫn đến tài sản đó
+B. Thông tin cá nhân chỉ có giá trị khi được công khai trên mạng xã hội
+C. Thiết bị số không liên quan đến an toàn dữ liệu
+D. Chỉ cần giấu tên thật là mọi dữ liệu đều an toàn
+ANSWER: A
+EXPLAIN: Mục 6.1 nhấn mạnh thông tin cá nhân là tài sản quý và thiết bị số là cánh cổng cần bảo vệ.
+
+---
+
+Q: Một sinh viên muốn tránh bị kiểm soát bởi công nghệ thay vì được công nghệ phục vụ. Khái niệm nào bao quát mục tiêu này?
+A. An sinh số
+B. Gian lận hợp đồng
+C. Botnet
+D. Bịa đặt
+ANSWER: A
+EXPLAIN: An sinh số là trạng thái cân bằng khi công nghệ phục vụ cuộc sống thay vì kiểm soát nó.
+
+---
+
+Q: Một bài làm có nguồn thật, trích dẫn trong văn bản đầy đủ và danh mục tham khảo cuối bài theo alphabet. Yếu tố nào của chuẩn Harvard đang được thể hiện?
+A. Sự kết hợp giữa in-text citation và reference list
+B. Quy tắc sao lưu 3-2-1
+C. Xác thực hai yếu tố
+D. Cai nghiện số
+ANSWER: A
+EXPLAIN: Chuẩn Harvard yêu cầu trích dẫn trong văn bản và danh mục tài liệu tham khảo đầy đủ cuối bài.
+
+---
+
+Q: Một sinh viên dùng AI để tạo lập luận cốt lõi và phân tích dữ liệu thay mình. Vì sao hành vi này không phù hợp với hướng dẫn?
+A. Vì AI đã thay thế quá trình tư duy và lao động học thuật của người học
+B. Vì AI không thể tạo văn bản bằng tiếng Việt
+C. Vì việc dùng AI cho mọi mục đích đều bị cấm tuyệt đối
+D. Vì dữ liệu phân tích không bao giờ cần kiểm chứng
+ANSWER: A
+EXPLAIN: Chương khuyến nghị không dùng AI để viết toàn bộ bài, tạo lập luận cốt lõi hoặc phân tích dữ liệu thay bạn.
+
+---
+
+Q: Điểm chung giữa bảo vệ thiết bị, an sinh số, liêm chính học thuật và sử dụng AI có trách nhiệm là gì?
+A. Đều hướng tới năng lực sống, học tập và hành xử có trách nhiệm trong môi trường số
+B. Đều chỉ là kỹ thuật dành riêng cho chuyên gia công nghệ thông tin
+C. Đều có thể giải quyết hoàn toàn bằng một ứng dụng duy nhất
+D. Đều không liên quan đến hành vi cá nhân của sinh viên
+ANSWER: A
+EXPLAIN: Tóm tắt chương liên kết các nội dung này như hành trang để trở thành công dân số an toàn, tự tin và có trách nhiệm.
+
+---
