@@ -200,7 +200,10 @@ function renderHome() {
     <nav id="quiz-pagination" class="pagination" aria-label="Phân trang quiz"></nav>
     <aside class="donate-box">
       <p>Web miễn phí cho mọi người ôn tập. Nếu thấy hữu ích, bạn có thể ủng hộ mình để mình cập nhật thêm câu hỏi.</p>
-      <a href="#" id="donate-link">Link ủng hộ (đang cập nhật)</a>
+      <div class="support-links">
+        <a href="https://s.shopee.vn/5fmvWm9n5E" target="_blank" rel="sponsored noopener noreferrer">Link ủng hộ (Hoa hồng Shopee ấn vào một cái cho tôi là được, không cần mua =)) )</a>
+        <a href="https://www.facebook.com/thinh.luuquang.33" target="_blank" rel="noopener noreferrer">Facebook của tôi</a>
+      </div>
     </aside>`;
 
   const searchInput = document.querySelector("#quiz-search");
@@ -210,8 +213,6 @@ function renderHome() {
     updateHomeResults();
   });
 
-  // Placeholder không điều hướng lên đầu trang khi chưa có link donate thật.
-  document.querySelector("#donate-link")?.addEventListener("click", (event) => event.preventDefault());
   updateHomeResults();
   focusApp();
 }

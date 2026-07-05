@@ -692,6 +692,22 @@ main > .donate-box {
   font-weight: 700;
 }
 
+.support-links {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  justify-items: start;
+  gap: 9px;
+}
+
+.support-links a {
+  overflow-wrap: anywhere;
+}
+
+.support-links a:hover {
+  color: var(--primary);
+}
+
 .status-card {
   padding: 34px;
   text-align: center;
