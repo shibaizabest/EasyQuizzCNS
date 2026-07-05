@@ -597,3 +597,523 @@ C. e-Reader, máy in và NFC
 D. Smartphone, ROM rời và cáp SATA
 ANSWER: B
 EXPLAIN: Laptop đáp ứng tính di động, tai nghe có micro hỗ trợ lớp học trực tuyến, còn ổ cứng ngoài tạo bản sao lưu cho dữ liệu quan trọng.
+
+---
+
+Q: Phát biểu nào mô tả đầy đủ nhất khái niệm máy tính trong chương?
+A. Thiết bị điện tử tự động nhận dữ liệu, xử lý theo chương trình, lưu trữ và xuất kết quả dưới dạng thông tin
+B. Thiết bị chỉ dùng để lưu tệp lâu dài mà không thực hiện tính toán
+C. Máy cơ khí chỉ hoạt động khi người dùng điều khiển từng phép tính
+D. Thiết bị đầu ra chuyên hiển thị dữ liệu do mạng Internet tạo ra
+ANSWER: A
+EXPLAIN: Máy tính là thiết bị điện tử có khả năng tiếp nhận đầu vào, xử lý tự động theo chỉ dẫn được lập trình, lưu trữ và cung cấp đầu ra hữu ích.
+
+---
+
+Q: Tình huống nào thể hiện đồng thời vai trò học tập, nghiên cứu và hợp tác của công nghệ số trong đại học?
+A. Chỉ dùng đồng hồ thông minh để xem giờ trong lớp
+B. Tìm bài báo khoa học, cùng chỉnh sửa tài liệu trực tuyến và trao đổi với nhóm qua ứng dụng họp
+C. Dùng máy in không kết nối để in một trang trắng
+D. Chỉ thay hình nền máy tính mà không xử lý hay chia sẻ thông tin
+ANSWER: B
+EXPLAIN: Công nghệ số hỗ trợ tiếp cận học liệu và nghiên cứu, đồng thời cho phép giao tiếp và cộng tác vượt qua giới hạn không gian, thời gian.
+
+---
+
+Q: Vai trò cơ bản nào thuộc về CPU thay vì NPU, RAM hoặc ổ lưu trữ?
+A. Lưu vĩnh viễn hệ điều hành và tệp cá nhân
+B. Chỉ tăng tốc các mô hình AI chuyên dụng
+C. Thực hiện lệnh chương trình, phép toán số học, logic và điều khiển hoạt động xử lý
+D. Hiển thị trực tiếp kết quả lên giấy
+ANSWER: C
+EXPLAIN: CPU là bộ xử lý trung tâm thực thi chỉ dẫn, tính toán và điều phối xử lý; NPU chỉ chuyên biệt cho AI, còn RAM và ổ đĩa đảm nhiệm lưu trữ.
+
+---
+
+Q: Nhóm nào chỉ gồm các thiết bị đầu ra theo phân loại trong chương?
+A. Bàn phím, chuột, webcam và micro
+B. Scanner, webcam, màn hình và máy in
+C. SSD, RAM, loa và tai nghe
+D. Màn hình, máy in, loa và tai nghe
+ANSWER: D
+EXPLAIN: Màn hình, máy in, loa và tai nghe đều đưa thông tin đã được xử lý từ máy tính đến người dùng.
+
+---
+
+Q: Lựa chọn nào phản ánh đúng nhất ưu điểm và hạn chế của smartphone khi dùng cho học tập?
+A. Luôn mang theo và truy cập thông tin nhanh, nhưng màn hình nhỏ và không phù hợp các tác vụ nặng
+B. Có hiệu năng/giá và khả năng nâng cấp linh kiện tốt nhất
+C. Có màn hình E-ink và pin kéo dài hàng tuần
+D. Không thể kết nối Internet ngoài mạng dây Ethernet
+ANSWER: A
+EXPLAIN: Smartphone rất cơ động, kết nối thuận tiện và có hệ sinh thái ứng dụng lớn, nhưng màn hình nhỏ, pin hữu hạn và hiệu năng hạn chế đối với công việc nặng.
+
+---
+
+Q: Điểm khác biệt hợp lý nhất giữa smartwatch và fitness tracker theo nội dung chương là gì?
+A. Fitness tracker luôn có đầy đủ chức năng gọi điện và thanh toán như smartphone
+B. Smartwatch đa năng hơn với thông báo, nghe nhạc hoặc thanh toán; fitness tracker tập trung theo dõi vận động và giấc ngủ
+C. Smartwatch chỉ dùng để đọc sách bằng màn hình E-ink
+D. Fitness tracker là một loại máy tính để bàn thu nhỏ
+ANSWER: B
+EXPLAIN: Cả hai có thể theo dõi sức khỏe, nhưng smartwatch thường tích hợp nhiều chức năng thông minh; fitness tracker chuyên sâu hơn vào hoạt động thể chất và giấc ngủ.
+
+---
+
+Q: Một người mới cần khả năng tương thích phần cứng và phần mềm thương mại rất rộng, kể cả nhiều trò chơi. Hệ điều hành máy tính nào phù hợp nhất theo bảng so sánh?
+A. Linux, vì luôn hỗ trợ mọi phần mềm thương mại tốt nhất
+B. macOS, vì chạy được trên phần cứng của mọi hãng
+C. Windows, nhờ hệ sinh thái phần cứng và phần mềm rộng
+D. iOS, vì được thiết kế cho mọi desktop và laptop
+ANSWER: C
+EXPLAIN: Windows có mức phổ biến cao, dễ dùng và hỗ trợ rất rộng phần cứng, ứng dụng thương mại và trò chơi; đổi lại nó thường là mục tiêu của phần mềm độc hại.
+
+---
+
+Q: Đặc điểm nào phù hợp nhất với iOS khi so sánh với Android?
+A. Mã nguồn mở, tùy biến rất cao và chạy trên thiết bị của nhiều hãng
+B. Phân mảnh phiên bản mạnh do có quá nhiều nhà sản xuất phần cứng
+C. Chỉ là một bản phân phối Linux dành cho máy chủ
+D. Hệ sinh thái đóng, ít tùy biến nhưng ổn định, bảo mật và được kiểm duyệt ứng dụng chặt
+ANSWER: D
+EXPLAIN: iOS là hệ điều hành độc quyền của Apple, nổi bật về sự mượt mà, ổn định, bảo mật và kiểm duyệt ứng dụng, nhưng ít tùy biến hơn Android.
+
+---
+
+Q: Ghép thành phần GUI với chức năng nào đúng?
+A. Taskbar hoặc Dock hiển thị ứng dụng thường dùng và ứng dụng đang chạy
+B. Desktop chỉ là nơi nhập lệnh văn bản trong terminal
+C. Icon là địa chỉ đầy đủ của một tệp trong cấu trúc cây
+D. Launchpad là trình điều khiển phần cứng của macOS
+ANSWER: A
+EXPLAIN: Taskbar trên Windows và Dock trên macOS chứa biểu tượng ứng dụng thường dùng hoặc đang hoạt động; Desktop là vùng làm việc và icon đại diện cho đối tượng.
+
+---
+
+Q: Người dùng muốn xem các thao tác phù hợp với một tệp rồi di chuyển tệp sang thư mục khác bằng chuột. Cặp thao tác nào thích hợp nhất?
+A. Nhấp đúp rồi tắt nguồn
+B. Nhấp chuột phải để mở menu ngữ cảnh, sau đó kéo-thả tệp
+C. Chỉ nhấp một lần liên tục vào Taskbar
+D. Mở CLI rồi xóa phần mở rộng tệp
+ANSWER: B
+EXPLAIN: Nhấp chuột phải mở menu ngữ cảnh chứa các lệnh liên quan đến đối tượng; kéo-thả là thao tác GUI thuận tiện để di chuyển hoặc sắp xếp tệp.
+
+---
+
+Q: Ghép hệ điều hành với ứng dụng quản lý tệp nào hoàn toàn đúng?
+A. Windows - Finder; macOS - Files; Ubuntu - File Explorer
+B. Windows - Launchpad; macOS - Taskbar; Ubuntu - Dock
+C. Windows - File Explorer; macOS - Finder; Ubuntu - Files
+D. Windows - Nautilus; macOS - Microsoft Store; Ubuntu - Finder
+ANSWER: C
+EXPLAIN: Windows dùng File Explorer, macOS dùng Finder và Ubuntu dùng Files, trước đây thường được gọi là Nautilus.
+
+---
+
+Q: Quy trình gỡ ứng dụng nào đúng theo hệ điều hành?
+A. Windows: kéo mọi ứng dụng vào Dock; macOS: dùng Apps & features
+B. Windows và macOS: chỉ cần xóa biểu tượng ngoài màn hình nền
+C. Ubuntu: bắt buộc xóa thủ công mọi tệp hệ thống bằng CLI
+D. Windows: Settings → Apps; macOS: kéo ứng dụng từ Applications vào Trash; Ubuntu: Remove trong Ubuntu Software
+ANSWER: D
+EXPLAIN: Mỗi hệ điều hành có công cụ quản lý ứng dụng riêng; xóa biểu tượng lối tắt không đồng nghĩa với gỡ bỏ chương trình.
+
+---
+
+Q: Một phòng máy có nhiều máy tính cùng dùng một máy in mạng và truy cập cơ sở dữ liệu trên máy chủ. Lợi ích mạng nào đang được thể hiện?
+A. Chia sẻ phần cứng và truy cập tài nguyên tập trung
+B. Tăng dung lượng RAM vật lý của từng máy
+C. Biến mạng LAN thành bộ nhớ ROM
+D. Loại bỏ hoàn toàn nhu cầu bảo mật mạng
+ANSWER: A
+EXPLAIN: Mạng cho phép nhiều máy dùng chung thiết bị như máy in và truy cập ứng dụng hoặc dữ liệu được lưu tập trung trên máy chủ.
+
+---
+
+Q: Cải tiến nào của Bluetooth 5.4 được chương nhấn mạnh là hữu ích cho tai nghe TWS và thiết bị IoT?
+A. Phạm vi toàn cầu tương đương mạng WAN
+B. Độ ổn định, hiệu quả năng lượng tốt hơn và độ trễ thấp hơn
+C. Băng thông 320 MHz và vận hành đa liên kết MLO
+D. Truyền dữ liệu bắt buộc qua cáp RJ45
+ANSWER: B
+EXPLAIN: Bluetooth 5.4 cải thiện độ ổn định, tiết kiệm năng lượng và giảm độ trễ, phù hợp thiết bị dùng pin như tai nghe không dây và IoT.
+
+---
+
+Q: Sinh viên thường học trong thư viện đông người và họp trực tuyến nhiều giờ. Tiêu chí nào nên được ưu tiên khi chọn tai nghe?
+A. Chỉ chọn mẫu có kích thước lớn nhất bất kể độ thoải mái
+B. Bắt buộc có dung lượng lưu trữ 1 TB
+C. Chống ồn, đeo lâu thoải mái, micro tốt và thời lượng pin phù hợp
+D. Chỉ cần hỗ trợ xuất hình ảnh ra hai màn hình 4K
+ANSWER: C
+EXPLAIN: Khả năng cách ly tiếng ồn giúp tập trung, còn sự thoải mái, chất lượng micro và pin quyết định hiệu quả trong các buổi học hoặc họp dài.
+
+---
+
+Q: Nhận định nào phân biệt hợp lý ổ cứng di động và USB Flash Drive?
+A. USB Flash Drive luôn phù hợp sao lưu luận văn hơn mọi ổ SSD dung lượng lớn
+B. Ổ cứng di động chỉ dùng để nhập âm thanh
+C. Hai thiết bị không thể truyền dữ liệu giữa các máy tính
+D. Ổ cứng di động phù hợp sao lưu hoặc lưu dự án lớn; USB Flash Drive nhỏ gọn để chuyển nhanh dữ liệu
+ANSWER: D
+EXPLAIN: External HDD/SSD thường có dung lượng lớn và phù hợp sao lưu; USB Flash Drive nhấn mạnh tính nhỏ gọn, tiện mang theo và trao đổi tệp nhanh.
+
+---
+
+Q: Nhiệm vụ nào phù hợp nhất với Microsoft Word hoặc Google Docs?
+A. Soạn tiểu luận, định dạng văn bản, chèn bảng/hình và tạo mục lục
+B. Phân lịch CPU cho các tiến trình hệ thống
+C. Ghép nối tai nghe bằng Bluetooth
+D. Quản lý mạng WAN giữa nhiều quốc gia
+ANSWER: A
+EXPLAIN: Word và Google Docs là công cụ xử lý văn bản, phục vụ soạn thảo báo cáo, tiểu luận và tài liệu có cấu trúc.
+
+---
+
+Q: Tổ hợp nào chỉ gồm các chức năng cốt lõi của trình duyệt web?
+A. Phân bổ RAM, điều khiển máy in và quản lý firmware
+B. Hiển thị trang web, quản lý tab/lịch sử/dấu trang và cài tiện ích mở rộng
+C. Tạo phân vùng ổ cứng, thay CPU và cập nhật BIOS
+D. Chỉ tạo bảng tính và biểu đồ thống kê
+ANSWER: B
+EXPLAIN: Trình duyệt truy cập và hiển thị nội dung web, đồng thời quản lý phiên duyệt qua tab, lịch sử, bookmark và extension.
+
+---
+
+Q: Sinh viên cần ghi chú bài giảng có văn bản, hình ảnh, âm thanh, video và chữ viết tay, đồng thời muốn tổ chức theo Sổ tay - Phần - Trang. Công cụ nào phù hợp nhất theo bảng so sánh?
+A. Google Keep
+B. Trello
+C. Microsoft OneNote
+D. Zotero
+ANSWER: C
+EXPLAIN: OneNote hỗ trợ đa phương tiện và chữ viết tay rất tốt, đồng thời tổ chức nội dung theo mô hình Sổ tay, Phần và Trang.
+
+---
+
+Q: Nhóm đã sử dụng Microsoft 365 và cần họp trực tuyến có chia sẻ màn hình, phòng nhỏ, bảng trắng và tích hợp tốt với hệ sinh thái hiện tại. Lựa chọn phù hợp nhất là gì?
+A. Google Keep
+B. Zotero
+C. LibreOffice Writer
+D. Microsoft Teams
+ANSWER: D
+EXPLAIN: Teams cung cấp các tính năng cộng tác và hội nghị cần thiết, đồng thời có lợi thế tích hợp trực tiếp với Microsoft 365.
+
+---
+
+Q: Cách phân nhóm nào phản ánh đầy đủ ba thành phần chính của hệ sinh thái công nghệ số?
+A. Công cụ/thiết bị điện tử; hệ thống/nền tảng; tài nguyên/nội dung số
+B. Chỉ phần cứng, dây điện và pin
+C. Chỉ dữ liệu, thông tin và giấy in
+D. CPU, RAM và ROM là toàn bộ công nghệ số
+ANSWER: A
+EXPLAIN: Công nghệ số bao gồm phương tiện vật lý, các hệ thống hoặc nền tảng phối hợp nhiều công nghệ, và những tài nguyên hay nội dung đã được số hóa.
+
+---
+
+Q: Cặp dòng CPU tích hợp NPU và thời điểm ra mắt nào được nêu đúng trong tài liệu?
+A. Intel Core Ultra 200-series năm 2024 và AMD Ryzen AI 300 năm 2025
+B. Intel Core Ultra 200-series năm 2025 và AMD Ryzen AI 300 series năm 2024
+C. Intel Pentium năm 2025 và AMD Athlon năm 2024
+D. Apple M1 năm 2025 và Intel Core 2 Duo năm 2024
+ANSWER: B
+EXPLAIN: Tài liệu lấy Intel Core Ultra 200-series ra mắt năm 2025 và AMD Ryzen AI 300 series ra mắt năm 2024 làm ví dụ về CPU hiện đại có NPU.
+
+---
+
+Q: Ghép loại thiết bị với kích thước màn hình và phương thức nhập liệu nào đúng theo bảng so sánh?
+A. Desktop dưới 7 inch, nhập chủ yếu bằng cảm ứng
+B. Smartphone 24-32 inch, nhập bằng bàn phím rời
+C. Laptop khoảng 13-16 inch với bàn phím tích hợp và touchpad
+D. Tablet luôn lớn hơn 32 inch và chỉ dùng chuột rời
+ANSWER: C
+EXPLAIN: Bảng nêu laptop thường có màn hình 13-16 inch, bàn phím tích hợp và touchpad; desktop thường từ 24-32 inch hoặc hơn, còn tablet và smartphone nhỏ hơn.
+
+---
+
+Q: Nhóm chỉ số nào gắn trực tiếp với chức năng chuyên biệt của fitness tracker?
+A. Tốc độ CPU, băng thông RAM và dung lượng SSD
+B. Độ phân giải màn hình, số cổng USB và công suất sạc
+C. Số tab trình duyệt, lịch sử web và bookmark
+D. Số bước chân, quãng đường, calo tiêu thụ và chất lượng giấc ngủ
+ANSWER: D
+EXPLAIN: Fitness tracker tập trung theo dõi hoạt động thể chất và sức khỏe như bước chân, quãng đường, năng lượng tiêu thụ và giấc ngủ.
+
+---
+
+Q: Lựa chọn nào mô tả đúng nhất ưu và nhược điểm của macOS trong tài liệu?
+A. Ổn định, bảo mật và tối ưu tốt cho phần cứng Apple, nhưng chỉ chạy trên máy Mac, giá cao và ít tùy biến
+B. Chạy trên mọi thiết bị của nhiều hãng và có khả năng tùy biến cao nhất
+C. Hỗ trợ game thương mại rộng nhất nhưng bảo mật thấp nhất
+D. Là hệ điều hành di động mã nguồn mở dành cho smartphone
+ANSWER: A
+EXPLAIN: macOS được tối ưu cho hệ sinh thái phần cứng Apple và có độ ổn định, bảo mật cao; sự độc quyền phần cứng làm giảm lựa chọn và khả năng tùy biến.
+
+---
+
+Q: Nhận định nào đầy đủ nhất về Linux theo nội dung chương?
+A. Chỉ có một phiên bản trả phí và không dùng được trên máy chủ
+B. Có nhiều bản phân phối như Ubuntu, Fedora, Linux Mint; miễn phí, tùy biến cao nhưng hỗ trợ một số phần mềm thương mại và game còn hạn chế
+C. Chỉ chạy trên iPhone và iPad
+D. Không hỗ trợ công cụ lập trình hoặc phần mềm mã nguồn mở
+ANSWER: B
+EXPLAIN: Linux là họ hệ điều hành mã nguồn mở gồm nhiều distribution, mạnh về tùy biến, bảo mật và lập trình nhưng có thể khó dùng hơn với người mới và thiếu một số ứng dụng thương mại.
+
+---
+
+Q: Phát biểu nào phân biệt đúng tệp tin và thư mục?
+A. Tệp luôn chứa được thư mục con, còn thư mục chỉ chứa một ký tự
+B. Tệp và thư mục là hai tên gọi hoàn toàn đồng nghĩa
+C. Tệp là đơn vị lưu một loại thông tin; thư mục dùng để chứa tệp và các thư mục con
+D. Thư mục bắt buộc có phần mở rộng như `.docx`
+ANSWER: C
+EXPLAIN: File lưu nội dung cụ thể, còn folder/directory tổ chức file và folder con thành một cấu trúc cây logic.
+
+---
+
+Q: Khi cài ứng dụng tải từ web trên macOS, quy trình thường gặp nào đúng?
+A. Đổi tệp `.dmg` thành `.exe` rồi mở bằng Microsoft Store
+B. Chép tệp cài đặt vào ROM trước khi chạy
+C. Kéo ứng dụng vào Trash để bắt đầu cài đặt
+D. Mở tệp `.dmg`, sau đó kéo biểu tượng ứng dụng vào thư mục Applications
+ANSWER: D
+EXPLAIN: Ảnh đĩa `.dmg` thường mở ra cửa sổ cài đặt, trong đó người dùng kéo ứng dụng vào Applications để hoàn tất.
+
+---
+
+Q: Ngoài chia sẻ máy in và tài nguyên tập trung, mạng máy tính còn mang lại tổ hợp lợi ích nào?
+A. Chia sẻ dữ liệu và hỗ trợ email, nhắn tin, gọi video hoặc họp trực tuyến
+B. Làm mọi ổ HDD tự động biến thành SSD NVMe
+C. Tăng kích thước vật lý của màn hình laptop
+D. Loại bỏ hoàn toàn phần mềm và hệ điều hành
+ANSWER: A
+EXPLAIN: Mạng tạo điều kiện truyền dữ liệu và giao tiếp giữa người dùng qua nhiều dịch vụ, bên cạnh việc chia sẻ phần cứng và phần mềm.
+
+---
+
+Q: Nhận định nào đúng về Wi-Fi 7 theo số liệu trong tài liệu?
+A. Là chuẩn 802.11n, hoàn thiện năm 2014 và chậm hơn Wi-Fi 6E
+B. Là chuẩn 802.11be, được hoàn thiện/chứng nhận đầu năm 2024 và có thể nhanh gấp khoảng bốn lần Wi-Fi 6E
+C. Là giao thức có dây dùng đầu RJ45
+D. Là tên khác của Bluetooth 5.4
+ANSWER: B
+EXPLAIN: Tài liệu mô tả Wi-Fi 7 theo chuẩn IEEE 802.11be, được hoàn thiện và chứng nhận từ đầu năm 2024, với tốc độ cao hơn đáng kể so với Wi-Fi 6E.
+
+---
+
+Q: Ngoài kết nối tai nghe, ứng dụng nào phù hợp với Bluetooth theo chương?
+A. Liên kết nhiều mạng LAN ở các châu lục
+B. Thanh toán không chạm ở khoảng cách vài centimet mà không ghép nối
+C. Kết nối chuột/bàn phím/loa không dây và truyền các tệp nhỏ giữa thiết bị
+D. Xuất hai màn hình 4K qua cáp
+ANSWER: C
+EXPLAIN: Bluetooth thích hợp cho phụ kiện không dây tầm ngắn và trao đổi tệp dung lượng nhỏ nhờ mức tiêu thụ năng lượng thấp.
+
+---
+
+Q: Thiết bị ngoại vi nào phù hợp nhất để tạo bản giấy của bài tập lớn hoặc báo cáo?
+A. Webcam
+B. Microphone
+C. Scanner
+D. Máy in
+ANSWER: D
+EXPLAIN: Printer là thiết bị đầu ra dùng để in tài liệu học tập, bài tập lớn và báo cáo lên giấy; scanner thực hiện chiều ngược lại là số hóa giấy.
+
+---
+
+Q: So sánh tốc độ nào đúng giữa Thunderbolt 4 và Thunderbolt 5 theo tài liệu?
+A. Thunderbolt 4 đạt 40 Gbps; Thunderbolt 5 có băng thông hai chiều 80 Gbps
+B. Thunderbolt 4 đạt 10 Gbps; Thunderbolt 5 chỉ đạt 20 Gbps
+C. Cả hai luôn giới hạn ở tốc độ USB 2.0
+D. Thunderbolt 4 nhanh 120 Gbps ở mọi chế độ, còn Thunderbolt 5 là 40 Gbps
+ANSWER: A
+EXPLAIN: Thunderbolt 4 được nêu với tốc độ 40 Gbps, trong khi Thunderbolt 5 tăng băng thông hai chiều lên 80 Gbps.
+
+---
+
+Q: Khả năng tăng cường nào của Thunderbolt 5 được tài liệu nêu cho tác vụ video và cấp nguồn?
+A. 40 Gbps và sạc tối đa 15 W
+B. Có thể tăng băng thông lên 120 Gbps cho video và hỗ trợ sạc tới 240 W
+C. Chỉ truyền âm thanh, không truyền điện
+D. Chỉ hoạt động với đầu cắm RJ45
+ANSWER: B
+EXPLAIN: Thunderbolt 5 có thể phân bổ băng thông tới 120 Gbps cho nhu cầu hiển thị/video và hỗ trợ công suất sạc tối đa 240 W theo tài liệu.
+
+---
+
+Q: Khi chọn chuột không dây để dùng lâu với laptop, tổ hợp tiêu chí nào phù hợp nhất?
+A. Độ phân giải webcam, dung lượng SSD và phiên bản hệ điều hành
+B. Khả năng chống ồn và chất lượng micro
+C. Kiểu kết nối USB receiver/Bluetooth, thời lượng pin và thiết kế công thái học
+D. Số lượng trang trong tài liệu Word
+ANSWER: C
+EXPLAIN: Chuột không dây cần phương thức kết nối phù hợp, pin đủ lâu và hình dáng vừa tay để sử dụng thoải mái khi di chuyển hoặc làm việc kéo dài.
+
+---
+
+Q: Theo bảng thiết bị ngoại vi, tổ hợp nào là lưu ý hợp lý khi chọn ổ cứng di động cho sinh viên?
+A. Chỉ cần có màn hình Full HD
+B. Bắt buộc dùng kết nối NFC
+C. Chỉ cần nhẹ, không cần quan tâm tốc độ hay độ bền
+D. Xem xét dung lượng tối thiểu khoảng 1 TB, tốc độ SSD/HDD và độ bền
+ANSWER: D
+EXPLAIN: Dung lượng, tốc độ và độ bền là các tiêu chí chính; SSD nhanh hơn HDD đáng kể nhưng lựa chọn còn tùy nhu cầu và chi phí.
+
+---
+
+Q: Đặc điểm nào làm Microsoft Office phù hợp khi cần làm việc offline và tương thích định dạng MS Office tốt nhất?
+A. Có ứng dụng desktop, hỗ trợ offline và là bộ công cụ gốc của các định dạng Word, Excel, PowerPoint
+B. Chỉ hoạt động trực tuyến và hoàn toàn miễn phí trong mọi trường hợp
+C. Không thể cộng tác qua dịch vụ đám mây
+D. Không tích hợp với Windows hoặc OneDrive
+ANSWER: A
+EXPLAIN: Microsoft Office có phiên bản cài trên máy, hỗ trợ offline tốt, tương thích định dạng của chính mình tốt nhất và có thể cộng tác qua OneDrive/SharePoint.
+
+---
+
+Q: Theo bảng thị phần trình duyệt năm 2025 trong tài liệu, trình duyệt nào đứng đầu với khoảng 65%?
+A. Safari
+B. Google Chrome
+C. Mozilla Firefox
+D. Microsoft Edge
+ANSWER: B
+EXPLAIN: Bảng trong tài liệu ghi Chrome có thị phần cao nhất, khoảng 65% vào năm 2025; đây là số liệu theo thời điểm của tài liệu.
+
+---
+
+Q: Ghép trình duyệt với đặc điểm nào đúng theo bảng so sánh?
+A. Chrome tiêu thụ RAM thấp nhất và có quyền riêng tư tốt nhất
+B. Safari có kho tiện ích lớn nhất trên mọi nền tảng
+C. Firefox tiêu thụ RAM mức trung bình và được đánh giá tốt về quyền riêng tư
+D. Edge không hỗ trợ tiện ích mở rộng
+ANSWER: C
+EXPLAIN: Firefox được bảng đánh giá có mức dùng RAM trung bình, nhiều tiện ích và quyền riêng tư tốt; Chrome có mức dùng RAM cao hơn.
+
+---
+
+Q: Đặc điểm nào đúng với Microsoft Edge theo bảng trình duyệt?
+A. Chỉ chạy trên thiết bị Apple
+B. Không thể đồng bộ tài khoản
+C. Không hỗ trợ tiện ích của Chrome
+D. Chạy trên nhiều nền tảng, đồng bộ tốt với tài khoản Microsoft và tương thích tiện ích Chrome
+ANSWER: D
+EXPLAIN: Edge hiện hỗ trợ Windows, macOS, iOS và Android, tích hợp tài khoản Microsoft và dùng được nhiều extension từ hệ sinh thái Chromium.
+
+---
+
+Q: Hạn chế nền tảng nào được nêu cho Safari?
+A. Chủ yếu chỉ có trên hệ sinh thái Apple như macOS và iOS
+B. Chỉ chạy trên Linux server
+C. Không thể đồng bộ trong hệ sinh thái Apple
+D. Không hiển thị được trang web
+ANSWER: A
+EXPLAIN: Safari được tối ưu và đồng bộ tốt trong hệ sinh thái Apple, nhưng phạm vi nền tảng hạn chế hơn Chrome hoặc Firefox.
+
+---
+
+Q: Ứng dụng ghi chú nào tổ chức nội dung theo Trang, Cơ sở dữ liệu và Khối, đồng thời hỗ trợ cộng tác?
+A. Google Keep
+B. Notion
+C. Evernote
+D. Microsoft Paint
+ANSWER: B
+EXPLAIN: Notion dùng cấu trúc pages, databases và blocks, hỗ trợ tổ chức linh hoạt cùng khả năng cộng tác.
+
+---
+
+Q: Đặc điểm nào phù hợp với Evernote theo bảng so sánh?
+A. Hoàn toàn miễn phí, không có giới hạn và không hỗ trợ tệp đính kèm
+B. Chỉ tổ chức bằng cơ sở dữ liệu và khối
+C. Mô hình freemium, tìm kiếm mạnh; một số khả năng như tìm chữ trong ảnh và cộng tác phụ thuộc gói trả phí
+D. Chỉ lưu được ghi chú văn bản ngắn
+ANSWER: C
+EXPLAIN: Evernote hỗ trợ nhiều loại nội dung, notebook/note/tag và tìm kiếm mạnh, nhưng bản miễn phí và một số tính năng nâng cao bị giới hạn.
+
+---
+
+Q: Nhận định nào đúng nhất về Google Keep trong bảng phần mềm ghi chú?
+A. Tổ chức theo Sổ tay, Phần và Trang với hỗ trợ video chuyên sâu
+B. Là công cụ trả phí bắt buộc dành riêng cho Microsoft 365
+C. Có hệ thống cơ sở dữ liệu phức tạp hơn Notion
+D. Miễn phí, tổ chức bằng ghi chú và nhãn, nhưng tìm kiếm và cộng tác ở mức cơ bản/hạn chế
+ANSWER: D
+EXPLAIN: Google Keep ưu tiên ghi chú nhanh và đơn giản, đồng bộ với hệ sinh thái Google nhưng ít tính năng tổ chức và cộng tác chuyên sâu hơn.
+
+---
+
+Q: Theo bảng trong tài liệu, giới hạn đáng chú ý của Zoom bản miễn phí là gì?
+A. Tối đa 100 người và cuộc họp nhóm giới hạn 40 phút
+B. Chỉ cho phép 10 người nhưng không giới hạn thời gian
+C. Không hỗ trợ chia sẻ màn hình hay phòng họp nhỏ
+D. Không thể ghi cục bộ
+ANSWER: A
+EXPLAIN: Tài liệu ghi Zoom miễn phí hỗ trợ tối đa 100 người nhưng giới hạn 40 phút, đồng thời vẫn có chia sẻ màn hình, breakout room và ghi cục bộ.
+
+---
+
+Q: Theo bảng trong tài liệu, mô tả nào đúng với Google Meet?
+A. Bản miễn phí chỉ cho 40 phút và ghi cục bộ miễn phí
+B. Bản miễn phí hỗ trợ 100 người, giới hạn 60 phút; chức năng ghi cuộc họp thuộc bản trả phí
+C. Không có chia sẻ màn hình
+D. Không tích hợp với Google Workspace
+ANSWER: B
+EXPLAIN: Bảng nêu Meet miễn phí có tối đa 100 người trong 60 phút; ghi hình là tính năng trả phí và hệ thống tích hợp tốt với Google Workspace.
+
+---
+
+Q: Nền tảng họp nào được bảng đánh giá bảo mật “rất tốt” và có nhiều tích hợp doanh nghiệp?
+A. Google Keep
+B. Zoom Meeting
+C. Cisco Webex
+D. LibreOffice
+ANSWER: C
+EXPLAIN: Trong bảng so sánh, Cisco Webex được đánh giá bảo mật rất tốt và có nhiều tích hợp hướng tới môi trường doanh nghiệp.
+
+---
+
+Q: Ghép nền tảng với công cụ bổ trợ cho bảng trắng hoặc bình chọn nào đúng theo tài liệu?
+A. Zoom chỉ có thể dùng Google Forms cho mọi cuộc bình chọn
+B. Teams không có bảng trắng hoặc polls
+C. Webex không hỗ trợ bất kỳ hình thức bảng trắng nào
+D. Google Meet dùng Jamboard cho bảng trắng và Google Forms cho bình chọn
+ANSWER: D
+EXPLAIN: Bảng trong tài liệu liên hệ Meet với Jamboard cho bảng trắng và Google Forms cho polls; đây là mô tả theo hệ sinh thái tại thời điểm biên soạn.
+
+---
+
+Q: Bộ phiên bản hệ điều hành máy tính nào được nêu là hiện hành hoặc phổ biến trong tài liệu?
+A. Windows 11, macOS 26 Tahoe và Ubuntu 24.04 LTS
+B. Windows XP, macOS 9 và Ubuntu 8.04
+C. Windows 7, Android 4 và iOS 6
+D. Chỉ có DOS và Unix cổ điển
+ANSWER: A
+EXPLAIN: Tài liệu nêu Windows 11, macOS 26 Tahoe phát hành cuối năm 2025 và Ubuntu 24.04 LTS làm các phiên bản tiêu biểu.
+
+---
+
+Q: Ghép hệ điều hành di động với phạm vi thiết bị nào đúng?
+A. Android chỉ chạy trên iPhone; iOS chạy trên Samsung và Xiaomi
+B. Android được nhiều hãng như Samsung, Xiaomi, OPPO sử dụng; iOS dành cho iPhone và iPadOS là biến thể cho iPad
+C. Cả Android và iOS đều chỉ dành cho desktop
+D. iPadOS là một bản phân phối Linux cho máy chủ
+ANSWER: B
+EXPLAIN: Android được triển khai trên thiết bị của nhiều nhà sản xuất, còn iOS là hệ điều hành độc quyền cho iPhone và có biến thể iPadOS dành cho iPad.
+
+---
+
+Q: Chuẩn kỹ thuật nền tảng của Wi-Fi và phạm vi sử dụng điển hình nào đúng?
+A. SATA, dùng trong phạm vi vài centimet
+B. PCIe, chỉ dùng bên trong máy tính
+C. IEEE 802.11, thường kết nối thiết bị vào LAN và Internet trong phạm vi vài chục mét
+D. NFC, dùng để phủ mạng cho nhiều tòa nhà
+ANSWER: C
+EXPLAIN: Wi-Fi thuộc họ chuẩn IEEE 802.11, dùng sóng vô tuyến để cung cấp kết nối mạng trong vùng phủ thường tính bằng vài chục mét.
+
+---
+
+Q: Dấu hiệu trực quan nào thường giúp nhận biết cổng USB-C có hỗ trợ Thunderbolt?
+A. Biểu tượng Bluetooth
+B. Nhãn SATA
+C. Biểu tượng Wi-Fi
+D. Biểu tượng tia sét bên cạnh cổng
+ANSWER: D
+EXPLAIN: Cổng Thunderbolt thường dùng đầu nối USB-C và được đánh dấu bằng biểu tượng tia sét để phân biệt với cổng USB-C chỉ hỗ trợ giao thức USB thông thường.

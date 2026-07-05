@@ -1,23 +1,9 @@
 [
   {
-    "id": "logic",
-    "title": "Chương 1: Logic mệnh đề",
-    "description": "Ôn tập cơ bản về mệnh đề, phủ định, kéo theo, tương đương.",
-    "file": "logic.quiz",
-    "count": 5
-  },
-  {
-    "id": "graph",
-    "title": "Chương 2: Lý thuyết đồ thị",
-    "description": "Ôn tập đỉnh, cạnh, bậc, chu trình, cây và đường đi.",
-    "file": "graph.quiz",
-    "count": 5
-  },
-  {
 	"id": "C1",
 	"title": "[CNS-AI] Chương 1: MÁY TÍNH VÀ CÁC THIẾT BỊ NGOẠI VI",
 	"description": "MÁY TÍNH VÀ CÁC THIẾT BỊ NGOẠI VI, ÔN TẬP KĨ VÀO NHÉ CÁC TÌNH YÊU.",
 	"file": "C1.quiz",
-	"count": 60
-  }
+	"count": 112
+  },
 ]
