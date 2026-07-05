@@ -1,0 +1,1479 @@
+# Quiz: Chương 3 - Tổng quan về Trí tuệ nhân tạo
+
+Q: Câu hỏi nền tảng nào Alan Turing đặt ra năm 1950?
+A. “Máy móc có thể suy nghĩ không?”
+B. “Internet có thể thay thế trường học không?”
+C. “Dữ liệu lớn có cần GPU không?”
+D. “Robot có thể tự sản xuất chip không?”
+ANSWER: A
+EXPLAIN: Bài báo năm 1950 của Alan Turing đặt vấn đề về khả năng tư duy của máy và dẫn tới Phép thử Turing.
+
+---
+
+Q: Mục tiêu của Phép thử Turing là gì?
+A. Đo tốc độ tính toán của máy
+B. Xem hành vi thông minh của máy có thể khó phân biệt với con người hay không
+C. Kiểm tra dung lượng dữ liệu huấn luyện
+D. Đánh giá độ phân giải ảnh AI
+ANSWER: B
+EXPLAIN: Turing Test đánh giá khả năng thể hiện hành vi đối thoại thông minh giống con người, không đo phần cứng.
+
+---
+
+Q: Sự kiện nào chính thức khai sinh thuật ngữ Artificial Intelligence?
+A. AlexNet thắng ImageNet năm 2012
+B. ChatGPT ra mắt năm 2022
+C. Hội nghị Dartmouth năm 1956 do John McCarthy tổ chức
+D. Transformer xuất hiện năm 2017
+ANSWER: C
+EXPLAIN: Hội nghị Dartmouth năm 1956 đánh dấu AI trở thành một lĩnh vực nghiên cứu chính thức.
+
+---
+
+Q: Ghép chương trình AI sơ khai với năm nào đúng?
+A. ELIZA - 1950
+B. STUDENT - 2012
+C. Chương trình cờ Arthur Samuel - 1966
+D. Arthur Samuel chơi cờ - 1959; STUDENT - 1964; ELIZA - 1966
+ANSWER: D
+EXPLAIN: Ba chương trình tiêu biểu lần lượt minh họa chơi cờ, giải toán và đối thoại đơn giản trong giai đoạn đầu AI.
+
+---
+
+Q: Nguyên nhân chính của “Mùa đông AI” lần thứ nhất là gì?
+A. Kỳ vọng quá cao trong khi năng lực tính toán, dữ liệu và phương pháp còn hạn chế
+B. Internet tạo ra quá nhiều dữ liệu
+C. GPU quá mạnh làm nghiên cứu dừng lại
+D. AI đã giải quyết xong mọi vấn đề
+ANSWER: A
+EXPLAIN: Những lời hứa không thành hiện thực khiến tài trợ bị cắt giảm vào giữa thập niên 1970.
+
+---
+
+Q: Hệ chuyên gia thập niên 1980 dựa chủ yếu vào cách tiếp cận nào?
+A. Tự học hoàn toàn từ Big Data
+B. Mã hóa tường minh luật logic và tri thức chuyên gia
+C. Chỉ dự đoán token tiếp theo
+D. Tạo ảnh bằng diffusion
+ANSWER: B
+EXPLAIN: Expert Systems là hệ thống dựa trên luật, sử dụng tri thức được chuyên gia và lập trình viên nhập thủ công.
+
+---
+
+Q: Hạn chế nào của hệ chuyên gia góp phần dẫn tới Mùa đông AI lần hai?
+A. Không thể đưa quyết định trong lĩnh vực hẹp
+B. Chỉ hoạt động trên điện thoại
+C. Xây dựng/cập nhật tri thức tốn công, khó mở rộng và thất bại trước tình huống chưa lập trình
+D. Luôn cần hàng tỷ ảnh huấn luyện
+ANSWER: C
+EXPLAIN: Hệ dựa luật giòn, khó bảo trì và không thích nghi tốt với trường hợp mới, dẫn đến thất vọng cuối thập niên 1980-đầu 1990.
+
+---
+
+Q: Thay đổi phương pháp luận cốt lõi của cách mạng Học máy là gì?
+A. Từ dữ liệu sang luật viết tay
+B. Từ GPU sang giấy bút
+C. Từ mạng nơ-ron sang hệ chuyên gia
+D. Từ lập trình quy tắc tường minh sang để máy học mẫu từ dữ liệu
+ANSWER: D
+EXPLAIN: Machine Learning chuyển trọng tâm từ “dạy luật” sang huấn luyện mô hình bằng dữ liệu.
+
+---
+
+Q: Ba yếu tố nào cùng thúc đẩy cách mạng ML/DL?
+A. Big Data, sức mạnh GPU và thuật toán mạng nơ-ron/học sâu
+B. Máy in, scanner và USB
+C. Tên miền, trình duyệt và email
+D. Chỉ một thuật toán không cần dữ liệu
+ANSWER: A
+EXPLAIN: Dữ liệu là nguyên liệu, GPU cung cấp sức tính toán và thuật toán là cơ chế học hiệu quả.
+
+---
+
+Q: Thành tựu nào năm 2012 chứng minh sức mạnh của học sâu trong nhận dạng ảnh?
+A. ELIZA
+B. AlexNet thắng cuộc thi ImageNet
+C. AlphaGo thắng Lee Sedol
+D. ChatGPT ra mắt
+ANSWER: B
+EXPLAIN: Chiến thắng ImageNet của AlexNet là cột mốc quan trọng cho mạng nơ-ron sâu trong thị giác máy tính.
+
+---
+
+Q: Ý nghĩa của chiến thắng AlphaGo trước Lee Sedol năm 2016 là gì?
+A. Chứng minh hệ chuyên gia không cần dữ liệu
+B. Đánh dấu sự ra đời của Internet
+C. Cho thấy AI có thể xử lý trò chơi cực kỳ phức tạp đòi hỏi chiến lược và trực giác
+D. Là lần đầu thuật ngữ AI được dùng
+ANSWER: C
+EXPLAIN: Cờ vây có không gian trạng thái rất lớn, nên thành tựu của AlphaGo được xem là bước tiến vượt bậc.
+
+---
+
+Q: Kiến trúc nào ra đời năm 2017 mở đường cho LLM hiện đại?
+A. Hệ chuyên gia
+B. Cây quyết định đầu tiên
+C. Turing Test
+D. Transformer
+ANSWER: D
+EXPLAIN: Transformer tạo nền tảng cho các mô hình ngôn ngữ lớn như GPT, LLaMA và Gemini.
+
+---
+
+Q: Sự kiện nào đưa GenAI đến với hàng trăm triệu người dùng cuối năm 2022?
+A. ChatGPT ra mắt
+B. ELIZA ra mắt
+C. Dartmouth diễn ra
+D. AlphaGo thắng cờ vây
+ANSWER: A
+EXPLAIN: ChatGPT biến AI tạo sinh thành hiện tượng toàn cầu và mở ra giai đoạn phổ cập mạnh mẽ.
+
+---
+
+Q: Nhóm nào chỉ gồm các mô hình/công cụ tạo ảnh được nêu trong chương?
+A. GPT, LLaMA, Gemini
+B. DALL-E, Midjourney, Stable Diffusion
+C. Siri, Alexa, ELIZA
+D. AlexNet, AlphaGo, STUDENT
+ANSWER: B
+EXPLAIN: DALL-E, Midjourney và Stable Diffusion nổi bật trong tạo ảnh từ mô tả.
+
+---
+
+Q: Mối quan hệ phân cấp nào đúng?
+A. DL bao trùm AI, AI bao trùm ML
+B. ML và DL không liên quan AI
+C. AI bao trùm ML, và ML bao trùm DL
+D. ANN bao trùm mọi lĩnh vực AI
+ANSWER: C
+EXPLAIN: Học máy là nhánh của AI; học sâu là nhánh chuyên biệt của học máy.
+
+---
+
+Q: Mục tiêu bao quát của AI là gì?
+A. Chỉ tạo văn bản
+B. Chỉ phân loại hình ảnh
+C. Chỉ tự động hóa bảng tính
+D. Tạo hệ thống mô phỏng các năng lực nhận thức như học, lập luận, giải quyết vấn đề và ra quyết định
+ANSWER: D
+EXPLAIN: AI là lĩnh vực rộng hơn mọi kỹ thuật cụ thể như ML hay DL.
+
+---
+
+Q: Phát biểu nào đúng về Narrow AI?
+A. Thực hiện tốt một hoặc vài nhiệm vụ cụ thể nhưng không có tư duy tổng quát
+B. Có trí tuệ toàn diện như con người
+C. Đã giải quyết được mọi lĩnh vực nhận thức
+D. Chỉ tồn tại trong giả thuyết
+ANSWER: A
+EXPLAIN: Mọi AI thực tế hiện nay đều là AI hẹp, dù có thể vượt con người trong nhiệm vụ chuyên biệt.
+
+---
+
+Q: AGI được mô tả như thế nào?
+A. Bộ lọc spam trong Gmail
+B. Hệ thống giả định có thể hiểu, học và áp dụng kiến thức rộng như con người
+C. Mô hình chỉ nhận dạng khuôn mặt
+D. Hệ chuyên gia chấm tín dụng
+ANSWER: B
+EXPLAIN: Artificial General Intelligence vẫn là mục tiêu xa, chưa phải năng lực của các hệ thống hiện có.
+
+---
+
+Q: Machine Learning khác hệ dựa luật ở điểm nào?
+A. ML không dùng dữ liệu
+B. ML chỉ chạy trên robot
+C. ML học mẫu từ dữ liệu thay vì cần lập trình toàn bộ luật nếu-thì
+D. ML luôn là AGI
+ANSWER: C
+EXPLAIN: ML xây dựng mô hình dự đoán hoặc quyết định dựa trên kinh nghiệm dữ liệu.
+
+---
+
+Q: Nhóm ứng dụng nào điển hình cho ML?
+A. Chỉ soạn thảo văn bản thủ công
+B. Chỉ nén tệp
+C. Chỉ hiển thị website
+D. Gợi ý sản phẩm, lọc thư rác và dự báo thời tiết
+ANSWER: D
+EXPLAIN: Các hệ thống này học quy luật từ dữ liệu lịch sử để phân loại hoặc dự đoán.
+
+---
+
+Q: Mạng nơ-ron nhân tạo gồm những thành phần cốt lõi nào?
+A. Các lớp nút tính toán kết nối bằng trọng số có thể điều chỉnh
+B. Chỉ một danh sách luật bất biến
+C. Các thư mục và tệp văn bản
+D. Một cơ sở dữ liệu không có thuật toán
+ANSWER: A
+EXPLAIN: ANN truyền tín hiệu qua các lớp và học bằng cách điều chỉnh trọng số để giảm sai số.
+
+---
+
+Q: Mô hình nơ-ron “học” bằng cách nào?
+A. Thêm luật thủ công sau mỗi câu hỏi
+B. Điều chỉnh trọng số để giảm chênh lệch giữa dự đoán và kết quả thực tế
+C. Tăng kích thước màn hình
+D. Xóa dữ liệu huấn luyện
+ANSWER: B
+EXPLAIN: Tối ưu trọng số là cơ chế trung tâm của huấn luyện mạng nơ-ron.
+
+---
+
+Q: Vì sao Deep Learning có chữ “deep”?
+A. Vì mô hình chỉ dùng dữ liệu biển sâu
+B. Vì câu trả lời luôn dài
+C. Vì mạng nơ-ron có nhiều lớp ẩn
+D. Vì chỉ chạy dưới lòng đất
+ANSWER: C
+EXPLAIN: Nhiều hidden layers cho phép học đặc trưng ở các mức trừu tượng tăng dần.
+
+---
+
+Q: Trong nhận dạng khuôn mặt, các lớp DL thường học theo trình tự nào?
+A. Khuôn mặt hoàn chỉnh rồi mới học cạnh
+B. Chỉ học màu sắc
+C. Không tự học đặc trưng
+D. Cạnh/góc → bộ phận như mắt mũi → toàn bộ khuôn mặt
+ANSWER: D
+EXPLAIN: Deep networks xây dựng biểu diễn phân cấp từ đặc trưng đơn giản đến phức tạp.
+
+---
+
+Q: DL đặc biệt thành công với loại dữ liệu nào?
+A. Dữ liệu phi cấu trúc như ảnh, âm thanh và ngôn ngữ tự nhiên
+B. Chỉ bảng nhỏ có vài hàng
+C. Chỉ luật chuyên gia viết tay
+D. Chỉ số nguyên đơn lẻ
+ANSWER: A
+EXPLAIN: Khả năng tự học đặc trưng phức tạp giúp DL xử lý hiệu quả dữ liệu phi cấu trúc.
+
+---
+
+Q: So với ML truyền thống, DL thường yêu cầu gì?
+A. Ít dữ liệu hơn và không cần tính toán
+B. Lượng dữ liệu rất lớn và khả năng tính toán mạnh hơn
+C. Chỉ tri thức chuyên gia viết tay
+D. Không cần huấn luyện
+ANSWER: B
+EXPLAIN: DL thường học từ hàng triệu hoặc hàng tỷ điểm dữ liệu, trong khi ML truyền thống có thể dùng tập nhỏ và có cấu trúc hơn.
+
+---
+
+Q: Học có giám sát và không giám sát khác nhau cơ bản ở đâu?
+A. Cả hai đều không dùng dữ liệu
+B. Không giám sát luôn cần nhãn tốt hơn
+C. Học có giám sát dùng dữ liệu gán nhãn; không giám sát tìm cấu trúc trong dữ liệu chưa gán nhãn
+D. Chỉ DL mới có thể dùng dữ liệu
+ANSWER: C
+EXPLAIN: Nhãn cung cấp đáp án mục tiêu cho supervised learning, còn unsupervised learning khám phá mẫu không có nhãn đích.
+
+---
+
+Q: Định nghĩa nào đúng nhất về Generative AI?
+A. Hệ thống chỉ phân loại đầu vào
+B. Hệ thống chỉ lưu bản sao dữ liệu
+C. Hệ thống chỉ dự đoán nhãn
+D. Nhánh AI tạo nội dung mới như văn bản, ảnh, âm thanh, mã và dữ liệu tổng hợp từ mẫu đã học
+ANSWER: D
+EXPLAIN: GenAI sinh sản phẩm mới dựa trên cấu trúc phân bố học được, không đơn thuần sao chép dữ liệu huấn luyện.
+
+---
+
+Q: So sánh nào đúng giữa Discriminative AI và Generative AI?
+A. AI phân biệt dự đoán/phân loại nhãn; GenAI học cấu trúc dữ liệu để tạo mẫu mới
+B. Cả hai chỉ tạo hình ảnh
+C. GenAI chỉ nhận dạng mèo/chó
+D. AI phân biệt luôn là AGI
+ANSWER: A
+EXPLAIN: Một bên giống “giám định viên” xác định lớp, bên kia giống “nghệ sĩ” tạo nội dung mới.
+
+---
+
+Q: ChatGPT, Gemini và Copilot dựa chủ yếu trên nền tảng nào cho tác vụ văn bản?
+A. Hệ chuyên gia không học
+B. Mô hình Ngôn ngữ Lớn (LLM)
+C. Chỉ cơ sở dữ liệu quan hệ
+D. Máy tìm kiếm ảnh ngược
+ANSWER: B
+EXPLAIN: LLM được huấn luyện trên lượng văn bản lớn để mô hình hóa và tạo ngôn ngữ.
+
+---
+
+Q: Trong huấn luyện LLM, mô hình chủ yếu học điều gì?
+A. Sự thật theo cách con người hiểu
+B. Mọi trải nghiệm cá nhân của người dùng
+C. Quan hệ thống kê giữa từ, cụm từ và ngữ cảnh trong khối văn bản lớn
+D. Chỉ danh sách từ điển cố định
+ANSWER: C
+EXPLAIN: LLM tối ưu dự đoán dựa trên mẫu thống kê, không sở hữu hiểu biết hay ý thức giống con người.
+
+---
+
+Q: Sau khi nhận prompt, LLM tạo câu trả lời cơ bản bằng cách nào?
+A. Tra một câu hoàn chỉnh duy nhất trong cơ sở dữ liệu
+B. Luôn hỏi chuyên gia con người
+C. Sao chép nguyên văn một trang web
+D. Tính xác suất token tiếp theo, chọn token rồi lặp lại với ngữ cảnh mới
+ANSWER: D
+EXPLAIN: Quá trình dự đoán-tạo sinh diễn ra tuần tự cho đến dấu kết thúc hoặc giới hạn độ dài.
+
+---
+
+Q: Vì sao LLM có thể “ảo giác” dù câu trả lời nghe thuyết phục?
+A. Nó tối ưu chuỗi từ có vẻ hợp lý theo xác suất chứ không trực tiếp kiểm chứng sự thật
+B. Nó luôn cố ý lừa người dùng
+C. Mọi dữ liệu huấn luyện đều sai
+D. Nó không dùng token
+ANSWER: A
+EXPLAIN: Tính trôi chảy không đồng nghĩa với tính đúng; mô hình có thể tạo chi tiết hoặc trích dẫn không tồn tại.
+
+---
+
+Q: Đặc điểm nào KHÔNG phải ưu thế nổi bật của GenAI?
+A. Tạo nội dung mới
+B. Bảo đảm mọi kết quả luôn đúng và không thiên vị
+C. Làm việc với nhiều dạng dữ liệu
+D. Giao tiếp bằng ngôn ngữ tự nhiên
+ANSWER: B
+EXPLAIN: GenAI sáng tạo, linh hoạt và dễ tiếp cận nhưng vẫn có thể sai, thiên vị hoặc tạo nội dung không an toàn.
+
+---
+
+Q: Ứng dụng GenAI nào phù hợp với hỗ trợ học tập?
+A. Thay sinh viên thi và nộp bài
+B. Xóa toàn bộ tài liệu gốc
+C. Giải thích khái niệm, tóm tắt tài liệu và tạo câu hỏi ôn tập
+D. Công nhận mọi câu trả lời là đúng
+ANSWER: C
+EXPLAIN: AI có thể đóng vai trò gia sư và công cụ luyện tập, nhưng người học vẫn phải tư duy và kiểm chứng.
+
+---
+
+Q: GenAI có thể hỗ trợ lập trình bằng cách nào?
+A. Chỉ đổi màu trình soạn thảo
+B. Thay thế hoàn toàn kiểm thử
+C. Bảo đảm mã không bao giờ có lỗi
+D. Viết đoạn mã, giải thích thuật toán và hỗ trợ tìm lỗi
+ANSWER: D
+EXPLAIN: AI tăng tốc lập trình nhưng mã sinh ra vẫn cần đọc, kiểm thử và đánh giá bảo mật.
+
+---
+
+Q: Năng lực số được hiểu đầy đủ nhất là gì?
+A. Tập hợp kiến thức, kỹ năng và thái độ để sống, học, làm việc tự tin, hiệu quả, có trách nhiệm trong môi trường số
+B. Chỉ biết bật máy tính
+C. Chỉ biết dùng mạng xã hội
+D. Chỉ có kỹ năng lập trình
+ANSWER: A
+EXPLAIN: Năng lực số bao gồm vận hành, thông tin, giao tiếp, an toàn, sáng tạo và trách nhiệm.
+
+---
+
+Q: AI hỗ trợ thành phần “Vận hành thiết bị và phần mềm” như thế nào?
+A. Chỉ tạo deepfake
+B. Trợ lý giọng nói và tính năng AI tích hợp trong hệ điều hành, Microsoft 365, Google Workspace
+C. Chỉ dùng trong phòng thí nghiệm
+D. Loại bỏ mọi giao diện người dùng
+ANSWER: B
+EXPLAIN: Siri, Google Assistant, Copilot và Gemini đưa AI vào thao tác phần mềm hằng ngày.
+
+---
+
+Q: “Answer engine” như Perplexity tác động đến năng lực thông tin ra sao?
+A. Chỉ trả liên kết ngẫu nhiên
+B. Không dùng nguồn Internet
+C. Tổng hợp câu trả lời từ nhiều nguồn và kèm trích dẫn để hỗ trợ kiểm chứng
+D. Thay thế hoàn toàn tư duy phản biện
+ANSWER: C
+EXPLAIN: Công cụ giúp tiếp cận nhanh, nhưng người học vẫn phải xem nguồn và đánh giá độ tin cậy.
+
+---
+
+Q: AI hỗ trợ giao tiếp và hợp tác bằng tổ hợp nào?
+A. Chỉ tạo bảng tính
+B. Chỉ phân loại ảnh
+C. Chỉ phát hiện mã độc
+D. Dịch thời gian thực, phụ đề tự động, soạn email và gợi ý văn phong
+ANSWER: D
+EXPLAIN: Các tính năng này giảm rào cản ngôn ngữ và tăng khả năng tiếp cận trong cộng tác.
+
+---
+
+Q: Vai trò kép của AI trong an toàn số là gì?
+A. Vừa phát hiện phishing/mã độc, vừa có thể tạo deepfake và thông tin giả tinh vi
+B. Chỉ gây nguy hiểm, không có lợi ích
+C. Chỉ bảo vệ, không tạo rủi ro
+D. Không liên quan an toàn dữ liệu
+ANSWER: A
+EXPLAIN: AI vừa là công cụ phòng thủ vừa tạo thách thức mới, đòi hỏi năng lực kiểm chứng cao hơn.
+
+---
+
+Q: GenAI thay đổi sáng tạo nội dung số chủ yếu bằng cách nào?
+A. Bắt buộc mọi người học phần mềm chuyên sâu trước
+B. Cho phép biến mô tả ngôn ngữ tự nhiên thành ảnh, video, nhạc hoặc văn bản
+C. Chỉ sao chép nội dung cũ
+D. Loại bỏ vai trò ý tưởng của con người
+ANSWER: B
+EXPLAIN: Rào cản kỹ thuật giảm, nhưng chất lượng ý tưởng, lựa chọn và trách nhiệm vẫn thuộc người dùng.
+
+---
+
+Q: Trong kỷ nguyên AI, năng lực số cần mở rộng từ “biết cách làm” sang điều gì?
+A. Chỉ biết thêm công cụ mới
+B. Chỉ tăng tốc gõ phím
+C. Biết tư duy, phán đoán và chịu trách nhiệm khi tương tác với hệ thống thông minh
+D. Tin mọi đầu ra AI
+ANSWER: C
+EXPLAIN: Việc sử dụng AI đúng đòi hỏi phản biện, đạo đức và trách nhiệm chứ không chỉ thao tác kỹ thuật.
+
+---
+
+Q: Gia sư AI cá nhân hóa có thể làm gì?
+A. Chỉ đưa cùng một bài cho mọi người
+B. Thay giảng viên chấm mọi quyết định
+C. Bảo đảm mọi sinh viên đạt điểm cao
+D. Phân tích điểm mạnh/yếu, đề xuất lộ trình, đổi cách giải thích và điều chỉnh độ khó
+ANSWER: D
+EXPLAIN: AI có thể thích ứng với tiến độ cá nhân và cung cấp phản hồi liên tục ở quy mô lớn.
+
+---
+
+Q: Khanmigo được nêu như ví dụ của vai trò nào?
+A. Gia sư ảo cá nhân hóa trên Khan Academy
+B. Công cụ tạo deepfake
+C. Hệ chuyên gia chấm tín dụng
+D. Mạng xã hội thời gian thực
+ANSWER: A
+EXPLAIN: Khanmigo minh họa trợ lý học tập sẵn sàng hỗ trợ người học mọi lúc.
+
+---
+
+Q: AI làm “trợ lý nghiên cứu” bằng cách nào?
+A. Bịa nguồn để hoàn thiện bài nhanh
+B. Tìm/tóm tắt nhiều bài báo, rút luận điểm, phương pháp và kết quả chính
+C. Tự nhận quyền tác giả
+D. Bỏ qua tài liệu gốc
+ANSWER: B
+EXPLAIN: AI giúp lập bản đồ lĩnh vực nhanh hơn, nhưng người nghiên cứu phải đọc và xác minh nguồn.
+
+---
+
+Q: AI như “đối tác sáng tạo” hỗ trợ tốt nhất trong tình huống nào?
+A. Nộp nguyên văn sản phẩm AI
+B. Giao toàn bộ quyết định cho máy
+C. Brainstorm góc nhìn, xây dàn ý và tạo tư liệu minh họa ban đầu
+D. Tránh mọi chỉnh sửa của con người
+ANSWER: C
+EXPLAIN: AI có thể khơi nguồn và hiện thực hóa ý tưởng, còn con người định hướng và đánh giá sản phẩm.
+
+---
+
+Q: “Môi trường thực hành an toàn” bằng AI có ích gì?
+A. Giúp gian lận phỏng vấn
+B. Thay thế mọi giao tiếp thật
+C. Không cung cấp phản hồi
+D. Cho phép luyện thuyết trình, tranh biện, phỏng vấn và nhận phản hồi mà không sợ sai trước đám đông
+ANSWER: D
+EXPLAIN: Mô phỏng tạo không gian luyện tập lặp lại và phản hồi về nội dung, diễn đạt hoặc ngôn ngữ cơ thể.
+
+---
+
+Q: Tác vụ nào thích hợp để AI tự động hóa nhằm giải phóng thời gian cho tư duy bậc cao?
+A. Định dạng tài liệu, tạo danh mục tham khảo, lên lịch và chép lời phỏng vấn
+B. Quyết định đạo đức thay người học
+C. Chấp nhận mọi nguồn tin
+D. Viết toàn bộ luận văn để nộp
+ANSWER: A
+EXPLAIN: Tự động hóa việc lặp lại giúp sinh viên tập trung phân tích, phản biện và giải quyết vấn đề.
+
+---
+
+Q: Cơ hội quan trọng của AI đối với tiếp cận tri thức là gì?
+A. Giới hạn tài liệu theo địa lý
+B. Dân chủ hóa tiếp cận, cá nhân hóa học tập và cung cấp phản hồi nhanh theo nhịp độ cá nhân
+C. Chỉ dành cho chuyên gia trả phí
+D. Loại bỏ nhu cầu học tập
+ANSWER: B
+EXPLAIN: AI mở rộng khả năng học mọi lúc, nhưng khoảng cách tiếp cận vẫn là một thách thức cần lưu ý.
+
+---
+
+Q: Tương tác hiệu quả với AI giúp phát triển nhóm kỹ năng thế kỷ 21 nào?
+A. Chỉ ghi nhớ câu trả lời
+B. Chỉ thao tác chuột
+C. Đặt câu hỏi, đánh giá phản biện, phân biệt thật-sai và giải quyết vấn đề phức tạp
+D. Sao chép nội dung nhanh
+ANSWER: C
+EXPLAIN: Prompt engineering và kiểm chứng thông tin kết hợp kỹ năng kỹ thuật với tư duy phản biện.
+
+---
+
+Q: Làm quen công cụ AI từ khi còn học mang lại lợi ích nghề nghiệp nào?
+A. Bảo đảm không cần học thêm
+B. Chỉ hữu ích cho ngành CNTT
+C. Loại bỏ cạnh tranh lao động
+D. Tăng khả năng thích ứng vì AI sẽ hiện diện trong nhiều ngành nghề
+ANSWER: D
+EXPLAIN: Năng lực dùng AI có trách nhiệm trở thành lợi thế trong môi trường làm việc tương lai.
+
+---
+
+Q: Hallucination nguy hiểm ở điểm nào?
+A. AI có thể bịa dữ kiện, số liệu hoặc trích dẫn nhưng trình bày rất tự tin
+B. AI luôn báo rõ khi không biết
+C. Chỉ làm câu trả lời ngắn hơn
+D. Chỉ xảy ra với hình ảnh
+ANSWER: A
+EXPLAIN: Người dùng dễ nhầm sự trôi chảy với độ chính xác nếu không kiểm chứng chéo.
+
+---
+
+Q: Thiên vị AI thường bắt nguồn từ đâu?
+A. Màn hình người dùng
+B. Định kiến trong dữ liệu do con người tạo ra có thể được mô hình kế thừa và khuếch đại
+C. Chỉ từ tốc độ Internet
+D. Chỉ từ độ dài prompt
+ANSWER: B
+EXPLAIN: Bias dữ liệu có thể dẫn đến kết quả phiến diện hoặc không công bằng về giới, chủng tộc, văn hóa.
+
+---
+
+Q: Phụ thuộc quá mức vào AI có thể gây hệ quả gì?
+A. Luôn tăng khả năng viết
+B. Luôn cải thiện nghiên cứu
+C. Xói mòn kỹ năng viết, phân tích, tổng hợp và giải quyết vấn đề
+D. Tự động nâng cao tư duy phản biện
+ANSWER: C
+EXPLAIN: Sao chép câu trả lời mà không tự suy nghĩ làm các năng lực nền tảng dần suy giảm.
+
+---
+
+Q: Vì sao không nên nhập dữ liệu cá nhân hoặc nhạy cảm vào công cụ AI miễn phí?
+A. Prompt sẽ luôn quá dài
+B. AI không xử lý được chữ
+C. Dữ liệu chắc chắn bị xóa ngay
+D. Nội dung nhập có thể được lưu hoặc dùng huấn luyện, tạo nguy cơ rò rỉ
+ANSWER: D
+EXPLAIN: Người dùng cần đọc chính sách dữ liệu và tránh chia sẻ thông tin bí mật, cá nhân hoặc thuộc tổ chức.
+
+---
+
+Q: Hành vi nào vi phạm liêm chính học thuật khi dùng AI?
+A. Nộp nguyên bài luận do AI viết như sản phẩm của mình
+B. Dùng AI brainstorm rồi tự nghiên cứu, viết và khai báo phù hợp
+C. Kiểm tra nguồn AI đề xuất
+D. Xin AI phản hồi cho bản nháp tự viết
+ANSWER: A
+EXPLAIN: Dùng AI hỗ trợ có thể hợp lệ, nhưng thay thế toàn bộ công việc và che giấu nguồn gốc là gian lận.
+
+---
+
+Q: Digital Divide trong bối cảnh AI là gì?
+A. Khác biệt giữa AI và ML
+B. Bất bình đẳng về khả năng tiếp cận công cụ mạnh và kiến thức khai thác chúng
+C. Chia dữ liệu thành token
+D. Chia mạng nơ-ron thành lớp
+ANSWER: B
+EXPLAIN: Chi phí và năng lực nền khác nhau có thể tạo khoảng cách mới giữa người học.
+
+---
+
+Q: Thái độ phù hợp nhất với AI là gì?
+A. Xem AI là nguồn chân lý
+B. Để AI suy nghĩ thay hoàn toàn
+C. Xem AI là trợ lý, còn người dùng giữ vai trò cầm lái và chịu trách nhiệm
+D. Không bao giờ dùng AI
+ANSWER: C
+EXPLAIN: Tư thế chủ động giúp tận dụng AI để mở rộng năng lực mà không đánh mất phán đoán cá nhân.
+
+---
+
+Q: Tokenization là quá trình nào?
+A. Chuyển token thành hình ảnh
+B. Tạo trích dẫn nguồn
+C. Kiểm tra độ chính xác
+D. Chia prompt thành các đơn vị như từ, phần từ hoặc dấu câu
+ANSWER: D
+EXPLAIN: LLM xử lý chuỗi dưới dạng token chứ không trực tiếp như văn bản nguyên khối.
+
+---
+
+Q: Embedding biểu diễn token như thế nào?
+A. Vector số trong không gian nhiều chiều, nơi từ có nghĩa gần nhau thường có vector gần nhau
+B. Một ảnh chụp của từ
+C. Một luật nếu-thì
+D. Một URL nguồn
+ANSWER: A
+EXPLAIN: Vector embedding mã hóa đặc trưng ngữ nghĩa để mạng nơ-ron có thể tính toán.
+
+---
+
+Q: Cơ chế Attention trong Transformer giúp gì?
+A. Tăng dung lượng ổ cứng
+B. Xác định token nào trong ngữ cảnh quan trọng nhất cho dự đoán hiện tại
+C. Kiểm chứng mọi sự thật
+D. Xóa thiên vị tự động
+ANSWER: B
+EXPLAIN: Attention cho phép mô hình “nhìn lại” toàn chuỗi và gán trọng số quan hệ giữa các token.
+
+---
+
+Q: Ở bước probabilistic generation, mô hình tạo gì trước khi chọn token?
+A. Một danh sách nguồn học thuật
+B. Một câu trả lời đúng duy nhất
+C. Phân phối xác suất trên các token trong từ vựng
+D. Một bản sao dữ liệu huấn luyện
+ANSWER: C
+EXPLAIN: Mô hình ước lượng xác suất như Paris 95%, Lyon 1% rồi áp dụng chiến lược chọn mẫu.
+
+---
+
+Q: Quá trình sinh kết thúc khi nào?
+A. Sau đúng một token
+B. Khi người dùng đóng trình duyệt duy nhất
+C. Khi mô hình tìm được nguồn thật
+D. Khi gặp token kết thúc hoặc đạt giới hạn độ dài
+ANSWER: D
+EXPLAIN: Mỗi token mới được nối vào ngữ cảnh và vòng lặp tiếp tục đến điều kiện dừng.
+
+---
+
+Q: Yếu tố người dùng kiểm soát trực tiếp và quan trọng nhất với chất lượng đầu ra là gì?
+A. Chất lượng, độ rõ ràng và ngữ cảnh của prompt
+B. Toàn bộ dữ liệu huấn luyện
+C. Kiến trúc phần cứng máy chủ
+D. Ngày cắt dữ liệu của mô hình
+ANSWER: A
+EXPLAIN: Prompt tốt dẫn Attention và dự đoán đi đúng nhiệm vụ, dù không khắc phục được mọi giới hạn mô hình.
+
+---
+
+Q: Vì sao cùng một prompt có thể cho chất lượng khác nhau trên GPT, Gemini, Claude hoặc Llama?
+A. Vì tên công cụ dài khác nhau
+B. Mỗi mô hình có năng lực, điểm mạnh, điểm yếu và dữ liệu/kiến trúc riêng
+C. Vì mọi mô hình đều cho kết quả giống hệt
+D. Chỉ do tốc độ gõ
+ANSWER: B
+EXPLAIN: Lựa chọn mô hình là một yếu tố quyết định bên cạnh prompt và tham số sinh.
+
+---
+
+Q: Knowledge cutoff gây giới hạn nào?
+A. Mô hình không thể đọc prompt
+B. Mô hình không thể tạo văn bản
+C. Mô hình có thể thiếu thông tin về sự kiện xảy ra sau thời điểm dữ liệu huấn luyện kết thúc
+D. Mô hình luôn biết tin mới nhất
+ANSWER: C
+EXPLAIN: Nếu không có truy cập dữ liệu mới, kiến thức nền của mô hình bị giới hạn theo thời gian.
+
+---
+
+Q: Temperature thấp gần 0 phù hợp nhất với tác vụ nào?
+A. Viết truyện cực kỳ bất ngờ
+B. Brainstorm tự do
+C. Tạo nhiều biến thể ngẫu nhiên
+D. Trích xuất thông tin hoặc tóm tắt thực tế cần ổn định, dễ đoán
+ANSWER: D
+EXPLAIN: Temperature thấp ưu tiên token xác suất cao, giảm ngẫu nhiên và tăng tính nhất quán.
+
+---
+
+Q: Temperature cao thường tạo đầu ra thế nào?
+A. Đa dạng và sáng tạo hơn nhưng khó dự đoán, phù hợp brainstorm hoặc viết truyện
+B. Luôn chính xác tuyệt đối
+C. Chỉ lặp một câu
+D. Không tạo được token
+ANSWER: A
+EXPLAIN: Nhiệt độ cao tăng cơ hội chọn token xác suất thấp hơn, đổi tính ổn định lấy sự mới lạ.
+
+---
+
+Q: Top-K=10 có nghĩa là gì?
+A. Tạo đúng 10 câu
+B. Chỉ xem xét 10 token có xác suất cao nhất ở mỗi bước
+C. Dùng 10 lớp Transformer
+D. Đọc 10 tài liệu nguồn
+ANSWER: B
+EXPLAIN: Top-K cắt không gian chọn mẫu theo số lượng token ứng viên cố định.
+
+---
+
+Q: Top-P khác Top-K ở điểm nào?
+A. Top-P luôn chọn đúng P token
+B. Top-P không dùng xác suất
+C. Top-P chọn nhóm token có tổng xác suất tích lũy đạt ngưỡng P
+D. Top-P chỉ dùng cho ảnh
+ANSWER: C
+EXPLAIN: Nucleus sampling thích nghi số lượng ứng viên theo phân bố xác suất tại mỗi bước.
+
+---
+
+Q: Context window là giới hạn nào?
+A. Số tài khoản người dùng
+B. Độ phân giải màn hình
+C. Số plugin cài đặt
+D. Lượng ngữ cảnh prompt và đầu ra mà mô hình có thể xử lý trong một lượt
+ANSWER: D
+EXPLAIN: Vượt cửa sổ ngữ cảnh có thể làm nội dung cũ bị bỏ hoặc yêu cầu không được xử lý đầy đủ.
+
+---
+
+Q: Nguyên tắc “rõ ràng và cụ thể” được áp dụng tốt nhất ở prompt nào?
+A. “Liệt kê 3 lợi ích chính của việc đọc sách đối với sinh viên đại học.”
+B. “Viết gì đó hay.”
+C. “Nói về mọi thứ.”
+D. “Làm bài.”
+ANSWER: A
+EXPLAIN: Prompt xác định số lượng, chủ đề và đối tượng sẽ giảm mơ hồ.
+
+---
+
+Q: Vì sao cần cung cấp bối cảnh trong prompt?
+A. Để prompt dài bằng mọi giá
+B. Vì AI không tự biết hoàn cảnh, mục tiêu và trình độ cụ thể của người dùng
+C. Để AI bỏ qua yêu cầu
+D. Để tăng hallucination
+ANSWER: B
+EXPLAIN: Bối cảnh giúp mô hình chọn mức giải thích và nội dung phù hợp.
+
+---
+
+Q: Việc xác định vai trò và đối tượng giúp điều chỉnh yếu tố nào?
+A. Dung lượng máy chủ
+B. Ngày cắt dữ liệu
+C. Văn phong, mức chuyên sâu và cách trình bày
+D. Số token trong từ vựng
+ANSWER: C
+EXPLAIN: “Đóng vai chuyên gia” và “viết cho học sinh” định hình góc nhìn cũng như ngôn ngữ đầu ra.
+
+---
+
+Q: Trong mô hình CLEAR, chữ C đại diện cho gì?
+A. Creativity
+B. Citation
+C. Calculation
+D. Context - cung cấp thông tin nền liên quan
+ANSWER: D
+EXPLAIN: Context giúp AI hiểu tình huống và mục tiêu trước khi thực hiện chỉ dẫn.
+
+---
+
+Q: Chữ L trong CLEAR có ý nghĩa gì?
+A. Role - giao cho AI một vai trò cụ thể
+B. Length - luôn viết thật dài
+C. Link - thêm mọi URL
+D. Logic - chỉ giải toán
+ANSWER: A
+EXPLAIN: Tài liệu dùng L cho Role trong mô hình ghi nhớ CLEAR, dù chữ cái lấy từ vị trí thứ hai của từ CLEAR.
+
+---
+
+Q: Explicit Instruction trong CLEAR yêu cầu điều gì?
+A. Chỉ nêu chủ đề
+B. Nói rõ cần làm gì, định dạng và số lượng/độ dài mong muốn
+C. Không đưa tiêu chí đầu ra
+D. Để AI tự đoán mọi yêu cầu
+ANSWER: B
+EXPLAIN: Chỉ dẫn rõ như “100 từ, dạng gạch đầu dòng” giảm không gian diễn giải sai.
+
+---
+
+Q: Audience trong CLEAR dùng để xác định gì?
+A. Mô hình AI
+B. Người viết prompt
+C. Người nghe hoặc người đọc của sản phẩm đầu ra
+D. Dữ liệu huấn luyện
+ANSWER: C
+EXPLAIN: Biết đối tượng giúp chọn độ khó, thuật ngữ và giọng văn.
+
+---
+
+Q: Refine trong CLEAR thể hiện tư duy nào?
+A. Chấp nhận đầu ra đầu tiên
+B. Xóa cuộc trò chuyện
+C. Chỉ tăng temperature
+D. Yêu cầu sửa đổi và cải thiện kết quả dựa trên phản hồi
+ANSWER: D
+EXPLAIN: Tinh chỉnh biến tương tác AI thành quá trình lặp, không phải một lệnh duy nhất.
+
+---
+
+Q: Zero-shot prompting là gì?
+A. Đưa yêu cầu trực tiếp mà không cung cấp ví dụ mẫu
+B. Cung cấp đúng một ví dụ
+C. Cung cấp nhiều ví dụ
+D. Yêu cầu suy nghĩ từng bước
+ANSWER: A
+EXPLAIN: Zero-shot dựa vào kiến thức và khả năng làm theo chỉ dẫn sẵn có của mô hình.
+
+---
+
+Q: Khi muốn AI bắt chước một định dạng hoặc phong cách, kỹ thuật nào hữu ích?
+A. Giảm context về 0
+B. One-shot hoặc few-shot với một/vài cặp đầu vào-đầu ra mẫu
+C. Chỉ dùng một từ khóa
+D. Không nêu ví dụ hay yêu cầu
+ANSWER: B
+EXPLAIN: Ví dụ minh họa trực tiếp mẫu logic, giọng văn hoặc cấu trúc cần tuân theo.
+
+---
+
+Q: Chain-of-Thought prompting phù hợp nhất với loại nhiệm vụ nào?
+A. Chỉ đổi màu văn bản
+B. Chỉ tạo tiêu đề ngắn
+C. Bài toán logic hoặc yêu cầu phức tạp cần lập luận từng bước
+D. Chỉ dịch một từ
+ANSWER: C
+EXPLAIN: Chuỗi lý luận trung gian giúp mô hình xử lý quan hệ và giảm lỗi ở bài toán nhiều bước.
+
+---
+
+Q: Trong bài toán “17 con cừu, tất cả trừ 9 con đã chết”, đáp án đúng là gì?
+A. 8
+B. 17
+C. 0
+D. 9
+ANSWER: D
+EXPLAIN: “Tất cả trừ 9” nghĩa là 9 con không chết; CoT giúp tránh phép trừ máy móc 17-9.
+
+---
+
+Q: Prompt theo định dạng yêu cầu có thể chỉ định những dạng nào?
+A. Bảng, bullet points, JSON hoặc Markdown
+B. Chỉ văn xuôi không cấu trúc
+C. Chỉ hình ảnh
+D. Chỉ mã nhị phân
+ANSWER: A
+EXPLAIN: Chỉ định cấu trúc giúp đầu ra dễ dùng tiếp trong quy trình học tập hoặc kỹ thuật.
+
+---
+
+Q: Iterative Prompting là gì?
+A. Gửi cùng một prompt vô hạn mà không đọc kết quả
+B. Bắt đầu tương đối tổng quát rồi tinh chỉnh, mở rộng hoặc sửa qua nhiều lượt
+C. Chỉ sử dụng một lượt duy nhất
+D. Thay đổi công cụ sau mỗi từ
+ANSWER: B
+EXPLAIN: Đối thoại nhiều lượt tận dụng ngữ cảnh và phản hồi để tiến dần tới kết quả mong muốn.
+
+---
+
+Q: Cách khắc phục prompt quá chung chung “Viết về marketing” là gì?
+A. Rút còn “Viết”
+B. Tăng temperature mà không sửa prompt
+C. Xác định số lượng, loại chiến lược, đối tượng và bối cảnh cửa hàng cụ thể
+D. Chỉ thêm dấu chấm than
+ANSWER: C
+EXPLAIN: “5 chiến lược digital marketing cho cửa hàng thời trang nhỏ” rõ nhiệm vụ và phạm vi hơn.
+
+---
+
+Q: Với yêu cầu quá phức tạp như bài luận 3000 từ bao phủ lịch sử, kinh tế, văn hóa, nên làm gì?
+A. Gộp thêm nhiều yêu cầu nữa
+B. Bỏ mọi tiêu chí
+C. Yêu cầu AI tự đoán
+D. Chia nhỏ thành lập dàn ý, viết từng phần và xử lý tài liệu tham khảo
+ANSWER: D
+EXPLAIN: Decomposition giúp kiểm soát chất lượng và kiểm tra từng giai đoạn.
+
+---
+
+Q: Prompt tóm tắt bài báo tốt nên bổ sung gì?
+A. Nội dung/loại bài, số gạch đầu dòng, trọng tâm và đối tượng đọc
+B. Chỉ câu “Tóm tắt đi”
+C. Không cung cấp văn bản
+D. Yêu cầu càng mơ hồ càng tốt
+ANSWER: A
+EXPLAIN: Các ràng buộc về phương pháp, kết quả và người đọc tạo bản tóm tắt đúng mục tiêu.
+
+---
+
+Q: Điểm mạnh tổng quát của ChatGPT được nêu là gì?
+A. Chỉ truy cập dữ liệu X thời gian thực
+B. Linh hoạt trong ngôn ngữ, sáng tạo, lập luận và nhiều loại nội dung
+C. Chỉ tạo hình trên mạng xã hội Meta
+D. Chỉ trả lời kèm trích dẫn web
+ANSWER: B
+EXPLAIN: ChatGPT phù hợp brainstorm, dàn ý, giải thích, viết và hỗ trợ lập trình, nhưng có thể hallucinate.
+
+---
+
+Q: Đối thoại nhiều lượt của ChatGPT cho phép gì?
+A. Ghi nhớ mọi cuộc trò chuyện vĩnh viễn
+B. Tự truy cập dữ liệu bí mật
+C. Giữ ngữ cảnh trong cùng hội thoại để hỏi nối tiếp và tinh chỉnh
+D. Bảo đảm không có giới hạn ngữ cảnh
+ANSWER: C
+EXPLAIN: Multi-turn conversation hỗ trợ quy trình lặp, nhưng ngữ cảnh vẫn có giới hạn.
+
+---
+
+Q: Tác vụ nào là ví dụ sử dụng ChatGPT phù hợp trong chương?
+A. Nộp nguyên bài AI viết
+B. Nhập dữ liệu tuyệt mật
+C. Tin mọi trích dẫn do AI tạo
+D. Brainstorm đề tài, lập dàn ý, giải thích khái niệm và soạn email chuyên nghiệp
+ANSWER: D
+EXPLAIN: Đây là các nhiệm vụ hỗ trợ mà người học có thể kiểm soát và biên tập.
+
+---
+
+Q: Điểm mạnh chung của Gemini và Copilot là gì?
+A. Tích hợp sâu vào Google Workspace hoặc Microsoft 365 để xử lý nội dung ngay trong quy trình làm việc
+B. Chỉ hoạt động như chatbot độc lập
+C. Không truy cập được tài liệu người dùng được cấp quyền
+D. Chỉ tạo âm nhạc
+ANSWER: A
+EXPLAIN: Tích hợp hệ sinh thái giúp AI làm việc với Docs/Sheets/Gmail hoặc Word/Excel/PowerPoint/Outlook/Teams.
+
+---
+
+Q: Gemini trong Google Docs có thể làm gì?
+A. Chỉ tạo tài khoản email
+B. Tóm tắt tài liệu, viết tiếp nội dung và tham chiếu tệp trong Drive
+C. Chỉ phân tích dữ liệu X
+D. Chỉ tạo slide từ Word
+ANSWER: B
+EXPLAIN: Gemini có thể dùng ngữ cảnh tài liệu và tệp Drive như bảng chi phí để hỗ trợ báo cáo.
+
+---
+
+Q: Copilot trong PowerPoint có thể thực hiện nhiệm vụ nào?
+A. Chỉ sửa lỗi chính tả email
+B. Chỉ tạo ảnh đại diện
+C. Tạo bài trình chiếu từ tài liệu Word, gồm slide, hình minh họa và ghi chú người nói
+D. Chỉ tìm bài báo khoa học
+ANSWER: C
+EXPLAIN: Tích hợp Microsoft 365 cho phép biến nội dung nguồn thành deck trình chiếu.
+
+---
+
+Q: Copilot trong Outlook và Teams hỗ trợ gì?
+A. Chỉ tạo mã nguồn
+B. Chỉ dịch ảnh
+C. Chỉ phân tích bảng tính
+D. Tóm tắt chuỗi email; tóm tắt họp, quyết định và người phụ trách action items
+ANSWER: D
+EXPLAIN: Copilot giúp rút thông tin hành động từ giao tiếp và cộng tác dài.
+
+---
+
+Q: Điểm mạnh khác biệt của Perplexity AI là gì?
+A. Answer engine tổng hợp nguồn Internet và luôn kèm trích dẫn
+B. Cá tính nổi loạn từ dữ liệu X
+C. Tạo ảnh trong Instagram
+D. Chỉ viết truyện sáng tạo
+ANSWER: A
+EXPLAIN: Perplexity hướng đến nghiên cứu, tra cứu và kiểm chứng hơn đối thoại sáng tạo mở.
+
+---
+
+Q: Grok có lợi thế và rủi ro nổi bật nào?
+A. Tích hợp sâu Word nhưng không có dữ liệu mới
+B. Dữ liệu thời gian thực từ X và cá tính riêng, nhưng có thể mang thiên kiến mạng xã hội
+C. Luôn phù hợp văn phong học thuật
+D. Không cần tài khoản X
+ANSWER: B
+EXPLAIN: Grok hữu ích cho xu hướng và dư luận mới, nhưng nguồn xã hội cần được kiểm chứng cẩn thận.
+
+---
+
+Q: Meta AI phù hợp nhất với nhiệm vụ nào?
+A. Tổng quan tài liệu có trích dẫn học thuật sâu
+B. Phân tích bảng Excel trong Microsoft 365
+C. Tạo nội dung/hình ảnh cho mạng xã hội và hỗ trợ tương tác trong hệ sinh thái Meta
+D. Chỉ giải bài toán logic
+ANSWER: C
+EXPLAIN: Meta AI tích hợp Facebook, Instagram, WhatsApp và Messenger, mạnh về sáng tạo nhanh và xã hội.
+
+---
+
+Q: Nguyên tắc chọn công cụ AI chiến lược là gì?
+A. Luôn chọn công cụ nổi tiếng nhất
+B. Chỉ dùng một công cụ cho mọi việc
+C. Chọn ngẫu nhiên để tránh thiên vị
+D. Ghép điểm mạnh, hạn chế, hệ sinh thái và chi phí của công cụ với nhiệm vụ cụ thể
+ANSWER: D
+EXPLAIN: Không công cụ nào tốt nhất cho mọi tình huống; lựa chọn đúng phụ thuộc mục tiêu và bối cảnh.
+
+---
+
+Q: Hệ chuyên gia thập niên 1980 có thể đưa quyết định trong những lĩnh vực hẹp nào được nêu?
+A. Chẩn đoán y khoa và chấm điểm tín dụng
+B. Tạo phim và âm nhạc
+C. Dịch thời gian thực mọi ngôn ngữ
+D. Điều khiển AGI tổng quát
+ANSWER: A
+EXPLAIN: Expert Systems hoạt động tốt khi miền tri thức hẹp và luật được mã hóa rõ, nhưng khó mở rộng sang tình huống mới.
+
+---
+
+Q: Bảng AI-ML-DL cho thấy AI có thể sử dụng cách tiếp cận nào?
+A. Chỉ học sâu
+B. Cả hệ dựa trên luật và phương pháp dựa trên dữ liệu như ML/DL
+C. Chỉ học có giám sát
+D. Chỉ mạng Transformer
+ANSWER: B
+EXPLAIN: AI là lĩnh vực rộng, bao gồm cả phương pháp không cần học dữ liệu như hệ chuyên gia.
+
+---
+
+Q: ML truyền thống thường cần loại dữ liệu nào theo bảng so sánh?
+A. Không cần dữ liệu
+B. Chỉ văn bản phi cấu trúc
+C. Dữ liệu có cấu trúc, gán nhãn tốt, thường từ hàng nghìn đến hàng triệu điểm
+D. Bắt buộc hàng tỷ video
+ANSWER: C
+EXPLAIN: So với DL, ML thường hoạt động với dữ liệu ít hơn và được chuẩn bị/gán nhãn kỹ.
+
+---
+
+Q: Nhóm nào gồm các ứng dụng DL điển hình trong bảng?
+A. Hệ luật chấm tín dụng
+B. Chỉ lọc thư rác đơn giản
+C. Chỉ bảng tính
+D. Xe tự lái xử lý ảnh, NLP/dịch máy và chẩn đoán y khoa qua hình ảnh
+ANSWER: D
+EXPLAIN: DL nổi bật ở thị giác và ngôn ngữ nhờ mạng nhiều lớp học đặc trưng phức tạp.
+
+---
+
+Q: Ghép LLM với tổ chức phát triển nào đúng?
+A. GPT - OpenAI; LLaMA - Meta; Gemini - Google
+B. GPT - Google; Gemini - Meta; LLaMA - OpenAI
+C. Cả ba đều do Microsoft tạo
+D. Cả ba là hệ chuyên gia năm 1980
+ANSWER: A
+EXPLAIN: Đây là ba họ mô hình ngôn ngữ lớn tiêu biểu được chương nhắc đến.
+
+---
+
+Q: GenAI hỗ trợ nghiên cứu khoa học ngoài tìm kiếm/tóm tắt bằng cách nào?
+A. Tự xác nhận mọi giả thuyết
+B. Tổng hợp bài báo và hỗ trợ phân tích dữ liệu định tính
+C. Tự động trở thành tác giả chính
+D. Bỏ qua phương pháp nghiên cứu
+ANSWER: B
+EXPLAIN: AI có thể tăng tốc xử lý tài liệu và dữ liệu văn bản, nhưng nhà nghiên cứu vẫn phải kiểm chứng và diễn giải.
+
+---
+
+Q: AI có thể cải thiện giao tiếp bằng cách phân tích yếu tố nào ngoài dịch và phụ đề?
+A. Dung lượng pin
+B. Tốc độ GPU
+C. Cảm xúc và văn phong để gợi ý cách tương tác phù hợp
+D. Số lớp mạng nơ-ron
+ANSWER: C
+EXPLAIN: Phân tích cảm xúc và gợi ý giọng điệu có thể hỗ trợ giao tiếp chuyên nghiệp, nhưng cần lưu ý quyền riêng tư.
+
+---
+
+Q: AI tăng năng suất và sáng tạo cho sinh viên chủ yếu bằng cách nào?
+A. Buộc mọi người học kỹ thuật chuyên sâu trước
+B. Thay thế hoàn toàn ý tưởng con người
+C. Chỉ làm sản phẩm đơn giản
+D. Giúp nhanh chóng tạo bài viết, báo cáo, ảnh/video để tập trung hơn vào tư duy và sáng tạo
+ANSWER: D
+EXPLAIN: AI giảm rào cản thực thi, còn định hướng, phán đoán và chất lượng cuối vẫn do con người chịu trách nhiệm.
+
+---
+
+Q: Khi tạo tài khoản ChatGPT, sinh viên cần đặc biệt lưu ý điều gì?
+A. Điều khoản sử dụng liên quan đến dữ liệu và quyền riêng tư
+B. Chỉ màu sắc giao diện
+C. Số người theo dõi tài khoản
+D. Không cần đọc chính sách nào
+ANSWER: A
+EXPLAIN: Nội dung nhập vào dịch vụ AI có thể chịu chính sách lưu trữ và sử dụng dữ liệu khác nhau.
+
+---
+
+Q: Giao diện ChatGPT cơ bản gồm những khu vực nào?
+A. Chỉ một nút tải tệp
+B. Hộp nhập prompt, vùng câu trả lời và thanh lịch sử hội thoại để quay lại cuộc trò chuyện
+C. Chỉ bảng tính
+D. Chỉ cửa sổ tạo ảnh
+ANSWER: B
+EXPLAIN: Lịch sử cho phép mở lại và tiếp tục các phiên hội thoại trước.
+
+---
+
+Q: Tính năng chính của ChatGPT bản cơ bản được mô tả thế nào?
+A. Chỉ trả lời một lượt
+B. Chỉ làm thơ
+C. Đối thoại nhiều lượt và tạo nội dung đa dạng như email, mã, tóm tắt, dịch thuật
+D. Luôn truy cập dữ liệu thời gian thực
+ANSWER: C
+EXPLAIN: Sự linh hoạt ngôn ngữ là điểm mạnh chính, dù độ chính xác phải được kiểm tra.
+
+---
+
+Q: Prompt về KOL ảo trong chương minh họa nhiệm vụ nào?
+A. Tạo bản sao lưu
+B. Chẩn đoán y khoa
+C. Phân loại ảnh
+D. Brainstorm 5 đề tài nghiên cứu cho sinh viên Quan hệ công chúng
+ANSWER: D
+EXPLAIN: Prompt cung cấp ngành học, nhiệm vụ, số lượng và bối cảnh Việt Nam để nhận ý tưởng phù hợp.
+
+---
+
+Q: Prompt lập dàn ý bài luận 2.500 từ được cải thiện nhờ chi tiết nào?
+A. Nêu đề tài, độ dài, mở bài, ba luận điểm có ý hỗ trợ và kết luận
+B. Chỉ nói “viết bài luận”
+C. Không nêu cấu trúc
+D. Yêu cầu AI tự chọn mọi thứ
+ANSWER: A
+EXPLAIN: Ràng buộc cấu trúc giúp AI tạo dàn ý có thể triển khai và kiểm soát.
+
+---
+
+Q: Ví dụ giải thích Blockchain dùng kỹ thuật nào để phù hợp người không chuyên?
+A. Chỉ đưa công thức mật mã
+B. Dùng phép ẩn dụ “cuốn sổ cái công cộng không thể tẩy xóa”
+C. Không xác định đối tượng
+D. Chỉ cung cấp mã nguồn
+ANSWER: B
+EXPLAIN: Phép ẩn dụ và audience rõ ràng giúp chuyển khái niệm trừu tượng thành hình ảnh dễ hiểu.
+
+---
+
+Q: Prompt soạn email cho giáo sư đã xác định những yêu cầu nào?
+A. Chỉ tên người nhận
+B. Chỉ tiêu đề email
+C. Giọng trang trọng, mục đích xin hẹn 15 phút và đề xuất 2-3 khung giờ
+D. Không nêu mục đích
+ANSWER: C
+EXPLAIN: Các ràng buộc giúp AI tạo email chuyên nghiệp, cụ thể và có hành động tiếp theo.
+
+---
+
+Q: Tên trước đây của Google Gemini là gì?
+A. Copilot
+B. LLaMA
+C. Perplexity
+D. Bard
+ANSWER: D
+EXPLAIN: Gemini là tên mới của Bard và được tích hợp sâu với hệ sinh thái Google.
+
+---
+
+Q: Khả năng tham chiếu tệp Drive của Gemini hữu ích thế nào?
+A. Có thể dùng dữ liệu từ tệp khác, chẳng hạn bảng chi phí, để tổng hợp báo cáo hiện tại
+B. Cho phép truy cập mọi tệp không cần quyền
+C. Chỉ đổi tên tệp
+D. Không thể dùng dữ liệu cá nhân
+ANSWER: A
+EXPLAIN: Khi được cấp quyền, Gemini có thể kết nối ngữ cảnh giữa Docs và các tài liệu trong Drive.
+
+---
+
+Q: Theo bảng, Gemini có điểm mạnh nào ngoài tích hợp Workspace?
+A. Chỉ biết dữ liệu đến năm cắt
+B. Có thể truy cập thông tin thời gian thực từ Google Search
+C. Không hỗ trợ nghiên cứu nhanh
+D. Chỉ hoạt động offline
+ANSWER: B
+EXPLAIN: Kết nối tìm kiếm giúp Gemini cập nhật hơn mô hình chỉ dựa trên dữ liệu huấn luyện.
+
+---
+
+Q: Hạn chế nào của Gemini được bảng nêu?
+A. Không thể dùng trong Gmail
+B. Không có bản miễn phí
+C. Sáng tạo đôi khi kém GPT-4 và hệ sinh thái tích hợp vẫn phát triển
+D. Không thể tóm tắt tài liệu
+ANSWER: C
+EXPLAIN: Điểm mạnh tích hợp không có nghĩa Gemini vượt trội ở mọi nhiệm vụ sáng tạo.
+
+---
+
+Q: Nền tảng và khả năng nổi bật của Microsoft Copilot trong bảng là gì?
+A. LLaMA 3 và mạng xã hội Meta
+B. Grok-2 và dữ liệu X
+C. Chỉ mô hình riêng không tạo ảnh
+D. GPT-4, DALL-E 3, truy cập Internet và tích hợp Microsoft 365
+ANSWER: D
+EXPLAIN: Copilot kết hợp ngôn ngữ, tạo ảnh và các ứng dụng Word, PowerPoint, Teams, Outlook.
+
+---
+
+Q: Hạn chế/chi phí của Copilot được mô tả thế nào?
+A. Phụ thuộc hệ sinh thái Microsoft; nhiều tính năng mạnh yêu cầu bản quyền M365 dù bản web có thể miễn phí
+B. Hoàn toàn miễn phí mọi tính năng
+C. Không hoạt động trong Word
+D. Chỉ yêu cầu tài khoản X
+ANSWER: A
+EXPLAIN: Mức tích hợp sâu thường gắn với giấy phép Microsoft 365 trả phí.
+
+---
+
+Q: Perplexity sử dụng mô hình và mô hình chi phí nào theo bảng?
+A. Chỉ LLaMA 3 và không có bản miễn phí
+B. Mô hình riêng/GPT-4; miễn phí có giới hạn và có gói Pro
+C. Chỉ Grok-2
+D. Chỉ hệ chuyên gia luật
+ANSWER: B
+EXPLAIN: Perplexity cung cấp lớp truy xuất và trả lời có nguồn, với tùy chọn miễn phí lẫn trả phí.
+
+---
+
+Q: Hạn chế chính của Perplexity là gì?
+A. Không có trích dẫn
+B. Không thể tìm tài liệu
+C. Ít sáng tạo hơn chatbot mở vì tập trung trả lời và nghiên cứu
+D. Chỉ tạo hình ảnh
+ANSWER: C
+EXPLAIN: Tối ưu tra cứu có nguồn khiến Perplexity không phải lựa chọn mạnh nhất cho viết sáng tạo tự do.
+
+---
+
+Q: Meta AI trong bảng dựa trên mô hình nào và có chi phí cơ bản ra sao?
+A. GPT-4 và Plus
+B. Gemini Advanced
+C. Grok-2 Premium
+D. Llama 3 và cơ bản miễn phí
+ANSWER: D
+EXPLAIN: Meta AI tận dụng Llama và được phân phối trong các ứng dụng xã hội của Meta.
+
+---
+
+Q: Hạn chế nổi bật của Meta AI theo bảng là gì?
+A. Lập luận sâu/văn bản dài còn hạn chế so với GPT-4 và thường có thể hallucinate
+B. Không tạo được hình ảnh
+C. Không tích hợp mạng xã hội
+D. Chỉ dùng cho học thuật
+ANSWER: A
+EXPLAIN: Meta AI phù hợp sáng tạo nhanh hơn các nhiệm vụ lập luận dài, phức tạp.
+
+---
+
+Q: Grok trong bảng dựa trên mô hình và điều kiện truy cập nào?
+A. Llama 3, không cần tài khoản
+B. Grok-2, yêu cầu tài khoản X; mức cao hơn gắn với Premium
+C. Gemini Pro trong Docs
+D. GPT-3.5 trong Word
+ANSWER: B
+EXPLAIN: Grok thuộc xAI và gắn chặt với nền tảng X.
+
+---
+
+Q: Trường hợp sử dụng phù hợp nhất của Grok là gì?
+A. Viết bài học thuật trang trọng không cần kiểm chứng
+B. Tạo slide từ Word
+C. Nắm xu hướng, sự kiện mới và phân tích dư luận mạng xã hội
+D. Quản lý tệp Drive
+ANSWER: C
+EXPLAIN: Dữ liệu thời gian thực từ X tạo lợi thế cho tin mới và xu hướng.
+
+---
+
+Q: Vì sao Grok có thể không phù hợp cho văn phong học thuật?
+A. Không tạo văn bản
+B. Không có dữ liệu mới
+C. Chỉ trả lời bằng hình ảnh
+D. Cá tính và thiên kiến từ mạng xã hội có thể làm đầu ra kém trang trọng, cần kiểm chứng
+ANSWER: D
+EXPLAIN: Tính thời sự không đồng nghĩa với độ tin cậy hay phong cách học thuật.
+
+---
+
+Q: Bảng mô tả ChatGPT dựa trên những mô hình và mức chi phí nào?
+A. GPT-3.5/GPT-4; có mức miễn phí và gói Plus/Team trả phí
+B. Chỉ Llama 3 miễn phí
+C. Chỉ Grok-2 Premium
+D. Chỉ Gemini Advanced
+ANSWER: A
+EXPLAIN: Các mức mô hình và giá phản ánh tài liệu tại thời điểm biên soạn.
+
+---
+
+Q: Điểm mạnh bổ sung của ChatGPT trong bảng là gì?
+A. Chỉ tích hợp mạng xã hội
+B. Khả năng lập luận tốt và hệ sinh thái plugin rộng
+C. Luôn có nguồn trích dẫn tự động
+D. Không tạo mã
+ANSWER: B
+EXPLAIN: Hệ sinh thái mở rộng và tính linh hoạt giúp ChatGPT phục vụ nhiều quy trình.
+
+---
+
+Q: Công cụ nào phù hợp nhất để viết tổng quan tài liệu có trích dẫn nguồn ban đầu?
+A. Grok vì cá tính
+B. Meta AI vì mạng xã hội
+C. Perplexity vì tập trung nghiên cứu và dẫn nguồn
+D. Công cụ tạo ảnh thuần túy
+ANSWER: C
+EXPLAIN: Citation giúp truy ngược nguồn, nhưng người dùng vẫn phải đọc và đánh giá tài liệu gốc.
+
+---
+
+Q: Công cụ nào phù hợp hơn để tạo nhanh ảnh cho bài đăng Instagram?
+A. Perplexity
+B. Hệ chuyên gia tín dụng
+C. Google Scholar
+D. Meta AI
+ANSWER: D
+EXPLAIN: Meta AI được tích hợp mạng xã hội và mạnh về tạo nội dung hình ảnh nhanh.
+
+---
+
+Q: Prompt blog 300 từ về đọc sách trong bảng tốt hơn vì điều gì?
+A. Có vai trò, audience sinh viên, độ dài, ba lợi ích và giọng truyền cảm hứng
+B. Chỉ dài hơn
+C. Không có yêu cầu cụ thể
+D. Không nêu đối tượng
+ANSWER: A
+EXPLAIN: Prompt phối hợp nhiều thành phần CLEAR thay vì chỉ nêu chủ đề.
+
+---
+
+Q: Prompt tóm tắt bài báo khoa học trong bảng yêu cầu đầu ra nào?
+A. Một câu không trọng tâm
+B. Năm gạch đầu dòng tập trung phương pháp và kết quả cho người có kiến thức cơ bản
+C. Toàn bộ bài viết lại nguyên văn
+D. Chỉ danh sách tác giả
+ANSWER: B
+EXPLAIN: Định dạng, trọng tâm và audience giúp bản tóm tắt phục vụ đúng nhu cầu.
+
+---
+
+Q: Prompt gợi ý đề tài AI trong giáo dục được ràng buộc ra sao?
+A. Không giới hạn phạm vi
+B. Chỉ yêu cầu một tiêu đề
+C. Năm chủ đề cụ thể, khả thi trong một tháng, kèm mục tiêu và hướng tiếp cận
+D. Yêu cầu mọi chủ đề trên thế giới
+ANSWER: C
+EXPLAIN: Tính khả thi và bối cảnh sinh viên năm hai CNTT làm kết quả có thể hành động.
+
+---
+
+Q: Khi một công cụ có truy cập Internet, người dùng nên suy luận gì?
+A. Mọi kết quả chắc chắn đúng
+B. Không cần kiểm tra trích dẫn
+C. Công cụ trở thành AGI
+D. Thông tin có thể mới hơn nhưng vẫn phải đánh giá nguồn, tính chính xác và bối cảnh
+ANSWER: D
+EXPLAIN: Retrieval giảm giới hạn cutoff nhưng không loại bỏ nguồn yếu, diễn giải sai hoặc thiên kiến.
+
+---
+
+Q: Vì sao dữ liệu huấn luyện ảnh hưởng cả kiến thức lẫn thiên vị của mô hình?
+A. Mô hình học mẫu từ dữ liệu nên thiếu sót và định kiến trong dữ liệu có thể phản ánh vào đầu ra
+B. Dữ liệu chỉ ảnh hưởng tốc độ hiển thị
+C. Mô hình không dùng dữ liệu
+D. Thiên vị chỉ do người dùng
+ANSWER: A
+EXPLAIN: Phạm vi và chất lượng corpus đặt giới hạn cho những gì mô hình học được.
+
+---
+
+Q: Sử dụng AI minh bạch trong học thuật đòi hỏi gì?
+A. Giấu toàn bộ việc dùng AI
+B. Tuân thủ quy định nhà trường, tự thực hiện phần tư duy và khai báo/ghi nhận khi được yêu cầu
+C. Nộp mọi đầu ra AI nguyên văn
+D. Cho rằng AI không liên quan đạo văn
+ANSWER: B
+EXPLAIN: Quy tắc có thể khác theo môn học, nhưng trung thực và trách nhiệm là nguyên tắc chung.
+
+---
+
+Q: Nếu cần phân tích dữ liệu trong Sheets và soạn email trong Gmail, công cụ nào phù hợp nhất?
+A. Grok
+B. Meta AI
+C. Google Gemini
+D. Hệ chuyên gia
+ANSWER: C
+EXPLAIN: Gemini có lợi thế tích hợp trực tiếp vào các ứng dụng Google Workspace.
+
+---
+
+Q: Nếu cần tạo slide từ Word và tóm tắt họp Teams, nên chọn công cụ nào?
+A. Perplexity
+B. Grok
+C. Meta AI
+D. Microsoft Copilot
+ANSWER: D
+EXPLAIN: Đây là hai quy trình tiêu biểu của Copilot trong Microsoft 365.
+
+---
+
+Q: Ghép khái niệm với mục tiêu chính nào đúng theo bảng 3.1?
+A. AI hướng tới tự động hóa nhiệm vụ trí tuệ và AGI; ML dự đoán/quyết định trên dữ liệu mới; DL tự học biểu diễn phức tạp
+B. AI chỉ tạo ảnh; ML chỉ tạo nhạc; DL chỉ lưu dữ liệu
+C. AI, ML và DL có mục tiêu hoàn toàn giống nhau
+D. ML hướng tới AGI, còn AI chỉ xử lý bảng tính
+ANSWER: A
+EXPLAIN: AI có phạm vi mục tiêu rộng nhất; ML tập trung xây mô hình tổng quát hóa từ dữ liệu; DL chuyên học đặc trưng phức tạp từ dữ liệu lớn.
+
+---
+
+Q: Điểm khác biệt quan trọng trong cách xử lý đặc trưng của DL so với nhiều phương pháp ML truyền thống là gì?
+A. DL không dùng dữ liệu
+B. DL tự động trích xuất đặc trưng qua nhiều lớp nơ-ron thay vì phụ thuộc nhiều vào đặc trưng thiết kế thủ công
+C. DL chỉ xử lý luật nếu-thì
+D. DL không cần huấn luyện
+ANSWER: B
+EXPLAIN: Các lớp sâu học biểu diễn phân cấp trực tiếp từ dữ liệu, góp phần tạo thành công của DL với ảnh, âm thanh và ngôn ngữ.
+
+---
+
+Q: Theo ví dụ trong tài liệu, GPT-4 thường khác GPT-3.5 ở điểm nào?
+A. GPT-4 luôn miễn phí còn GPT-3.5 chỉ trả phí
+B. GPT-3.5 luôn có khả năng lập luận tốt hơn
+C. GPT-4 thường có năng lực lập luận và sáng tạo tốt hơn GPT-3.5
+D. Hai mô hình là sản phẩm của Google
+ANSWER: C
+EXPLAIN: Tài liệu dùng GPT-4 và GPT-3.5 để minh họa rằng việc chọn mô hình khác nhau có thể làm chất lượng đầu ra khác nhau.
+
+---
+
+Q: Hạn chế nào được bảng 3.4 gắn với ChatGPT bản miễn phí?
+A. Không thể tạo văn bản
+B. Không có đối thoại nhiều lượt
+C. Không hỗ trợ brainstorm
+D. Kiến thức có thể bị giới hạn bởi ngày cắt dữ liệu và mô hình có thể hallucinate
+ANSWER: D
+EXPLAIN: Kiến thức không cập nhật tự động và hiện tượng ảo giác khiến người dùng phải kiểm chứng thông tin.
+
+---
+
+Q: Mô hình chi phí cơ bản của Google Gemini trong bảng được mô tả thế nào?
+A. Gemini Pro có mức miễn phí, còn Gemini Advanced là lựa chọn trả phí
+B. Cả Pro và Advanced đều chỉ dùng miễn phí vĩnh viễn
+C. Gemini Pro chỉ trả phí, Advanced hoàn toàn miễn phí
+D. Gemini không có các mức phiên bản khác nhau
+ANSWER: A
+EXPLAIN: Đây là thông tin theo thời điểm biên soạn tài liệu và có thể thay đổi khi nhà cung cấp cập nhật dịch vụ.
+
+---
+
+Q: Đặc điểm nào của Meta AI được nhấn mạnh trong bảng so sánh?
+A. Chỉ tạo văn bản học thuật dài
+B. Tạo hình ảnh nhanh, miễn phí và tích hợp mạnh với hoạt động mạng xã hội
+C. Luôn có trích dẫn học thuật như Perplexity
+D. Chỉ truy cập qua tài khoản X Premium
+ANSWER: B
+EXPLAIN: Meta AI phù hợp sáng tạo nội dung trực quan nhanh cho Facebook, Instagram và các ứng dụng thuộc hệ sinh thái Meta.
+
+---
+
+Q: Phong cách và phạm vi trả lời nào làm Grok khác một số chatbot khác?
+A. Luôn dùng văn phong học thuật trang trọng
+B. Chỉ trả lời câu hỏi toán học
+C. Có cá tính hài hước, nổi loạn hơn và có thể trả lời một số câu hỏi “nhạy cảm” mà công cụ khác từ chối
+D. Không sử dụng dữ liệu từ X
+ANSWER: C
+EXPLAIN: Đặc điểm này tạo sự khác biệt về trải nghiệm, nhưng cũng làm Grok kém phù hợp hơn với văn phong học thuật và cần kiểm chứng thiên kiến.
+
+---
+
+Q: Địa chỉ nào được tài liệu hướng dẫn dùng để truy cập và đăng ký ChatGPT?
+A. `gemini.google.com`
+B. `perplexity.ai`
+C. `x.com`
+D. `chat.openai.com`
+ANSWER: D
+EXPLAIN: Sinh viên được hướng dẫn truy cập chat.openai.com, đăng ký bằng email và lưu ý điều khoản dữ liệu, quyền riêng tư.

@@ -12,5 +12,12 @@
 	"description": "KHAI THÁC DỮ LIỆU VÀ THÔNG TIN, ÔN TẬP KĨ VÀO NHÉ CÁC TÌNH YÊU.",
 	"file": "C2.quiz",
 	"count": 140
+  },
+  {
+	"id": "C3",
+	"title": "[CNS-AI] CHƯƠNG 3: TỔNG QUAN VỀ TRÍ TUỆ NHÂN TẠO ",
+	"description": "TỔNG QUAN VỀ TRÍ TUỆ NHÂN TẠO , ÔN TẬP KĨ VÀO NHÉ CÁC TÌNH YÊU.",
+	"file": "C3.quiz",
+	"count": 148
   }
 ]
