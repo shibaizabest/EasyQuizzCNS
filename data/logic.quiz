@@ -1,0 +1,49 @@
+# Quiz: Chương 1 - Logic mệnh đề
+
+Q: Mệnh đề nào sau đây là hằng đúng?
+A. p ∧ ¬p
+B. p ∨ ¬p
+C. p → ¬p
+D. ¬p ∧ p
+ANSWER: B
+EXPLAIN: p ∨ ¬p luôn đúng vì một mệnh đề hoặc đúng hoặc sai.
+
+---
+
+Q: Phủ định của mệnh đề "Mọi sinh viên đều chăm học" là gì?
+A. Mọi sinh viên đều không chăm học
+B. Có ít nhất một sinh viên không chăm học
+C. Không có sinh viên nào chăm học
+D. Có ít nhất một sinh viên chăm học
+ANSWER: B
+EXPLAIN: Phủ định của "mọi" là "tồn tại ít nhất một" không thỏa tính chất đó.
+
+---
+
+Q: Mệnh đề p → q chỉ sai trong trường hợp nào?
+A. p đúng và q sai
+B. p sai và q đúng
+C. p đúng và q đúng
+D. p sai và q sai
+ANSWER: A
+EXPLAIN: Phép kéo theo chỉ sai khi tiền đề đúng nhưng kết luận sai.
+
+---
+
+Q: Mệnh đề nào tương đương với ¬(p ∧ q)?
+A. ¬p ∧ ¬q
+B. p ∨ q
+C. ¬p ∨ ¬q
+D. p ∧ ¬q
+ANSWER: C
+EXPLAIN: Theo luật De Morgan, phủ định của phép hội bằng phép tuyển của hai phủ định.
+
+---
+
+Q: Mệnh đề p ↔ q đúng khi nào?
+A. Chỉ khi p đúng
+B. Chỉ khi q sai
+C. Khi p và q có giá trị chân lý khác nhau
+D. Khi p và q có cùng giá trị chân lý
+ANSWER: D
+EXPLAIN: Phép tương đương đúng khi hai vế cùng đúng hoặc cùng sai.

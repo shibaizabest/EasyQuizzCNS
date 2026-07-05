@@ -1,0 +1,49 @@
+# Quiz: Chương 2 - Lý thuyết đồ thị
+
+Q: Bậc của một đỉnh trong đồ thị vô hướng là gì?
+A. Số cạnh kề với đỉnh đó
+B. Tổng số đỉnh của đồ thị
+C. Số chu trình của đồ thị
+D. Số thành phần liên thông
+ANSWER: A
+EXPLAIN: Bậc của đỉnh là số cạnh có đầu mút tại đỉnh đó; cạnh khuyên được tính hai lần.
+
+---
+
+Q: Một cây có n đỉnh thì có bao nhiêu cạnh?
+A. n + 1
+B. n
+C. n - 1
+D. 2n
+ANSWER: C
+EXPLAIN: Mọi cây hữu hạn có n đỉnh đều có đúng n - 1 cạnh.
+
+---
+
+Q: Đồ thị liên thông là đồ thị như thế nào?
+A. Mọi đỉnh đều có bậc bằng nhau
+B. Có đường đi giữa mọi cặp đỉnh
+C. Không có chu trình
+D. Có số cạnh bằng số đỉnh
+ANSWER: B
+EXPLAIN: Tính liên thông yêu cầu tồn tại đường đi nối mọi cặp đỉnh trong đồ thị.
+
+---
+
+Q: Chu trình là một đường đi có đặc điểm nào?
+A. Không chứa cạnh nào
+B. Chỉ có một đỉnh
+C. Đỉnh đầu trùng với đỉnh cuối
+D. Mọi đỉnh đều có bậc một
+ANSWER: C
+EXPLAIN: Chu trình là đường đi khép kín, trong đó đỉnh bắt đầu cũng là đỉnh kết thúc.
+
+---
+
+Q: Tổng bậc của tất cả các đỉnh trong đồ thị vô hướng bằng bao nhiêu?
+A. Số cạnh
+B. Hai lần số cạnh
+C. Số đỉnh
+D. Hai lần số đỉnh
+ANSWER: B
+EXPLAIN: Theo định lý bắt tay, mỗi cạnh đóng góp hai vào tổng bậc của các đỉnh.
