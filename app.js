@@ -360,31 +360,58 @@ function renderQuestion() {
     ? renderInstantFeedback(question, selected)
     : "";
 
+  const questionPickerHtml = state.questions.map((_item, index) => {
+    const questionNumber = index + 1;
+    const isAnswered = state.answers[index] !== null;
+    const isCurrent = index === state.currentQuestion;
+    const statusLabel = isAnswered ? "đã trả lời" : "chưa trả lời";
+
+    return `<button
+      class="question-picker-item ${isAnswered ? "is-answered" : "is-unanswered"} ${isCurrent ? "is-current" : ""}"
+      type="button"
+      data-question-index="${index}"
+      aria-label="Đi đến câu ${questionNumber}, ${statusLabel}"
+      ${isCurrent ? 'aria-current="step"' : ""}
+    >${questionNumber}</button>`;
+  }).join("");
+
   const directionClass = state.questionDirection < 0
     ? "is-previous"
     : state.questionDirection > 0
       ? "is-next"
       : "is-stay";
-  app.innerHTML = `<section class="question-card ${directionClass}">
-    <div class="quiz-topbar">
-      <strong>${state.isReviewMode ? "Ôn câu sai" : escapeHtml(state.quizTitle)}</strong>
-      <span class="muted">Câu ${current}/${total}</span>
-    </div>
-    <div class="progress" role="progressbar" aria-valuemin="1" aria-valuemax="${total}" aria-valuenow="${current}" aria-label="Tiến độ làm bài">
-      <div class="progress-bar" style="width: ${(current / total) * 100}%"></div>
-    </div>
-    <h2 class="question-text">${escapeHtml(question.text)}</h2>
-    <fieldset class="answers" aria-label="Chọn một đáp án">${optionsHtml}</fieldset>
-    ${instantFeedbackHtml}
-    <nav class="question-nav" aria-label="Điều hướng câu hỏi">
-      <button class="button secondary" id="previous-question" type="button" ${state.currentQuestion === 0 ? "disabled" : ""}>Câu trước</button>
-      <div class="right-actions">
-        ${current < total ? '<button class="button" id="next-question" type="button">Câu tiếp</button>' : ""}
-        <button class="button danger" id="submit-quiz" type="button">Nộp bài</button>
+  app.innerHTML = `<div class="quiz-layout">
+    <section class="question-card ${directionClass}">
+      <div class="quiz-topbar">
+        <strong>${state.isReviewMode ? "Ôn câu sai" : escapeHtml(state.quizTitle)}</strong>
+        <span class="muted">Câu ${current}/${total}</span>
       </div>
-    </nav>
-    <div class="button-row"><a class="button secondary" href="#/">Về trang chủ</a></div>
-  </section>`;
+      <div class="progress" role="progressbar" aria-valuemin="1" aria-valuemax="${total}" aria-valuenow="${current}" aria-label="Tiến độ làm bài">
+        <div class="progress-bar" style="width: ${(current / total) * 100}%"></div>
+      </div>
+      <h2 class="question-text">${escapeHtml(question.text)}</h2>
+      <fieldset class="answers" aria-label="Chọn một đáp án">${optionsHtml}</fieldset>
+      ${instantFeedbackHtml}
+      <nav class="question-nav" aria-label="Điều hướng câu hỏi">
+        <button class="button secondary" id="previous-question" type="button" ${state.currentQuestion === 0 ? "disabled" : ""}>Câu trước</button>
+        <div class="right-actions">
+          ${current < total ? '<button class="button" id="next-question" type="button">Câu tiếp</button>' : ""}
+          <button class="button danger" id="submit-quiz" type="button">Nộp bài</button>
+        </div>
+      </nav>
+      <div class="button-row"><a class="button secondary" href="#/">Về trang chủ</a></div>
+    </section>
+    <aside class="question-picker" aria-labelledby="question-picker-title">
+      <div class="question-picker-heading">
+        <h3 id="question-picker-title">Chọn câu hỏi</h3>
+        <div class="question-picker-legend" aria-hidden="true">
+          <span><i class="legend-dot answered"></i>Đã trả lời</span>
+          <span><i class="legend-dot unanswered"></i>Chưa trả lời</span>
+        </div>
+      </div>
+      <div class="question-picker-grid">${questionPickerHtml}</div>
+    </aside>
+  </div>`;
 
   document.querySelectorAll('input[name="answer"]').forEach((input) => {
     input.addEventListener("change", (event) => {
@@ -393,8 +420,13 @@ function renderQuestion() {
         state.revealedAnswers[state.currentQuestion] = true;
         state.questionDirection = 0;
         renderQuestion();
+      } else {
+        markCurrentQuestionAnswered();
       }
     });
+  });
+  document.querySelectorAll("[data-question-index]").forEach((button) => {
+    button.addEventListener("click", () => goToQuestion(Number(button.dataset.questionIndex)));
   });
   document.querySelector("#previous-question")?.addEventListener("click", () => moveQuestion(-1));
   document.querySelector("#next-question")?.addEventListener("click", () => moveQuestion(1));
@@ -409,6 +441,23 @@ function renderQuestion() {
   } else {
     focusApp();
   }
+}
+
+function markCurrentQuestionAnswered() {
+  const button = document.querySelector(`[data-question-index="${state.currentQuestion}"]`);
+  if (!button) return;
+
+  button.classList.remove("is-unanswered");
+  button.classList.add("is-answered");
+  button.setAttribute("aria-label", `Đi đến câu ${state.currentQuestion + 1}, đã trả lời`);
+}
+
+function goToQuestion(index) {
+  if (index === state.currentQuestion || index < 0 || index >= state.questions.length) return;
+
+  state.questionDirection = index > state.currentQuestion ? 1 : -1;
+  state.currentQuestion = index;
+  renderQuestion();
 }
 
 function renderInstantFeedback(question, selectedAnswer) {
