@@ -23,7 +23,26 @@ const state = {
 };
 
 document.addEventListener("DOMContentLoaded", init);
+document.addEventListener("keydown", handleQuizKeyboardNavigation);
 window.addEventListener("hashchange", handleRoute);
+
+function handleQuizKeyboardNavigation(event) {
+  if (
+    !["ArrowLeft", "ArrowRight"].includes(event.key)
+    || event.altKey
+    || event.ctrlKey
+    || event.metaKey
+    || event.shiftKey
+    || event.repeat
+  ) return;
+
+  const buttonId = event.key === "ArrowLeft" ? "#previous-question" : "#next-question";
+  const navigationButton = document.querySelector(buttonId);
+  if (!navigationButton || navigationButton.disabled) return;
+
+  event.preventDefault();
+  navigationButton.click();
+}
 
 async function init() {
   try {
@@ -393,9 +412,9 @@ function renderQuestion() {
       <fieldset class="answers" aria-label="Chọn một đáp án">${optionsHtml}</fieldset>
       ${instantFeedbackHtml}
       <nav class="question-nav" aria-label="Điều hướng câu hỏi">
-        <button class="button secondary" id="previous-question" type="button" ${state.currentQuestion === 0 ? "disabled" : ""}>Câu trước</button>
+        <button class="button secondary" id="previous-question" type="button" aria-label="Câu trước" title="Câu trước (phím mũi tên trái)" ${state.currentQuestion === 0 ? "disabled" : ""}>←</button>
         <div class="right-actions">
-          ${current < total ? '<button class="button" id="next-question" type="button">Câu tiếp</button>' : ""}
+          ${current < total ? '<button class="button" id="next-question" type="button" aria-label="Câu sau" title="Câu sau (phím mũi tên phải)">→</button>' : ""}
           <button class="button danger" id="submit-quiz" type="button">Nộp bài</button>
         </div>
       </nav>
