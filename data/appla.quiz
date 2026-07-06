@@ -1,0 +1,1779 @@
+# Quiz: Các loại ứng dụng và tên ứng dụng
+
+Q: Thành phần nào sau đây thuộc nhóm “hệ thống và nền tảng” của công nghệ số thay vì “tài nguyên và nội dung số”?
+A. Sách điện tử
+B. Video bài giảng
+C. Cơ sở dữ liệu khoa học
+D. Hệ thống quản lý học tập VNU-LMS
+ANSWER: D
+EXPLAIN: LMS là một hệ thống/nền tảng kết hợp nhiều thành phần công nghệ; sách điện tử, video và dữ liệu khoa học là tài nguyên hoặc nội dung số.
+
+---
+
+Q: Cặp phân loại nào đúng?
+A. Driver là phần mềm ứng dụng; Microsoft Word là phần mềm hệ thống
+B. Hệ điều hành là phần mềm ứng dụng; Photoshop là phần mềm hệ thống
+C. Trình duyệt là phần mềm hệ thống; tiện ích hệ thống là phần mềm ứng dụng
+D. Driver là phần mềm hệ thống; Microsoft Word là phần mềm ứng dụng
+ANSWER: D
+EXPLAIN: Phần mềm hệ thống gồm hệ điều hành, driver và tiện ích; Word phục vụ trực tiếp một công việc cụ thể của người dùng nên là phần mềm ứng dụng.
+
+---
+
+Q: Nguồn nào nên được ưu tiên khi cài một ứng dụng để giảm nguy cơ phần mềm độc hại?
+A. Liên kết đính kèm trong email không rõ người gửi
+B. Quảng cáo tải nhanh trên trang web lạ
+C. Bản chia sẻ lại không rõ nguồn gốc
+D. Trang chính thức của nhà phát triển hoặc cửa hàng ứng dụng của hệ điều hành
+ANSWER: D
+EXPLAIN: Trang chính thức và cửa hàng ứng dụng có mức tin cậy cao hơn; ứng dụng trên cửa hàng thường được kiểm duyệt và thuận tiện cho quản lý cập nhật.
+
+---
+
+Q: Vì sao cần đọc kỹ các tùy chọn khi chạy trình cài đặt phần mềm miễn phí trên Windows?
+A. Để tăng dung lượng RAM vật lý
+B. Để đổi định dạng ổ SSD từ NVMe sang SATA
+C. Vì mọi trình cài đặt đều tự xóa hệ điều hành
+D. Vì phần mềm có thể đề nghị cài kèm quảng cáo hoặc thanh công cụ không mong muốn
+ANSWER: D
+EXPLAIN: Một số phần mềm miễn phí đặt sẵn lựa chọn cài thêm chương trình hoặc thanh công cụ; người dùng nên nhận diện và bỏ chọn các thành phần không cần thiết.
+
+---
+
+Q: Tác dụng quan trọng nhất của việc cập nhật ứng dụng, ngoài nhận tính năng mới, là gì?
+A. Xóa toàn bộ dữ liệu người dùng
+B. Biến phần mềm ứng dụng thành hệ điều hành
+C. Tự động nâng cấp phần cứng
+D. Vá các lỗ hổng bảo mật đã được phát hiện
+ANSWER: D
+EXPLAIN: Bản cập nhật thường khắc phục lỗi và vá lỗ hổng bảo mật, nhờ đó giảm nguy cơ hệ thống bị khai thác.
+
+---
+
+Q: Ghép công cụ với nhiệm vụ nào đúng?
+A. Excel/Google Sheets - xử lý số liệu, tính toán và lập biểu đồ
+B. PowerPoint/Google Slides - quản lý driver phần cứng
+C. Word/Google Docs - thiết lập mạng WAN
+D. OneDrive - thay thế CPU để chạy phép tính logic
+ANSWER: A
+EXPLAIN: Excel và Google Sheets là phần mềm bảng tính, hỗ trợ công thức, xử lý, phân tích và trực quan hóa dữ liệu.
+
+---
+
+Q: Nhóm công cụ nào phù hợp nhất để thiết kế bài báo cáo dự án dưới dạng slide có văn bản, hình ảnh và video?
+A. Word và Google Docs
+B. PowerPoint và Google Slides
+C. Excel và Google Sheets
+D. Zotero và Mendeley
+ANSWER: B
+EXPLAIN: PowerPoint và Google Slides là phần mềm trình chiếu, được thiết kế để tạo và trình bày các slide đa phương tiện.
+
+---
+
+Q: Một nhóm sinh viên ưu tiên cộng tác thời gian thực, làm việc chủ yếu trực tuyến và không cần tương thích hoàn hảo với tài liệu MS Office phức tạp. Bộ công cụ nào phù hợp nhất?
+A. Google Workspace
+B. Chỉ dùng ROM
+C. LibreOffice trên một máy không chia sẻ
+D. Trình điều khiển thiết bị
+ANSWER: A
+EXPLAIN: Google Workspace hoạt động trực tuyến và có khả năng cộng tác thời gian thực rất tốt; đổi lại, làm việc offline và định dạng MS Office phức tạp có thể hạn chế hơn.
+
+---
+
+Q: Người dùng cần bộ văn phòng hoàn toàn miễn phí, cài trên máy và làm việc offline tốt. Lựa chọn nào phù hợp nhất?
+A. Microsoft Office bản trả phí
+B. Google Workspace chỉ ở chế độ trực tuyến
+C. LibreOffice
+D. Zoom Meeting
+ANSWER: C
+EXPLAIN: LibreOffice miễn phí, cài đặt trên máy và hỗ trợ làm việc offline; khả năng tương thích định dạng MS Office khá tốt nhưng đôi khi gặp vấn đề với định dạng phức tạp.
+
+---
+
+Q: Sinh viên đang viết luận văn và muốn tự động chèn trích dẫn, tạo danh mục tài liệu theo chuẩn APA. Loại phần mềm nào phù hợp nhất?
+A. Phần mềm quản lý tài liệu tham khảo như Zotero hoặc Mendeley
+B. Driver máy in
+C. Phần mềm hội nghị truyền hình
+D. Tiện ích nén tệp
+ANSWER: A
+EXPLAIN: Công cụ quản lý tài liệu tham khảo thu thập, tổ chức nguồn và tự động tạo trích dẫn, danh mục theo chuẩn, giúp tiết kiệm thời gian và hạn chế lỗi học thuật.
+
+---
+
+Q: Công cụ nào phù hợp nhất để tạo một “bộ não số”, liên kết ghi chú và tổ chức ý tưởng lâu dài?
+A. Notion, OneNote, Evernote hoặc Obsidian
+B. BIOS và firmware
+C. Ethernet và RJ45
+D. HDD và ROM
+ANSWER: A
+EXPLAIN: Các ứng dụng ghi chú cho phép lưu nội dung đa dạng, tổ chức và liên kết thông tin, giúp quản lý tri thức cá nhân có hệ thống.
+
+---
+
+Q: Một nhóm cần theo dõi tiến độ bài tập lớn, phân công công việc và quản lý thời hạn. Nhóm công cụ nào phù hợp nhất?
+A. Google Calendar, Trello hoặc Asana
+B. Paint, Calculator hoặc BIOS
+C. Scanner, printer hoặc webcam
+D. NFC, Bluetooth hoặc Wi-Fi
+ANSWER: A
+EXPLAIN: Đây là các công cụ lập kế hoạch và quản lý công việc, hỗ trợ lịch, nhiệm vụ, thời hạn và theo dõi tiến độ dự án nhóm.
+
+---
+
+Q: Vai trò nào thuộc về LMS như VNU-LMS, Moodle hoặc Canvas?
+A. Thay thế ổ SSD để lưu hệ điều hành
+B. Là lớp học ảo để phân phối tài liệu, giao/nộp bài, kiểm tra và theo dõi điểm
+C. Chỉ dùng để gọi video đồng bộ
+D. Chỉ dùng để biên tập ảnh
+ANSWER: B
+EXPLAIN: LMS là nền tảng quản lý toàn bộ hoạt động học tập trực tuyến, gồm nội dung, thông báo, bài tập, bài kiểm tra, nộp bài và điểm số.
+
+---
+
+Q: Điểm khác biệt chính giữa LMS và phần mềm hội nghị truyền hình trong học trực tuyến là gì?
+A. LMS quản lý nội dung và tiến trình học; phần mềm hội nghị phục vụ tương tác trực tiếp theo thời gian thực
+B. LMS chỉ hoạt động bằng Bluetooth; hội nghị chỉ hoạt động bằng NFC
+C. LMS là phần cứng; hội nghị là hệ điều hành
+D. Hai loại hoàn toàn giống nhau về vai trò
+ANSWER: A
+EXPLAIN: LMS tổ chức lớp học, tài liệu, bài tập và điểm; Zoom, Meet hoặc Teams chủ yếu hỗ trợ buổi học đồng bộ qua âm thanh, video và chia sẻ màn hình.
+
+---
+
+Q: Kỹ năng nào cần thiết khi tham gia một lớp học đồng bộ qua Zoom, Google Meet hoặc Microsoft Teams?
+A. Thay CPU trong lúc cuộc họp diễn ra
+B. Bật/tắt micro, camera, chia sẻ màn hình và tham gia phòng thảo luận nhỏ
+C. Chuyển HDD thành RAM
+D. Viết driver cho webcam trước mỗi buổi học
+ANSWER: B
+EXPLAIN: Các thao tác điều khiển âm thanh, hình ảnh, chia sẻ nội dung và breakout room là kỹ năng sử dụng công cụ hội nghị truyền hình thiết yếu.
+
+---
+
+Q: Ghép hệ điều hành với ứng dụng quản lý tệp nào hoàn toàn đúng?
+A. Windows - Finder; macOS - Files; Ubuntu - File Explorer
+B. Windows - Launchpad; macOS - Taskbar; Ubuntu - Dock
+C. Windows - File Explorer; macOS - Finder; Ubuntu - Files
+D. Windows - Nautilus; macOS - Microsoft Store; Ubuntu - Finder
+ANSWER: C
+EXPLAIN: Windows dùng File Explorer, macOS dùng Finder và Ubuntu dùng Files, trước đây thường được gọi là Nautilus.
+
+---
+
+Q: Quy trình gỡ ứng dụng nào đúng theo hệ điều hành?
+A. Windows: kéo mọi ứng dụng vào Dock; macOS: dùng Apps & features
+B. Windows và macOS: chỉ cần xóa biểu tượng ngoài màn hình nền
+C. Ubuntu: bắt buộc xóa thủ công mọi tệp hệ thống bằng CLI
+D. Windows: Settings → Apps; macOS: kéo ứng dụng từ Applications vào Trash; Ubuntu: Remove trong Ubuntu Software
+ANSWER: D
+EXPLAIN: Mỗi hệ điều hành có công cụ quản lý ứng dụng riêng; xóa biểu tượng lối tắt không đồng nghĩa với gỡ bỏ chương trình.
+
+---
+
+Q: Nhiệm vụ nào phù hợp nhất với Microsoft Word hoặc Google Docs?
+A. Soạn tiểu luận, định dạng văn bản, chèn bảng/hình và tạo mục lục
+B. Phân lịch CPU cho các tiến trình hệ thống
+C. Ghép nối tai nghe bằng Bluetooth
+D. Quản lý mạng WAN giữa nhiều quốc gia
+ANSWER: A
+EXPLAIN: Word và Google Docs là công cụ xử lý văn bản, phục vụ soạn thảo báo cáo, tiểu luận và tài liệu có cấu trúc.
+
+---
+
+Q: Sinh viên cần ghi chú bài giảng có văn bản, hình ảnh, âm thanh, video và chữ viết tay, đồng thời muốn tổ chức theo Sổ tay - Phần - Trang. Công cụ nào phù hợp nhất theo bảng so sánh?
+A. Google Keep
+B. Trello
+C. Microsoft OneNote
+D. Zotero
+ANSWER: C
+EXPLAIN: OneNote hỗ trợ đa phương tiện và chữ viết tay rất tốt, đồng thời tổ chức nội dung theo mô hình Sổ tay, Phần và Trang.
+
+---
+
+Q: Nhóm đã sử dụng Microsoft 365 và cần họp trực tuyến có chia sẻ màn hình, phòng nhỏ, bảng trắng và tích hợp tốt với hệ sinh thái hiện tại. Lựa chọn phù hợp nhất là gì?
+A. Google Keep
+B. Zotero
+C. LibreOffice Writer
+D. Microsoft Teams
+ANSWER: D
+EXPLAIN: Teams cung cấp các tính năng cộng tác và hội nghị cần thiết, đồng thời có lợi thế tích hợp trực tiếp với Microsoft 365.
+
+---
+
+Q: Khi cài ứng dụng tải từ web trên macOS, quy trình thường gặp nào đúng?
+A. Đổi tệp `.dmg` thành `.exe` rồi mở bằng Microsoft Store
+B. Chép tệp cài đặt vào ROM trước khi chạy
+C. Kéo ứng dụng vào Trash để bắt đầu cài đặt
+D. Mở tệp `.dmg`, sau đó kéo biểu tượng ứng dụng vào thư mục Applications
+ANSWER: D
+EXPLAIN: Ảnh đĩa `.dmg` thường mở ra cửa sổ cài đặt, trong đó người dùng kéo ứng dụng vào Applications để hoàn tất.
+
+---
+
+Q: Đặc điểm nào làm Microsoft Office phù hợp khi cần làm việc offline và tương thích định dạng MS Office tốt nhất?
+A. Có ứng dụng desktop, hỗ trợ offline và là bộ công cụ gốc của các định dạng Word, Excel, PowerPoint
+B. Chỉ hoạt động trực tuyến và hoàn toàn miễn phí trong mọi trường hợp
+C. Không thể cộng tác qua dịch vụ đám mây
+D. Không tích hợp với Windows hoặc OneDrive
+ANSWER: A
+EXPLAIN: Microsoft Office có phiên bản cài trên máy, hỗ trợ offline tốt, tương thích định dạng của chính mình tốt nhất và có thể cộng tác qua OneDrive/SharePoint.
+
+---
+
+Q: Theo bảng thị phần trình duyệt năm 2025 trong tài liệu, trình duyệt nào đứng đầu với khoảng 65%?
+A. Safari
+B. Google Chrome
+C. Mozilla Firefox
+D. Microsoft Edge
+ANSWER: B
+EXPLAIN: Bảng trong tài liệu ghi Chrome có thị phần cao nhất, khoảng 65% vào năm 2025; đây là số liệu theo thời điểm của tài liệu.
+
+---
+
+Q: Ghép trình duyệt với đặc điểm nào đúng theo bảng so sánh?
+A. Chrome tiêu thụ RAM thấp nhất và có quyền riêng tư tốt nhất
+B. Safari có kho tiện ích lớn nhất trên mọi nền tảng
+C. Firefox tiêu thụ RAM mức trung bình và được đánh giá tốt về quyền riêng tư
+D. Edge không hỗ trợ tiện ích mở rộng
+ANSWER: C
+EXPLAIN: Firefox được bảng đánh giá có mức dùng RAM trung bình, nhiều tiện ích và quyền riêng tư tốt; Chrome có mức dùng RAM cao hơn.
+
+---
+
+Q: Đặc điểm nào đúng với Microsoft Edge theo bảng trình duyệt?
+A. Chỉ chạy trên thiết bị Apple
+B. Không thể đồng bộ tài khoản
+C. Không hỗ trợ tiện ích của Chrome
+D. Chạy trên nhiều nền tảng, đồng bộ tốt với tài khoản Microsoft và tương thích tiện ích Chrome
+ANSWER: D
+EXPLAIN: Edge hiện hỗ trợ Windows, macOS, iOS và Android, tích hợp tài khoản Microsoft và dùng được nhiều extension từ hệ sinh thái Chromium.
+
+---
+
+Q: Hạn chế nền tảng nào được nêu cho Safari?
+A. Chủ yếu chỉ có trên hệ sinh thái Apple như macOS và iOS
+B. Chỉ chạy trên Linux server
+C. Không thể đồng bộ trong hệ sinh thái Apple
+D. Không hiển thị được trang web
+ANSWER: A
+EXPLAIN: Safari được tối ưu và đồng bộ tốt trong hệ sinh thái Apple, nhưng phạm vi nền tảng hạn chế hơn Chrome hoặc Firefox.
+
+---
+
+Q: Ứng dụng ghi chú nào tổ chức nội dung theo Trang, Cơ sở dữ liệu và Khối, đồng thời hỗ trợ cộng tác?
+A. Google Keep
+B. Notion
+C. Evernote
+D. Microsoft Paint
+ANSWER: B
+EXPLAIN: Notion dùng cấu trúc pages, databases và blocks, hỗ trợ tổ chức linh hoạt cùng khả năng cộng tác.
+
+---
+
+Q: Đặc điểm nào phù hợp với Evernote theo bảng so sánh?
+A. Hoàn toàn miễn phí, không có giới hạn và không hỗ trợ tệp đính kèm
+B. Chỉ tổ chức bằng cơ sở dữ liệu và khối
+C. Mô hình freemium, tìm kiếm mạnh; một số khả năng như tìm chữ trong ảnh và cộng tác phụ thuộc gói trả phí
+D. Chỉ lưu được ghi chú văn bản ngắn
+ANSWER: C
+EXPLAIN: Evernote hỗ trợ nhiều loại nội dung, notebook/note/tag và tìm kiếm mạnh, nhưng bản miễn phí và một số tính năng nâng cao bị giới hạn.
+
+---
+
+Q: Nhận định nào đúng nhất về Google Keep trong bảng phần mềm ghi chú?
+A. Tổ chức theo Sổ tay, Phần và Trang với hỗ trợ video chuyên sâu
+B. Là công cụ trả phí bắt buộc dành riêng cho Microsoft 365
+C. Có hệ thống cơ sở dữ liệu phức tạp hơn Notion
+D. Miễn phí, tổ chức bằng ghi chú và nhãn, nhưng tìm kiếm và cộng tác ở mức cơ bản/hạn chế
+ANSWER: D
+EXPLAIN: Google Keep ưu tiên ghi chú nhanh và đơn giản, đồng bộ với hệ sinh thái Google nhưng ít tính năng tổ chức và cộng tác chuyên sâu hơn.
+
+---
+
+Q: Theo bảng trong tài liệu, giới hạn đáng chú ý của Zoom bản miễn phí là gì?
+A. Tối đa 100 người và cuộc họp nhóm giới hạn 40 phút
+B. Chỉ cho phép 10 người nhưng không giới hạn thời gian
+C. Không hỗ trợ chia sẻ màn hình hay phòng họp nhỏ
+D. Không thể ghi cục bộ
+ANSWER: A
+EXPLAIN: Tài liệu ghi Zoom miễn phí hỗ trợ tối đa 100 người nhưng giới hạn 40 phút, đồng thời vẫn có chia sẻ màn hình, breakout room và ghi cục bộ.
+
+---
+
+Q: Theo bảng trong tài liệu, mô tả nào đúng với Google Meet?
+A. Bản miễn phí chỉ cho 40 phút và ghi cục bộ miễn phí
+B. Bản miễn phí hỗ trợ 100 người, giới hạn 60 phút; chức năng ghi cuộc họp thuộc bản trả phí
+C. Không có chia sẻ màn hình
+D. Không tích hợp với Google Workspace
+ANSWER: B
+EXPLAIN: Bảng nêu Meet miễn phí có tối đa 100 người trong 60 phút; ghi hình là tính năng trả phí và hệ thống tích hợp tốt với Google Workspace.
+
+---
+
+Q: Nền tảng họp nào được bảng đánh giá bảo mật “rất tốt” và có nhiều tích hợp doanh nghiệp?
+A. Google Keep
+B. Zoom Meeting
+C. Cisco Webex
+D. LibreOffice
+ANSWER: C
+EXPLAIN: Trong bảng so sánh, Cisco Webex được đánh giá bảo mật rất tốt và có nhiều tích hợp hướng tới môi trường doanh nghiệp.
+
+---
+
+Q: Ghép nền tảng với công cụ bổ trợ cho bảng trắng hoặc bình chọn nào đúng theo tài liệu?
+A. Zoom chỉ có thể dùng Google Forms cho mọi cuộc bình chọn
+B. Teams không có bảng trắng hoặc polls
+C. Webex không hỗ trợ bất kỳ hình thức bảng trắng nào
+D. Google Meet dùng Jamboard cho bảng trắng và Google Forms cho bình chọn
+ANSWER: D
+EXPLAIN: Bảng trong tài liệu liên hệ Meet với Jamboard cho bảng trắng và Google Forms cho polls; đây là mô tả theo hệ sinh thái tại thời điểm biên soạn.
+
+---
+
+Q: Định dạng nào gắn với bảng tính Microsoft Excel để tính toán và tạo biểu đồ?
+A. `.mp4`
+B. `.png`
+C. `.txt`
+D. `.xls` hoặc `.xlsx`
+ANSWER: D
+EXPLAIN: XLS/XLSX là định dạng bảng tính Excel, hỗ trợ dữ liệu, công thức, phân tích và biểu đồ.
+
+---
+
+Q: Định dạng nào được dùng phổ biến cho bài trình chiếu Microsoft PowerPoint?
+A. `.ppt` hoặc `.pptx`
+B. `.jpg` hoặc `.jpeg`
+C. `.zip` hoặc `.rar`
+D. `.mp3` hoặc `.wav`
+ANSWER: A
+EXPLAIN: PPT/PPTX là các định dạng bài trình chiếu của Microsoft PowerPoint.
+
+---
+
+Q: Công cụ ghi chú nào có cấu trúc trực quan giống sổ tay với mục và trang, đồng thời tích hợp Microsoft 365?
+A. Dropbox
+B. Microsoft OneNote
+C. Google Scholar
+D. SciSpace
+ANSWER: B
+EXPLAIN: OneNote tổ chức nội dung theo sổ, phần/mục và trang, phù hợp ghi chú học tập trong hệ sinh thái Microsoft.
+
+---
+
+Q: Nhu cầu nào phù hợp nhất với Notion?
+A. Chỉ nghe âm thanh MP3
+B. Chỉ tìm số lần trích dẫn học thuật
+C. Ghi chú, quản lý công việc, xây dựng cơ sở dữ liệu cá nhân và cộng tác trong một workspace
+D. Chỉ nén tệp
+ANSWER: C
+EXPLAIN: Notion là không gian làm việc linh hoạt, kết hợp ghi chú, cơ sở dữ liệu, quản lý tiến độ và cộng tác nhóm.
+
+---
+
+Q: Điểm mạnh nổi bật của Evernote được nêu trong chương là gì?
+A. Phân tích rủi ro tín dụng
+B. Tạo biểu đồ Excel
+C. Cung cấp cơ sở dữ liệu IEEE Xplore
+D. Web clipping, lưu/tìm mẩu thông tin và nhận dạng chữ trong hình ảnh
+ANSWER: D
+EXPLAIN: Evernote mạnh ở thu thập nội dung web và tìm kiếm, bao gồm khả năng nhận dạng văn bản trong ảnh.
+
+---
+
+Q: Zotero và Mendeley giúp giảm sai sót học thuật bằng cách nào?
+A. Thu thập metadata/PDF, tổ chức thư viện và tự động tạo trích dẫn cùng danh mục tài liệu
+B. Thay người nghiên cứu viết toàn bộ bài
+C. Chỉ lưu tệp âm thanh
+D. Kiểm soát quyền truy cập Wi-Fi
+ANSWER: A
+EXPLAIN: Các công cụ này hỗ trợ chu trình quản lý tài liệu tham khảo từ thu thập, gắn thẻ đến chèn trích dẫn theo nhiều chuẩn.
+
+---
+
+Q: Dịch vụ nào cung cấp 15 GB miễn phí và tích hợp mạnh với Docs, Sheets, Slides, Meet?
+A. Dropbox
+B. OneDrive
+C. Google Drive
+D. Zotero
+ANSWER: C
+EXPLAIN: Google Drive có 15 GB miễn phí theo tài liệu và liên kết chặt với Google Workspace, đặc biệt mạnh về cộng tác thời gian thực.
+
+---
+
+Q: Mô tả nào đúng về dung lượng OneDrive trong tài liệu?
+A. Mọi tài khoản đều chỉ có 2 GB
+B. Mặc định 15 GB và không tích hợp Windows
+C. Không có gói dành cho sinh viên
+D. Thường có 5 GB miễn phí, còn tài khoản sinh viên do trường cấp có thể lên tới 1 TB
+ANSWER: D
+EXPLAIN: OneDrive bản phổ thông được nêu với 5 GB, nhưng tổ chức giáo dục có thể cấp dung lượng lớn hơn qua Microsoft 365.
+
+---
+
+Q: Đặc điểm nào đúng với Dropbox theo tài liệu?
+A. Giao diện đơn giản, đồng bộ nhanh nhưng gói miễn phí chỉ khoảng 2 GB
+B. Miễn phí 15 GB và tích hợp sâu nhất với Google Docs
+C. Tài khoản miễn phí luôn có 1 TB
+D. Chỉ dùng để quản lý trích dẫn
+ANSWER: A
+EXPLAIN: Dropbox nổi bật về sự đơn giản và tốc độ đồng bộ, nhưng dung lượng miễn phí thấp hơn Drive và OneDrive.
+
+---
+
+Q: Google Scholar khác máy tìm kiếm web thông thường chủ yếu ở điểm nào?
+A. Chỉ tìm hình ảnh giải trí
+B. Không có bộ lọc năm
+C. Chỉ tìm mạng xã hội
+D. Tập trung vào bài báo khoa học, luận văn, sách và báo cáo hội nghị
+ANSWER: D
+EXPLAIN: Scholar lập chỉ mục nội dung học thuật từ nhà xuất bản, trường đại học và tổ chức nghiên cứu.
+
+---
+
+Q: Chỉ số “Cited by” trên Google Scholar giúp người dùng suy luận điều gì?
+A. Mức độ một công trình đã được các tài liệu khác trích dẫn và ảnh hưởng tương đối của nó
+B. Bài báo chắc chắn đúng tuyệt đối
+C. Tác giả đã trả phí bao nhiêu
+D. Tệp có dung lượng bao nhiêu
+ANSWER: A
+EXPLAIN: Số lượt trích dẫn là một tín hiệu về ảnh hưởng, nhưng vẫn phải kết hợp đánh giá chất lượng và bối cảnh.
+
+---
+
+Q: Tính năng nào của Google Scholar giúp khám phá nghiên cứu tương tự một bài đã tìm thấy?
+A. Version History
+B. Related articles
+C. 2FA
+D. Reverse Image Search
+ANSWER: B
+EXPLAIN: Related articles dẫn đến các tài liệu có nội dung hoặc mối liên hệ học thuật gần với bài hiện tại.
+
+---
+
+Q: Nhấp biểu tượng dấu ngoặc kép trong Google Scholar thường cung cấp gì?
+A. Bản dịch tự động toàn bài
+B. Quyền chỉnh sửa bài báo
+C. Trích dẫn nhanh theo các chuẩn như APA, Harvard hoặc MLA
+D. Báo cáo đạo văn hoàn chỉnh
+ANSWER: C
+EXPLAIN: Công cụ citation của Scholar tạo mẫu trích dẫn, nhưng người dùng vẫn nên kiểm tra độ chính xác trước khi sử dụng.
+
+---
+
+Q: “My library” trong Google Scholar phục vụ mục đích nào?
+A. Xóa bài khỏi Internet
+B. Chuyển bài thành dữ liệu có cấu trúc
+C. Cấp quyền truy cập VNU-LIC
+D. Lưu các bài quan trọng để xem lại và tổ chức sau
+ANSWER: D
+EXPLAIN: My Library là không gian cá nhân giúp lưu và quản lý các kết quả học thuật cần dùng lại.
+
+---
+
+Q: Công cụ AI nào nhận câu hỏi nghiên cứu, tìm bài liên quan và tóm tắt kết luận thành bảng so sánh?
+A. Google Drive
+B. OneNote
+C. QuillBot
+D. Elicit
+ANSWER: D
+EXPLAIN: Elicit hỗ trợ lược khảo tài liệu và tổng hợp các phát hiện chính theo cấu trúc, hữu ích khi xác định hướng nghiên cứu.
+
+---
+
+Q: Đặc điểm nổi bật của Semantic Scholar là gì?
+A. Tìm kiếm học thuật có AI, xác định bài có ảnh hưởng và cung cấp tóm tắt TLDR
+B. Chỉ lưu tệp trên đám mây
+C. Chỉ kiểm tra ảnh giả
+D. Tạo bảng tính Excel
+ANSWER: A
+EXPLAIN: Semantic Scholar dùng AI để hỗ trợ khám phá công trình quan trọng và cung cấp bản tóm tắt ngắn.
+
+---
+
+Q: Khi muốn tải một bài PDF lên và đặt câu hỏi trực tiếp về nội dung, công cụ nào phù hợp nhất?
+A. Dropbox
+B. SciSpace
+C. Google Calendar
+D. Snopes
+ANSWER: B
+EXPLAIN: SciSpace hỗ trợ trò chuyện với tài liệu PDF, giải thích thuật ngữ và tóm tắt những phần phức tạp.
+
+---
+
+Q: Các mô hình như ChatGPT, Gemini và Copilot có thể hỗ trợ hợp lý ở giai đoạn đầu nghiên cứu bằng cách nào?
+A. Tự động trở thành tác giả chịu trách nhiệm thay sinh viên
+B. Bảo đảm mọi câu trả lời đều chính xác
+C. Brainstorm từ khóa/góc nhìn, tóm tắt và gợi ý cách diễn giải
+D. Loại bỏ hoàn toàn nhu cầu đọc nguồn gốc
+ANSWER: C
+EXPLAIN: LLM là công cụ hỗ trợ phát triển ý tưởng và xử lý bản nháp, nhưng kết quả phải được kiểm chứng và biên tập.
+
+---
+
+Q: QuillBot được nhắc đến như công cụ mạnh về chức năng nào?
+A. Sao lưu 3-2-1
+B. Tìm kiếm ảnh ngược
+C. Quản lý tài khoản VNU-LIC
+D. Diễn giải lại văn bản (paraphrasing)
+ANSWER: D
+EXPLAIN: QuillBot hỗ trợ diễn đạt lại ý tưởng, nhưng người dùng vẫn phải giữ đúng nghĩa và trích dẫn nguồn khi ý tưởng không phải của mình.
+
+---
+
+Q: Muốn ưu tiên nghiên cứu mới trên Google Scholar, nên dùng chức năng nào?
+A. Chỉ sắp xếp theo dung lượng PDF
+B. Bộ lọc năm xuất bản ở khu vực bên trái
+C. Xóa mọi từ khóa chuyên ngành
+D. Chỉ đọc kết quả có tiêu đề dài nhất
+ANSWER: B
+EXPLAIN: Lọc theo năm giúp giới hạn kết quả vào giai đoạn phù hợp, đặc biệt với chủ đề thay đổi nhanh.
+
+---
+
+Q: Nhận định nào đúng về Zotero và Mendeley theo nội dung chương?
+A. Đây là hai công cụ miễn phí, có thể tạo trích dẫn và danh mục theo nhiều chuẩn như APA, Harvard, Chicago
+B. Chỉ dùng để lưu nhạc và video
+C. Bắt buộc trả phí mới lưu được tên tác giả
+D. Không tích hợp với Word hoặc Google Docs
+ANSWER: A
+EXPLAIN: Zotero và Mendeley hỗ trợ miễn phí việc thu thập, tổ chức nguồn và tự động hóa trích dẫn theo hàng trăm chuẩn học thuật.
+
+---
+
+Q: Ghép dịch vụ đám mây với hệ sinh thái tích hợp nào đúng nhất?
+A. Google Drive - Microsoft 365; OneDrive - Google Workspace; Dropbox - VNU-LIC
+B. Google Drive - Google Workspace; OneDrive - Windows/Microsoft 365; Dropbox - đồng bộ đa nền tảng với giao diện đơn giản
+C. Google Drive - chỉ macOS; OneDrive - chỉ Android; Dropbox - chỉ Linux
+D. Cả ba chỉ dùng để lưu cục bộ, không hỗ trợ đồng bộ
+ANSWER: B
+EXPLAIN: Drive gắn chặt với Docs, Sheets, Slides và Meet; OneDrive tích hợp Windows cùng Office; Dropbox nổi bật ở trải nghiệm đồng bộ đơn giản.
+
+---
+
+Q: Sự kiện nào đưa GenAI đến với hàng trăm triệu người dùng cuối năm 2022?
+A. ChatGPT ra mắt
+B. ELIZA ra mắt
+C. Dartmouth diễn ra
+D. AlphaGo thắng cờ vây
+ANSWER: A
+EXPLAIN: ChatGPT biến AI tạo sinh thành hiện tượng toàn cầu và mở ra giai đoạn phổ cập mạnh mẽ.
+
+---
+
+Q: Nhóm nào chỉ gồm các mô hình/công cụ tạo ảnh được nêu trong chương?
+A. GPT, LLaMA, Gemini
+B. DALL-E, Midjourney, Stable Diffusion
+C. Siri, Alexa, ELIZA
+D. AlexNet, AlphaGo, STUDENT
+ANSWER: B
+EXPLAIN: DALL-E, Midjourney và Stable Diffusion nổi bật trong tạo ảnh từ mô tả.
+
+---
+
+Q: ChatGPT, Gemini và Copilot dựa chủ yếu trên nền tảng nào cho tác vụ văn bản?
+A. Hệ chuyên gia không học
+B. Mô hình Ngôn ngữ Lớn (LLM)
+C. Chỉ cơ sở dữ liệu quan hệ
+D. Máy tìm kiếm ảnh ngược
+ANSWER: B
+EXPLAIN: LLM được huấn luyện trên lượng văn bản lớn để mô hình hóa và tạo ngôn ngữ.
+
+---
+
+Q: AI hỗ trợ thành phần “Vận hành thiết bị và phần mềm” như thế nào?
+A. Chỉ tạo deepfake
+B. Trợ lý giọng nói và tính năng AI tích hợp trong hệ điều hành, Microsoft 365, Google Workspace
+C. Chỉ dùng trong phòng thí nghiệm
+D. Loại bỏ mọi giao diện người dùng
+ANSWER: B
+EXPLAIN: Siri, Google Assistant, Copilot và Gemini đưa AI vào thao tác phần mềm hằng ngày.
+
+---
+
+Q: “Answer engine” như Perplexity tác động đến năng lực thông tin ra sao?
+A. Chỉ trả liên kết ngẫu nhiên
+B. Không dùng nguồn Internet
+C. Tổng hợp câu trả lời từ nhiều nguồn và kèm trích dẫn để hỗ trợ kiểm chứng
+D. Thay thế hoàn toàn tư duy phản biện
+ANSWER: C
+EXPLAIN: Công cụ giúp tiếp cận nhanh, nhưng người học vẫn phải xem nguồn và đánh giá độ tin cậy.
+
+---
+
+Q: Vì sao cùng một prompt có thể cho chất lượng khác nhau trên GPT, Gemini, Claude hoặc Llama?
+A. Vì tên công cụ dài khác nhau
+B. Mỗi mô hình có năng lực, điểm mạnh, điểm yếu và dữ liệu/kiến trúc riêng
+C. Vì mọi mô hình đều cho kết quả giống hệt
+D. Chỉ do tốc độ gõ
+ANSWER: B
+EXPLAIN: Lựa chọn mô hình là một yếu tố quyết định bên cạnh prompt và tham số sinh.
+
+---
+
+Q: Điểm mạnh tổng quát của ChatGPT được nêu là gì?
+A. Chỉ truy cập dữ liệu X thời gian thực
+B. Linh hoạt trong ngôn ngữ, sáng tạo, lập luận và nhiều loại nội dung
+C. Chỉ tạo hình trên mạng xã hội Meta
+D. Chỉ trả lời kèm trích dẫn web
+ANSWER: B
+EXPLAIN: ChatGPT phù hợp brainstorm, dàn ý, giải thích, viết và hỗ trợ lập trình, nhưng có thể hallucinate.
+
+---
+
+Q: Đối thoại nhiều lượt của ChatGPT cho phép gì?
+A. Ghi nhớ mọi cuộc trò chuyện vĩnh viễn
+B. Tự truy cập dữ liệu bí mật
+C. Giữ ngữ cảnh trong cùng hội thoại để hỏi nối tiếp và tinh chỉnh
+D. Bảo đảm không có giới hạn ngữ cảnh
+ANSWER: C
+EXPLAIN: Multi-turn conversation hỗ trợ quy trình lặp, nhưng ngữ cảnh vẫn có giới hạn.
+
+---
+
+Q: Tác vụ nào là ví dụ sử dụng ChatGPT phù hợp trong chương?
+A. Nộp nguyên bài AI viết
+B. Nhập dữ liệu tuyệt mật
+C. Tin mọi trích dẫn do AI tạo
+D. Brainstorm đề tài, lập dàn ý, giải thích khái niệm và soạn email chuyên nghiệp
+ANSWER: D
+EXPLAIN: Đây là các nhiệm vụ hỗ trợ mà người học có thể kiểm soát và biên tập.
+
+---
+
+Q: Điểm mạnh chung của Gemini và Copilot là gì?
+A. Tích hợp sâu vào Google Workspace hoặc Microsoft 365 để xử lý nội dung ngay trong quy trình làm việc
+B. Chỉ hoạt động như chatbot độc lập
+C. Không truy cập được tài liệu người dùng được cấp quyền
+D. Chỉ tạo âm nhạc
+ANSWER: A
+EXPLAIN: Tích hợp hệ sinh thái giúp AI làm việc với Docs/Sheets/Gmail hoặc Word/Excel/PowerPoint/Outlook/Teams.
+
+---
+
+Q: Gemini trong Google Docs có thể làm gì?
+A. Chỉ tạo tài khoản email
+B. Tóm tắt tài liệu, viết tiếp nội dung và tham chiếu tệp trong Drive
+C. Chỉ phân tích dữ liệu X
+D. Chỉ tạo slide từ Word
+ANSWER: B
+EXPLAIN: Gemini có thể dùng ngữ cảnh tài liệu và tệp Drive như bảng chi phí để hỗ trợ báo cáo.
+
+---
+
+Q: Copilot trong PowerPoint có thể thực hiện nhiệm vụ nào?
+A. Chỉ sửa lỗi chính tả email
+B. Chỉ tạo ảnh đại diện
+C. Tạo bài trình chiếu từ tài liệu Word, gồm slide, hình minh họa và ghi chú người nói
+D. Chỉ tìm bài báo khoa học
+ANSWER: C
+EXPLAIN: Tích hợp Microsoft 365 cho phép biến nội dung nguồn thành deck trình chiếu.
+
+---
+
+Q: Copilot trong Outlook và Teams hỗ trợ gì?
+A. Chỉ tạo mã nguồn
+B. Chỉ dịch ảnh
+C. Chỉ phân tích bảng tính
+D. Tóm tắt chuỗi email; tóm tắt họp, quyết định và người phụ trách action items
+ANSWER: D
+EXPLAIN: Copilot giúp rút thông tin hành động từ giao tiếp và cộng tác dài.
+
+---
+
+Q: Điểm mạnh khác biệt của Perplexity AI là gì?
+A. Answer engine tổng hợp nguồn Internet và luôn kèm trích dẫn
+B. Cá tính nổi loạn từ dữ liệu X
+C. Tạo ảnh trong Instagram
+D. Chỉ viết truyện sáng tạo
+ANSWER: A
+EXPLAIN: Perplexity hướng đến nghiên cứu, tra cứu và kiểm chứng hơn đối thoại sáng tạo mở.
+
+---
+
+Q: Grok có lợi thế và rủi ro nổi bật nào?
+A. Tích hợp sâu Word nhưng không có dữ liệu mới
+B. Dữ liệu thời gian thực từ X và cá tính riêng, nhưng có thể mang thiên kiến mạng xã hội
+C. Luôn phù hợp văn phong học thuật
+D. Không cần tài khoản X
+ANSWER: B
+EXPLAIN: Grok hữu ích cho xu hướng và dư luận mới, nhưng nguồn xã hội cần được kiểm chứng cẩn thận.
+
+---
+
+Q: Meta AI phù hợp nhất với nhiệm vụ nào?
+A. Tổng quan tài liệu có trích dẫn học thuật sâu
+B. Phân tích bảng Excel trong Microsoft 365
+C. Tạo nội dung/hình ảnh cho mạng xã hội và hỗ trợ tương tác trong hệ sinh thái Meta
+D. Chỉ giải bài toán logic
+ANSWER: C
+EXPLAIN: Meta AI tích hợp Facebook, Instagram, WhatsApp và Messenger, mạnh về sáng tạo nhanh và xã hội.
+
+---
+
+Q: Ghép LLM với tổ chức phát triển nào đúng?
+A. GPT - OpenAI; LLaMA - Meta; Gemini - Google
+B. GPT - Google; Gemini - Meta; LLaMA - OpenAI
+C. Cả ba đều do Microsoft tạo
+D. Cả ba là hệ chuyên gia năm 1980
+ANSWER: A
+EXPLAIN: Đây là ba họ mô hình ngôn ngữ lớn tiêu biểu được chương nhắc đến.
+
+---
+
+Q: Khi tạo tài khoản ChatGPT, sinh viên cần đặc biệt lưu ý điều gì?
+A. Điều khoản sử dụng liên quan đến dữ liệu và quyền riêng tư
+B. Chỉ màu sắc giao diện
+C. Số người theo dõi tài khoản
+D. Không cần đọc chính sách nào
+ANSWER: A
+EXPLAIN: Nội dung nhập vào dịch vụ AI có thể chịu chính sách lưu trữ và sử dụng dữ liệu khác nhau.
+
+---
+
+Q: Giao diện ChatGPT cơ bản gồm những khu vực nào?
+A. Chỉ một nút tải tệp
+B. Hộp nhập prompt, vùng câu trả lời và thanh lịch sử hội thoại để quay lại cuộc trò chuyện
+C. Chỉ bảng tính
+D. Chỉ cửa sổ tạo ảnh
+ANSWER: B
+EXPLAIN: Lịch sử cho phép mở lại và tiếp tục các phiên hội thoại trước.
+
+---
+
+Q: Tính năng chính của ChatGPT bản cơ bản được mô tả thế nào?
+A. Chỉ trả lời một lượt
+B. Chỉ làm thơ
+C. Đối thoại nhiều lượt và tạo nội dung đa dạng như email, mã, tóm tắt, dịch thuật
+D. Luôn truy cập dữ liệu thời gian thực
+ANSWER: C
+EXPLAIN: Sự linh hoạt ngôn ngữ là điểm mạnh chính, dù độ chính xác phải được kiểm tra.
+
+---
+
+Q: Tên trước đây của Google Gemini là gì?
+A. Copilot
+B. LLaMA
+C. Perplexity
+D. Bard
+ANSWER: D
+EXPLAIN: Gemini là tên mới của Bard và được tích hợp sâu với hệ sinh thái Google.
+
+---
+
+Q: Khả năng tham chiếu tệp Drive của Gemini hữu ích thế nào?
+A. Có thể dùng dữ liệu từ tệp khác, chẳng hạn bảng chi phí, để tổng hợp báo cáo hiện tại
+B. Cho phép truy cập mọi tệp không cần quyền
+C. Chỉ đổi tên tệp
+D. Không thể dùng dữ liệu cá nhân
+ANSWER: A
+EXPLAIN: Khi được cấp quyền, Gemini có thể kết nối ngữ cảnh giữa Docs và các tài liệu trong Drive.
+
+---
+
+Q: Theo bảng, Gemini có điểm mạnh nào ngoài tích hợp Workspace?
+A. Chỉ biết dữ liệu đến năm cắt
+B. Có thể truy cập thông tin thời gian thực từ Google Search
+C. Không hỗ trợ nghiên cứu nhanh
+D. Chỉ hoạt động offline
+ANSWER: B
+EXPLAIN: Kết nối tìm kiếm giúp Gemini cập nhật hơn mô hình chỉ dựa trên dữ liệu huấn luyện.
+
+---
+
+Q: Hạn chế nào của Gemini được bảng nêu?
+A. Không thể dùng trong Gmail
+B. Không có bản miễn phí
+C. Sáng tạo đôi khi kém GPT-4 và hệ sinh thái tích hợp vẫn phát triển
+D. Không thể tóm tắt tài liệu
+ANSWER: C
+EXPLAIN: Điểm mạnh tích hợp không có nghĩa Gemini vượt trội ở mọi nhiệm vụ sáng tạo.
+
+---
+
+Q: Nền tảng và khả năng nổi bật của Microsoft Copilot trong bảng là gì?
+A. LLaMA 3 và mạng xã hội Meta
+B. Grok-2 và dữ liệu X
+C. Chỉ mô hình riêng không tạo ảnh
+D. GPT-4, DALL-E 3, truy cập Internet và tích hợp Microsoft 365
+ANSWER: D
+EXPLAIN: Copilot kết hợp ngôn ngữ, tạo ảnh và các ứng dụng Word, PowerPoint, Teams, Outlook.
+
+---
+
+Q: Hạn chế/chi phí của Copilot được mô tả thế nào?
+A. Phụ thuộc hệ sinh thái Microsoft; nhiều tính năng mạnh yêu cầu bản quyền M365 dù bản web có thể miễn phí
+B. Hoàn toàn miễn phí mọi tính năng
+C. Không hoạt động trong Word
+D. Chỉ yêu cầu tài khoản X
+ANSWER: A
+EXPLAIN: Mức tích hợp sâu thường gắn với giấy phép Microsoft 365 trả phí.
+
+---
+
+Q: Perplexity sử dụng mô hình và mô hình chi phí nào theo bảng?
+A. Chỉ LLaMA 3 và không có bản miễn phí
+B. Mô hình riêng/GPT-4; miễn phí có giới hạn và có gói Pro
+C. Chỉ Grok-2
+D. Chỉ hệ chuyên gia luật
+ANSWER: B
+EXPLAIN: Perplexity cung cấp lớp truy xuất và trả lời có nguồn, với tùy chọn miễn phí lẫn trả phí.
+
+---
+
+Q: Hạn chế chính của Perplexity là gì?
+A. Không có trích dẫn
+B. Không thể tìm tài liệu
+C. Ít sáng tạo hơn chatbot mở vì tập trung trả lời và nghiên cứu
+D. Chỉ tạo hình ảnh
+ANSWER: C
+EXPLAIN: Tối ưu tra cứu có nguồn khiến Perplexity không phải lựa chọn mạnh nhất cho viết sáng tạo tự do.
+
+---
+
+Q: Meta AI trong bảng dựa trên mô hình nào và có chi phí cơ bản ra sao?
+A. GPT-4 và Plus
+B. Gemini Advanced
+C. Grok-2 Premium
+D. Llama 3 và cơ bản miễn phí
+ANSWER: D
+EXPLAIN: Meta AI tận dụng Llama và được phân phối trong các ứng dụng xã hội của Meta.
+
+---
+
+Q: Hạn chế nổi bật của Meta AI theo bảng là gì?
+A. Lập luận sâu/văn bản dài còn hạn chế so với GPT-4 và thường có thể hallucinate
+B. Không tạo được hình ảnh
+C. Không tích hợp mạng xã hội
+D. Chỉ dùng cho học thuật
+ANSWER: A
+EXPLAIN: Meta AI phù hợp sáng tạo nhanh hơn các nhiệm vụ lập luận dài, phức tạp.
+
+---
+
+Q: Grok trong bảng dựa trên mô hình và điều kiện truy cập nào?
+A. Llama 3, không cần tài khoản
+B. Grok-2, yêu cầu tài khoản X; mức cao hơn gắn với Premium
+C. Gemini Pro trong Docs
+D. GPT-3.5 trong Word
+ANSWER: B
+EXPLAIN: Grok thuộc xAI và gắn chặt với nền tảng X.
+
+---
+
+Q: Trường hợp sử dụng phù hợp nhất của Grok là gì?
+A. Viết bài học thuật trang trọng không cần kiểm chứng
+B. Tạo slide từ Word
+C. Nắm xu hướng, sự kiện mới và phân tích dư luận mạng xã hội
+D. Quản lý tệp Drive
+ANSWER: C
+EXPLAIN: Dữ liệu thời gian thực từ X tạo lợi thế cho tin mới và xu hướng.
+
+---
+
+Q: Vì sao Grok có thể không phù hợp cho văn phong học thuật?
+A. Không tạo văn bản
+B. Không có dữ liệu mới
+C. Chỉ trả lời bằng hình ảnh
+D. Cá tính và thiên kiến từ mạng xã hội có thể làm đầu ra kém trang trọng, cần kiểm chứng
+ANSWER: D
+EXPLAIN: Tính thời sự không đồng nghĩa với độ tin cậy hay phong cách học thuật.
+
+---
+
+Q: Bảng mô tả ChatGPT dựa trên những mô hình và mức chi phí nào?
+A. GPT-3.5/GPT-4; có mức miễn phí và gói Plus/Team trả phí
+B. Chỉ Llama 3 miễn phí
+C. Chỉ Grok-2 Premium
+D. Chỉ Gemini Advanced
+ANSWER: A
+EXPLAIN: Các mức mô hình và giá phản ánh tài liệu tại thời điểm biên soạn.
+
+---
+
+Q: Điểm mạnh bổ sung của ChatGPT trong bảng là gì?
+A. Chỉ tích hợp mạng xã hội
+B. Khả năng lập luận tốt và hệ sinh thái plugin rộng
+C. Luôn có nguồn trích dẫn tự động
+D. Không tạo mã
+ANSWER: B
+EXPLAIN: Hệ sinh thái mở rộng và tính linh hoạt giúp ChatGPT phục vụ nhiều quy trình.
+
+---
+
+Q: Công cụ nào phù hợp nhất để viết tổng quan tài liệu có trích dẫn nguồn ban đầu?
+A. Grok vì cá tính
+B. Meta AI vì mạng xã hội
+C. Perplexity vì tập trung nghiên cứu và dẫn nguồn
+D. Công cụ tạo ảnh thuần túy
+ANSWER: C
+EXPLAIN: Citation giúp truy ngược nguồn, nhưng người dùng vẫn phải đọc và đánh giá tài liệu gốc.
+
+---
+
+Q: Công cụ nào phù hợp hơn để tạo nhanh ảnh cho bài đăng Instagram?
+A. Perplexity
+B. Hệ chuyên gia tín dụng
+C. Google Scholar
+D. Meta AI
+ANSWER: D
+EXPLAIN: Meta AI được tích hợp mạng xã hội và mạnh về tạo nội dung hình ảnh nhanh.
+
+---
+
+Q: Nếu cần phân tích dữ liệu trong Sheets và soạn email trong Gmail, công cụ nào phù hợp nhất?
+A. Grok
+B. Meta AI
+C. Google Gemini
+D. Hệ chuyên gia
+ANSWER: C
+EXPLAIN: Gemini có lợi thế tích hợp trực tiếp vào các ứng dụng Google Workspace.
+
+---
+
+Q: Nếu cần tạo slide từ Word và tóm tắt họp Teams, nên chọn công cụ nào?
+A. Perplexity
+B. Grok
+C. Meta AI
+D. Microsoft Copilot
+ANSWER: D
+EXPLAIN: Đây là hai quy trình tiêu biểu của Copilot trong Microsoft 365.
+
+---
+
+Q: Hạn chế nào được bảng 3.4 gắn với ChatGPT bản miễn phí?
+A. Không thể tạo văn bản
+B. Không có đối thoại nhiều lượt
+C. Không hỗ trợ brainstorm
+D. Kiến thức có thể bị giới hạn bởi ngày cắt dữ liệu và mô hình có thể hallucinate
+ANSWER: D
+EXPLAIN: Kiến thức không cập nhật tự động và hiện tượng ảo giác khiến người dùng phải kiểm chứng thông tin.
+
+---
+
+Q: Mô hình chi phí cơ bản của Google Gemini trong bảng được mô tả thế nào?
+A. Gemini Pro có mức miễn phí, còn Gemini Advanced là lựa chọn trả phí
+B. Cả Pro và Advanced đều chỉ dùng miễn phí vĩnh viễn
+C. Gemini Pro chỉ trả phí, Advanced hoàn toàn miễn phí
+D. Gemini không có các mức phiên bản khác nhau
+ANSWER: A
+EXPLAIN: Đây là thông tin theo thời điểm biên soạn tài liệu và có thể thay đổi khi nhà cung cấp cập nhật dịch vụ.
+
+---
+
+Q: Đặc điểm nào của Meta AI được nhấn mạnh trong bảng so sánh?
+A. Chỉ tạo văn bản học thuật dài
+B. Tạo hình ảnh nhanh, miễn phí và tích hợp mạnh với hoạt động mạng xã hội
+C. Luôn có trích dẫn học thuật như Perplexity
+D. Chỉ truy cập qua tài khoản X Premium
+ANSWER: B
+EXPLAIN: Meta AI phù hợp sáng tạo nội dung trực quan nhanh cho Facebook, Instagram và các ứng dụng thuộc hệ sinh thái Meta.
+
+---
+
+Q: Phong cách và phạm vi trả lời nào làm Grok khác một số chatbot khác?
+A. Luôn dùng văn phong học thuật trang trọng
+B. Chỉ trả lời câu hỏi toán học
+C. Có cá tính hài hước, nổi loạn hơn và có thể trả lời một số câu hỏi “nhạy cảm” mà công cụ khác từ chối
+D. Không sử dụng dữ liệu từ X
+ANSWER: C
+EXPLAIN: Đặc điểm này tạo sự khác biệt về trải nghiệm, nhưng cũng làm Grok kém phù hợp hơn với văn phong học thuật và cần kiểm chứng thiên kiến.
+
+---
+
+Q: Địa chỉ nào được tài liệu hướng dẫn dùng để truy cập và đăng ký ChatGPT?
+A. `gemini.google.com`
+B. `perplexity.ai`
+C. `x.com`
+D. `chat.openai.com`
+ANSWER: D
+EXPLAIN: Sinh viên được hướng dẫn truy cập chat.openai.com, đăng ký bằng email và lưu ý điều khoản dữ liệu, quyền riêng tư.
+
+---
+
+Q: Một phiên Google Meet mà mọi thành viên cùng thảo luận tại thời điểm đã hẹn thuộc loại giao tiếp nào?
+A. Đồng bộ
+B. Bất đồng bộ
+C. Lưu trữ ngoại tuyến
+D. Giao tiếp một chiều
+ANSWER: A
+EXPLAIN: Giao tiếp đồng bộ diễn ra theo thời gian thực và đòi hỏi các bên tham gia cùng lúc.
+
+---
+
+Q: Hoạt động nào là giao tiếp bất đồng bộ?
+A. Gọi thoại trực tiếp
+B. Họp video trên Zoom
+C. Chat trực tiếp trong một phiên hỗ trợ
+D. Bình luận góp ý trên Google Docs để thành viên đọc và phản hồi khi thuận tiện
+ANSWER: D
+EXPLAIN: Bình luận trên tài liệu trực tuyến không đòi hỏi mọi người có mặt đồng thời nên là giao tiếp bất đồng bộ.
+
+---
+
+Q: Cách nào tốt nhất để nhiều thành viên góp ý chi tiết cho cùng một bản nháp mà không tạo nhiều phiên bản file?
+A. Mỗi người sửa một file Word riêng
+B. Gửi bản nháp lần lượt qua ứng dụng chat
+C. Chụp ảnh từng trang và nhắn góp ý
+D. Dùng Google Docs ở chế độ bình luận
+ANSWER: D
+EXPLAIN: Bình luận trên Google Docs gắn góp ý trực tiếp vào văn bản, không đổi bản gốc và lưu lịch sử chỉnh sửa, thảo luận.
+
+---
+
+Q: Sinh viên muốn xây dựng hồ sơ nghề nghiệp, theo dõi công ty và tìm cơ hội thực tập. Nền tảng phù hợp nhất là gì?
+A. LinkedIn
+B. Một tài khoản giải trí ẩn danh
+C. Ứng dụng chỉnh ảnh ngoại tuyến
+D. Diễn đàn không liên quan chuyên môn
+ANSWER: A
+EXPLAIN: LinkedIn là mạng xã hội chuyên nghiệp dùng để kết nối chuyên gia, theo dõi công ty và tìm cơ hội nghề nghiệp.
+
+---
+
+Q: Facebook Groups hoặc Zalo Groups chuyên ngành hữu ích nhất cho mục đích nào?
+A. Thay thế mọi hình thức họp chính thức
+B. Học hỏi, trao đổi tài liệu và cập nhật thông tin lĩnh vực
+C. Công khai mọi dữ liệu cá nhân
+D. Tự động đánh giá kết quả học tập
+ANSWER: B
+EXPLAIN: Các nhóm chuyên ngành là nơi hỗ trợ học hỏi, chia sẻ tài liệu và cập nhật thông tin chuyên môn.
+
+---
+
+Q: Nhóm sinh viên cần cùng chỉnh sửa Docs, Sheets và Slides theo thời gian thực, đồng thời dùng Drive và Meet. Hệ sinh thái nào nổi bật với nhu cầu này?
+A. Trello
+B. Google Workspace
+C. Asana
+D. Reclaim.ai
+ANSWER: B
+EXPLAIN: Google Workspace phổ biến trong giáo dục và nổi bật về cộng tác thời gian thực, tích hợp Gmail, Drive và Meet.
+
+---
+
+Q: Một doanh nghiệp muốn tích hợp sâu Word, Excel, PowerPoint với nền tảng giao tiếp nhóm. Lựa chọn phù hợp nhất là gì?
+A. Microsoft 365 cùng Microsoft Teams
+B. Google Translate
+C. Scholarcy
+D. Calendly
+ANSWER: A
+EXPLAIN: Microsoft 365 mạnh về tích hợp các ứng dụng Office với Microsoft Teams trong môi trường doanh nghiệp.
+
+---
+
+Q: Nhóm dùng Zalo cho thông báo chính thức và bình luận Trello cho trao đổi chi tiết công việc. Việc phân định này giải quyết nội dung nào của Team Charter?
+A. Cách ra quyết định
+B. Tần suất họp
+C. Kênh giao tiếp chính và nơi trao đổi công việc
+D. Cách ghi nhận đóng góp
+ANSWER: C
+EXPLAIN: Team Charter cần quy định loại thông tin nào được trao đổi ở từng kênh để tránh phân tán và nhầm lẫn.
+
+---
+
+Q: Cấu trúc cốt lõi của Trello theo phương pháp Kanban là gì?
+A. Trang, khối và cơ sở dữ liệu
+B. Tệp, thư mục và lịch
+C. Board, List và Card có thể kéo-thả
+D. Email, cuộc họp và biên bản
+ANSWER: C
+EXPLAIN: Trello trực quan hóa Kanban bằng bảng, danh sách và thẻ có thể kéo-thả.
+
+---
+
+Q: Một nhóm nhỏ mới dùng công cụ quản lý dự án, quy trình đơn giản và cần giao diện trực quan. Công cụ phù hợp nhất là gì?
+A. Trello
+B. Asana
+C. DeepL
+D. SciSpace
+ANSWER: A
+EXPLAIN: Trello cực kỳ dễ dùng, phù hợp nhóm nhỏ, dự án đơn giản và quản lý công việc cá nhân.
+
+---
+
+Q: Khi nào hạn chế của Trello dễ bộc lộ nhất?
+A. Khi cần kéo-thả thẻ đơn giản
+B. Khi quản lý một danh sách việc cá nhân
+C. Khi nhóm mới bắt đầu với Kanban
+D. Khi dự án cần báo cáo sâu, nhiều chế độ xem và quản lý công việc phức tạp
+ANSWER: D
+EXPLAIN: Trello có ít chế độ xem hơn và còn hạn chế về báo cáo, quản lý công việc phức tạp.
+
+---
+
+Q: Dự án có nhiều bước, nhiệm vụ phụ, deadline cụ thể và quan hệ phụ thuộc. Công cụ nào phù hợp nhất?
+A. Calendly
+B. Asana
+C. Google Translate
+D. Messenger
+ANSWER: B
+EXPLAIN: Asana mạnh về quản lý chi tiết, nhiều chế độ xem, tiến độ, nhiệm vụ phụ và sự phụ thuộc.
+
+---
+
+Q: Nhược điểm chính của Asana đối với người mới bắt đầu là gì?
+A. Không theo dõi được deadline
+B. Không có chế độ xem danh sách
+C. Giao diện có thể phức tạp và gây choáng ngợp hơn Trello
+D. Chỉ dùng được cho công việc cá nhân
+ANSWER: C
+EXPLAIN: Sự phong phú tính năng của Asana khiến giao diện có thể khó tiếp cận hơn với người mới.
+
+---
+
+Q: Nhóm muốn quản lý nhiệm vụ, ghi chú, tài liệu, cơ sở dữ liệu và wiki trong một không gian tùy biến. Nên chọn gì?
+A. Notion
+B. Trello
+C. Zoom
+D. Outlook
+ANSWER: A
+EXPLAIN: Notion là không gian làm việc “tất cả trong một”, kết hợp quản lý công việc và quản lý kiến thức.
+
+---
+
+Q: Đánh đổi quan trọng khi chọn Notion là gì?
+A. Không thể lưu tài liệu dự án
+B. Chỉ có một cấu trúc cố định
+C. Không hỗ trợ quản lý kiến thức
+D. Cần thời gian học và tự xây cấu trúc; tính năng quản lý dự án chuyên sâu không sẵn như Asana
+ANSWER: D
+EXPLAIN: Tính linh hoạt cao của Notion đi kèm công sức thiết kế cấu trúc và hạn chế về tính năng quản lý chuyên sâu có sẵn.
+
+---
+
+Q: Calendly giải quyết việc đặt lịch theo cơ chế nào?
+A. Tự viết email nhắc việc hằng ngày
+B. Tự động thay đổi mọi thói quen cá nhân
+C. Kết nối lịch, hiển thị khung giờ sẵn sàng qua liên kết và tự thêm cuộc hẹn đã chọn vào lịch hai bên
+D. Yêu cầu người đặt lịch xem toàn bộ chi tiết lịch riêng tư
+ANSWER: C
+EXPLAIN: Scheduling link cho phép người khác chọn trong các khung giờ trống đã thiết lập và tự động tạo cuộc hẹn.
+
+---
+
+Q: Khả năng nào khiến Reclaim.ai nâng cao hơn một công cụ liên kết đặt lịch thông thường?
+A. Tự xếp và bảo vệ thời gian cho Habits, Tasks, đồng thời linh hoạt dời chúng khi có cuộc họp ưu tiên hơn
+B. Chỉ gửi một liên kết giờ trống cố định
+C. Chỉ dịch nội dung lịch sang ngôn ngữ khác
+D. Chỉ ghi biên bản sau cuộc họp
+ANSWER: A
+EXPLAIN: Reclaim.ai tìm khoảng trống để xếp thói quen và công việc, có thể điều chỉnh linh hoạt khi lịch thay đổi.
+
+---
+
+Q: Microsoft Copilot trong Outlook và Google Gemini trong Gmail có thể hỗ trợ nhóm việc nào?
+A. Chỉ kiểm tra kết nối Internet
+B. Soạn email từ prompt, tóm tắt chuỗi email và điều chỉnh giọng văn
+C. Tự xác nhận mọi thông tin là chính xác
+D. Thay người gửi chịu trách nhiệm về nội dung
+ANSWER: B
+EXPLAIN: Các trợ lý này hỗ trợ tạo bản nháp, tóm tắt chuỗi trao đổi và thay đổi tone như trang trọng, ngắn gọn hoặc thân thiện.
+
+---
+
+Q: Sinh viên chỉ cần lướt nhanh tài liệu ở một ngôn ngữ ít phổ biến để nắm ý chính. Công cụ nào thường là lựa chọn mặc định phù hợp hơn?
+A. Reclaim.ai
+B. Scholarcy
+C. Notion
+D. Google Translate
+ANSWER: D
+EXPLAIN: Google Translate hỗ trợ số lượng ngôn ngữ rất lớn và phù hợp nhu cầu dịch nhanh để nắm ý chính.
+
+---
+
+Q: Với một đoạn học thuật quan trọng bằng cặp ngôn ngữ phổ biến, cần câu văn tự nhiên và giữ sắc thái, công cụ nào thường được ưu tiên?
+A. Trello
+B. DeepL
+C. Calendly
+D. Resoomer
+ANSWER: B
+EXPLAIN: DeepL thường được đánh giá cao về ngữ cảnh, độ tự nhiên và sắc thái, đặc biệt với các ngôn ngữ châu Âu.
+
+---
+
+Q: So sánh nào đúng về phạm vi ngôn ngữ của Google Translate và DeepL?
+A. DeepL hỗ trợ mọi ngôn ngữ nhiều hơn Google Translate
+B. Hai công cụ luôn hỗ trợ đúng cùng một tập ngôn ngữ
+C. Google Translate hỗ trợ rất nhiều ngôn ngữ; DeepL ít hơn nhưng đang mở rộng
+D. Google Translate không hỗ trợ tiếng Việt
+ANSWER: C
+EXPLAIN: Phạm vi hỗ trợ rộng là thế mạnh của Google Translate, còn DeepL hỗ trợ ít ngôn ngữ hơn.
+
+---
+
+Q: Công cụ nào được thiết kế chuyên cho việc đọc bài báo khoa học PDF và trích xuất giả thuyết, phương pháp, kết quả, kết luận?
+A. QuillBot và Resoomer
+B. Calendly và Reclaim.ai
+C. Trello và Asana
+D. Scholarcy và SciSpace
+ANSWER: D
+EXPLAIN: Scholarcy và SciSpace hỗ trợ đọc, tóm tắt và trích các phần quan trọng của tài liệu khoa học.
+
+---
+
+Q: QuillBot và Resoomer phù hợp nhất với nhu cầu nào?
+A. Tổ chức họp video
+B. Dán văn bản hoặc đường link để tạo bản tóm tắt có thể điều chỉnh độ dài
+C. Quản lý quan hệ phụ thuộc giữa nhiệm vụ
+D. Xây dựng hồ sơ nghề nghiệp
+ANSWER: B
+EXPLAIN: Đây là các công cụ tóm tắt đa năng, thường cho phép người dùng điều chỉnh độ dài đầu ra.
+
+---
+
+Q: Cách yêu cầu chatbot AI nào giúp kết quả tóm tắt bám sát nhu cầu hơn?
+A. Chỉ viết “làm đi” mà không cung cấp nội dung
+B. Yêu cầu AI tự chọn mọi mục tiêu nghiên cứu
+C. Đưa tài liệu và nêu đầu ra cụ thể như “tóm tắt thành 5 gạch đầu dòng chính”
+D. Yêu cầu sao chép lại toàn bộ tài liệu
+ANSWER: C
+EXPLAIN: ChatGPT, Gemini hoặc Perplexity có thể tóm tắt tốt hơn khi nhận tài liệu cùng prompt cụ thể về cấu trúc đầu ra.
+
+---
+
+Q: Khi dùng Facebook, Instagram hoặc TikTok chủ yếu cho cá nhân và giải trí, sinh viên cần lưu ý điều gì nhất?
+A. Công khai càng nhiều thông tin cá nhân càng dễ kết nối
+B. Nội dung giải trí không ảnh hưởng đến danh tính nghề nghiệp
+C. Chỉ hình ảnh mới cần được cân nhắc, còn thông tin cá nhân thì không
+D. Cẩn trọng với thông tin cá nhân và hình ảnh được chia sẻ
+ANSWER: D
+EXPLAIN: Dù phục vụ kết nối và giải trí, các nền tảng này vẫn đòi hỏi người dùng thận trọng về quyền riêng tư và dấu vết trực tuyến.
+
+---
+
+Q: Đặc điểm nào giúp Asana phù hợp hơn Trello cho dự án có nhiều bước và quan hệ phụ thuộc?
+A. Có nhiều chế độ xem như danh sách, bảng, lịch hoặc timeline và theo dõi sự phụ thuộc tốt
+B. Chỉ sử dụng Card kéo-thả và không có cách xem khác
+C. Tập trung vào dịch thuật tài liệu chuyên ngành
+D. Không yêu cầu xác định deadline cho nhiệm vụ
+ANSWER: A
+EXPLAIN: Asana cung cấp nhiều chế độ xem và khả năng theo dõi tiến độ, nhiệm vụ phụ, sự phụ thuộc tốt hơn cho dự án phức tạp.
+
+---
+
+Q: Scholarcy hoặc SciSpace giúp sinh viên sàng lọc một tập bài báo khoa học như thế nào?
+A. Tự động quyết định bài báo nào chắc chắn đúng
+B. Chuyển mọi bài báo thành bản dịch hoàn chỉnh
+C. Trích xuất các phần chính để nhanh chóng đánh giá bài nào phù hợp với hướng nghiên cứu
+D. Thay thế việc đọc và kiểm tra bài báo được chọn
+ANSWER: C
+EXPLAIN: Việc tóm tắt giả thuyết, phương pháp, kết quả và kết luận giúp người học nhanh chóng đánh giá mức độ phù hợp của bài báo.
+
+---
+
+Q: Công cụ nào phù hợp nhất để viết luận văn cần định dạng chuẩn, trình bày chuyên nghiệp và nộp dưới dạng DOCX hoặc PDF?
+A. Google Docs
+B. Notion
+C. Grammarly
+D. Microsoft Word
+ANSWER: D
+EXPLAIN: Word mạnh về định dạng và trình bày, phù hợp với báo cáo, luận văn và văn bản chính thức cần nộp dưới dạng tệp.
+
+---
+
+Q: Một nhóm cần cùng sửa tài liệu theo thời gian thực, xem lịch sử thay đổi và để lại bình luận. Công cụ phù hợp nhất là gì?
+A. Microsoft Designer
+B. Google Docs
+C. Adobe Audition
+D. OpenShot
+ANSWER: B
+EXPLAIN: Google Docs nổi bật ở cộng tác trực tuyến đồng thời, lịch sử thay đổi, bình luận và tự động lưu trên Google Drive.
+
+---
+
+Q: Notion, Evernote và OneNote phát huy hiệu quả nhất trong tình huống nào?
+A. Dựng kỹ xảo video phức tạp
+B. Tạo ảnh từ nhiễu ngẫu nhiên
+C. Thu thập tài liệu, ghi chú, quản lý thông tin và phác thảo dàn ý
+D. Làm sạch tiếng vang trong bản ghi
+ANSWER: C
+EXPLAIN: Các ứng dụng ghi chú hoạt động như “bộ não số thứ hai”, phù hợp giai đoạn thu thập thông tin và lên ý tưởng.
+
+---
+
+Q: Vì sao công cụ ghi chú được xem là linh hoạt hơn Word hoặc Google Docs trong giai đoạn chuẩn bị?
+A. Chúng luôn tạo được video tự động
+B. Chỉ chúng mới lưu được văn bản
+C. Chúng kết hợp ghi chú, danh sách việc, liên kết, ảnh và video trong cùng một nơi
+D. Chúng thay thế hoàn toàn việc kiểm chứng nguồn
+ANSWER: C
+EXPLAIN: Notion, Evernote và OneNote cho phép tổ chức nhiều dạng thông tin và công việc trong một không gian linh hoạt.
+
+---
+
+Q: Trước khi gửi một email quan trọng cho giảng viên, nhóm công cụ nào nên được dùng để rà chính tả, ngữ pháp, dấu câu và văn phong?
+A. Gamma hoặc Tome
+B. Grammarly hoặc Microsoft Editor
+C. Pictory hoặc InVideo AI
+D. GIMP hoặc Photopea
+ANSWER: B
+EXPLAIN: Grammarly và Microsoft Editor là trợ lý ngôn ngữ giúp rà lỗi và cải thiện cách diễn đạt trước khi gửi hoặc nộp văn bản.
+
+---
+
+Q: Điểm khác biệt chính giữa nhóm soạn thảo cơ bản và nhóm kiểm tra ngữ pháp, văn phong là gì?
+A. Nhóm kiểm tra hỗ trợ rà soát và cải thiện bản nháp sau khi viết
+B. Nhóm kiểm tra chỉ dùng để tạo ảnh
+C. Nhóm soạn thảo không thể lưu tài liệu
+D. Nhóm soạn thảo chỉ hoạt động với âm thanh
+ANSWER: A
+EXPLAIN: Công cụ soạn thảo dùng để tạo và trình bày văn bản, còn Grammarly hoặc Editor chủ yếu rà lỗi và đề xuất cải thiện bản nháp.
+
+---
+
+Q: ChatGPT, Gemini và Copilot được mô tả phù hợp nhất như thế nào trong quá trình viết?
+A. Công cụ thay người học chịu trách nhiệm về bài nộp
+B. Kho ảnh miễn phí bản quyền
+C. Mô hình ngôn ngữ lớn hỗ trợ thảo luận, lên ý tưởng, lập dàn ý, viết nháp và diễn đạt lại
+D. Phần mềm chuyên dùng để chỉnh màu video
+ANSWER: C
+EXPLAIN: Các LLM là cộng sự hỗ trợ nhiều công việc ngôn ngữ, nhưng không thay thế tư duy và trách nhiệm của người học.
+
+---
+
+Q: Công cụ nào phù hợp với sinh viên cần thiết kế nhanh poster hoặc slide đẹp bằng giao diện kéo-thả và kho mẫu lớn?
+A. Microsoft Editor
+B. Canva
+C. Adobe Audition
+D. Freesound
+ANSWER: B
+EXPLAIN: Canva thân thiện với người mới, có giao diện kéo-thả và nhiều mẫu cho slide, poster, CV và bài đăng mạng xã hội.
+
+---
+
+Q: Microsoft Designer đặc biệt hữu ích khi nào?
+A. Khi cần ghi âm cá nhân không qua biên tập
+B. Khi cần nhiều phương án thiết kế nhanh từ vài dòng mô tả
+C. Khi cần viết luận văn định dạng chuẩn
+D. Khi cần chỉnh một podcast bằng transcript
+ANSWER: B
+EXPLAIN: Microsoft Designer tích hợp AI và DALL-E 3 để tạo phương án thiết kế từ mô tả, hữu ích khi bí ý tưởng hoặc cần tốc độ.
+
+---
+
+Q: Một nhóm thiết kế giao diện ứng dụng cần nhiều người cùng thao tác thời gian thực trên một tệp phức tạp. Công cụ phù hợp nhất là gì?
+A. Figma
+B. Remove.bg
+C. Grammarly
+D. Adobe Podcast Enhance
+ANSWER: A
+EXPLAIN: Figma chuyên cho UI/UX và hỗ trợ cộng tác thời gian thực trên cùng tệp, phù hợp dự án nhóm phức tạp.
+
+---
+
+Q: GIMP và Photopea phù hợp nhất với nhu cầu nào?
+A. Tạo podcast từ văn bản
+B. Cộng tác viết luận theo thời gian thực
+C. Theo dõi KPI sau xuất bản
+D. Chỉnh sửa ảnh nâng cao như xóa vật thể, ghép ảnh mà không muốn trả phí Photoshop
+ANSWER: D
+EXPLAIN: GIMP và Photopea là các lựa chọn miễn phí mạnh cho chỉnh sửa nâng cao khi Canva không đáp ứng.
+
+---
+
+Q: Phát biểu nào phân biệt đúng GIMP và Photopea?
+A. GIMP chạy trên trình duyệt, Photopea bắt buộc cài đặt
+B. GIMP là phần mềm mã nguồn mở cần cài; Photopea chạy online với giao diện gần Photoshop
+C. Cả hai chỉ dùng để xóa nền tự động
+D. Cả hai là phần mềm chỉnh sửa âm thanh
+ANSWER: B
+EXPLAIN: GIMP là phần mềm mã nguồn mở cài trên máy, còn Photopea hoạt động trong trình duyệt và có giao diện tương tự Photoshop.
+
+---
+
+Q: Cần xóa nền một ảnh trong vài giây mà không thực hiện quy trình chỉnh sửa phức tạp. Công cụ được nêu phù hợp nhất là gì?
+A. Photopea
+B. Pixlr
+C. Fotor
+D. Remove.bg
+ANSWER: D
+EXPLAIN: Remove.bg là công cụ online đơn giản, tập trung giải quyết nhanh tác vụ xóa nền ảnh.
+
+---
+
+Q: Pixlr được chương gợi ý cho nhóm tác vụ nào?
+A. Tạo dàn ý bài luận bằng LLM
+B. Chuyển giọng nói thành transcript
+C. Cắt, xoay và thêm bộ lọc màu nhanh cho ảnh
+D. Lọc tạp âm podcast chuyên sâu
+ANSWER: C
+EXPLAIN: Pixlr là công cụ online nhanh cho các chỉnh sửa cơ bản như cắt, xoay và áp dụng bộ lọc.
+
+---
+
+Q: Khi không tìm được ảnh minh họa đúng một ý tưởng độc đáo, lựa chọn nào phù hợp nhất?
+A. Dùng Audacity để tạo ảnh
+B. Dùng Microsoft Editor để tạo ảnh
+C. Dùng Microsoft Designer, Bing Image Creator hoặc Canva Text to Image với prompt mô tả
+D. Dùng Google Docs để khuếch tán nhiễu
+ANSWER: C
+EXPLAIN: Các công cụ Text-to-Image tạo ảnh mới theo mô tả, phù hợp khi ảnh có sẵn không đáp ứng ý tưởng.
+
+---
+
+Q: Midjourney và Stable Diffusion khác nhóm công cụ tạo ảnh thân thiện cho người mới ở điểm nào được nhấn mạnh?
+A. Chỉ hoạt động để chỉnh âm thanh
+B. Chất lượng nghệ thuật cao nhưng phức tạp hơn để sử dụng
+C. Không dùng prompt
+D. Chỉ tạo được văn bản
+ANSWER: B
+EXPLAIN: Hai công cụ này mạnh và có chất lượng nghệ thuật cao, nhưng phù hợp hơn khi người dùng muốn khám phá sâu và chấp nhận độ phức tạp.
+
+---
+
+Q: Một sinh viên làm podcast cần cắt ghép, lọc tạp âm và thêm nhạc nền bằng công cụ miễn phí. Nên chọn gì?
+A. Ứng dụng ghi âm có sẵn
+B. Adobe Podcast Enhance
+C. Audacity
+D. Adobe Audition
+ANSWER: C
+EXPLAIN: Audacity là phần mềm chỉnh sửa âm thanh miễn phí, mạnh cho cắt ghép, lọc ồn và thêm nhạc nền.
+
+---
+
+Q: Khi nào Adobe Audition là lựa chọn phù hợp hơn ứng dụng ghi âm cơ bản?
+A. Khi chỉ ghi một ý tưởng ngắn cho bản thân
+B. Khi theo đuổi dự án âm thanh chuyên sâu và cần công cụ tiêu chuẩn ngành
+C. Khi cần làm poster từ mẫu
+D. Khi cần cộng tác viết văn bản
+ANSWER: B
+EXPLAIN: Adobe Audition là công cụ trả phí, tiêu chuẩn trong công nghiệp âm thanh, phù hợp dự án chuyên sâu.
+
+---
+
+Q: Một file phỏng vấn quan trọng bị nhiều tiếng vang và ồn nhưng không cần biên tập nội dung. Công cụ nào giải quyết trực tiếp nhất?
+A. Adobe Podcast Enhance
+B. Audacity
+C. Descript
+D. Adobe Audition
+ANSWER: A
+EXPLAIN: Adobe Podcast Enhance dùng AI để tự động làm sạch bản ghi kém chất lượng và làm giọng nói trong hơn.
+
+---
+
+Q: Điểm độc đáo của Descript trong chỉnh sửa audio là gì?
+A. Chuyển infographic thành website
+B. Tạo ảnh từ văn bản bằng diffusion
+C. Chỉ tăng âm lượng mà không tạo transcript
+D. Sửa transcript văn bản làm tệp âm thanh thay đổi tương ứng
+ANSWER: D
+EXPLAIN: Descript chuyển lời nói thành transcript và cho phép biên tập audio thông qua thao tác sửa văn bản.
+
+---
+
+Q: Descript đặc biệt tiết kiệm thời gian cho loại nội dung nào?
+A. Slide cần định dạng học thuật
+B. Ảnh cần xóa nền
+C. File nói dài như phỏng vấn và podcast
+D. Biểu đồ cần nhập dữ liệu
+ANSWER: C
+EXPLAIN: Chỉnh sửa qua transcript giúp xử lý nhanh các bản ghi lời nói dài như phỏng vấn hoặc podcast.
+
+---
+
+Q: Công cụ nào thân thiện, có trên điện thoại và máy tính, phù hợp video ngắn mạng xã hội và hỗ trợ phụ đề tự động?
+A. OpenShot
+B. Canva Video Editor
+C. DaVinci Resolve
+D. CapCut
+ANSWER: D
+EXPLAIN: CapCut phổ biến cho video ngắn, dễ dùng và có các tính năng AI như phụ đề tự động, xóa nền video.
+
+---
+
+Q: Canva Video Editor thuận tiện nhất trong tình huống nào?
+A. Muốn lập trình website từ đầu
+B. Muốn xử lý âm thanh theo transcript
+C. Đang làm slide trên Canva và muốn chèn, chỉnh một đoạn video ngắn
+D. Muốn rà ngữ pháp email
+ANSWER: C
+EXPLAIN: Trình chỉnh sửa video của Canva phù hợp khi người dùng đã làm thiết kế hoặc slide trong cùng hệ sinh thái.
+
+---
+
+Q: Vì sao một người có thể chọn OpenShot hoặc DaVinci Resolve thay cho CapCut?
+A. Cần nhiều quyền kiểm soát hơn đối với màu sắc, hiệu ứng, âm thanh và kỹ xảo
+B. Không muốn mất thời gian học công cụ mới
+C. Chỉ cần ghi chú bài giảng
+D. Muốn kiểm tra chính tả văn bản
+ANSWER: A
+EXPLAIN: OpenShot và DaVinci Resolve mạnh hơn cho kiểm soát hậu kỳ phức tạp, đổi lại cần thời gian học và làm quen.
+
+---
+
+Q: Nhóm có kịch bản nhưng không có thời gian hoặc nguồn lực tự quay video tóm tắt. Công cụ nào phù hợp nhất?
+A. Gamma hoặc Tome
+B. Pictory.ai hoặc InVideo AI
+C. Canva Video Editor
+D. CapCut
+ANSWER: B
+EXPLAIN: Pictory và InVideo AI biến văn bản thành video bằng stock phù hợp kết hợp giọng đọc AI.
+
+---
+
+Q: Cặp loại nội dung và công cụ đề xuất nào khớp với bảng so sánh trong chương?
+A. Văn bản - DaVinci Resolve
+B. Video - Microsoft Word
+C. Âm thanh - Audacity
+D. Đa phương tiện - Remove.bg
+ANSWER: C
+EXPLAIN: Audacity là công cụ được đề xuất cho nội dung âm thanh; các cặp còn lại ghép sai chức năng.
+
+---
+
+Q: Cặp mục tiêu và công cụ AI nào được ghép đúng?
+A. Tạo slide từ dàn ý - Audacity
+B. Tạo video từ văn bản - Microsoft Editor
+C. Tạo nhạc nền - Google Docs
+D. Tạo ảnh minh họa - Microsoft Designer
+ANSWER: D
+EXPLAIN: Microsoft Designer là công cụ Text-to-Image; các cặp còn lại ghép sai chức năng.
+
+---
+
+Q: Muốn biến kịch bản thành video có clip stock và giọng đọc AI, người dùng nên chọn gì?
+A. Notion hoặc Evernote
+B. Pictory hoặc InVideo AI
+C. Figma hoặc Photopea
+D. Grammarly hoặc Microsoft Editor
+ANSWER: B
+EXPLAIN: Pictory và InVideo AI được nêu cho tác vụ tạo video từ văn bản với hình ảnh hoặc clip stock và giọng đọc AI.
+
+---
+
+Q: Soundraw và AIVA được nêu như công cụ hỗ trợ tác vụ nào?
+A. Kiểm tra lỗi ngữ pháp
+B. Tạo nhạc nền không bản quyền cho video hoặc podcast
+C. Xóa nền ảnh
+D. Theo dõi lượt chia sẻ
+ANSWER: B
+EXPLAIN: Soundraw và AIVA là các công cụ AI tạo nhạc nền dùng cho sản phẩm video hoặc podcast.
+
+---
+
+Q: Phát biểu nào phân biệt đúng Grammarly và Microsoft Editor theo nội dung chương?
+A. Grammarly chỉ kiểm tra lỗi cơ bản, còn Microsoft Editor chuyên kiểm tra đạo văn trả phí
+B. Cả hai chỉ dùng để soạn văn bản mới, không rà bản nháp
+C. Microsoft Editor hoạt động độc lập với Word và trình duyệt Edge
+D. Grammarly có thể gợi ý từ đồng nghĩa và kiểm tra đạo văn; Microsoft Editor tích hợp trong Word và Edge để rà lỗi, gợi ý cải thiện
+ANSWER: D
+EXPLAIN: Grammarly có phạm vi kiểm tra và gợi ý rộng, còn Microsoft Editor được tích hợp trong Word và Edge để hỗ trợ rà soát văn bản.
+
+---
+
+Q: Chi tiết nào trong chương giúp sinh viên khai thác Canva với nhiều tính năng cao cấp mà không phải học công cụ thiết kế chuyên sâu?
+A. Canva for Education được giới thiệu là gói miễn phí cho sinh viên
+B. Canva bắt buộc mua Photoshop trước khi sử dụng
+C. Canva chỉ cung cấp mẫu cho nhà thiết kế chuyên nghiệp
+D. Canva không hỗ trợ slide, poster hoặc CV
+ANSWER: A
+EXPLAIN: Chương nêu Canva for Education là gói miễn phí cho sinh viên, mở khóa nhiều tính năng cao cấp.
+
+---
+
+Q: Nhận định nào đúng về nhóm Remove.bg, Fotor và Pixlr?
+A. Đây là các phần mềm dựng video chuyên sâu cần thời gian dài để học
+B. Đây là các công cụ online đơn giản, phù hợp xử lý nhanh một số tác vụ ảnh cụ thể
+C. Đây là các LLM chuyên viết bản nháp học thuật
+D. Đây là các kho nhạc royalty-free
+ANSWER: B
+EXPLAIN: Remove.bg, Fotor và Pixlr được mô tả như các công cụ online “mì ăn liền”, mỗi công cụ giải quyết nhanh một số tác vụ ảnh.
+
+---
+
+Q: Vai trò chính của trình quản lý mật khẩu là gì?
+A. Tự động xóa mọi dấu chân số bị động của người dùng
+B. Tạo và lưu trữ an toàn nhiều mật khẩu mạnh, người dùng chỉ cần nhớ mật khẩu chủ
+C. Thay thế hoàn toàn xác thực hai yếu tố trong mọi trường hợp
+D. Ngăn chặn mọi cuộc tấn công DDoS vào hệ thống nhà trường
+ANSWER: B
+EXPLAIN: Công cụ như Bitwarden, LastPass hoặc 1Password giúp tạo và lưu mật khẩu an toàn.
+
+---
+
+Q: Tính năng Screen Time trên iOS hoặc Digital Wellbeing trên Android được khuyến nghị dùng để làm gì?
+A. Đặt giới hạn thời gian sử dụng cho các ứng dụng như mạng xã hội
+B. Tự động tạo bài luận hoàn chỉnh thay cho sinh viên
+C. Quét mã QR để xác minh mọi đường dẫn
+D. Chuyển tài liệu tham khảo thành dữ liệu cá nhân
+ANSWER: A
+EXPLAIN: Các tính năng này giúp người dùng thiết lập giới hạn và lấy lại quyền kiểm soát công nghệ.
+
+---
+
+Q: Turnitin có ưu điểm nào nổi bật theo bảng công cụ?
+A. Cơ sở dữ liệu lớn và thường được tích hợp trong hệ thống của nhiều trường
+B. Là công cụ mã nguồn mở, miễn phí và không giới hạn nhóm
+C. Có dung lượng lưu trữ đám mây miễn phí 2 GB
+D. Chỉ dùng để đặt giới hạn thời gian mạng xã hội
+ANSWER: A
+EXPLAIN: Turnitin là công cụ kiểm tra tương đồng có cơ sở dữ liệu lớn và hay tích hợp vào LMS.
+
+---
+
+Q: Hạn chế nào của Turnitin được nêu trong bảng?
+A. Không có bản miễn phí cho cá nhân và tỷ lệ tương đồng cần được diễn giải cẩn thận
+B. Không thể kiểm tra tương đồng văn bản
+C. Không thể dùng trong hệ thống trường học
+D. Chỉ hoạt động với hình ảnh do AI tạo ra
+ANSWER: A
+EXPLAIN: Bảng cũng lưu ý về độ chính xác, dương tính giả của phát hiện văn bản AI và cần diễn giải kết quả cẩn thận.
+
+---
+
+Q: Quetext phù hợp nhất với tình huống nào theo bảng?
+A. Sinh viên cần công cụ nhanh, có gói miễn phí để kiểm tra các bài viết ngắn
+B. Nhà trường cần chống DDoS chuyên dụng cho hệ thống LMS
+C. Người dùng cần quản lý nhóm nghiên cứu không giới hạn thành viên
+D. Người dùng muốn thay thế hoàn toàn việc trích dẫn nguồn
+ANSWER: A
+EXPLAIN: Quetext có gói miễn phí nhưng giới hạn số từ/lượt, phù hợp kiểm tra nhanh bài ngắn.
+
+---
+
+Q: Tính năng nào gắn với Quetext trong bảng?
+A. DeepSearch, tạo trích dẫn và ColorGrade feedback
+B. Mã hóa đường hầm VPN trên Wi-Fi công cộng
+C. Tạo botnet để kiểm tra tải máy chủ
+D. Tự động bật Night Shift vào buổi tối
+ANSWER: A
+EXPLAIN: Quetext được mô tả là công cụ kiểm tra tương đồng, DeepSearch, tạo trích dẫn và phản hồi ColorGrade.
+
+---
+
+Q: Zotero được mô tả phù hợp nhất với nhóm người dùng nào?
+A. Sinh viên và nhà nghiên cứu cần công cụ mạnh mẽ, miễn phí và có tính cộng tác cao
+B. Người cần công cụ chỉ để giới hạn thời gian dùng mạng xã hội
+C. Người muốn chống deepfake bằng cuộc gọi trực tiếp
+D. Người không cần quản lý tài liệu tham khảo
+ANSWER: A
+EXPLAIN: Zotero là công cụ quản lý tài liệu tham khảo mã nguồn mở, miễn phí, linh hoạt và có tính cộng tác.
+
+---
+
+Q: Nhược điểm nào của Zotero được nêu trong bảng?
+A. Giao diện có thể hơi cũ và dung lượng lưu trữ đám mây miễn phí thấp, khoảng 300 MB
+B. Không thể tạo trích dẫn và danh mục tài liệu tham khảo
+C. Không cho phép lưu trữ tài liệu
+D. Chỉ hoạt động khi có mã OTP
+ANSWER: A
+EXPLAIN: Bảng nêu Zotero mạnh và miễn phí nhưng giao diện có thể cũ, cloud miễn phí thấp.
+
+---
+
+Q: Mendeley có ưu điểm nào so với Zotero theo bảng?
+A. Giao diện hiện đại và dung lượng lưu trữ đám mây miễn phí lớn hơn, khoảng 2 GB
+B. Mã nguồn mở và không giới hạn thành viên nhóm
+C. Không cần Internet để phát hiện mọi deepfake
+D. Không cần người dùng ghi chú trên PDF
+ANSWER: A
+EXPLAIN: Mendeley được mô tả có giao diện thân thiện, hiện đại và cloud miễn phí 2 GB.
+
+---
+
+Q: Nhược điểm nào của Mendeley được nêu trong bảng?
+A. Ít tùy biến hơn Zotero và giới hạn số lượng nhóm, thành viên ở bản miễn phí
+B. Không thể đọc hoặc ghi chú trên PDF
+C. Không thể dùng cho sinh viên mới bắt đầu
+D. Không có giao diện hiện đại
+ANSWER: A
+EXPLAIN: Bảng so sánh nêu Mendeley thân thiện nhưng kém tùy biến hơn và có giới hạn ở bản miễn phí.
+
+---
+
+Q: Công cụ quản lý tài liệu tham khảo giúp giảm lỗi trích dẫn thủ công bằng cách nào?
+A. Tự động chèn trích dẫn và tạo danh mục tài liệu tham khảo theo chuẩn yêu cầu
+B. Tự động viết toàn bộ lập luận cốt lõi của bài luận
+C. Xóa mọi dấu chân số bị động của người dùng
+D. Thay thế việc kiểm tra tính chính xác của nguồn
+ANSWER: A
+EXPLAIN: Zotero và Mendeley hỗ trợ lưu trữ, sắp xếp, ghi chú, chèn trích dẫn và tạo reference list.
+
+---
+
+Q: Ví dụ nào thuộc nhóm công cụ AI tạo sinh theo chương?
+A. ChatGPT, Gemini, Midjourney, DALL-E
+B. Bitwarden, LastPass, 1Password, VPN
+C. Turnitin, Quetext, Zotero, Mendeley
+D. Screen Time, Digital Wellbeing, Night Shift, Eye Comfort
+ANSWER: A
+EXPLAIN: Chương nêu ChatGPT/Gemini tạo văn bản và Midjourney/DALL-E tạo hình ảnh.
+
+---
+
+Q: Cách dùng AI nào được xem là phù hợp theo chương?
+A. Dùng AI để động não ý tưởng ban đầu rồi tự nghiên cứu và phát triển lập luận
+B. Dùng AI viết gần như toàn bộ bài luận rồi chỉnh vài từ
+C. Dùng AI bịa dữ liệu khảo sát để bài có vẻ đầy đủ
+D. Dùng AI tạo nguồn tham khảo không cần kiểm chứng
+ANSWER: A
+EXPLAIN: Ví dụ được phép là dùng ChatGPT tạo danh sách ý tưởng ban đầu, sau đó tự nghiên cứu bằng nguồn học thuật đáng tin cậy.
+
+---
+
+Q: Cách dùng AI nào bị nêu là không được phép?
+A. Nộp bài luận gần như hoàn toàn do ChatGPT viết, chỉ chỉnh sửa nhỏ về câu từ
+B. Dùng AI kiểm tra ngữ pháp của đoạn văn do mình tự viết
+C. Dùng AI để tóm tắt tài liệu phức tạp rồi tự kiểm chứng
+D. Dùng AI để gợi ý hướng động não ban đầu
+ANSWER: A
+EXPLAIN: Chương nêu không được nộp bài luận gần như hoàn toàn do AI tạo.
+
+---
+
+Q: Với văn bản từ ChatGPT hoặc Gemini có URL chia sẻ được, trích dẫn trong bài theo Harvard có dạng nào?
+A. (Tên nhà phát triển AI, Năm)
+B. (Tên sinh viên, Số trang PDF)
+C. (Mật khẩu chủ, Mã OTP)
+D. (Tên thiết bị, Phiên bản hệ điều hành)
+ANSWER: A
+EXPLAIN: Bảng 6.3 nêu trích dẫn trong bài cho văn bản AI là (Tên nhà phát triển AI, Năm).
+
+---
+
+Q: Với hình ảnh tạo bởi Midjourney hoặc DALL-E, danh mục tham khảo theo bảng cần mô tả gì?
+A. Mô tả prompt đã sử dụng và ghi là nghệ thuật số
+B. Mật khẩu tài khoản dùng để tạo ảnh
+C. Địa chỉ IP của người tạo ảnh
+D. Tỷ lệ tương đồng của ảnh với văn bản gốc
+ANSWER: A
+EXPLAIN: Bảng 6.3 nêu tham khảo hình ảnh AI gồm nhà phát triển, năm, mô tả prompt và [Nghệ thuật số].
+
+---
+
+Q: Một sinh viên tự viết bài, dùng ChatGPT để gợi ý dàn ý ban đầu, sau đó nghiên cứu nguồn học thuật và ghi rõ việc dùng AI. Đánh giá nào phù hợp nhất?
+A. Đây là cách dùng AI có trách nhiệm nếu tuân thủ yêu cầu của giảng viên
+B. Đây chắc chắn là gian lận hợp đồng
+C. Đây là bịa đặt vì mọi ý tưởng ban đầu đều là dữ liệu giả
+D. Đây là DDoS vì dùng công cụ trực tuyến
+ANSWER: A
+EXPLAIN: Chương cho phép dùng AI để động não ban đầu nếu người học tự phát triển lập luận, minh bạch và tuân thủ quy định.
+
+---
+
+Q: Một báo cáo Turnitin có tỷ lệ tương đồng cao ở phần danh mục tài liệu tham khảo và các thuật ngữ chuyên ngành. Kết luận cẩn trọng nhất là gì?
+A. Cần đọc báo cáo để phân biệt trùng khớp hợp lệ với đạo văn thật sự
+B. Chắc chắn bài đó là đạo văn toàn bộ
+C. Chắc chắn bài đó không có vấn đề gì nên không cần xem
+D. Chỉ cần xóa toàn bộ danh mục tham khảo là đúng
+ANSWER: A
+EXPLAIN: Báo cáo tương đồng cần được diễn giải, vì một số trùng khớp là bình thường và hợp lệ.
+
+---
+
+Q: Một sinh viên muốn làm bài nghiên cứu lớn với nhiều nguồn và cần tự động tạo trích dẫn Harvard. Nhóm công cụ phù hợp nhất là gì?
+A. Zotero hoặc Mendeley
+B. VPN hoặc Antivirus
+C. Screen Time hoặc Digital Wellbeing
+D. Botnet hoặc DDoS
+ANSWER: A
+EXPLAIN: Zotero và Mendeley là công cụ quản lý tài liệu tham khảo, hỗ trợ chèn trích dẫn và tạo danh mục.
+
+---
+
+Q: Một sinh viên muốn dùng AI tạo hình ảnh cho bài thuyết trình và giảng viên cho phép. Việc nào giúp đảm bảo minh bạch học thuật?
+A. Trích dẫn nhà phát triển AI, năm, mô tả prompt và ghi loại nội dung là nghệ thuật số theo hướng dẫn
+B. Không cần ghi gì vì hình ảnh không phải văn bản
+C. Ghi tên chính mình là tác giả duy nhất của hình ảnh
+D. Chỉ đổi màu ảnh để khỏi phải trích dẫn
+ANSWER: A
+EXPLAIN: Bảng 6.3 có hướng dẫn trích dẫn hình ảnh do Midjourney/DALL-E tạo.
